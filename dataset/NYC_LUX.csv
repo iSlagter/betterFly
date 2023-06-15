@@ -1,0 +1,1906 @@
+Airline,Source,Destination,Duration,Total stops,Price,Date
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,282 NIS ",01/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,203 NIS ",01/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,203 NIS ",01/03/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",01/03/2023
+Delta,NYC,LUX,12h 35m ,1 stop ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,397 NIS ",01/03/2023
+Delta,NYC,LUX,14h 25m ,1 stop ,"1,397 NIS ",01/03/2023
+Delta,NYC,LUX,13h 35m ,1 stop ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,14h 35m ,1 stop ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,17h 20m ,1 stop ,"1,414 NIS ",01/03/2023
+"Finnair, Aeroflot",NYC,LUX,15h 15m ,1 stop ,"1,796 NIS ",01/03/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",01/03/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"2,262 NIS ",01/03/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,358 NIS ",01/03/2023
+Delta,NYC,LUX,15h 00m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,18h 15m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",01/03/2023
+Delta,NYC,LUX,15h 55m ,2 stops ,"1,431 NIS ",01/03/2023
+Delta,NYC,LUX,16h 00m ,2 stops ,"1,431 NIS ",01/03/2023
+Delta,NYC,LUX,16h 45m ,2 stops ,"1,431 NIS ",01/03/2023
+Delta,NYC,LUX,17h 05m ,2 stops ,"1,431 NIS ",01/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,431 NIS ",01/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,431 NIS ",01/03/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,431 NIS ",01/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,431 NIS ",01/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,431 NIS ",01/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,431 NIS ",01/03/2023
+Delta,NYC,LUX,18h 35m ,2 stops ,"1,431 NIS ",01/03/2023
+Delta,NYC,LUX,18h 54m ,2 stops ,"1,431 NIS ",01/03/2023
+Delta,NYC,LUX,18h 55m ,2 stops ,"1,431 NIS ",01/03/2023
+Delta,NYC,LUX,19h 05m ,2 stops ,"1,431 NIS ",01/03/2023
+Delta,NYC,LUX,19h 20m ,2 stops ,"1,431 NIS ",01/03/2023
+"SWISS, Aeroflot",NYC,LUX,16h 35m ,2 stops ,"1,544 NIS ",01/03/2023
+"SWISS, Aeroflot",NYC,LUX,17h 35m ,2 stops ,"1,544 NIS ",01/03/2023
+"JetBlue, Aeroflot",NYC,LUX,17h 05m ,1 stop ,"1,914 NIS ",01/03/2023
+"JetBlue, Aeroflot",NYC,LUX,17h 35m ,1 stop ,"1,914 NIS ",01/03/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,358 NIS ",01/03/2023
+KLM,NYC,LUX,14h 25m ,1 stop ,"2,358 NIS ",01/03/2023
+KLM,NYC,LUX,20h 25m ,1 stop ,"2,358 NIS ",01/03/2023
+Air France,NYC,LUX,19h 40m ,1 stop ,"2,376 NIS ",01/03/2023
+Air France,NYC,LUX,20h 40m ,1 stop ,"2,376 NIS ",01/03/2023
+"Singapore Airlines, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"2,417 NIS ",01/03/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,563 NIS ",01/03/2023
+Air France,NYC,LUX,15h 05m ,1 stop ,"2,563 NIS ",01/03/2023
+Air France,NYC,LUX,16h 05m ,1 stop ,"2,563 NIS ",01/03/2023
+Air France,NYC,LUX,17h 05m ,1 stop ,"2,563 NIS ",01/03/2023
+Air France,NYC,LUX,18h 05m ,1 stop ,"2,563 NIS ",01/03/2023
+Air France,NYC,LUX,19h 05m ,1 stop ,"2,563 NIS ",01/03/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"2,851 NIS ",01/03/2023
+"KLM, Aeroflot",NYC,LUX,15h 45m ,1 stop ,"2,851 NIS ",01/03/2023
+"KLM, Aeroflot",NYC,LUX,17h 00m ,1 stop ,"2,851 NIS ",01/03/2023
+"Finnair, Aeroflot",NYC,LUX,14h 45m ,1 stop ,"2,898 NIS ",01/03/2023
+"Finnair, Aeroflot",NYC,LUX,12h 15m ,1 stop ,"2,901 NIS ",01/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,13h 35m ,1 stop ,"3,586 NIS ",01/03/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"1,460 NIS ",01/03/2023
+"SWISS, Aeroflot",NYC,LUX,18h 10m ,2 stops ,"1,544 NIS ",01/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 41m ,2 stops ,"2,120 NIS ",01/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 43m ,2 stops ,"2,120 NIS ",01/03/2023
+"American Airlines, Finnair",NYC,LUX,19h 41m ,2 stops ,"2,120 NIS ",01/03/2023
+"American Airlines, Finnair",NYC,LUX,19h 45m ,2 stops ,"2,120 NIS ",01/03/2023
+"American Airlines, Finnair",NYC,LUX,20h 41m ,2 stops ,"2,120 NIS ",01/03/2023
+Multiple Airlines,NYC,LUX,18h 20m ,2 stops ,"2,136 NIS ",01/03/2023
+Finnair,NYC,LUX,15h 35m ,2 stops ,"2,529 NIS ",01/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,052 NIS ",01/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,052 NIS ",01/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,052 NIS ",01/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,052 NIS ",01/03/2023
+Finnair,NYC,LUX,18h 55m ,2 stops ,"3,218 NIS ",01/03/2023
+Finnair,NYC,LUX,15h 15m ,2 stops ,"3,230 NIS ",01/03/2023
+Finnair,NYC,LUX,15h 25m ,2 stops ,"3,230 NIS ",01/03/2023
+Finnair,NYC,LUX,15h 55m ,2 stops ,"3,230 NIS ",01/03/2023
+Finnair,NYC,LUX,16h 45m ,2 stops ,"3,230 NIS ",01/03/2023
+Finnair,NYC,LUX,17h 15m ,2 stops ,"3,230 NIS ",01/03/2023
+Finnair,NYC,LUX,17h 40m ,2 stops ,"3,230 NIS ",01/03/2023
+"Icelandair, Aeroflot",NYC,LUX,13h 25m ,2 stops ,"3,628 NIS ",01/03/2023
+Multiple Airlines,NYC,LUX,18h 00m ,2 stops ,"11,648 NIS ",01/03/2023
+"United Airlines, Aeroflot",NYC,LUX,20h 35m ,1 stop ,"11,859 NIS ",01/03/2023
+"United Airlines, Aeroflot",NYC,LUX,16h 55m ,1 stop ,"11,867 NIS ",01/03/2023
+"United Airlines, Aeroflot",NYC,LUX,17h 05m ,1 stop ,"11,867 NIS ",01/03/2023
+"United Airlines, Aeroflot",NYC,LUX,15h 00m ,1 stop ,"11,897 NIS ",01/03/2023
+"United Airlines, Aeroflot",NYC,LUX,15h 40m ,1 stop ,"11,914 NIS ",01/03/2023
+"United Airlines, Aeroflot",NYC,LUX,17h 00m ,1 stop ,"11,934 NIS ",01/03/2023
+"United Airlines, Aeroflot",NYC,LUX,19h 10m ,1 stop ,"11,934 NIS ",01/03/2023
+"United Airlines, Aeroflot",NYC,LUX,19h 20m ,1 stop ,"11,934 NIS ",01/03/2023
+Multiple Airlines,NYC,LUX,16h 05m ,2 stops ,"11,936 NIS ",01/03/2023
+Multiple Airlines,NYC,LUX,15h 40m ,2 stops ,"11,948 NIS ",01/03/2023
+"British Airways, Qatar Airways",NYC,LUX,29h 55m ,2 stops ,"12,395 NIS ",01/03/2023
+Multiple Airlines,NYC,LUX,14h 40m ,2 stops ,"18,894 NIS ",01/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"22,543 NIS ",01/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,203 NIS ",02/03/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",02/03/2023
+Delta,NYC,LUX,12h 50m ,1 stop ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,397 NIS ",02/03/2023
+Delta,NYC,LUX,14h 25m ,1 stop ,"1,397 NIS ",02/03/2023
+Delta,NYC,LUX,13h 50m ,1 stop ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,14h 50m ,1 stop ,"1,414 NIS ",02/03/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",02/03/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,358 NIS ",02/03/2023
+Air France,NYC,LUX,12h 50m ,1 stop ,"2,376 NIS ",02/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,18h 15m ,2 stops ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",02/03/2023
+Delta,NYC,LUX,16h 10m ,2 stops ,"1,431 NIS ",02/03/2023
+Delta,NYC,LUX,16h 15m ,2 stops ,"1,431 NIS ",02/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,431 NIS ",02/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,431 NIS ",02/03/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,431 NIS ",02/03/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,431 NIS ",02/03/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,431 NIS ",02/03/2023
+Delta,NYC,LUX,19h 20m ,2 stops ,"1,431 NIS ",02/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,669 NIS ",02/03/2023
+"JetBlue, Aeroflot",NYC,LUX,27h 25m ,1 stop ,"1,935 NIS ",02/03/2023
+"JetBlue, Aeroflot",NYC,LUX,28h 35m ,1 stop ,"1,935 NIS ",02/03/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,358 NIS ",02/03/2023
+KLM,NYC,LUX,14h 25m ,1 stop ,"2,358 NIS ",02/03/2023
+KLM,NYC,LUX,20h 25m ,1 stop ,"2,358 NIS ",02/03/2023
+Air France,NYC,LUX,14h 50m ,1 stop ,"2,376 NIS ",02/03/2023
+Air France,NYC,LUX,13h 50m ,1 stop ,"2,417 NIS ",02/03/2023
+"Singapore Airlines, Aeroflot",NYC,LUX,18h 40m ,1 stop ,"2,417 NIS ",02/03/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,563 NIS ",02/03/2023
+Air France,NYC,LUX,15h 05m ,1 stop ,"2,563 NIS ",02/03/2023
+Air France,NYC,LUX,16h 05m ,1 stop ,"2,563 NIS ",02/03/2023
+Air France,NYC,LUX,17h 05m ,1 stop ,"2,563 NIS ",02/03/2023
+Air France,NYC,LUX,18h 05m ,1 stop ,"2,563 NIS ",02/03/2023
+Air France,NYC,LUX,19h 05m ,1 stop ,"2,563 NIS ",02/03/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"2,851 NIS ",02/03/2023
+"KLM, Aeroflot",NYC,LUX,15h 45m ,1 stop ,"2,851 NIS ",02/03/2023
+"Finnair, Aeroflot",NYC,LUX,12h 15m ,1 stop ,"2,878 NIS ",02/03/2023
+"KLM, Aeroflot",NYC,LUX,11h 30m ,1 stop ,"2,965 NIS ",02/03/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"3,319 NIS ",02/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,13h 35m ,1 stop ,"3,569 NIS ",02/03/2023
+"Egypt Air, Aeroflot",NYC,LUX,19h 15m ,1 stop ,"3,934 NIS ",02/03/2023
+"Finnair, Air France",NYC,LUX,16h 55m ,2 stops ,"1,786 NIS ",02/03/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,836 NIS ",02/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,836 NIS ",02/03/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,836 NIS ",02/03/2023
+Delta,NYC,LUX,18h 50m ,2 stops ,"1,836 NIS ",02/03/2023
+Delta,NYC,LUX,19h 09m ,2 stops ,"1,836 NIS ",02/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 24m ,2 stops ,"1,952 NIS ",02/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 40m ,2 stops ,"1,952 NIS ",02/03/2023
+"American Airlines, Finnair",NYC,LUX,19h 40m ,2 stops ,"1,952 NIS ",02/03/2023
+"American Airlines, Finnair",NYC,LUX,20h 17m ,2 stops ,"1,952 NIS ",02/03/2023
+Multiple Airlines,NYC,LUX,17h 15m ,2 stops ,"2,263 NIS ",02/03/2023
+KLM,NYC,LUX,17h 00m ,2 stops ,"2,416 NIS ",02/03/2023
+Air France,NYC,LUX,16h 10m ,2 stops ,"2,434 NIS ",02/03/2023
+Finnair,NYC,LUX,15h 35m ,2 stops ,"2,608 NIS ",02/03/2023
+Air France,NYC,LUX,16h 34m ,2 stops ,"2,887 NIS ",02/03/2023
+Air France,NYC,LUX,17h 35m ,2 stops ,"2,887 NIS ",02/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,052 NIS ",02/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,052 NIS ",02/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,052 NIS ",02/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,052 NIS ",02/03/2023
+Finnair,NYC,LUX,18h 55m ,2 stops ,"3,218 NIS ",02/03/2023
+Finnair,NYC,LUX,15h 15m ,2 stops ,"3,230 NIS ",02/03/2023
+Finnair,NYC,LUX,15h 25m ,2 stops ,"3,230 NIS ",02/03/2023
+Finnair,NYC,LUX,15h 55m ,2 stops ,"3,230 NIS ",02/03/2023
+Finnair,NYC,LUX,17h 00m ,2 stops ,"3,230 NIS ",02/03/2023
+Finnair,NYC,LUX,17h 15m ,2 stops ,"3,230 NIS ",02/03/2023
+Finnair,NYC,LUX,17h 40m ,2 stops ,"3,230 NIS ",02/03/2023
+Qatar Airways,NYC,LUX,18h 45m ,1 stop ,"7,110 NIS ",02/03/2023
+"LOT, Aeroflot",NYC,LUX,13h 35m ,1 stop ,"7,551 NIS ",02/03/2023
+"Singapore Airlines, Aeroflot",NYC,LUX,12h 30m ,1 stop ,"9,492 NIS ",02/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,16h 55m ,1 stop ,"11,585 NIS ",02/03/2023
+"United Airlines, airBaltic",NYC,LUX,17h 10m ,2 stops ,"11,632 NIS ",02/03/2023
+Multiple Airlines,NYC,LUX,17h 20m ,2 stops ,"11,927 NIS ",02/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"22,543 NIS ",02/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"39,636 NIS ",02/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,319 NIS ",03/03/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",03/03/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,397 NIS ",03/03/2023
+Delta,NYC,LUX,12h 50m ,1 stop ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,13h 50m ,1 stop ,"1,414 NIS ",03/03/2023
+Air Serbia,NYC,LUX,13h 50m ,1 stop ,"1,586 NIS ",03/03/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",03/03/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,358 NIS ",03/03/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,358 NIS ",03/03/2023
+Air France,NYC,LUX,12h 50m ,1 stop ,"2,376 NIS ",03/03/2023
+Air France,NYC,LUX,13h 50m ,1 stop ,"2,417 NIS ",03/03/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,563 NIS ",03/03/2023
+LOT,NYC,LUX,13h 30m ,1 stop ,"3,512 NIS ",03/03/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"3,512 NIS ",03/03/2023
+LOT,NYC,LUX,14h 05m ,1 stop ,"4,600 NIS ",03/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,18h 15m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",03/03/2023
+Delta,NYC,LUX,16h 10m ,2 stops ,"1,431 NIS ",03/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,431 NIS ",03/03/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,431 NIS ",03/03/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,431 NIS ",03/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,431 NIS ",03/03/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,431 NIS ",03/03/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,431 NIS ",03/03/2023
+Delta,NYC,LUX,18h 50m ,2 stops ,"1,431 NIS ",03/03/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,431 NIS ",03/03/2023
+Delta,NYC,LUX,19h 09m ,2 stops ,"1,431 NIS ",03/03/2023
+Delta,NYC,LUX,19h 10m ,2 stops ,"1,431 NIS ",03/03/2023
+Delta,NYC,LUX,19h 20m ,2 stops ,"1,431 NIS ",03/03/2023
+Delta,NYC,LUX,16h 15m ,2 stops ,"1,686 NIS ",03/03/2023
+"Spirit Airlines, Aeroflot",NYC,LUX,18h 05m ,1 stop ,"1,950 NIS ",03/03/2023
+"JetBlue, Aeroflot",NYC,LUX,17h 35m ,1 stop ,"2,000 NIS ",03/03/2023
+"JetBlue, Aeroflot",NYC,LUX,17h 05m ,1 stop ,"2,068 NIS ",03/03/2023
+"Spirit Airlines, Aeroflot",NYC,LUX,18h 15m ,1 stop ,"2,123 NIS ",03/03/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,358 NIS ",03/03/2023
+KLM,NYC,LUX,14h 25m ,1 stop ,"2,358 NIS ",03/03/2023
+KLM,NYC,LUX,20h 25m ,1 stop ,"2,358 NIS ",03/03/2023
+Air France,NYC,LUX,14h 50m ,1 stop ,"2,376 NIS ",03/03/2023
+Air France,NYC,LUX,19h 40m ,1 stop ,"2,376 NIS ",03/03/2023
+Air France,NYC,LUX,20h 40m ,1 stop ,"2,382 NIS ",03/03/2023
+Air France,NYC,LUX,13h 50m ,1 stop ,"2,417 NIS ",03/03/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,563 NIS ",03/03/2023
+Air France,NYC,LUX,15h 05m ,1 stop ,"2,563 NIS ",03/03/2023
+Air France,NYC,LUX,15h 05m ,1 stop ,"2,563 NIS ",03/03/2023
+Air France,NYC,LUX,16h 05m ,1 stop ,"2,563 NIS ",03/03/2023
+Air France,NYC,LUX,17h 05m ,1 stop ,"2,563 NIS ",03/03/2023
+Air France,NYC,LUX,17h 25m ,1 stop ,"2,563 NIS ",03/03/2023
+Air France,NYC,LUX,18h 05m ,1 stop ,"2,563 NIS ",03/03/2023
+Air France,NYC,LUX,18h 25m ,1 stop ,"2,563 NIS ",03/03/2023
+Air France,NYC,LUX,19h 05m ,1 stop ,"2,563 NIS ",03/03/2023
+Air France,NYC,LUX,19h 25m ,1 stop ,"2,563 NIS ",03/03/2023
+Air France,NYC,LUX,20h 25m ,1 stop ,"2,563 NIS ",03/03/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"3,319 NIS ",03/03/2023
+LOT,NYC,LUX,14h 05m ,1 stop ,"4,485 NIS ",03/03/2023
+LOT,NYC,LUX,14h 10m ,1 stop ,"4,485 NIS ",03/03/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"1,524 NIS ",03/03/2023
+Multiple Airlines,NYC,LUX,18h 20m ,2 stops ,"1,524 NIS ",03/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 24m ,2 stops ,"1,952 NIS ",03/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 40m ,2 stops ,"1,952 NIS ",03/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,202 NIS ",11/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,319 NIS ",11/03/2023
+Delta,NYC,LUX,13h 35m ,1 stop ,"1,414 NIS ",11/03/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",11/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,319 NIS ",21/03/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,397 NIS ",21/03/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",21/03/2023
+Air France,NYC,LUX,12h 50m ,1 stop ,"2,376 NIS ",21/03/2023
+Air France,NYC,LUX,13h 50m ,1 stop ,"2,417 NIS ",21/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,304 NIS ",22/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,304 NIS ",22/03/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",22/03/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,397 NIS ",22/03/2023
+Delta,NYC,LUX,12h 35m ,1 stop ,"1,414 NIS ",22/03/2023
+Delta,NYC,LUX,13h 35m ,1 stop ,"1,414 NIS ",22/03/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",22/03/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,358 NIS ",22/03/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,358 NIS ",22/03/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,563 NIS ",22/03/2023
+"Air France, Aeroflot",NYC,LUX,14h 20m ,1 stop ,"2,597 NIS ",22/03/2023
+"Finnair, Aeroflot",NYC,LUX,12h 15m ,1 stop ,"2,851 NIS ",22/03/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"3,512 NIS ",22/03/2023
+Brussels Airlines,NYC,LUX,39h 55m ,2 stops ,"1,499 NIS ",22/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,13h 35m ,1 stop ,"10,734 NIS ",22/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,202 NIS ",24/03/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",24/03/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,397 NIS ",24/03/2023
+Delta,NYC,LUX,12h 50m ,1 stop ,"1,414 NIS ",24/03/2023
+Delta,NYC,LUX,13h 50m ,1 stop ,"1,414 NIS ",24/03/2023
+Air Serbia,NYC,LUX,13h 50m ,1 stop ,"1,561 NIS ",24/03/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",24/03/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,358 NIS ",24/03/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,358 NIS ",24/03/2023
+Air France,NYC,LUX,12h 50m ,1 stop ,"2,376 NIS ",24/03/2023
+Air France,NYC,LUX,13h 50m ,1 stop ,"2,417 NIS ",24/03/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,563 NIS ",24/03/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"2,849 NIS ",24/03/2023
+LOT,NYC,LUX,13h 30m ,1 stop ,"3,316 NIS ",24/03/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"3,316 NIS ",24/03/2023
+LOT,NYC,LUX,14h 05m ,1 stop ,"4,482 NIS ",24/03/2023
+LOT,NYC,LUX,14h 10m ,1 stop ,"4,482 NIS ",24/03/2023
+"British Airways, Qatar Airways",NYC,LUX,29h 55m ,2 stops ,"12,395 NIS ",24/03/2023
+Delta,NYC,LUX,15h 00m ,2 stops ,"1,414 NIS ",24/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,414 NIS ",24/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,414 NIS ",24/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,414 NIS ",24/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,414 NIS ",24/03/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,414 NIS ",24/03/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,414 NIS ",24/03/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",24/03/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",24/03/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,414 NIS ",24/03/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,414 NIS ",24/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",24/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",24/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",24/03/2023
+Delta,NYC,LUX,16h 10m ,2 stops ,"1,431 NIS ",24/03/2023
+Delta,NYC,LUX,16h 15m ,2 stops ,"1,431 NIS ",24/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,431 NIS ",24/03/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,431 NIS ",24/03/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,431 NIS ",24/03/2023
+Delta,NYC,LUX,18h 25m ,2 stops ,"1,431 NIS ",24/03/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,431 NIS ",24/03/2023
+Delta,NYC,LUX,19h 09m ,2 stops ,"1,431 NIS ",24/03/2023
+Delta,NYC,LUX,19h 10m ,2 stops ,"1,431 NIS ",24/03/2023
+Delta,NYC,LUX,19h 20m ,2 stops ,"1,431 NIS ",24/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,669 NIS ",24/03/2023
+Delta,NYC,LUX,18h 15m ,2 stops ,"1,669 NIS ",24/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,669 NIS ",24/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,669 NIS ",24/03/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,686 NIS ",24/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,686 NIS ",24/03/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,686 NIS ",24/03/2023
+Delta,NYC,LUX,18h 50m ,2 stops ,"1,686 NIS ",24/03/2023
+"Spirit Airlines, Aeroflot",NYC,LUX,17h 40m ,1 stop ,"2,247 NIS ",24/03/2023
+KLM,NYC,LUX,14h 25m ,1 stop ,"2,358 NIS ",24/03/2023
+KLM,NYC,LUX,20h 25m ,1 stop ,"2,358 NIS ",24/03/2023
+"Singapore Airlines, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"2,368 NIS ",24/03/2023
+Air France,NYC,LUX,14h 50m ,1 stop ,"2,373 NIS ",24/03/2023
+Air France,NYC,LUX,20h 40m ,1 stop ,"2,373 NIS ",24/03/2023
+Air France,NYC,LUX,19h 40m ,1 stop ,"2,376 NIS ",24/03/2023
+Air France,NYC,LUX,13h 50m ,1 stop ,"2,417 NIS ",24/03/2023
+Air France,NYC,LUX,15h 05m ,1 stop ,"2,561 NIS ",24/03/2023
+Air France,NYC,LUX,15h 05m ,1 stop ,"2,561 NIS ",24/03/2023
+Air France,NYC,LUX,16h 05m ,1 stop ,"2,561 NIS ",24/03/2023
+Air France,NYC,LUX,18h 05m ,1 stop ,"2,561 NIS ",24/03/2023
+Air France,NYC,LUX,18h 25m ,1 stop ,"2,561 NIS ",24/03/2023
+Air France,NYC,LUX,19h 05m ,1 stop ,"2,561 NIS ",24/03/2023
+Air France,NYC,LUX,19h 25m ,1 stop ,"2,561 NIS ",24/03/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,563 NIS ",24/03/2023
+Air France,NYC,LUX,17h 05m ,1 stop ,"2,563 NIS ",24/03/2023
+Air France,NYC,LUX,17h 25m ,1 stop ,"2,563 NIS ",24/03/2023
+Air France,NYC,LUX,20h 25m ,1 stop ,"2,563 NIS ",24/03/2023
+"Emirates, Aeroflot",NYC,LUX,16h 05m ,1 stop ,"2,751 NIS ",24/03/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"2,849 NIS ",24/03/2023
+"KLM, Aeroflot",NYC,LUX,15h 45m ,1 stop ,"2,849 NIS ",24/03/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"3,316 NIS ",24/03/2023
+"Egypt Air, Aeroflot",NYC,LUX,19h 15m ,1 stop ,"3,932 NIS ",24/03/2023
+LOT,NYC,LUX,14h 05m ,1 stop ,"4,482 NIS ",24/03/2023
+LOT,NYC,LUX,14h 10m ,1 stop ,"4,482 NIS ",24/03/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"1,460 NIS ",24/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,818 NIS ",24/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 24m ,2 stops ,"1,952 NIS ",24/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 40m ,2 stops ,"1,952 NIS ",24/03/2023
+"American Airlines, Finnair",NYC,LUX,19h 40m ,2 stops ,"1,952 NIS ",24/03/2023
+"American Airlines, Finnair",NYC,LUX,20h 17m ,2 stops ,"1,952 NIS ",24/03/2023
+Multiple Airlines,NYC,LUX,18h 35m ,2 stops ,"2,027 NIS ",24/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 41m ,2 stops ,"2,120 NIS ",24/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 43m ,2 stops ,"2,120 NIS ",24/03/2023
+"American Airlines, Finnair",NYC,LUX,19h 41m ,2 stops ,"2,120 NIS ",24/03/2023
+"American Airlines, Finnair",NYC,LUX,19h 45m ,2 stops ,"2,120 NIS ",24/03/2023
+"American Airlines, Finnair",NYC,LUX,20h 41m ,2 stops ,"2,120 NIS ",24/03/2023
+"Virgin Atlantic, KLM",NYC,LUX,19h 55m ,2 stops ,"2,329 NIS ",24/03/2023
+"Virgin Atlantic, KLM",NYC,LUX,19h 55m ,2 stops ,"2,329 NIS ",24/03/2023
+"Virgin Atlantic, KLM",NYC,LUX,19h 55m ,2 stops ,"2,329 NIS ",24/03/2023
+"Virgin Atlantic, KLM",NYC,LUX,19h 55m ,2 stops ,"2,334 NIS ",24/03/2023
+Air France,NYC,LUX,18h 10m ,2 stops ,"2,450 NIS ",24/03/2023
+"Austrian Airlines, LOT",NYC,LUX,17h 30m ,2 stops ,"2,681 NIS ",24/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,049 NIS ",24/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,049 NIS ",24/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,049 NIS ",24/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,049 NIS ",24/03/2023
+Finnair,NYC,LUX,18h 55m ,2 stops ,"3,218 NIS ",24/03/2023
+Finnair,NYC,LUX,15h 15m ,2 stops ,"3,230 NIS ",24/03/2023
+Finnair,NYC,LUX,15h 25m ,2 stops ,"3,230 NIS ",24/03/2023
+Finnair,NYC,LUX,15h 55m ,2 stops ,"3,230 NIS ",24/03/2023
+Finnair,NYC,LUX,16h 45m ,2 stops ,"3,230 NIS ",24/03/2023
+Finnair,NYC,LUX,17h 15m ,2 stops ,"3,230 NIS ",24/03/2023
+Finnair,NYC,LUX,17h 40m ,2 stops ,"3,230 NIS ",24/03/2023
+Finnair,NYC,LUX,17h 30m ,2 stops ,"3,657 NIS ",24/03/2023
+Multiple Airlines,NYC,LUX,20h 05m ,2 stops ,"4,166 NIS ",24/03/2023
+Multiple Airlines,NYC,LUX,16h 05m ,2 stops ,"11,936 NIS ",24/03/2023
+Multiple Airlines,NYC,LUX,15h 40m ,2 stops ,"11,948 NIS ",24/03/2023
+Multiple Airlines,NYC,LUX,15h 30m ,2 stops ,"11,983 NIS ",24/03/2023
+"British Airways, Qatar Airways",NYC,LUX,29h 55m ,2 stops ,"12,395 NIS ",24/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"22,534 NIS ",24/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,202 NIS ",25/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,202 NIS ",25/03/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",25/03/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,397 NIS ",25/03/2023
+Delta,NYC,LUX,13h 35m ,1 stop ,"1,414 NIS ",25/03/2023
+Delta,NYC,LUX,14h 25m ,1 stop ,"1,397 NIS ",25/03/2023
+Delta,NYC,LUX,14h 35m ,1 stop ,"1,414 NIS ",25/03/2023
+Delta,NYC,LUX,12h 35m ,1 stop ,"1,819 NIS ",25/03/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",25/03/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,576 NIS ",25/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,414 NIS ",25/03/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",25/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",25/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",25/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",25/03/2023
+Delta,NYC,LUX,15h 55m ,2 stops ,"1,431 NIS ",25/03/2023
+Delta,NYC,LUX,16h 00m ,2 stops ,"1,431 NIS ",25/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,431 NIS ",25/03/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,431 NIS ",25/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,431 NIS ",25/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,431 NIS ",25/03/2023
+Delta,NYC,LUX,18h 10m ,2 stops ,"1,431 NIS ",25/03/2023
+Delta,NYC,LUX,18h 35m ,2 stops ,"1,431 NIS ",25/03/2023
+Delta,NYC,LUX,18h 35m ,2 stops ,"1,431 NIS ",25/03/2023
+Delta,NYC,LUX,18h 54m ,2 stops ,"1,431 NIS ",25/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,19h 10m ,2 stops ,"1,624 NIS ",25/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,669 NIS ",25/03/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,669 NIS ",25/03/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,669 NIS ",25/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,669 NIS ",25/03/2023
+Delta,NYC,LUX,17h 05m ,2 stops ,"1,686 NIS ",25/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,686 NIS ",25/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,818 NIS ",25/03/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,818 NIS ",25/03/2023
+"JetBlue, Aeroflot",NYC,LUX,17h 35m ,1 stop ,"2,150 NIS ",25/03/2023
+"Spirit Airlines, Aeroflot",NYC,LUX,17h 40m ,1 stop ,"2,247 NIS ",25/03/2023
+KLM,NYC,LUX,14h 25m ,1 stop ,"2,576 NIS ",25/03/2023
+KLM,NYC,LUX,20h 25m ,1 stop ,"2,576 NIS ",25/03/2023
+Finnair,NYC,LUX,16h 15m ,1 stop ,"2,743 NIS ",25/03/2023
+Air France,NYC,LUX,15h 50m ,1 stop ,"2,769 NIS ",25/03/2023
+Air France,NYC,LUX,18h 10m ,1 stop ,"2,769 NIS ",25/03/2023
+Air France,NYC,LUX,19h 10m ,1 stop ,"2,769 NIS ",25/03/2023
+Air France,NYC,LUX,20h 10m ,1 stop ,"2,769 NIS ",25/03/2023
+"Finnair, Aeroflot",NYC,LUX,12h 15m ,1 stop ,"2,938 NIS ",25/03/2023
+"Air Europa, Aeroflot",NYC,LUX,16h 45m ,1 stop ,"3,051 NIS ",25/03/2023
+"KLM, Aeroflot",NYC,LUX,17h 00m ,1 stop ,"3,057 NIS ",25/03/2023
+"KLM, Aeroflot",NYC,LUX,19h 55m ,1 stop ,"3,057 NIS ",25/03/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"3,316 NIS ",25/03/2023
+"KLM, Aeroflot",NYC,LUX,18h 10m ,1 stop ,"3,891 NIS ",25/03/2023
+"Egypt Air, Aeroflot",NYC,LUX,19h 15m ,1 stop ,"3,932 NIS ",25/03/2023
+LOT,NYC,LUX,14h 10m ,1 stop ,"4,482 NIS ",25/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,20h 15m ,2 stops ,"1,624 NIS ",25/03/2023
+"SWISS, Aeroflot",NYC,LUX,19h 50m ,2 stops ,"1,740 NIS ",25/03/2023
+Delta,NYC,LUX,19h 05m ,2 stops ,"1,836 NIS ",25/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 24m ,2 stops ,"1,952 NIS ",25/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 40m ,2 stops ,"1,952 NIS ",25/03/2023
+"American Airlines, Finnair",NYC,LUX,19h 40m ,2 stops ,"1,952 NIS ",25/03/2023
+"American Airlines, Finnair",NYC,LUX,20h 17m ,2 stops ,"1,952 NIS ",25/03/2023
+"Finnair, KLM",NYC,LUX,17h 40m ,2 stops ,"1,953 NIS ",25/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,20h 00m ,3 stops ,"1,962 NIS ",25/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,20h 00m ,3 stops ,"1,962 NIS ",25/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,20h 00m ,3 stops ,"1,962 NIS ",25/03/2023
+"Finnair, Air France",NYC,LUX,16h 55m ,2 stops ,"2,340 NIS ",25/03/2023
+"Turkish Airlines, Aeroflot",NYC,LUX,20h 05m ,2 stops ,"2,743 NIS ",25/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"2,848 NIS ",25/03/2023
+Finnair,NYC,LUX,19h 10m ,2 stops ,"3,188 NIS ",25/03/2023
+Finnair,NYC,LUX,19h 20m ,2 stops ,"3,188 NIS ",25/03/2023
+Finnair,NYC,LUX,19h 50m ,2 stops ,"3,188 NIS ",25/03/2023
+Finnair,NYC,LUX,18h 55m ,2 stops ,"3,218 NIS ",25/03/2023
+Finnair,NYC,LUX,15h 15m ,2 stops ,"3,230 NIS ",25/03/2023
+Finnair,NYC,LUX,15h 25m ,2 stops ,"3,230 NIS ",25/03/2023
+Finnair,NYC,LUX,15h 55m ,2 stops ,"3,230 NIS ",25/03/2023
+Finnair,NYC,LUX,16h 45m ,2 stops ,"3,230 NIS ",25/03/2023
+Finnair,NYC,LUX,17h 15m ,2 stops ,"3,230 NIS ",25/03/2023
+Finnair,NYC,LUX,17h 40m ,2 stops ,"3,230 NIS ",25/03/2023
+Finnair,NYC,LUX,20h 40m ,2 stops ,"3,237 NIS ",25/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,256 NIS ",25/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,256 NIS ",25/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,256 NIS ",25/03/2023
+"Air France, Aeroflot",NYC,LUX,14h 30m ,2 stops ,"3,299 NIS ",25/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"3,766 NIS ",25/03/2023
+Delta,NYC,LUX,18h 15m ,2 stops ,"3,766 NIS ",25/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"3,766 NIS ",25/03/2023
+Air France,NYC,LUX,17h 40m ,2 stops ,"3,845 NIS ",25/03/2023
+Qatar Airways,NYC,LUX,18h 45m ,1 stop ,"7,284 NIS ",25/03/2023
+"SWISS, LOT",NYC,LUX,15h 20m ,2 stops ,"11,539 NIS ",25/03/2023
+"SWISS, Aeroflot",NYC,LUX,17h 30m ,2 stops ,"11,566 NIS ",25/03/2023
+"Lufthansa, LOT",NYC,LUX,15h 15m ,2 stops ,"11,608 NIS ",25/03/2023
+"United Airlines, airBaltic",NYC,LUX,18h 50m ,2 stops ,"11,632 NIS ",25/03/2023
+Multiple Airlines,NYC,LUX,19h 25m ,2 stops ,"11,632 NIS ",25/03/2023
+"United Airlines, Aeroflot",NYC,LUX,20h 35m ,1 stop ,"11,859 NIS ",25/03/2023
+"United Airlines, Aeroflot",NYC,LUX,20h 50m ,1 stop ,"11,867 NIS ",25/03/2023
+"United Airlines, Aeroflot",NYC,LUX,20h 15m ,2 stops ,"11,962 NIS ",25/03/2023
+"United Airlines, Aeroflot",NYC,LUX,20h 27m ,2 stops ,"11,962 NIS ",25/03/2023
+"United Airlines, Aeroflot",NYC,LUX,20h 46m ,2 stops ,"11,962 NIS ",25/03/2023
+Multiple Airlines,NYC,LUX,16h 55m ,2 stops ,"12,015 NIS ",25/03/2023
+Multiple Airlines,NYC,LUX,16h 55m ,2 stops ,"12,015 NIS ",25/03/2023
+Multiple Airlines,NYC,LUX,17h 55m ,2 stops ,"12,015 NIS ",25/03/2023
+Multiple Airlines,NYC,LUX,17h 55m ,2 stops ,"12,015 NIS ",25/03/2023
+Multiple Airlines,NYC,LUX,17h 55m ,2 stops ,"12,015 NIS ",25/03/2023
+Multiple Airlines,NYC,LUX,16h 30m ,2 stops ,"12,061 NIS ",25/03/2023
+Multiple Airlines,NYC,LUX,17h 30m ,2 stops ,"12,061 NIS ",25/03/2023
+Multiple Airlines,NYC,LUX,17h 30m ,2 stops ,"12,061 NIS ",25/03/2023
+Multiple Airlines,NYC,LUX,16h 00m ,2 stops ,"12,069 NIS ",25/03/2023
+Multiple Airlines,NYC,LUX,15h 45m ,2 stops ,"12,099 NIS ",25/03/2023
+Multiple Airlines,NYC,LUX,17h 20m ,2 stops ,"12,101 NIS ",25/03/2023
+Multiple Airlines,NYC,LUX,16h 55m ,2 stops ,"12,136 NIS ",25/03/2023
+Multiple Airlines,NYC,LUX,14h 40m ,2 stops ,"18,896 NIS ",25/03/2023
+Multiple Airlines,NYC,LUX,16h 40m ,2 stops ,"20,990 NIS ",25/03/2023
+Multiple Airlines,NYC,LUX,14h 40m ,2 stops ,"21,111 NIS ",25/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"22,534 NIS ",25/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"39,636 NIS ",25/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,208 NIS ",26/03/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",26/03/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,397 NIS ",26/03/2023
+Delta,NYC,LUX,12h 50m ,1 stop ,"1,414 NIS ",26/03/2023
+Delta,NYC,LUX,13h 50m ,1 stop ,"1,414 NIS ",26/03/2023
+Brussels Airlines,NYC,LUX,12h 55m ,1 stop ,"1,540 NIS ",26/03/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",26/03/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,576 NIS ",26/03/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,576 NIS ",26/03/2023
+Air France,NYC,LUX,12h 50m ,1 stop ,"2,593 NIS ",26/03/2023
+Air France,NYC,LUX,13h 50m ,1 stop ,"2,623 NIS ",26/03/2023
+KLM,NYC,LUX,12h 50m ,1 stop ,"2,913 NIS ",26/03/2023
+"Finnair, Aeroflot",NYC,LUX,12h 15m ,1 stop ,"2,938 NIS ",26/03/2023
+"Air Serbia, Aeroflot",NYC,LUX,14h 05m ,1 stop ,"3,023 NIS ",26/03/2023
+LOT,NYC,LUX,13h 30m ,1 stop ,"3,311 NIS ",26/03/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",26/03/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",26/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",26/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",26/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",26/03/2023
+Delta,NYC,LUX,16h 10m ,2 stops ,"1,431 NIS ",26/03/2023
+Delta,NYC,LUX,16h 15m ,2 stops ,"1,431 NIS ",26/03/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,431 NIS ",26/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,431 NIS ",26/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,431 NIS ",26/03/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,431 NIS ",26/03/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,431 NIS ",26/03/2023
+Delta,NYC,LUX,18h 25m ,2 stops ,"1,431 NIS ",26/03/2023
+Delta,NYC,LUX,18h 50m ,2 stops ,"1,431 NIS ",26/03/2023
+Delta,NYC,LUX,18h 55m ,2 stops ,"1,431 NIS ",26/03/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,431 NIS ",26/03/2023
+Delta,NYC,LUX,19h 09m ,2 stops ,"1,431 NIS ",26/03/2023
+Delta,NYC,LUX,19h 10m ,2 stops ,"1,431 NIS ",26/03/2023
+Delta,NYC,LUX,19h 25m ,2 stops ,"1,431 NIS ",26/03/2023
+"SWISS, Nordwind Airlines",NYC,LUX,19h 50m ,2 stops ,"1,537 NIS ",26/03/2023
+"SWISS, Aeroflot",NYC,LUX,16h 35m ,2 stops ,"1,543 NIS ",26/03/2023
+"SWISS, Aeroflot",NYC,LUX,17h 35m ,2 stops ,"1,543 NIS ",26/03/2023
+"SWISS, Aeroflot",NYC,LUX,18h 10m ,2 stops ,"1,543 NIS ",26/03/2023
+"SWISS, Aeroflot",NYC,LUX,19h 05m ,2 stops ,"1,543 NIS ",26/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,19h 10m ,2 stops ,"1,624 NIS ",26/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,818 NIS ",26/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,818 NIS ",26/03/2023
+KLM,NYC,LUX,14h 50m ,1 stop ,"2,477 NIS ",26/03/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,576 NIS ",26/03/2023
+KLM,NYC,LUX,14h 25m ,1 stop ,"2,576 NIS ",26/03/2023
+KLM,NYC,LUX,20h 25m ,1 stop ,"2,576 NIS ",26/03/2023
+"Singapore Airlines, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"2,578 NIS ",26/03/2023
+Air France,NYC,LUX,14h 50m ,1 stop ,"2,588 NIS ",26/03/2023
+Air France,NYC,LUX,20h 40m ,1 stop ,"2,588 NIS ",26/03/2023
+Air France,NYC,LUX,12h 50m ,1 stop ,"2,593 NIS ",26/03/2023
+Air France,NYC,LUX,19h 40m ,1 stop ,"2,593 NIS ",26/03/2023
+Air France,NYC,LUX,13h 50m ,1 stop ,"2,620 NIS ",26/03/2023
+"Emirates, Aeroflot",NYC,LUX,16h 00m ,1 stop ,"2,758 NIS ",26/03/2023
+Air France,NYC,LUX,15h 50m ,1 stop ,"2,769 NIS ",26/03/2023
+Air France,NYC,LUX,18h 10m ,1 stop ,"2,769 NIS ",26/03/2023
+Air France,NYC,LUX,19h 10m ,1 stop ,"2,769 NIS ",26/03/2023
+Air France,NYC,LUX,20h 10m ,1 stop ,"2,769 NIS ",26/03/2023
+KLM,NYC,LUX,12h 50m ,1 stop ,"2,830 NIS ",26/03/2023
+KLM,NYC,LUX,15h 45m ,1 stop ,"2,830 NIS ",26/03/2023
+"Finnair, Aeroflot",NYC,LUX,12h 15m ,1 stop ,"2,938 NIS ",26/03/2023
+"Air Serbia, Aeroflot",NYC,LUX,14h 05m ,1 stop ,"3,023 NIS ",26/03/2023
+"KLM, Aeroflot",NYC,LUX,17h 00m ,1 stop ,"3,057 NIS ",26/03/2023
+"KLM, Aeroflot",NYC,LUX,19h 55m ,1 stop ,"3,057 NIS ",26/03/2023
+"EL AL, Aeroflot",NYC,LUX,19h 25m ,1 stop ,"3,147 NIS ",26/03/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"3,311 NIS ",26/03/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"1,439 NIS ",26/03/2023
+"SWISS, Aeroflot",NYC,LUX,20h 10m ,2 stops ,"1,543 NIS ",26/03/2023
+"Lufthansa, Nordwind Airlines",NYC,LUX,19h 55m ,2 stops ,"1,617 NIS ",26/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,20h 15m ,2 stops ,"1,624 NIS ",26/03/2023
+Multiple Airlines,NYC,LUX,18h 35m ,2 stops ,"2,009 NIS ",26/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,20h 55m ,3 stops ,"2,017 NIS ",26/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 41m ,2 stops ,"2,120 NIS ",26/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 43m ,2 stops ,"2,120 NIS ",26/03/2023
+"American Airlines, Finnair",NYC,LUX,19h 41m ,2 stops ,"2,120 NIS ",26/03/2023
+"American Airlines, Finnair",NYC,LUX,19h 45m ,2 stops ,"2,120 NIS ",26/03/2023
+"American Airlines, Finnair",NYC,LUX,20h 41m ,2 stops ,"2,120 NIS ",26/03/2023
+"French Bee, Air France",NYC,LUX,17h 15m ,1 stop ,"2,388 NIS ",26/03/2023
+"French Bee, Air France",NYC,LUX,15h 45m ,1 stop ,"2,414 NIS ",26/03/2023
+Air France,NYC,LUX,18h 10m ,2 stops ,"2,554 NIS ",26/03/2023
+"Turkish Airlines, Aeroflot",NYC,LUX,20h 05m ,2 stops ,"2,743 NIS ",26/03/2023
+Delta,NYC,LUX,19h 25m ,2 stops ,"2,866 NIS ",26/03/2023
+Finnair,NYC,LUX,15h 35m ,2 stops ,"2,947 NIS ",26/03/2023
+Finnair,NYC,LUX,18h 55m ,2 stops ,"3,218 NIS ",26/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,256 NIS ",26/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,256 NIS ",26/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,256 NIS ",26/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,256 NIS ",26/03/2023
+KLM,NYC,LUX,15h 19m ,2 stops ,"3,402 NIS ",26/03/2023
+Finnair,NYC,LUX,15h 15m ,2 stops ,"3,718 NIS ",26/03/2023
+Finnair,NYC,LUX,15h 25m ,2 stops ,"3,718 NIS ",26/03/2023
+Finnair,NYC,LUX,15h 55m ,2 stops ,"3,718 NIS ",26/03/2023
+Finnair,NYC,LUX,16h 50m ,2 stops ,"3,718 NIS ",26/03/2023
+Finnair,NYC,LUX,17h 15m ,2 stops ,"3,718 NIS ",26/03/2023
+Finnair,NYC,LUX,17h 40m ,2 stops ,"3,718 NIS ",26/03/2023
+Multiple Airlines,NYC,LUX,16h 05m ,2 stops ,"11,936 NIS ",26/03/2023
+Multiple Airlines,NYC,LUX,15h 40m ,2 stops ,"11,948 NIS ",26/03/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"12,003 NIS ",26/03/2023
+"British Airways, Qatar Airways",NYC,LUX,29h 55m ,2 stops ,"12,594 NIS ",26/03/2023
+Multiple Airlines,NYC,LUX,14h 40m ,2 stops ,"18,888 NIS ",26/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"22,530 NIS ",26/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,203 NIS ",27/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,203 NIS ",27/03/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",27/03/2023
+Delta,NYC,LUX,12h 35m ,1 stop ,"1,414 NIS ",27/03/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,397 NIS ",27/03/2023
+Delta,NYC,LUX,13h 35m ,1 stop ,"1,414 NIS ",27/03/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",27/03/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,554 NIS ",27/03/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,576 NIS ",27/03/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,769 NIS ",27/03/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"3,057 NIS ",27/03/2023
+LOT,NYC,LUX,13h 30m ,1 stop ,"3,311 NIS ",27/03/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"3,311 NIS ",27/03/2023
+"KLM, Aeroflot",NYC,LUX,14h 20m ,1 stop ,"3,886 NIS ",27/03/2023
+Qatar Airways,NYC,LUX,18h 45m ,1 stop ,"7,083 NIS ",27/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,414 NIS ",27/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,414 NIS ",27/03/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,414 NIS ",27/03/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,414 NIS ",27/03/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",27/03/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",27/03/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,414 NIS ",27/03/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,414 NIS ",27/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",27/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",27/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",27/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",27/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",27/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",27/03/2023
+Delta,NYC,LUX,15h 55m ,2 stops ,"1,431 NIS ",27/03/2023
+Delta,NYC,LUX,16h 00m ,2 stops ,"1,431 NIS ",27/03/2023
+Delta,NYC,LUX,16h 45m ,2 stops ,"1,431 NIS ",27/03/2023
+Delta,NYC,LUX,17h 05m ,2 stops ,"1,431 NIS ",27/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,431 NIS ",27/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,431 NIS ",27/03/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,431 NIS ",27/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,431 NIS ",27/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,431 NIS ",27/03/2023
+Delta,NYC,LUX,18h 35m ,2 stops ,"1,431 NIS ",27/03/2023
+Delta,NYC,LUX,18h 54m ,2 stops ,"1,431 NIS ",27/03/2023
+Delta,NYC,LUX,18h 55m ,2 stops ,"1,431 NIS ",27/03/2023
+Delta,NYC,LUX,19h 05m ,2 stops ,"1,431 NIS ",27/03/2023
+Delta,NYC,LUX,19h 20m ,2 stops ,"1,431 NIS ",27/03/2023
+"SWISS, Aeroflot",NYC,LUX,16h 35m ,2 stops ,"1,544 NIS ",27/03/2023
+"SWISS, Aeroflot",NYC,LUX,17h 35m ,2 stops ,"1,544 NIS ",27/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,686 NIS ",27/03/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,686 NIS ",27/03/2023
+"Singapore Airlines, Aeroflot",NYC,LUX,18h 40m ,1 stop ,"2,531 NIS ",27/03/2023
+"Air France, Aeroflot",NYC,LUX,16h 20m ,1 stop ,"2,537 NIS ",27/03/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,576 NIS ",27/03/2023
+KLM,NYC,LUX,14h 25m ,1 stop ,"2,576 NIS ",27/03/2023
+KLM,NYC,LUX,20h 25m ,1 stop ,"2,576 NIS ",27/03/2023
+Air France,NYC,LUX,20h 40m ,1 stop ,"2,588 NIS ",27/03/2023
+Air France,NYC,LUX,19h 40m ,1 stop ,"2,593 NIS ",27/03/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,769 NIS ",27/03/2023
+Air France,NYC,LUX,15h 05m ,1 stop ,"2,769 NIS ",27/03/2023
+Air France,NYC,LUX,16h 05m ,1 stop ,"2,769 NIS ",27/03/2023
+Air France,NYC,LUX,17h 05m ,1 stop ,"2,769 NIS ",27/03/2023
+Air France,NYC,LUX,18h 05m ,1 stop ,"2,769 NIS ",27/03/2023
+Air France,NYC,LUX,19h 05m ,1 stop ,"2,769 NIS ",27/03/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"3,057 NIS ",27/03/2023
+"KLM, Aeroflot",NYC,LUX,15h 45m ,1 stop ,"3,057 NIS ",27/03/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"3,311 NIS ",27/03/2023
+"KLM, Aeroflot",NYC,LUX,14h 20m ,1 stop ,"3,886 NIS ",27/03/2023
+"Egypt Air, Aeroflot",NYC,LUX,19h 15m ,1 stop ,"3,928 NIS ",27/03/2023
+Multiple Airlines,NYC,LUX,18h 15m ,3 stops ,"1,340 NIS ",27/03/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"1,418 NIS ",27/03/2023
+"SWISS, Aeroflot",NYC,LUX,18h 10m ,2 stops ,"1,544 NIS ",27/03/2023
+"SWISS, Aeroflot",NYC,LUX,19h 05m ,2 stops ,"1,544 NIS ",27/03/2023
+"SWISS, Aeroflot",NYC,LUX,20h 10m ,2 stops ,"1,544 NIS ",27/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,19h 10m ,2 stops ,"1,624 NIS ",27/03/2023
+Multiple Airlines,NYC,LUX,20h 55m ,3 stops ,"1,655 NIS ",27/03/2023
+"TAP AIR PORTUGAL, KLM",NYC,LUX,19h 55m ,3 stops ,"1,708 NIS ",27/03/2023
+Multiple Airlines,NYC,LUX,18h 35m ,2 stops ,"1,760 NIS ",27/03/2023
+"Finnair, KLM",NYC,LUX,20h 55m ,2 stops ,"1,857 NIS ",27/03/2023
+"Finnair, KLM",NYC,LUX,17h 40m ,2 stops ,"1,890 NIS ",27/03/2023
+"TAP AIR PORTUGAL, Air France",NYC,LUX,19h 10m ,3 stops ,"1,902 NIS ",27/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 24m ,2 stops ,"1,952 NIS ",27/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 40m ,2 stops ,"1,952 NIS ",27/03/2023
+"American Airlines, Finnair",NYC,LUX,19h 40m ,2 stops ,"1,952 NIS ",27/03/2023
+"American Airlines, Finnair",NYC,LUX,20h 17m ,2 stops ,"1,952 NIS ",27/03/2023
+"Finnair, Air France",NYC,LUX,16h 55m ,2 stops ,"2,083 NIS ",27/03/2023
+Air France,NYC,LUX,18h 10m ,2 stops ,"2,296 NIS ",27/03/2023
+Finnair,NYC,LUX,18h 55m ,2 stops ,"3,218 NIS ",27/03/2023
+Finnair,NYC,LUX,15h 15m ,2 stops ,"3,230 NIS ",27/03/2023
+Finnair,NYC,LUX,15h 25m ,2 stops ,"3,230 NIS ",27/03/2023
+Finnair,NYC,LUX,15h 55m ,2 stops ,"3,230 NIS ",27/03/2023
+Finnair,NYC,LUX,16h 45m ,2 stops ,"3,230 NIS ",27/03/2023
+Finnair,NYC,LUX,17h 15m ,2 stops ,"3,230 NIS ",27/03/2023
+Finnair,NYC,LUX,17h 40m ,2 stops ,"3,230 NIS ",27/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,256 NIS ",27/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,256 NIS ",27/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,256 NIS ",27/03/2023
+Finnair,NYC,LUX,17h 30m ,2 stops ,"3,708 NIS ",27/03/2023
+Qatar Airways,NYC,LUX,18h 45m ,1 stop ,"7,083 NIS ",27/03/2023
+"LOT, Aeroflot",NYC,LUX,15h 50m ,2 stops ,"7,526 NIS ",27/03/2023
+"LOT, Aeroflot",NYC,LUX,15h 55m ,2 stops ,"7,526 NIS ",27/03/2023
+"LOT, Aeroflot",NYC,LUX,16h 50m ,2 stops ,"7,526 NIS ",27/03/2023
+"LOT, Aeroflot",NYC,LUX,16h 55m ,2 stops ,"7,526 NIS ",27/03/2023
+"LOT, Aeroflot",NYC,LUX,17h 30m ,2 stops ,"7,526 NIS ",27/03/2023
+"LOT, Aeroflot",NYC,LUX,17h 35m ,2 stops ,"7,526 NIS ",27/03/2023
+"LOT, Aeroflot",NYC,LUX,18h 50m ,2 stops ,"7,526 NIS ",27/03/2023
+"LOT, Aeroflot",NYC,LUX,18h 55m ,2 stops ,"7,526 NIS ",27/03/2023
+"LOT, Aeroflot",NYC,LUX,20h 10m ,2 stops ,"7,526 NIS ",27/03/2023
+"LOT, Aeroflot",NYC,LUX,13h 30m ,1 stop ,"7,545 NIS ",27/03/2023
+"LOT, Aeroflot",NYC,LUX,13h 35m ,1 stop ,"7,545 NIS ",27/03/2023
+"United Airlines, Aeroflot",NYC,LUX,16h 25m ,1 stop ,"11,859 NIS ",27/03/2023
+"United Airlines, Aeroflot",NYC,LUX,13h 35m ,1 stop ,"11,867 NIS ",27/03/2023
+"United Airlines, Aeroflot",NYC,LUX,15h 00m ,1 stop ,"11,897 NIS ",27/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"22,530 NIS ",27/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"39,636 NIS ",27/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,203 NIS ",28/03/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",28/03/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,397 NIS ",28/03/2023
+Delta,NYC,LUX,12h 50m ,1 stop ,"1,414 NIS ",28/03/2023
+Delta,NYC,LUX,13h 50m ,1 stop ,"1,414 NIS ",28/03/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",28/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,13h 35m ,1 stop ,"2,176 NIS ",28/03/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,358 NIS ",28/03/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,358 NIS ",28/03/2023
+Air France,NYC,LUX,12h 50m ,1 stop ,"2,376 NIS ",28/03/2023
+"Alaska Airlines, Aeroflot",NYC,LUX,30h 10m ,1 stop ,"2,097 NIS ",28/03/2023
+"Alaska Airlines, Aeroflot",NYC,LUX,38h 20m ,1 stop ,"2,097 NIS ",28/03/2023
+"Alaska Airlines, Aeroflot",NYC,LUX,20h 25m ,1 stop ,"2,281 NIS ",28/03/2023
+Air France,NYC,LUX,13h 50m ,1 stop ,"2,413 NIS ",28/03/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,563 NIS ",28/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,414 NIS ",28/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,414 NIS ",28/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,414 NIS ",28/03/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,414 NIS ",28/03/2023
+Delta,NYC,LUX,18h 15m ,2 stops ,"1,414 NIS ",28/03/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",28/03/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",28/03/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,414 NIS ",28/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",28/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",28/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",28/03/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",28/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",28/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",28/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",28/03/2023
+Delta,NYC,LUX,16h 10m ,2 stops ,"1,431 NIS ",28/03/2023
+Delta,NYC,LUX,16h 15m ,2 stops ,"1,431 NIS ",28/03/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,431 NIS ",28/03/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,431 NIS ",28/03/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,431 NIS ",28/03/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,431 NIS ",28/03/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,431 NIS ",28/03/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,431 NIS ",28/03/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,431 NIS ",28/03/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,431 NIS ",28/03/2023
+Delta,NYC,LUX,18h 50m ,2 stops ,"1,431 NIS ",28/03/2023
+Delta,NYC,LUX,19h 09m ,2 stops ,"1,431 NIS ",28/03/2023
+Delta,NYC,LUX,19h 10m ,2 stops ,"1,431 NIS ",28/03/2023
+Delta,NYC,LUX,19h 20m ,2 stops ,"1,431 NIS ",28/03/2023
+"Alaska Airlines, Aeroflot",NYC,LUX,30h 10m ,1 stop ,"2,097 NIS ",28/03/2023
+"Alaska Airlines, Aeroflot",NYC,LUX,38h 20m ,1 stop ,"2,097 NIS ",28/03/2023
+"Alaska Airlines, Aeroflot",NYC,LUX,20h 25m ,1 stop ,"2,281 NIS ",28/03/2023
+"Singapore Airlines, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"2,331 NIS ",28/03/2023
+KLM,NYC,LUX,14h 25m ,1 stop ,"2,358 NIS ",28/03/2023
+KLM,NYC,LUX,20h 25m ,1 stop ,"2,358 NIS ",28/03/2023
+Air France,NYC,LUX,14h 50m ,1 stop ,"2,369 NIS ",28/03/2023
+Air France,NYC,LUX,20h 40m ,1 stop ,"2,369 NIS ",28/03/2023
+Air France,NYC,LUX,19h 40m ,1 stop ,"2,376 NIS ",28/03/2023
+Air France,NYC,LUX,13h 50m ,1 stop ,"2,413 NIS ",28/03/2023
+Air France,NYC,LUX,15h 05m ,1 stop ,"2,558 NIS ",28/03/2023
+Air France,NYC,LUX,15h 05m ,1 stop ,"2,558 NIS ",28/03/2023
+Air France,NYC,LUX,16h 05m ,1 stop ,"2,558 NIS ",28/03/2023
+Air France,NYC,LUX,18h 05m ,1 stop ,"2,558 NIS ",28/03/2023
+Air France,NYC,LUX,18h 25m ,1 stop ,"2,558 NIS ",28/03/2023
+Air France,NYC,LUX,19h 05m ,1 stop ,"2,558 NIS ",28/03/2023
+Air France,NYC,LUX,19h 25m ,1 stop ,"2,558 NIS ",28/03/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,563 NIS ",28/03/2023
+Air France,NYC,LUX,17h 05m ,1 stop ,"2,563 NIS ",28/03/2023
+Air France,NYC,LUX,17h 25m ,1 stop ,"2,563 NIS ",28/03/2023
+Air France,NYC,LUX,20h 25m ,1 stop ,"2,563 NIS ",28/03/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"2,849 NIS ",28/03/2023
+"KLM, Aeroflot",NYC,LUX,15h 45m ,1 stop ,"2,849 NIS ",28/03/2023
+"TAP AIR PORTUGAL, KLM",NYC,LUX,19h 55m ,3 stops ,"1,708 NIS ",28/03/2023
+"TAP AIR PORTUGAL, Aeroflot",NYC,LUX,18h 20m ,2 stops ,"1,851 NIS ",28/03/2023
+"TAP AIR PORTUGAL, Aeroflot",NYC,LUX,18h 20m ,2 stops ,"1,851 NIS ",28/03/2023
+"Finnair, KLM",NYC,LUX,20h 55m ,2 stops ,"1,920 NIS ",28/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 24m ,2 stops ,"1,952 NIS ",28/03/2023
+"American Airlines, Finnair",NYC,LUX,18h 40m ,2 stops ,"1,952 NIS ",28/03/2023
+"American Airlines, Finnair",NYC,LUX,19h 40m ,2 stops ,"1,952 NIS ",28/03/2023
+"American Airlines, Finnair",NYC,LUX,20h 17m ,2 stops ,"1,952 NIS ",28/03/2023
+Air France,NYC,LUX,18h 10m ,2 stops ,"2,081 NIS ",28/03/2023
+"French Bee, Aeroflot",NYC,LUX,15h 00m ,1 stop ,"2,354 NIS ",28/03/2023
+"French Bee, Air France",NYC,LUX,17h 15m ,1 stop ,"2,474 NIS ",28/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,050 NIS ",28/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,050 NIS ",28/03/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,050 NIS ",28/03/2023
+"Turkish Airlines, Aeroflot",NYC,LUX,20h 05m ,2 stops ,"3,160 NIS ",28/03/2023
+Finnair,NYC,LUX,18h 55m ,2 stops ,"3,218 NIS ",28/03/2023
+Finnair,NYC,LUX,15h 15m ,2 stops ,"3,230 NIS ",28/03/2023
+Finnair,NYC,LUX,15h 25m ,2 stops ,"3,230 NIS ",28/03/2023
+Finnair,NYC,LUX,15h 55m ,2 stops ,"3,230 NIS ",28/03/2023
+Finnair,NYC,LUX,16h 45m ,2 stops ,"3,230 NIS ",28/03/2023
+Finnair,NYC,LUX,17h 15m ,2 stops ,"3,230 NIS ",28/03/2023
+Finnair,NYC,LUX,17h 40m ,2 stops ,"3,230 NIS ",28/03/2023
+"United Airlines, airBaltic",NYC,LUX,16h 35m ,2 stops ,"11,632 NIS ",28/03/2023
+"United Airlines, airBaltic",NYC,LUX,17h 10m ,2 stops ,"11,632 NIS ",28/03/2023
+Brussels Airlines,NYC,LUX,59h 30m ,2 stops ,"11,729 NIS ",28/03/2023
+"United Airlines, Aeroflot",NYC,LUX,16h 25m ,1 stop ,"11,859 NIS ",28/03/2023
+"United Airlines, Aeroflot",NYC,LUX,17h 05m ,1 stop ,"11,867 NIS ",28/03/2023
+"United Airlines, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"11,884 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,17h 20m ,2 stops ,"11,927 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,16h 05m ,2 stops ,"11,936 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,15h 40m ,2 stops ,"11,948 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,15h 45m ,2 stops ,"11,953 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,15h 30m ,2 stops ,"11,983 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"12,003 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"12,003 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,17h 20m ,2 stops ,"12,048 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,15h 10m ,2 stops ,"12,055 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,16h 15m ,2 stops ,"12,069 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,15h 20m ,2 stops ,"12,086 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,17h 20m ,2 stops ,"12,161 NIS ",28/03/2023
+"British Airways, Qatar Airways",NYC,LUX,24h 35m ,2 stops ,"12,395 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,16h 00m ,2 stops ,"21,092 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,16h 00m ,2 stops ,"21,092 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,16h 40m ,2 stops ,"21,100 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,14h 40m ,2 stops ,"21,111 NIS ",28/03/2023
+Multiple Airlines,NYC,LUX,15h 30m ,2 stops ,"21,147 NIS ",28/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"22,530 NIS ",28/03/2023
+"Lufthansa, Aeroflot",NYC,LUX,24h 00m ,1 stop ,"22,530 NIS ",28/03/2023
+"Emirates, Aeroflot",NYC,LUX,26h 35m ,1 stop ,"22,767 NIS ",28/03/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"40,198 NIS ",28/03/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,282 NIS ",01/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,203 NIS ",01/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,203 NIS ",01/04/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",01/04/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,397 NIS ",01/04/2023
+Delta,NYC,LUX,14h 25m ,1 stop ,"1,397 NIS ",01/04/2023
+Delta,NYC,LUX,13h 35m ,1 stop ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,14h 35m ,1 stop ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,17h 20m ,1 stop ,"1,414 NIS ",01/04/2023
+"Finnair, Aeroflot",NYC,LUX,15h 15m ,1 stop ,"1,735 NIS ",01/04/2023
+Delta,NYC,LUX,12h 35m ,1 stop ,"1,819 NIS ",01/04/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",01/04/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"2,262 NIS ",01/04/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,358 NIS ",01/04/2023
+Delta,NYC,LUX,15h 00m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,18h 15m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",01/04/2023
+Delta,NYC,LUX,15h 55m ,2 stops ,"1,431 NIS ",01/04/2023
+Delta,NYC,LUX,16h 00m ,2 stops ,"1,431 NIS ",01/04/2023
+Delta,NYC,LUX,16h 45m ,2 stops ,"1,431 NIS ",01/04/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,431 NIS ",01/04/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,431 NIS ",01/04/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,431 NIS ",01/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,431 NIS ",01/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,431 NIS ",01/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,431 NIS ",01/04/2023
+Delta,NYC,LUX,18h 35m ,2 stops ,"1,431 NIS ",01/04/2023
+Delta,NYC,LUX,18h 54m ,2 stops ,"1,431 NIS ",01/04/2023
+Delta,NYC,LUX,18h 55m ,2 stops ,"1,431 NIS ",01/04/2023
+Delta,NYC,LUX,19h 20m ,2 stops ,"1,431 NIS ",01/04/2023
+"SWISS, Aeroflot",NYC,LUX,16h 35m ,2 stops ,"1,544 NIS ",01/04/2023
+"SWISS, Aeroflot",NYC,LUX,17h 35m ,2 stops ,"1,544 NIS ",01/04/2023
+"SWISS, Aeroflot",NYC,LUX,18h 10m ,2 stops ,"1,544 NIS ",01/04/2023
+Delta,NYC,LUX,17h 05m ,2 stops ,"1,686 NIS ",01/04/2023
+"JetBlue, Aeroflot",NYC,LUX,16h 30m ,1 stop ,"1,985 NIS ",01/04/2023
+"JetBlue, Aeroflot",NYC,LUX,17h 35m ,1 stop ,"2,068 NIS ",01/04/2023
+"Singapore Airlines, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"2,325 NIS ",01/04/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,358 NIS ",01/04/2023
+KLM,NYC,LUX,14h 25m ,1 stop ,"2,358 NIS ",01/04/2023
+KLM,NYC,LUX,20h 25m ,1 stop ,"2,358 NIS ",01/04/2023
+Air France,NYC,LUX,20h 40m ,1 stop ,"2,369 NIS ",01/04/2023
+Air France,NYC,LUX,19h 40m ,1 stop ,"2,376 NIS ",01/04/2023
+Air France,NYC,LUX,15h 05m ,1 stop ,"2,558 NIS ",01/04/2023
+Air France,NYC,LUX,18h 05m ,1 stop ,"2,558 NIS ",01/04/2023
+Air France,NYC,LUX,19h 05m ,1 stop ,"2,558 NIS ",01/04/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,563 NIS ",01/04/2023
+Air France,NYC,LUX,17h 05m ,1 stop ,"2,563 NIS ",01/04/2023
+"Finnair, Aeroflot",NYC,LUX,12h 15m ,1 stop ,"2,801 NIS ",01/04/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"2,849 NIS ",01/04/2023
+"KLM, Aeroflot",NYC,LUX,15h 45m ,1 stop ,"2,849 NIS ",01/04/2023
+"KLM, Aeroflot",NYC,LUX,17h 00m ,1 stop ,"2,849 NIS ",01/04/2023
+"KLM, Aeroflot",NYC,LUX,19h 55m ,1 stop ,"2,849 NIS ",01/04/2023
+Air France,NYC,LUX,16h 05m ,1 stop ,"3,113 NIS ",01/04/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"1,453 NIS ",01/04/2023
+Multiple Airlines,NYC,LUX,20h 55m ,3 stops ,"1,655 NIS ",01/04/2023
+Delta,NYC,LUX,19h 05m ,2 stops ,"1,686 NIS ",01/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 24m ,2 stops ,"1,952 NIS ",01/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 40m ,2 stops ,"1,952 NIS ",01/04/2023
+"American Airlines, Finnair",NYC,LUX,19h 40m ,2 stops ,"1,952 NIS ",01/04/2023
+"American Airlines, Finnair",NYC,LUX,20h 17m ,2 stops ,"1,952 NIS ",01/04/2023
+Multiple Airlines,NYC,LUX,18h 20m ,2 stops ,"2,094 NIS ",01/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 41m ,2 stops ,"2,120 NIS ",01/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 43m ,2 stops ,"2,120 NIS ",01/04/2023
+"American Airlines, Finnair",NYC,LUX,19h 41m ,2 stops ,"2,120 NIS ",01/04/2023
+"American Airlines, Finnair",NYC,LUX,19h 45m ,2 stops ,"2,120 NIS ",01/04/2023
+Finnair,NYC,LUX,15h 35m ,2 stops ,"2,441 NIS ",01/04/2023
+"SWISS, KLM",NYC,LUX,19h 50m ,3 stops ,"2,470 NIS ",01/04/2023
+"Turkish Airlines, Aeroflot",NYC,LUX,20h 05m ,2 stops ,"2,646 NIS ",01/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,050 NIS ",01/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,050 NIS ",01/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,050 NIS ",01/04/2023
+Finnair,NYC,LUX,18h 55m ,2 stops ,"3,218 NIS ",01/04/2023
+Finnair,NYC,LUX,15h 15m ,2 stops ,"3,230 NIS ",01/04/2023
+Finnair,NYC,LUX,15h 25m ,2 stops ,"3,230 NIS ",01/04/2023
+Finnair,NYC,LUX,15h 55m ,2 stops ,"3,230 NIS ",01/04/2023
+Finnair,NYC,LUX,16h 45m ,2 stops ,"3,230 NIS ",01/04/2023
+Finnair,NYC,LUX,17h 15m ,2 stops ,"3,230 NIS ",01/04/2023
+Finnair,NYC,LUX,17h 40m ,2 stops ,"3,230 NIS ",01/04/2023
+"United Airlines, Aeroflot",NYC,LUX,20h 35m ,1 stop ,"11,859 NIS ",01/04/2023
+"United Airlines, Aeroflot",NYC,LUX,17h 05m ,1 stop ,"11,867 NIS ",01/04/2023
+"United Airlines, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"11,884 NIS ",01/04/2023
+"British Airways, Qatar Airways",NYC,LUX,29h 55m ,2 stops ,"12,395 NIS ",01/04/2023
+Multiple Airlines,NYC,LUX,14h 40m ,2 stops ,"18,888 NIS ",01/04/2023
+"Lufthansa, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"22,530 NIS ",01/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,203 NIS ",02/04/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",02/04/2023
+Delta,NYC,LUX,13h 50m ,1 stop ,"1,414 NIS ",02/04/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,652 NIS ",02/04/2023
+Delta,NYC,LUX,12h 50m ,1 stop ,"1,819 NIS ",02/04/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",02/04/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,358 NIS ",02/04/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,358 NIS ",02/04/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,563 NIS ",02/04/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"2,849 NIS ",02/04/2023
+"Finnair, Aeroflot",NYC,LUX,12h 15m ,1 stop ,"2,871 NIS ",02/04/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"3,311 NIS ",02/04/2023
+Qatar Airways,NYC,LUX,18h 45m ,1 stop ,"7,083 NIS ",02/04/2023
+"LOT, Aeroflot",NYC,LUX,13h 35m ,1 stop ,"7,545 NIS ",02/04/2023
+"Singapore Airlines, Aeroflot",NYC,LUX,12h 30m ,1 stop ,"9,492 NIS ",02/04/2023
+"Lufthansa, Brussels Airlines",NYC,LUX,12h 55m ,1 stop ,"11,339 NIS ",02/04/2023
+"United Airlines, Aeroflot",NYC,LUX,13h 35m ,1 stop ,"11,867 NIS ",02/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,414 NIS ",02/04/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,414 NIS ",02/04/2023
+Delta,NYC,LUX,18h 15m ,2 stops ,"1,414 NIS ",02/04/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",02/04/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,414 NIS ",02/04/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,414 NIS ",02/04/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",02/04/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",02/04/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",02/04/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",02/04/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",02/04/2023
+Delta,NYC,LUX,16h 10m ,2 stops ,"1,431 NIS ",02/04/2023
+Delta,NYC,LUX,16h 15m ,2 stops ,"1,431 NIS ",02/04/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,431 NIS ",02/04/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,431 NIS ",02/04/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,431 NIS ",02/04/2023
+Delta,NYC,LUX,18h 25m ,2 stops ,"1,431 NIS ",02/04/2023
+Delta,NYC,LUX,18h 50m ,2 stops ,"1,431 NIS ",02/04/2023
+Delta,NYC,LUX,19h 09m ,2 stops ,"1,431 NIS ",02/04/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,686 NIS ",02/04/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,686 NIS ",02/04/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,686 NIS ",02/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,686 NIS ",02/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,686 NIS ",02/04/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,686 NIS ",02/04/2023
+Delta,NYC,LUX,18h 50m ,2 stops ,"1,686 NIS ",02/04/2023
+Delta,NYC,LUX,19h 20m ,2 stops ,"1,686 NIS ",02/04/2023
+"Singapore Airlines, Aeroflot",NYC,LUX,18h 40m ,1 stop ,"2,325 NIS ",02/04/2023
+KLM,NYC,LUX,14h 25m ,1 stop ,"2,358 NIS ",02/04/2023
+KLM,NYC,LUX,20h 25m ,1 stop ,"2,358 NIS ",02/04/2023
+Air France,NYC,LUX,20h 40m ,1 stop ,"2,369 NIS ",02/04/2023
+Air France,NYC,LUX,19h 40m ,1 stop ,"2,376 NIS ",02/04/2023
+Air France,NYC,LUX,15h 05m ,1 stop ,"2,558 NIS ",02/04/2023
+Air France,NYC,LUX,16h 05m ,1 stop ,"2,558 NIS ",02/04/2023
+Air France,NYC,LUX,18h 05m ,1 stop ,"2,558 NIS ",02/04/2023
+Air France,NYC,LUX,19h 05m ,1 stop ,"2,558 NIS ",02/04/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,563 NIS ",02/04/2023
+Air France,NYC,LUX,17h 05m ,1 stop ,"2,563 NIS ",02/04/2023
+"Finnair, Aeroflot",NYC,LUX,12h 15m ,1 stop ,"2,783 NIS ",02/04/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"2,849 NIS ",02/04/2023
+"KLM, Aeroflot",NYC,LUX,15h 45m ,1 stop ,"2,849 NIS ",02/04/2023
+"Egypt Air, Aeroflot",NYC,LUX,19h 15m ,1 stop ,"3,928 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,20h 55m ,3 stops ,"1,723 NIS ",02/04/2023
+"Vueling, KLM",NYC,LUX,20h 40m ,3 stops ,"1,807 NIS ",02/04/2023
+"Vueling, KLM",NYC,LUX,20h 40m ,3 stops ,"1,848 NIS ",02/04/2023
+"Finnair, KLM",NYC,LUX,17h 40m ,2 stops ,"1,857 NIS ",02/04/2023
+"Finnair, KLM",NYC,LUX,20h 55m ,2 stops ,"1,857 NIS ",02/04/2023
+"Vueling, KLM",NYC,LUX,20h 40m ,2 stops ,"1,909 NIS ",02/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 24m ,2 stops ,"1,952 NIS ",02/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 40m ,2 stops ,"1,952 NIS ",02/04/2023
+"American Airlines, Finnair",NYC,LUX,19h 40m ,2 stops ,"1,952 NIS ",02/04/2023
+"American Airlines, Finnair",NYC,LUX,20h 17m ,2 stops ,"1,952 NIS ",02/04/2023
+"Finnair, Air France",NYC,LUX,16h 55m ,2 stops ,"2,046 NIS ",02/04/2023
+"Finnair, Air France",NYC,LUX,20h 10m ,2 stops ,"2,046 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,17h 15m ,2 stops ,"2,184 NIS ",02/04/2023
+"Finnair, KLM",NYC,LUX,18h 40m ,2 stops ,"2,403 NIS ",02/04/2023
+Finnair,NYC,LUX,15h 35m ,2 stops ,"2,442 NIS ",02/04/2023
+"Turkish Airlines, Aeroflot",NYC,LUX,20h 55m ,2 stops ,"2,558 NIS ",02/04/2023
+"Turkish Airlines, Aeroflot",NYC,LUX,20h 05m ,2 stops ,"2,646 NIS ",02/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,050 NIS ",02/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,050 NIS ",02/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,050 NIS ",02/04/2023
+Finnair,NYC,LUX,18h 55m ,2 stops ,"3,218 NIS ",02/04/2023
+Finnair,NYC,LUX,15h 15m ,2 stops ,"3,230 NIS ",02/04/2023
+Finnair,NYC,LUX,15h 25m ,2 stops ,"3,230 NIS ",02/04/2023
+Finnair,NYC,LUX,15h 55m ,2 stops ,"3,230 NIS ",02/04/2023
+Finnair,NYC,LUX,17h 00m ,2 stops ,"3,230 NIS ",02/04/2023
+Finnair,NYC,LUX,17h 15m ,2 stops ,"3,230 NIS ",02/04/2023
+Finnair,NYC,LUX,17h 40m ,2 stops ,"3,230 NIS ",02/04/2023
+Qatar Airways,NYC,LUX,18h 45m ,1 stop ,"7,083 NIS ",02/04/2023
+"LOT, Aeroflot",NYC,LUX,13h 35m ,1 stop ,"7,545 NIS ",02/04/2023
+"Singapore Airlines, Aeroflot",NYC,LUX,12h 30m ,1 stop ,"9,492 NIS ",02/04/2023
+"Lufthansa, Brussels Airlines",NYC,LUX,12h 55m ,1 stop ,"11,339 NIS ",02/04/2023
+"United Airlines, airBaltic",NYC,LUX,16h 35m ,2 stops ,"11,632 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,17h 10m ,2 stops ,"11,632 NIS ",02/04/2023
+"United Airlines, Aeroflot",NYC,LUX,13h 35m ,1 stop ,"11,867 NIS ",02/04/2023
+"United Airlines, Aeroflot",NYC,LUX,15h 55m ,1 stop ,"11,914 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,17h 20m ,2 stops ,"11,927 NIS ",02/04/2023
+"United Airlines, Aeroflot",NYC,LUX,19h 10m ,1 stop ,"11,934 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,16h 05m ,2 stops ,"11,936 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,15h 40m ,2 stops ,"11,948 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,15h 30m ,2 stops ,"11,983 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,16h 55m ,2 stops ,"12,015 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,16h 55m ,2 stops ,"12,015 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,17h 55m ,2 stops ,"12,015 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,17h 55m ,2 stops ,"12,015 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,17h 55m ,2 stops ,"12,015 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,20h 10m ,2 stops ,"12,015 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,20h 10m ,2 stops ,"12,015 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,20h 10m ,2 stops ,"12,015 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,17h 20m ,2 stops ,"12,048 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,16h 25m ,2 stops ,"15,963 NIS ",02/04/2023
+"United Airlines, Air France",NYC,LUX,19h 10m ,2 stops ,"16,964 NIS ",02/04/2023
+"United Airlines, Air France",NYC,LUX,19h 10m ,2 stops ,"16,964 NIS ",02/04/2023
+"United Airlines, Air France",NYC,LUX,20h 10m ,2 stops ,"16,964 NIS ",02/04/2023
+"United Airlines, Air France",NYC,LUX,20h 10m ,2 stops ,"16,964 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,16h 00m ,2 stops ,"21,092 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,16h 00m ,2 stops ,"21,092 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,14h 40m ,2 stops ,"21,111 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,14h 40m ,2 stops ,"21,111 NIS ",02/04/2023
+Multiple Airlines,NYC,LUX,15h 30m ,2 stops ,"21,147 NIS ",02/04/2023
+"Lufthansa, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"22,530 NIS ",02/04/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"39,636 NIS ",02/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,282 NIS ",03/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,201 NIS ",03/04/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",03/04/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,397 NIS ",03/04/2023
+Delta,NYC,LUX,12h 50m ,1 stop ,"1,414 NIS ",03/04/2023
+Delta,NYC,LUX,14h 25m ,1 stop ,"1,397 NIS ",03/04/2023
+Delta,NYC,LUX,14h 50m ,1 stop ,"1,414 NIS ",03/04/2023
+Delta,NYC,LUX,17h 20m ,1 stop ,"1,414 NIS ",03/04/2023
+Air Serbia,NYC,LUX,13h 50m ,1 stop ,"1,560 NIS ",03/04/2023
+Delta,NYC,LUX,13h 50m ,1 stop ,"1,669 NIS ",03/04/2023
+"Finnair, Aeroflot",NYC,LUX,15h 15m ,1 stop ,"1,676 NIS ",03/04/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",03/04/2023
+LOT,NYC,LUX,13h 30m ,1 stop ,"2,262 NIS ",03/04/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,358 NIS ",03/04/2023
+Delta,NYC,LUX,15h 00m ,2 stops ,"1,414 NIS ",03/04/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,414 NIS ",03/04/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,414 NIS ",03/04/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,414 NIS ",03/04/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,414 NIS ",03/04/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,414 NIS ",03/04/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",03/04/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",03/04/2023
+Delta,NYC,LUX,16h 10m ,2 stops ,"1,431 NIS ",03/04/2023
+Delta,NYC,LUX,16h 15m ,2 stops ,"1,431 NIS ",03/04/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,431 NIS ",03/04/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,431 NIS ",03/04/2023
+Delta,NYC,LUX,18h 25m ,2 stops ,"1,431 NIS ",03/04/2023
+Delta,NYC,LUX,18h 50m ,2 stops ,"1,431 NIS ",03/04/2023
+Delta,NYC,LUX,19h 10m ,2 stops ,"1,431 NIS ",03/04/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,669 NIS ",03/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,669 NIS ",03/04/2023
+Delta,NYC,LUX,19h 20m ,2 stops ,"1,686 NIS ",03/04/2023
+"SWISS, Aeroflot",NYC,LUX,16h 35m ,2 stops ,"1,773 NIS ",03/04/2023
+"SWISS, Aeroflot",NYC,LUX,17h 35m ,2 stops ,"1,773 NIS ",03/04/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"1,818 NIS ",03/04/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,836 NIS ",03/04/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,836 NIS ",03/04/2023
+"Singapore Airlines, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"2,325 NIS ",03/04/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,358 NIS ",03/04/2023
+KLM,NYC,LUX,14h 25m ,1 stop ,"2,358 NIS ",03/04/2023
+KLM,NYC,LUX,20h 25m ,1 stop ,"2,358 NIS ",03/04/2023
+Air France,NYC,LUX,19h 40m ,1 stop ,"2,376 NIS ",03/04/2023
+Air France,NYC,LUX,20h 40m ,1 stop ,"2,413 NIS ",03/04/2023
+"Spirit Airlines, Aeroflot",NYC,LUX,17h 40m ,1 stop ,"2,471 NIS ",03/04/2023
+Air France,NYC,LUX,15h 05m ,1 stop ,"2,557 NIS ",03/04/2023
+Air France,NYC,LUX,15h 05m ,1 stop ,"2,557 NIS ",03/04/2023
+Air France,NYC,LUX,16h 05m ,1 stop ,"2,557 NIS ",03/04/2023
+Air France,NYC,LUX,18h 25m ,1 stop ,"2,557 NIS ",03/04/2023
+Air France,NYC,LUX,19h 05m ,1 stop ,"2,557 NIS ",03/04/2023
+Air France,NYC,LUX,19h 25m ,1 stop ,"2,557 NIS ",03/04/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,563 NIS ",03/04/2023
+Air France,NYC,LUX,17h 05m ,1 stop ,"2,563 NIS ",03/04/2023
+Air France,NYC,LUX,17h 25m ,1 stop ,"2,563 NIS ",03/04/2023
+Air France,NYC,LUX,20h 25m ,1 stop ,"2,563 NIS ",03/04/2023
+"Emirates, Aeroflot",NYC,LUX,16h 05m ,1 stop ,"2,714 NIS ",03/04/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"2,848 NIS ",03/04/2023
+"KLM, Aeroflot",NYC,LUX,15h 45m ,1 stop ,"2,848 NIS ",03/04/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"3,310 NIS ",03/04/2023
+"Egypt Air, Aeroflot",NYC,LUX,19h 15m ,1 stop ,"3,926 NIS ",03/04/2023
+LOT,NYC,LUX,14h 05m ,1 stop ,"4,476 NIS ",03/04/2023
+LOT,NYC,LUX,14h 10m ,1 stop ,"4,476 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"1,514 NIS ",03/04/2023
+"SWISS, Aeroflot",NYC,LUX,18h 10m ,2 stops ,"1,773 NIS ",03/04/2023
+"SWISS, Aeroflot",NYC,LUX,19h 05m ,2 stops ,"1,773 NIS ",03/04/2023
+"SWISS, Aeroflot",NYC,LUX,20h 10m ,2 stops ,"1,773 NIS ",03/04/2023
+"SWISS, Nordwind Airlines",NYC,LUX,19h 50m ,2 stops ,"1,801 NIS ",03/04/2023
+Delta,NYC,LUX,18h 45m ,2 stops ,"1,836 NIS ",03/04/2023
+Delta,NYC,LUX,18h 50m ,2 stops ,"1,836 NIS ",03/04/2023
+Delta,NYC,LUX,18h 55m ,2 stops ,"1,836 NIS ",03/04/2023
+"Lufthansa, Aeroflot",NYC,LUX,20h 00m ,3 stops ,"1,881 NIS ",03/04/2023
+"Lufthansa, Aeroflot",NYC,LUX,20h 00m ,3 stops ,"1,881 NIS ",03/04/2023
+"Lufthansa, Aeroflot",NYC,LUX,20h 00m ,3 stops ,"1,881 NIS ",03/04/2023
+"Lufthansa, Nordwind Airlines",NYC,LUX,20h 45m ,3 stops ,"1,909 NIS ",03/04/2023
+"Lufthansa, Nordwind Airlines",NYC,LUX,20h 45m ,3 stops ,"1,909 NIS ",03/04/2023
+"Lufthansa, Nordwind Airlines",NYC,LUX,20h 45m ,3 stops ,"1,909 NIS ",03/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 24m ,2 stops ,"1,952 NIS ",03/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 40m ,2 stops ,"1,952 NIS ",03/04/2023
+"American Airlines, Finnair",NYC,LUX,19h 40m ,2 stops ,"1,952 NIS ",03/04/2023
+"American Airlines, Finnair",NYC,LUX,20h 17m ,2 stops ,"1,952 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,19h 35m ,2 stops ,"2,057 NIS ",03/04/2023
+"Lufthansa, Aeroflot",NYC,LUX,18h 45m ,2 stops ,"2,073 NIS ",03/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 41m ,2 stops ,"2,120 NIS ",03/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 43m ,2 stops ,"2,120 NIS ",03/04/2023
+"American Airlines, Finnair",NYC,LUX,19h 41m ,2 stops ,"2,120 NIS ",03/04/2023
+"American Airlines, Finnair",NYC,LUX,19h 45m ,2 stops ,"2,120 NIS ",03/04/2023
+"American Airlines, Finnair",NYC,LUX,20h 41m ,2 stops ,"2,120 NIS ",03/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"2,424 NIS ",03/04/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"2,424 NIS ",03/04/2023
+Delta,NYC,LUX,19h 09m ,2 stops ,"2,424 NIS ",03/04/2023
+Air France,NYC,LUX,19h 10m ,2 stops ,"2,505 NIS ",03/04/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"2,705 NIS ",03/04/2023
+"Turkish Airlines, Aeroflot",NYC,LUX,20h 05m ,2 stops ,"2,786 NIS ",03/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,048 NIS ",03/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,048 NIS ",03/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,048 NIS ",03/04/2023
+Finnair,NYC,LUX,18h 55m ,2 stops ,"3,218 NIS ",03/04/2023
+Finnair,NYC,LUX,15h 15m ,2 stops ,"3,230 NIS ",03/04/2023
+Finnair,NYC,LUX,15h 25m ,2 stops ,"3,230 NIS ",03/04/2023
+Finnair,NYC,LUX,15h 55m ,2 stops ,"3,230 NIS ",03/04/2023
+Finnair,NYC,LUX,16h 45m ,2 stops ,"3,230 NIS ",03/04/2023
+Finnair,NYC,LUX,17h 15m ,2 stops ,"3,230 NIS ",03/04/2023
+Finnair,NYC,LUX,17h 40m ,2 stops ,"3,230 NIS ",03/04/2023
+"LOT, Aeroflot",NYC,LUX,13h 30m ,1 stop ,"7,659 NIS ",03/04/2023
+"LOT, Aeroflot",NYC,LUX,13h 35m ,1 stop ,"7,659 NIS ",03/04/2023
+"Lufthansa, Brussels Airlines",NYC,LUX,12h 55m ,1 stop ,"11,338 NIS ",03/04/2023
+"United Airlines, Aeroflot",NYC,LUX,16h 55m ,1 stop ,"11,867 NIS ",03/04/2023
+"United Airlines, Aeroflot",NYC,LUX,18h 00m ,1 stop ,"11,897 NIS ",03/04/2023
+"United Airlines, Aeroflot",NYC,LUX,20h 35m ,1 stop ,"11,903 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,15h 30m ,2 stops ,"11,983 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"12,003 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"12,003 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,16h 35m ,2 stops ,"12,015 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,16h 35m ,2 stops ,"12,015 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,16h 25m ,2 stops ,"12,048 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,19h 40m ,2 stops ,"12,048 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,15h 10m ,2 stops ,"12,055 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,17h 45m ,2 stops ,"12,069 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,15h 20m ,2 stops ,"12,086 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,16h 55m ,2 stops ,"12,105 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,16h 55m ,2 stops ,"12,105 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,16h 35m ,2 stops ,"12,136 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,18h 45m ,2 stops ,"12,182 NIS ",03/04/2023
+"British Airways, Qatar Airways",NYC,LUX,29h 55m ,2 stops ,"12,395 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,14h 40m ,2 stops ,"21,111 NIS ",03/04/2023
+Multiple Airlines,NYC,LUX,14h 40m ,2 stops ,"21,111 NIS ",03/04/2023
+"Lufthansa, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"22,530 NIS ",03/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,282 NIS ",04/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,201 NIS ",04/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,201 NIS ",04/04/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",04/04/2023
+Delta,NYC,LUX,14h 25m ,1 stop ,"1,397 NIS ",04/04/2023
+Delta,NYC,LUX,13h 35m ,1 stop ,"1,414 NIS ",04/04/2023
+Delta,NYC,LUX,14h 35m ,1 stop ,"1,669 NIS ",04/04/2023
+Delta,NYC,LUX,17h 20m ,1 stop ,"1,669 NIS ",04/04/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,802 NIS ",04/04/2023
+Delta,NYC,LUX,12h 35m ,1 stop ,"1,819 NIS ",04/04/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",04/04/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"2,262 NIS ",04/04/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,469 NIS ",04/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,414 NIS ",04/04/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",04/04/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",04/04/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,414 NIS ",04/04/2023
+Delta,NYC,LUX,15h 55m ,2 stops ,"1,431 NIS ",04/04/2023
+"SWISS, Aeroflot",NYC,LUX,16h 35m ,2 stops ,"1,543 NIS ",04/04/2023
+"SWISS, Aeroflot",NYC,LUX,17h 35m ,2 stops ,"1,543 NIS ",04/04/2023
+"SWISS, Aeroflot",NYC,LUX,18h 10m ,2 stops ,"1,543 NIS ",04/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,686 NIS ",04/04/2023
+Delta,NYC,LUX,18h 10m ,2 stops ,"1,686 NIS ",04/04/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,818 NIS ",04/04/2023
+Delta,NYC,LUX,16h 00m ,2 stops ,"1,836 NIS ",04/04/2023
+"JetBlue, Aeroflot",NYC,LUX,17h 35m ,1 stop ,"2,150 NIS ",04/04/2023
+"Alaska Airlines, Aeroflot",NYC,LUX,31h 05m ,1 stop ,"2,229 NIS ",04/04/2023
+"JetBlue, Aeroflot",NYC,LUX,16h 30m ,1 stop ,"2,334 NIS ",04/04/2023
+KLM,NYC,LUX,14h 25m ,1 stop ,"2,576 NIS ",04/04/2023
+KLM,NYC,LUX,20h 25m ,1 stop ,"2,576 NIS ",04/04/2023
+"Spirit Airlines, Aeroflot",NYC,LUX,17h 40m ,1 stop ,"2,591 NIS ",04/04/2023
+Air France,NYC,LUX,12h 35m ,1 stop ,"2,593 NIS ",04/04/2023
+Air France,NYC,LUX,14h 35m ,1 stop ,"2,593 NIS ",04/04/2023
+Air France,NYC,LUX,19h 40m ,1 stop ,"2,593 NIS ",04/04/2023
+Air France,NYC,LUX,20h 40m ,1 stop ,"2,593 NIS ",04/04/2023
+Air France,NYC,LUX,13h 35m ,1 stop ,"2,619 NIS ",04/04/2023
+Finnair,NYC,LUX,16h 15m ,1 stop ,"2,743 NIS ",04/04/2023
+Air France,NYC,LUX,18h 10m ,1 stop ,"2,769 NIS ",04/04/2023
+"Finnair, Aeroflot",NYC,LUX,12h 15m ,1 stop ,"2,893 NIS ",04/04/2023
+"KLM, Aeroflot",NYC,LUX,17h 00m ,1 stop ,"3,056 NIS ",04/04/2023
+"KLM, Aeroflot",NYC,LUX,19h 55m ,1 stop ,"3,056 NIS ",04/04/2023
+Air France,NYC,LUX,15h 50m ,1 stop ,"3,112 NIS ",04/04/2023
+Air France,NYC,LUX,19h 10m ,1 stop ,"3,112 NIS ",04/04/2023
+Air France,NYC,LUX,20h 10m ,1 stop ,"3,750 NIS ",04/04/2023
+LOT,NYC,LUX,14h 10m ,1 stop ,"4,476 NIS ",04/04/2023
+"SWISS, Aeroflot",NYC,LUX,19h 05m ,2 stops ,"1,543 NIS ",04/04/2023
+"SWISS, Aeroflot",NYC,LUX,20h 10m ,2 stops ,"1,543 NIS ",04/04/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,818 NIS ",04/04/2023
+Delta,NYC,LUX,18h 35m ,2 stops ,"1,836 NIS ",04/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 24m ,2 stops ,"1,952 NIS ",04/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 40m ,2 stops ,"1,952 NIS ",04/04/2023
+"American Airlines, Finnair",NYC,LUX,19h 40m ,2 stops ,"1,952 NIS ",04/04/2023
+"American Airlines, Finnair",NYC,LUX,20h 17m ,2 stops ,"1,952 NIS ",04/04/2023
+"Iberia, Air Serbia",NYC,LUX,20h 20m ,3 stops ,"2,556 NIS ",04/04/2023
+Delta,NYC,LUX,17h 05m ,2 stops ,"2,585 NIS ",04/04/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"2,585 NIS ",04/04/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"2,585 NIS ",04/04/2023
+Delta,NYC,LUX,18h 35m ,2 stops ,"2,585 NIS ",04/04/2023
+Delta,NYC,LUX,19h 05m ,2 stops ,"2,585 NIS ",04/04/2023
+"Turkish Airlines, Aeroflot",NYC,LUX,20h 05m ,2 stops ,"2,876 NIS ",04/04/2023
+"Finnair, KLM",NYC,LUX,17h 40m ,2 stops ,"2,907 NIS ",04/04/2023
+"Finnair, Air France",NYC,LUX,16h 55m ,2 stops ,"3,096 NIS ",04/04/2023
+Finnair,NYC,LUX,19h 10m ,2 stops ,"3,188 NIS ",04/04/2023
+Finnair,NYC,LUX,19h 20m ,2 stops ,"3,188 NIS ",04/04/2023
+Finnair,NYC,LUX,18h 55m ,2 stops ,"3,218 NIS ",04/04/2023
+Finnair,NYC,LUX,15h 15m ,2 stops ,"3,230 NIS ",04/04/2023
+Finnair,NYC,LUX,15h 25m ,2 stops ,"3,230 NIS ",04/04/2023
+Finnair,NYC,LUX,15h 55m ,2 stops ,"3,230 NIS ",04/04/2023
+Finnair,NYC,LUX,16h 45m ,2 stops ,"3,230 NIS ",04/04/2023
+Finnair,NYC,LUX,17h 15m ,2 stops ,"3,230 NIS ",04/04/2023
+Finnair,NYC,LUX,17h 40m ,2 stops ,"3,230 NIS ",04/04/2023
+Finnair,NYC,LUX,19h 50m ,2 stops ,"3,237 NIS ",04/04/2023
+Finnair,NYC,LUX,20h 40m ,2 stops ,"3,237 NIS ",04/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,255 NIS ",04/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,255 NIS ",04/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"3,502 NIS ",04/04/2023
+Delta,NYC,LUX,18h 54m ,2 stops ,"3,502 NIS ",04/04/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"3,766 NIS ",04/04/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"4,871 NIS ",04/04/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"4,871 NIS ",04/04/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"4,871 NIS ",04/04/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"4,871 NIS ",04/04/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"5,695 NIS ",04/04/2023
+Delta,NYC,LUX,18h 15m ,2 stops ,"5,695 NIS ",04/04/2023
+Qatar Airways,NYC,LUX,18h 45m ,1 stop ,"7,278 NIS ",04/04/2023
+"SWISS, LOT",NYC,LUX,15h 20m ,2 stops ,"11,548 NIS ",04/04/2023
+"SWISS, Aeroflot",NYC,LUX,17h 30m ,2 stops ,"11,575 NIS ",04/04/2023
+"Lufthansa, LOT",NYC,LUX,15h 15m ,2 stops ,"11,603 NIS ",04/04/2023
+"United Airlines, airBaltic",NYC,LUX,18h 50m ,2 stops ,"11,632 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,19h 25m ,2 stops ,"11,632 NIS ",04/04/2023
+"United Airlines, Aeroflot",NYC,LUX,20h 35m ,1 stop ,"11,859 NIS ",04/04/2023
+"United Airlines, Aeroflot",NYC,LUX,16h 55m ,1 stop ,"11,867 NIS ",04/04/2023
+"United Airlines, Aeroflot",NYC,LUX,17h 30m ,1 stop ,"11,867 NIS ",04/04/2023
+"United Airlines, Aeroflot",NYC,LUX,20h 50m ,1 stop ,"11,867 NIS ",04/04/2023
+"United Airlines, Aeroflot",NYC,LUX,15h 10m ,1 stop ,"11,914 NIS ",04/04/2023
+"United Airlines, Aeroflot",NYC,LUX,19h 10m ,1 stop ,"11,934 NIS ",04/04/2023
+"United Airlines, Aeroflot",NYC,LUX,18h 10m ,1 stop ,"11,962 NIS ",04/04/2023
+"United Airlines, Aeroflot",NYC,LUX,19h 10m ,1 stop ,"11,962 NIS ",04/04/2023
+"United Airlines, Aeroflot",NYC,LUX,20h 15m ,2 stops ,"11,962 NIS ",04/04/2023
+"United Airlines, Aeroflot",NYC,LUX,20h 27m ,2 stops ,"11,962 NIS ",04/04/2023
+"United Airlines, Aeroflot",NYC,LUX,20h 46m ,2 stops ,"11,962 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,16h 55m ,2 stops ,"12,015 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,16h 55m ,2 stops ,"12,015 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,17h 55m ,2 stops ,"12,015 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,17h 55m ,2 stops ,"12,015 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,17h 55m ,2 stops ,"12,015 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,16h 30m ,2 stops ,"12,061 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,17h 30m ,2 stops ,"12,061 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,17h 30m ,2 stops ,"12,061 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,18h 20m ,2 stops ,"12,061 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,16h 00m ,2 stops ,"12,069 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,16h 15m ,2 stops ,"12,069 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,16h 20m ,2 stops ,"12,069 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"12,069 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"12,069 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,17h 50m ,2 stops ,"12,069 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,16h 50m ,2 stops ,"12,078 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,17h 50m ,2 stops ,"12,078 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,16h 55m ,2 stops ,"12,136 NIS ",04/04/2023
+"United Airlines, Aeroflot",NYC,LUX,20h 25m ,1 stop ,"12,390 NIS ",04/04/2023
+"United Airlines, Aeroflot",NYC,LUX,16h 00m ,1 stop ,"12,400 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,14h 40m ,2 stops ,"18,888 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,16h 40m ,2 stops ,"20,990 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,16h 40m ,2 stops ,"21,100 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,14h 40m ,2 stops ,"21,111 NIS ",04/04/2023
+Multiple Airlines,NYC,LUX,14h 40m ,2 stops ,"21,111 NIS ",04/04/2023
+"Lufthansa, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"22,530 NIS ",04/04/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"40,265 NIS ",04/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,282 NIS ",05/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,190 NIS ",05/04/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,652 NIS ",05/04/2023
+Delta,NYC,LUX,14h 25m ,1 stop ,"1,652 NIS ",05/04/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,802 NIS ",05/04/2023
+Delta,NYC,LUX,12h 50m ,1 stop ,"1,819 NIS ",05/04/2023
+Delta,NYC,LUX,13h 50m ,1 stop ,"1,819 NIS ",05/04/2023
+Delta,NYC,LUX,14h 50m ,1 stop ,"1,819 NIS ",05/04/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",05/04/2023
+LOT,NYC,LUX,13h 30m ,1 stop ,"2,262 NIS ",05/04/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,576 NIS ",05/04/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",05/04/2023
+Delta,NYC,LUX,19h 10m ,2 stops ,"1,431 NIS ",05/04/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,669 NIS ",05/04/2023
+Delta,NYC,LUX,16h 10m ,2 stops ,"1,686 NIS ",05/04/2023
+Delta,NYC,LUX,16h 15m ,2 stops ,"1,686 NIS ",05/04/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,686 NIS ",05/04/2023
+Delta,NYC,LUX,18h 25m ,2 stops ,"1,686 NIS ",05/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,818 NIS ",05/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,836 NIS ",05/04/2023
+"Singapore Airlines, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"2,531 NIS ",05/04/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,576 NIS ",05/04/2023
+KLM,NYC,LUX,14h 25m ,1 stop ,"2,576 NIS ",05/04/2023
+KLM,NYC,LUX,20h 25m ,1 stop ,"2,576 NIS ",05/04/2023
+Air France,NYC,LUX,17h 20m ,1 stop ,"2,584 NIS ",05/04/2023
+Air France,NYC,LUX,20h 40m ,1 stop ,"2,584 NIS ",05/04/2023
+"Finnair, Aeroflot",NYC,LUX,15h 15m ,1 stop ,"2,681 NIS ",05/04/2023
+"Emirates, Aeroflot",NYC,LUX,16h 00m ,1 stop ,"2,707 NIS ",05/04/2023
+Air France,NYC,LUX,15h 50m ,1 stop ,"2,767 NIS ",05/04/2023
+Air France,NYC,LUX,19h 10m ,1 stop ,"2,767 NIS ",05/04/2023
+Air France,NYC,LUX,18h 10m ,1 stop ,"2,769 NIS ",05/04/2023
+"Finnair, Aeroflot",NYC,LUX,12h 15m ,1 stop ,"2,834 NIS ",05/04/2023
+KLM,NYC,LUX,17h 00m ,1 stop ,"2,844 NIS ",05/04/2023
+"Air Serbia, Aeroflot",NYC,LUX,14h 05m ,1 stop ,"2,881 NIS ",05/04/2023
+KLM,NYC,LUX,19h 55m ,1 stop ,"2,912 NIS ",05/04/2023
+Air France,NYC,LUX,19h 40m ,1 stop ,"2,935 NIS ",05/04/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"3,056 NIS ",05/04/2023
+"KLM, Aeroflot",NYC,LUX,15h 45m ,1 stop ,"3,056 NIS ",05/04/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"3,307 NIS ",05/04/2023
+Air France,NYC,LUX,20h 10m ,1 stop ,"3,750 NIS ",05/04/2023
+KLM,NYC,LUX,19h 00m ,1 stop ,"3,827 NIS ",05/04/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,818 NIS ",05/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 24m ,2 stops ,"1,952 NIS ",05/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 40m ,2 stops ,"1,952 NIS ",05/04/2023
+"American Airlines, Finnair",NYC,LUX,19h 40m ,2 stops ,"1,952 NIS ",05/04/2023
+"American Airlines, Finnair",NYC,LUX,20h 17m ,2 stops ,"1,952 NIS ",05/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 41m ,2 stops ,"2,120 NIS ",05/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 43m ,2 stops ,"2,120 NIS ",05/04/2023
+"American Airlines, Finnair",NYC,LUX,19h 41m ,2 stops ,"2,120 NIS ",05/04/2023
+"American Airlines, Finnair",NYC,LUX,19h 45m ,2 stops ,"2,120 NIS ",05/04/2023
+"American Airlines, Finnair",NYC,LUX,20h 41m ,2 stops ,"2,120 NIS ",05/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"2,585 NIS ",05/04/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"2,585 NIS ",05/04/2023
+"Finnair, Nordwind Airlines",NYC,LUX,17h 40m ,3 stops ,"2,624 NIS ",05/04/2023
+Multiple Airlines,NYC,LUX,19h 55m ,3 stops ,"2,666 NIS ",05/04/2023
+"French Bee, Air France",NYC,LUX,15h 45m ,1 stop ,"2,671 NIS ",05/04/2023
+"Finnair, Aeroflot",NYC,LUX,18h 00m ,3 stops ,"2,689 NIS ",05/04/2023
+Finnair,NYC,LUX,15h 35m ,2 stops ,"2,707 NIS ",05/04/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"2,866 NIS ",05/04/2023
+Delta,NYC,LUX,18h 50m ,2 stops ,"2,866 NIS ",05/04/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"2,866 NIS ",05/04/2023
+Finnair,NYC,LUX,18h 55m ,2 stops ,"3,218 NIS ",05/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,256 NIS ",05/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,256 NIS ",05/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,256 NIS ",05/04/2023
+Delta,NYC,LUX,18h 55m ,2 stops ,"3,783 NIS ",05/04/2023
+Delta,NYC,LUX,19h 09m ,2 stops ,"3,783 NIS ",05/04/2023
+Delta,NYC,LUX,19h 25m ,2 stops ,"3,783 NIS ",05/04/2023
+KLM,NYC,LUX,16h 30m ,2 stops ,"4,171 NIS ",05/04/2023
+Finnair,NYC,LUX,15h 15m ,2 stops ,"4,451 NIS ",05/04/2023
+Finnair,NYC,LUX,15h 25m ,2 stops ,"4,451 NIS ",05/04/2023
+Finnair,NYC,LUX,15h 55m ,2 stops ,"4,451 NIS ",05/04/2023
+Finnair,NYC,LUX,16h 50m ,2 stops ,"4,451 NIS ",05/04/2023
+Finnair,NYC,LUX,17h 15m ,2 stops ,"4,451 NIS ",05/04/2023
+Finnair,NYC,LUX,17h 40m ,2 stops ,"4,451 NIS ",05/04/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"4,871 NIS ",05/04/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"4,871 NIS ",05/04/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"5,695 NIS ",05/04/2023
+Delta,NYC,LUX,19h 25m ,2 stops ,"6,461 NIS ",05/04/2023
+"United Airlines, Aeroflot",NYC,LUX,16h 25m ,1 stop ,"11,859 NIS ",05/04/2023
+"United Airlines, Aeroflot",NYC,LUX,17h 05m ,1 stop ,"11,867 NIS ",05/04/2023
+"United Airlines, Aeroflot",NYC,LUX,20h 10m ,1 stop ,"11,884 NIS ",05/04/2023
+Multiple Airlines,NYC,LUX,16h 05m ,2 stops ,"11,936 NIS ",05/04/2023
+Multiple Airlines,NYC,LUX,15h 40m ,2 stops ,"11,948 NIS ",05/04/2023
+Multiple Airlines,NYC,LUX,16h 25m ,2 stops ,"11,948 NIS ",05/04/2023
+Multiple Airlines,NYC,LUX,16h 25m ,2 stops ,"11,948 NIS ",05/04/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"12,003 NIS ",05/04/2023
+Multiple Airlines,NYC,LUX,15h 40m ,2 stops ,"12,069 NIS ",05/04/2023
+Multiple Airlines,NYC,LUX,16h 25m ,2 stops ,"12,069 NIS ",05/04/2023
+Multiple Airlines,NYC,LUX,17h 10m ,2 stops ,"12,086 NIS ",05/04/2023
+"British Airways, Qatar Airways",NYC,LUX,29h 55m ,2 stops ,"12,594 NIS ",05/04/2023
+Multiple Airlines,NYC,LUX,20h 10m ,2 stops ,"21,069 NIS ",05/04/2023
+Multiple Airlines,NYC,LUX,16h 00m ,2 stops ,"21,092 NIS ",05/04/2023
+Multiple Airlines,NYC,LUX,16h 00m ,2 stops ,"21,092 NIS ",05/04/2023
+Multiple Airlines,NYC,LUX,20h 10m ,2 stops ,"21,092 NIS ",05/04/2023
+Multiple Airlines,NYC,LUX,14h 40m ,2 stops ,"21,111 NIS ",05/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,191 NIS ",06/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,191 NIS ",06/04/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",06/04/2023
+Delta,NYC,LUX,12h 35m ,1 stop ,"1,414 NIS ",06/04/2023
+Delta,NYC,LUX,13h 35m ,1 stop ,"1,414 NIS ",06/04/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,652 NIS ",06/04/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",06/04/2023
+"Lufthansa, Aeroflot",NYC,LUX,13h 35m ,1 stop ,"2,145 NIS ",06/04/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,576 NIS ",06/04/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,576 NIS ",06/04/2023
+Air France,NYC,LUX,12h 35m ,1 stop ,"2,593 NIS ",06/04/2023
+Air France,NYC,LUX,13h 35m ,1 stop ,"2,618 NIS ",06/04/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,769 NIS ",06/04/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"2,966 NIS ",06/04/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"3,059 NIS ",06/04/2023
+LOT,NYC,LUX,13h 30m ,1 stop ,"3,304 NIS ",06/04/2023
+"KLM, Aeroflot",NYC,LUX,14h 20m ,1 stop ,"3,888 NIS ",06/04/2023
+Qatar Airways,NYC,LUX,18h 45m ,1 stop ,"7,099 NIS ",06/04/2023
+"LOT, Aeroflot",NYC,LUX,13h 30m ,1 stop ,"7,788 NIS ",06/04/2023
+"LOT, Aeroflot",NYC,LUX,13h 35m ,1 stop ,"7,788 NIS ",06/04/2023
+Delta,NYC,LUX,19h 00m ,2 stops ,"1,414 NIS ",06/04/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,414 NIS ",06/04/2023
+Delta,NYC,LUX,16h 00m ,2 stops ,"1,431 NIS ",06/04/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,431 NIS ",06/04/2023
+Delta,NYC,LUX,18h 55m ,2 stops ,"1,431 NIS ",06/04/2023
+Delta,NYC,LUX,19h 20m ,2 stops ,"1,431 NIS ",06/04/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,669 NIS ",06/04/2023
+Delta,NYC,LUX,17h 00m ,2 stops ,"1,669 NIS ",06/04/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,669 NIS ",06/04/2023
+Delta,NYC,LUX,18h 01m ,2 stops ,"1,669 NIS ",06/04/2023
+Delta,NYC,LUX,15h 55m ,2 stops ,"1,836 NIS ",06/04/2023
+"Vueling, Aeroflot",NYC,LUX,14h 50m ,1 stop ,"1,987 NIS ",06/04/2023
+"Lufthansa, Finnair",NYC,LUX,15h 20m ,2 stops ,"2,048 NIS ",06/04/2023
+"JetBlue, Aeroflot",NYC,LUX,17h 35m ,1 stop ,"2,068 NIS ",06/04/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,576 NIS ",06/04/2023
+KLM,NYC,LUX,14h 25m ,1 stop ,"2,576 NIS ",06/04/2023
+KLM,NYC,LUX,20h 25m ,1 stop ,"2,576 NIS ",06/04/2023
+Air France,NYC,LUX,14h 35m ,1 stop ,"2,586 NIS ",06/04/2023
+Air France,NYC,LUX,20h 40m ,1 stop ,"2,586 NIS ",06/04/2023
+Air France,NYC,LUX,12h 35m ,1 stop ,"2,593 NIS ",06/04/2023
+Air France,NYC,LUX,19h 40m ,1 stop ,"2,593 NIS ",06/04/2023
+Air France,NYC,LUX,13h 35m ,1 stop ,"2,618 NIS ",06/04/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,769 NIS ",06/04/2023
+Air France,NYC,LUX,15h 05m ,1 stop ,"2,769 NIS ",06/04/2023
+Air France,NYC,LUX,16h 05m ,1 stop ,"2,769 NIS ",06/04/2023
+Air France,NYC,LUX,17h 05m ,1 stop ,"2,769 NIS ",06/04/2023
+Air France,NYC,LUX,18h 05m ,1 stop ,"2,769 NIS ",06/04/2023
+Air France,NYC,LUX,19h 05m ,1 stop ,"2,769 NIS ",06/04/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"2,966 NIS ",06/04/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"3,059 NIS ",06/04/2023
+"KLM, Aeroflot",NYC,LUX,15h 45m ,1 stop ,"3,059 NIS ",06/04/2023
+"KLM, Aeroflot",NYC,LUX,14h 20m ,1 stop ,"3,888 NIS ",06/04/2023
+"Egypt Air, Aeroflot",NYC,LUX,19h 15m ,1 stop ,"3,915 NIS ",06/04/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"1,669 NIS ",06/04/2023
+Delta,NYC,LUX,19h 30m ,2 stops ,"1,669 NIS ",06/04/2023
+Delta,NYC,LUX,18h 35m ,2 stops ,"1,686 NIS ",06/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,818 NIS ",06/04/2023
+Delta,NYC,LUX,17h 05m ,2 stops ,"1,836 NIS ",06/04/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"1,836 NIS ",06/04/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,836 NIS ",06/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"1,836 NIS ",06/04/2023
+Delta,NYC,LUX,18h 54m ,2 stops ,"1,836 NIS ",06/04/2023
+Delta,NYC,LUX,19h 05m ,2 stops ,"1,836 NIS ",06/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 24m ,2 stops ,"1,952 NIS ",06/04/2023
+"American Airlines, Finnair",NYC,LUX,18h 40m ,2 stops ,"1,952 NIS ",06/04/2023
+"American Airlines, Finnair",NYC,LUX,19h 40m ,2 stops ,"1,952 NIS ",06/04/2023
+"American Airlines, Finnair",NYC,LUX,20h 17m ,2 stops ,"1,952 NIS ",06/04/2023
+"Virgin Atlantic, KLM",NYC,LUX,19h 55m ,2 stops ,"2,122 NIS ",06/04/2023
+"Virgin Atlantic, KLM",NYC,LUX,19h 55m ,2 stops ,"2,122 NIS ",06/04/2023
+"Virgin Atlantic, KLM",NYC,LUX,19h 55m ,2 stops ,"2,128 NIS ",06/04/2023
+Multiple Airlines,NYC,LUX,18h 35m ,2 stops ,"2,155 NIS ",06/04/2023
+"Air France, KLM",NYC,LUX,18h 55m ,2 stops ,"2,220 NIS ",06/04/2023
+Air France,NYC,LUX,18h 10m ,2 stops ,"2,419 NIS ",06/04/2023
+"Lufthansa, LOT",NYC,LUX,16h 50m ,2 stops ,"2,526 NIS ",06/04/2023
+Delta,NYC,LUX,16h 45m ,2 stops ,"2,585 NIS ",06/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"2,585 NIS ",06/04/2023
+Delta,NYC,LUX,18h 10m ,2 stops ,"2,585 NIS ",06/04/2023
+"Finnair, KLM",NYC,LUX,17h 40m ,2 stops ,"2,751 NIS ",06/04/2023
+Delta,NYC,LUX,18h 40m ,2 stops ,"2,848 NIS ",06/04/2023
+Delta,NYC,LUX,17h 50m ,2 stops ,"2,866 NIS ",06/04/2023
+Delta,NYC,LUX,18h 35m ,2 stops ,"2,866 NIS ",06/04/2023
+Delta,NYC,LUX,18h 54m ,2 stops ,"2,866 NIS ",06/04/2023
+Finnair,NYC,LUX,18h 55m ,2 stops ,"3,218 NIS ",06/04/2023
+Finnair,NYC,LUX,15h 15m ,2 stops ,"3,230 NIS ",06/04/2023
+Finnair,NYC,LUX,15h 25m ,2 stops ,"3,230 NIS ",06/04/2023
+Finnair,NYC,LUX,15h 55m ,2 stops ,"3,230 NIS ",06/04/2023
+Finnair,NYC,LUX,16h 45m ,2 stops ,"3,230 NIS ",06/04/2023
+Finnair,NYC,LUX,17h 15m ,2 stops ,"3,230 NIS ",06/04/2023
+Finnair,NYC,LUX,17h 40m ,2 stops ,"3,230 NIS ",06/04/2023
+KLM,NYC,LUX,15h 30m ,2 stops ,"3,258 NIS ",06/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,258 NIS ",06/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,258 NIS ",06/04/2023
+KLM,NYC,LUX,18h 05m ,2 stops ,"3,258 NIS ",06/04/2023
+Delta,NYC,LUX,17h 20m ,2 stops ,"3,783 NIS ",06/04/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"3,783 NIS ",06/04/2023
+Delta,NYC,LUX,18h 35m ,2 stops ,"3,783 NIS ",06/04/2023
+"Finnair, Air France",NYC,LUX,16h 55m ,2 stops ,"4,114 NIS ",06/04/2023
+Qatar Airways,NYC,LUX,18h 45m ,1 stop ,"7,099 NIS ",06/04/2023
+"LOT, Aeroflot",NYC,LUX,15h 50m ,2 stops ,"7,539 NIS ",06/04/2023
+"LOT, Aeroflot",NYC,LUX,15h 55m ,2 stops ,"7,539 NIS ",06/04/2023
+"LOT, Aeroflot",NYC,LUX,16h 50m ,2 stops ,"7,539 NIS ",06/04/2023
+"LOT, Aeroflot",NYC,LUX,16h 55m ,2 stops ,"7,539 NIS ",06/04/2023
+"LOT, Aeroflot",NYC,LUX,17h 30m ,2 stops ,"7,539 NIS ",06/04/2023
+"LOT, Aeroflot",NYC,LUX,17h 35m ,2 stops ,"7,539 NIS ",06/04/2023
+"LOT, Aeroflot",NYC,LUX,18h 50m ,2 stops ,"7,539 NIS ",06/04/2023
+"LOT, Aeroflot",NYC,LUX,18h 55m ,2 stops ,"7,539 NIS ",06/04/2023
+"LOT, Aeroflot",NYC,LUX,20h 10m ,2 stops ,"7,539 NIS ",06/04/2023
+"LOT, Aeroflot",NYC,LUX,13h 30m ,1 stop ,"7,788 NIS ",06/04/2023
+"LOT, Aeroflot",NYC,LUX,13h 35m ,1 stop ,"7,788 NIS ",06/04/2023
+Multiple Airlines,NYC,LUX,17h 20m ,2 stops ,"11,927 NIS ",06/04/2023
+Multiple Airlines,NYC,LUX,16h 05m ,2 stops ,"11,936 NIS ",06/04/2023
+Multiple Airlines,NYC,LUX,15h 40m ,2 stops ,"11,948 NIS ",06/04/2023
+"Lufthansa, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"22,544 NIS ",06/04/2023
+Delta,NYC,LUX,19h 15m ,2 stops ,"39,722 NIS ",06/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,197 NIS ",07/04/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",07/04/2023
+Delta,NYC,LUX,12h 50m ,1 stop ,"1,414 NIS ",07/04/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,397 NIS ",07/04/2023
+Delta,NYC,LUX,13h 50m ,1 stop ,"1,669 NIS ",07/04/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",07/04/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,358 NIS ",07/04/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,358 NIS ",07/04/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,563 NIS ",07/04/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"2,851 NIS ",07/04/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"2,966 NIS ",07/04/2023
+"British Airways, Qatar Airways",NYC,LUX,24h 35m ,2 stops ,"12,395 NIS ",07/04/2023
+"Lufthansa, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"22,544 NIS ",07/04/2023
+"Lufthansa, Aeroflot",NYC,LUX,24h 00m ,1 stop ,"22,544 NIS ",07/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,193 NIS ",13/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,193 NIS ",13/04/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",13/04/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,397 NIS ",13/04/2023
+Delta,NYC,LUX,12h 35m ,1 stop ,"1,669 NIS ",13/04/2023
+Delta,NYC,LUX,13h 35m ,1 stop ,"1,669 NIS ",13/04/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,576 NIS ",13/04/2023
+Delta,NYC,LUX,14h 05m ,2 stops ,"1,686 NIS ",13/04/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,576 NIS ",13/04/2023
+Air France,NYC,LUX,12h 35m ,1 stop ,"2,593 NIS ",13/04/2023
+Air France,NYC,LUX,13h 35m ,1 stop ,"2,605 NIS ",13/04/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"3,059 NIS ",13/04/2023
+LOT,NYC,LUX,13h 30m ,1 stop ,"3,291 NIS ",13/04/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"3,291 NIS ",13/04/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"3,603 NIS ",13/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,319 NIS ",17/04/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",17/04/2023
+Delta,NYC,LUX,13h 30m ,1 stop ,"1,397 NIS ",17/04/2023
+Delta,NYC,LUX,13h 50m ,1 stop ,"1,414 NIS ",17/04/2023
+Air Serbia,NYC,LUX,13h 50m ,1 stop ,"1,586 NIS ",17/04/2023
+Delta,NYC,LUX,12h 50m ,1 stop ,"1,669 NIS ",17/04/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",17/04/2023
+KLM,NYC,LUX,11h 30m ,1 stop ,"2,358 NIS ",17/04/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,358 NIS ",17/04/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,563 NIS ",17/04/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"3,353 NIS ",17/04/2023
+LOT,NYC,LUX,13h 30m ,1 stop ,"3,512 NIS ",17/04/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"3,512 NIS ",17/04/2023
+LOT,NYC,LUX,14h 05m ,1 stop ,"4,600 NIS ",17/04/2023
+LOT,NYC,LUX,14h 10m ,1 stop ,"4,600 NIS ",17/04/2023
+Delta,NYC,LUX,16h 00m ,2 stops ,"1,414 NIS ",17/04/2023
+Delta,NYC,LUX,16h 30m ,2 stops ,"1,414 NIS ",17/04/2023
+Delta,NYC,LUX,16h 50m ,2 stops ,"1,414 NIS ",17/04/2023
+Delta,NYC,LUX,17h 01m ,2 stops ,"1,414 NIS ",17/04/2023
+Delta,NYC,LUX,18h 00m ,2 stops ,"1,414 NIS ",17/04/2023
+Delta,NYC,LUX,18h 50m ,2 stops ,"1,414 NIS ",17/04/2023
+Delta,NYC,LUX,18h 50m ,2 stops ,"1,414 NIS ",17/04/2023
+Delta,NYC,LUX,18h 55m ,2 stops ,"1,414 NIS ",17/04/2023
+Delta,NYC,LUX,19h 01m ,2 stops ,"1,414 NIS ",17/04/2023
+Delta,NYC,LUX,17h 10m ,2 stops ,"1,431 NIS ",17/04/2023
+Delta,NYC,LUX,18h 00m ,2 stops ,"1,431 NIS ",17/04/2023
+Delta,NYC,LUX,18h 35m ,2 stops ,"1,431 NIS ",17/04/2023
+Delta,NYC,LUX,19h 05m ,2 stops ,"1,431 NIS ",17/04/2023
+Delta,NYC,LUX,19h 25m ,2 stops ,"1,431 NIS ",17/04/2023
+"SWISS, Aeroflot",NYC,LUX,16h 35m ,2 stops ,"1,463 NIS ",17/04/2023
+"SWISS, Aeroflot",NYC,LUX,17h 35m ,2 stops ,"1,463 NIS ",17/04/2023
+"SWISS, Aeroflot",NYC,LUX,18h 10m ,2 stops ,"1,463 NIS ",17/04/2023
+Delta,NYC,LUX,16h 01m ,2 stops ,"1,669 NIS ",17/04/2023
+Delta,NYC,LUX,16h 45m ,2 stops ,"1,669 NIS ",17/04/2023
+Delta,NYC,LUX,18h 00m ,2 stops ,"1,669 NIS ",17/04/2023
+Delta,NYC,LUX,18h 20m ,2 stops ,"1,669 NIS ",17/04/2023
+Delta,NYC,LUX,17h 15m ,2 stops ,"1,686 NIS ",17/04/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,686 NIS ",17/04/2023
+Delta,NYC,LUX,16h 00m ,2 stops ,"1,818 NIS ",17/04/2023
+Delta,NYC,LUX,17h 15m ,2 stops ,"1,836 NIS ",17/04/2023
+"Lufthansa, Finnair",NYC,LUX,15h 20m ,2 stops ,"2,014 NIS ",17/04/2023
+Air France,NYC,LUX,20h 40m ,1 stop ,"2,355 NIS ",17/04/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,358 NIS ",17/04/2023
+KLM,NYC,LUX,14h 25m ,1 stop ,"2,358 NIS ",17/04/2023
+KLM,NYC,LUX,16h 30m ,1 stop ,"2,358 NIS ",17/04/2023
+KLM,NYC,LUX,20h 25m ,1 stop ,"2,358 NIS ",17/04/2023
+"Singapore Airlines, Aeroflot",NYC,LUX,15h 05m ,1 stop ,"2,368 NIS ",17/04/2023
+Air France,NYC,LUX,19h 40m ,1 stop ,"2,376 NIS ",17/04/2023
+Air France,NYC,LUX,15h 05m ,1 stop ,"2,544 NIS ",17/04/2023
+Air France,NYC,LUX,16h 05m ,1 stop ,"2,544 NIS ",17/04/2023
+Air France,NYC,LUX,18h 05m ,1 stop ,"2,544 NIS ",17/04/2023
+Air France,NYC,LUX,18h 25m ,1 stop ,"2,544 NIS ",17/04/2023
+Air France,NYC,LUX,19h 05m ,1 stop ,"2,544 NIS ",17/04/2023
+Air France,NYC,LUX,19h 25m ,1 stop ,"2,544 NIS ",17/04/2023
+Air France,NYC,LUX,14h 05m ,1 stop ,"2,563 NIS ",17/04/2023
+Air France,NYC,LUX,17h 05m ,1 stop ,"2,563 NIS ",17/04/2023
+Air France,NYC,LUX,17h 25m ,1 stop ,"2,563 NIS ",17/04/2023
+Air France,NYC,LUX,20h 25m ,1 stop ,"2,563 NIS ",17/04/2023
+"Finnair, Aeroflot",NYC,LUX,15h 15m ,1 stop ,"2,780 NIS ",17/04/2023
+"KLM, Aeroflot",NYC,LUX,12h 50m ,1 stop ,"2,851 NIS ",17/04/2023
+"KLM, Aeroflot",NYC,LUX,15h 45m ,1 stop ,"2,851 NIS ",17/04/2023
+"Emirates, Aeroflot",NYC,LUX,17h 05m ,1 stop ,"2,888 NIS ",17/04/2023
+LOT,NYC,LUX,13h 35m ,1 stop ,"3,291 NIS ",17/04/2023
+"Spirit Airlines, Aeroflot",NYC,LUX,19h 15m ,1 stop ,"3,350 NIS ",17/04/2023
+LOT,NYC,LUX,14h 05m ,1 stop ,"4,452 NIS ",17/04/2023
+LOT,NYC,LUX,14h 10m ,1 stop ,"4,452 NIS ",17/04/2023
+"SWISS, Aeroflot",NYC,LUX,19h 05m ,2 stops ,"1,463 NIS ",17/04/2023
+"SWISS, Aeroflot",NYC,LUX,20h 10m ,2 stops ,"1,463 NIS ",17/04/2023
+"Lufthansa, Aeroflot",NYC,LUX,19h 10m ,2 stops ,"1,543 NIS ",17/04/2023
+"Lufthansa, Aeroflot",NYC,LUX,20h 15m ,2 stops ,"1,543 NIS ",17/04/2023
+Delta,NYC,LUX,19h 01m ,2 stops ,"1,669 NIS ",17/04/2023
+Delta,NYC,LUX,18h 50m ,2 stops ,"1,686 NIS ",17/04/2023
+Delta,NYC,LUX,19h 05m ,2 stops ,"1,686 NIS ",17/04/2023
+Multiple Airlines,NYC,LUX,20h 30m ,3 stops ,"1,810 NIS ",17/04/2023
+Delta,NYC,LUX,18h 00m ,2 stops ,"1,818 NIS ",17/04/2023
+Aeroflot,NYC,LUX,9h 00m ,nonstop ,"1,198 NIS ",23/04/2023
+Delta,NYC,LUX,11h 30m ,1 stop ,"1,397 NIS ",23/04/2023
+"American Airlines, Finnair",NYC,LUX,12h 20m ,1 stop ,"1,935 NIS ",23/04/2023
+KLM,NYC,LUX,13h 30m ,1 stop ,"2,358 NIS ",23/04/2023
+Air France,NYC,LUX,13h 50m ,1 stop ,"2,417 NIS ",23/04/2023
+"Icelandair, Finnair",NYC,LUX,16h 40m ,2 stops ,"9,779 NIS ",23/04/2023
+Brussels Airlines,NYC,LUX,13h 20m ,1 stop ,"1,224 NIS ",02/05/2023
+Brussels Airlines,NYC,LUX,13h 20m ,1 stop ,"1,662 NIS ",02/05/2023
+Air Serbia,NYC,LUX,18h 10m ,1 stop ,"1,586 NIS ",02/05/2023
+"American Airlines, Finnair",NYC,LUX,10h 45m ,1 stop ,"2,736 NIS ",02/05/2023
+Brussels Airlines,NYC,LUX,13h 20m ,1 stop ,"1,224 NIS ",12/05/2023
+"United Airlines, Brussels Airlines",NYC,LUX,13h 20m ,1 stop ,"1,264 NIS ",12/05/2023
+Delta,NYC,LUX,13h 35m ,1 stop ,"1,652 NIS ",12/05/2023
+Delta,NYC,LUX,12h 45m ,1 stop ,"1,669 NIS ",12/05/2023
+Delta,NYC,LUX,13h 15m ,1 stop ,"1,669 NIS ",12/05/2023
+Delta,NYC,LUX,13h 45m ,1 stop ,"1,669 NIS ",12/05/2023
+Delta,NYC,LUX,14h 15m ,1 stop ,"1,819 NIS ",12/05/2023
+Air France,NYC,LUX,12h 25m ,1 stop ,"2,376 NIS ",12/05/2023
+Finnair,NYC,LUX,10h 45m ,1 stop ,"2,503 NIS ",12/05/2023
+"American Airlines, Finnair",NYC,LUX,10h 45m ,1 stop ,"2,736 NIS ",12/05/2023
+LOT,NYC,LUX,12h 30m ,1 stop ,"2,793 NIS ",12/05/2023
+LOT,NYC,LUX,13h 55m ,1 stop ,"3,512 NIS ",12/05/2023
+Qatar Airways,NYC,LUX,23h 50m ,1 stop ,"7,471 NIS ",12/05/2023
+"United Airlines, Air France",NYC,LUX,12h 35m ,1 stop ,"20,850 NIS ",12/05/2023
+Brussels Airlines,NYC,LUX,13h 20m ,1 stop ,"1,224 NIS ",17/05/2023
+Delta,NYC,LUX,13h 35m ,1 stop ,"1,652 NIS ",17/05/2023
+"American Airlines, Finnair",NYC,LUX,10h 45m ,1 stop ,"7,968 NIS ",17/05/2023
+Brussels Airlines,NYC,LUX,13h 20m ,1 stop ,"1,230 NIS ",20/05/2023
+"United Airlines, Brussels Airlines",NYC,LUX,13h 20m ,1 stop ,"1,264 NIS ",20/05/2023
+Delta,NYC,LUX,13h 35m ,1 stop ,"1,652 NIS ",20/05/2023
+Delta,NYC,LUX,12h 45m ,1 stop ,"1,669 NIS ",20/05/2023
+Delta,NYC,LUX,13h 15m ,1 stop ,"1,669 NIS ",20/05/2023
+Delta,NYC,LUX,13h 45m ,1 stop ,"1,819 NIS ",20/05/2023
+Delta,NYC,LUX,14h 15m ,1 stop ,"1,819 NIS ",20/05/2023
+Finnair,NYC,LUX,10h 45m ,1 stop ,"2,152 NIS ",20/05/2023
+Air France,NYC,LUX,12h 25m ,1 stop ,"2,354 NIS ",20/05/2023
+"American Airlines, Finnair",NYC,LUX,10h 45m ,1 stop ,"2,736 NIS ",20/05/2023
+LOT,NYC,LUX,13h 15m ,1 stop ,"3,379 NIS ",20/05/2023
+"Icelandair, Finnair",NYC,LUX,15h 50m ,2 stops ,"4,228 NIS ",20/05/2023
+Qatar Airways,NYC,LUX,19h 10m ,1 stop ,"7,088 NIS ",20/05/2023
+"Lufthansa, Air France",NYC,LUX,12h 35m ,1 stop ,"20,633 NIS ",20/05/2023
+"United Airlines, Air France",NYC,LUX,12h 35m ,1 stop ,"20,850 NIS ",20/05/2023
+Brussels Airlines,NYC,LUX,13h 20m ,1 stop ,"1,525 NIS ",21/05/2023
+"United Airlines, Brussels Airlines",NYC,LUX,13h 20m ,1 stop ,"1,564 NIS ",21/05/2023
+Delta,NYC,LUX,13h 35m ,1 stop ,"1,951 NIS ",21/05/2023
+Delta,NYC,LUX,13h 15m ,1 stop ,"1,969 NIS ",21/05/2023
+Finnair,NYC,LUX,10h 45m ,1 stop ,"2,113 NIS ",21/05/2023
+Delta,NYC,LUX,12h 45m ,1 stop ,"2,137 NIS ",21/05/2023
+Delta,NYC,LUX,13h 45m ,1 stop ,"2,137 NIS ",21/05/2023
+Delta,NYC,LUX,14h 15m ,1 stop ,"2,137 NIS ",21/05/2023
+"American Airlines, Finnair",NYC,LUX,10h 45m ,1 stop ,"2,736 NIS ",21/05/2023
+LOT,NYC,LUX,13h 55m ,1 stop ,"2,554 NIS ",21/05/2023
+Air France,NYC,LUX,12h 25m ,1 stop ,"2,909 NIS ",21/05/2023
+"British Airways, Qatar Airways",NYC,LUX,31h 10m ,2 stops ,"12,395 NIS ",21/05/2023
+"Lufthansa, Air France",NYC,LUX,12h 35m ,1 stop ,"20,633 NIS ",21/05/2023
+"United Airlines, Air France",NYC,LUX,12h 35m ,1 stop ,"20,850 NIS ",21/05/2023
+Brussels Airlines,NYC,LUX,13h 20m ,1 stop ,"1,525 NIS ",22/05/2023
+"United Airlines, Brussels Airlines",NYC,LUX,13h 20m ,1 stop ,"1,564 NIS ",22/05/2023
+Delta,NYC,LUX,13h 35m ,1 stop ,"1,951 NIS ",22/05/2023
+Delta,NYC,LUX,12h 45m ,1 stop ,"1,969 NIS ",22/05/2023
+Delta,NYC,LUX,13h 15m ,1 stop ,"1,969 NIS ",22/05/2023
+Delta,NYC,LUX,13h 45m ,1 stop ,"2,137 NIS ",22/05/2023
+Delta,NYC,LUX,14h 15m ,1 stop ,"2,137 NIS ",22/05/2023
+"American Airlines, Finnair",NYC,LUX,10h 45m ,1 stop ,"2,736 NIS ",22/05/2023
+Finnair,NYC,LUX,10h 45m ,1 stop ,"2,785 NIS ",22/05/2023
+Air France,NYC,LUX,12h 25m ,1 stop ,"2,909 NIS ",22/05/2023
+LOT,NYC,LUX,13h 15m ,1 stop ,"3,606 NIS ",22/05/2023
+"Icelandair, Finnair",NYC,LUX,15h 50m ,2 stops ,"4,340 NIS ",22/05/2023
+Qatar Airways,NYC,LUX,19h 10m ,1 stop ,"7,284 NIS ",22/05/2023
+"Lufthansa, Air France",NYC,LUX,12h 35m ,1 stop ,"20,633 NIS ",22/05/2023
+"United Airlines, Air France",NYC,LUX,12h 35m ,1 stop ,"20,850 NIS ",22/05/2023
+LOT,NYC,LUX,13h 15m ,1 stop ,"2,262 NIS ",22/05/2023
+"American Airlines, Finnair",NYC,LUX,10h 45m ,1 stop ,"2,736 NIS ",22/05/2023
+Finnair,NYC,LUX,10h 45m ,1 stop ,"2,785 NIS ",22/05/2023
+Delta,NYC,LUX,18h 15m ,1 stop ,"2,137 NIS ",22/05/2023
+Delta,NYC,LUX,18h 35m ,1 stop ,"2,137 NIS ",22/05/2023
+LOT,NYC,LUX,17h 00m ,1 stop ,"2,485 NIS ",22/05/2023
+LOT,NYC,LUX,14h 45m ,1 stop ,"2,607 NIS ",22/05/2023
+Air France,NYC,LUX,12h 25m ,1 stop ,"2,909 NIS ",22/05/2023
+KLM,NYC,LUX,14h 35m ,1 stop ,"2,914 NIS ",22/05/2023
+"American Airlines, Finnair",NYC,LUX,17h 15m ,1 stop ,"2,736 NIS ",22/05/2023
+Finnair,NYC,LUX,17h 15m ,1 stop ,"2,785 NIS ",22/05/2023
+Brussels Airlines,NYC,LUX,15h 50m ,2 stops ,"1,652 NIS ",22/05/2023
+Delta,NYC,LUX,15h 05m ,2 stops ,"1,968 NIS ",22/05/2023
+Delta,NYC,LUX,15h 35m ,2 stops ,"1,968 NIS ",22/05/2023
+Delta,NYC,LUX,15h 55m ,2 stops ,"1,968 NIS ",22/05/2023
+Delta,NYC,LUX,17h 05m ,2 stops ,"1,968 NIS ",22/05/2023
+Delta,NYC,LUX,17h 40m ,2 stops ,"1,968 NIS ",22/05/2023
+Delta,NYC,LUX,15h 15m ,2 stops ,"1,985 NIS ",22/05/2023
+Delta,NYC,LUX,15h 45m ,2 stops ,"1,985 NIS ",22/05/2023
+Delta,NYC,LUX,15h 46m ,2 stops ,"1,985 NIS ",22/05/2023
+Delta,NYC,LUX,16h 05m ,2 stops ,"1,985 NIS ",22/05/2023
+Delta,NYC,LUX,16h 45m ,2 stops ,"1,985 NIS ",22/05/2023
+Delta,NYC,LUX,17h 15m ,2 stops ,"1,985 NIS ",22/05/2023
+Delta,NYC,LUX,17h 15m ,2 stops ,"1,985 NIS ",22/05/2023
+"United Airlines, Brussels Airlines",NYC,LUX,15h 50m ,2 stops ,"2,150 NIS ",22/05/2023
+Delta,NYC,LUX,17h 55m ,2 stops ,"1,968 NIS ",22/05/2023
+Delta,NYC,LUX,17h 55m ,2 stops ,"1,968 NIS ",22/05/2023
+Delta,NYC,LUX,18h 00m ,2 stops ,"1,985 NIS ",22/05/2023
+Delta,NYC,LUX,18h 20m ,2 stops ,"1,985 NIS ",22/05/2023
+Delta,NYC,LUX,18h 45m ,2 stops ,"1,985 NIS ",22/05/2023
+"Lufthansa, Aeroflot",NYC,LUX,15h 15m ,2 stops ,"2,045 NIS ",22/05/2023
+"Lufthansa, Aeroflot",NYC,LUX,16h 25m ,2 stops ,"2,045 NIS ",22/05/2023
+"Lufthansa, Aeroflot",NYC,LUX,17h 10m ,2 stops ,"2,045 NIS ",22/05/2023
+Delta,NYC,LUX,17h 05m ,2 stops ,"2,137 NIS ",22/05/2023
+Delta,NYC,LUX,18h 06m ,2 stops ,"2,137 NIS ",22/05/2023
+Delta,NYC,LUX,17h 15m ,2 stops ,"2,697 NIS ",22/05/2023
+"American Airlines, Finnair",NYC,LUX,15h 15m ,2 stops ,"2,753 NIS ",22/05/2023
+"American Airlines, Finnair",NYC,LUX,15h 21m ,2 stops ,"2,753 NIS ",22/05/2023
+"American Airlines, Finnair",NYC,LUX,15h 39m ,2 stops ,"2,753 NIS ",22/05/2023
+"American Airlines, Finnair",NYC,LUX,16h 15m ,2 stops ,"2,753 NIS ",22/05/2023
+"American Airlines, Finnair",NYC,LUX,17h 15m ,2 stops ,"2,753 NIS ",22/05/2023
+"American Airlines, Finnair",NYC,LUX,18h 41m ,2 stops ,"2,753 NIS ",22/05/2023
+Delta,NYC,LUX,18h 06m ,2 stops ,"2,961 NIS ",22/05/2023
+Delta,NYC,LUX,16h 16m ,2 stops ,"2,978 NIS ",22/05/2023
+Finnair,NYC,LUX,16h 10m ,2 stops ,"3,230 NIS ",22/05/2023
+Finnair,NYC,LUX,16h 45m ,2 stops ,"3,230 NIS ",22/05/2023
+Finnair,NYC,LUX,16h 55m ,2 stops ,"3,230 NIS ",22/05/2023
+KLM,NYC,LUX,14h 05m ,2 stops ,"3,348 NIS ",22/05/2023
+KLM,NYC,LUX,15h 05m ,2 stops ,"3,348 NIS ",22/05/2023
+"Lufthansa, Aeroflot",NYC,LUX,17h 55m ,3 stops ,"2,197 NIS ",22/05/2023
+"Lufthansa, Aeroflot",NYC,LUX,17h 55m ,3 stops ,"2,197 NIS ",22/05/2023
+Finnair,NYC,LUX,17h 45m ,2 stops ,"3,218 NIS ",22/05/2023
+Finnair,NYC,LUX,17h 45m ,2 stops ,"3,218 NIS ",22/05/2023
+Finnair,NYC,LUX,17h 20m ,2 stops ,"3,230 NIS ",22/05/2023
+Finnair,NYC,LUX,17h 50m ,2 stops ,"3,230 NIS ",22/05/2023
+Finnair,NYC,LUX,18h 10m ,2 stops ,"3,230 NIS ",22/05/2023
+KLM,NYC,LUX,18h 40m ,2 stops ,"3,597 NIS ",22/05/2023
+KLM,NYC,LUX,18h 40m ,2 stops ,"3,597 NIS ",22/05/2023
+KLM,NYC,LUX,18h 40m ,2 stops ,"3,597 NIS ",22/05/2023
+KLM,NYC,LUX,14h 35m ,2 stops ,"3,810 NIS ",22/05/2023
+"Icelandair, Finnair",NYC,LUX,15h 50m ,2 stops ,"4,340 NIS ",22/05/2023
+Delta,NYC,LUX,16h 10m ,2 stops ,"4,749 NIS ",22/05/2023
+Delta,NYC,LUX,16h 30m ,2 stops ,"4,749 NIS ",22/05/2023
+Qatar Airways,NYC,LUX,19h 10m ,1 stop ,"7,284 NIS ",22/05/2023
+"American Airlines, Finnair",NYC,LUX,16h 45m ,2 stops ,"10,259 NIS ",22/05/2023
+"United Airlines, airBaltic",NYC,LUX,18h 20m ,2 stops ,"11,648 NIS ",22/05/2023
+"United Airlines, LOT",NYC,LUX,18h 10m ,2 stops ,"11,813 NIS ",22/05/2023
+Multiple Airlines,NYC,LUX,17h 05m ,2 stops ,"11,841 NIS ",22/05/2023
+Multiple Airlines,NYC,LUX,18h 40m ,2 stops ,"11,841 NIS ",22/05/2023
+"United Airlines, Finnair",NYC,LUX,18h 15m ,2 stops ,"12,280 NIS ",22/05/2023
+"United Airlines, Finnair",NYC,LUX,16h 20m ,2 stops ,"12,297 NIS ",22/05/2023
+"United Airlines, Finnair",NYC,LUX,17h 20m ,2 stops ,"12,297 NIS ",22/05/2023
+"United Airlines, Finnair",NYC,LUX,18h 20m ,2 stops ,"12,297 NIS ",22/05/2023
+"United Airlines, Finnair",NYC,LUX,17h 45m ,2 stops ,"12,305 NIS ",22/05/2023
+"United Airlines, Finnair",NYC,LUX,17h 45m ,2 stops ,"12,305 NIS ",22/05/2023
+"United Airlines, Finnair",NYC,LUX,16h 40m ,2 stops ,"12,355 NIS ",22/05/2023
+"United Airlines, Finnair",NYC,LUX,18h 15m ,2 stops ,"12,355 NIS ",22/05/2023
+Multiple Airlines,NYC,LUX,18h 15m ,2 stops ,"12,355 NIS ",22/05/2023
+Multiple Airlines,NYC,LUX,15h 15m ,2 stops ,"14,772 NIS ",22/05/2023
+Multiple Airlines,NYC,LUX,15h 20m ,2 stops ,"14,772 NIS ",22/05/2023
+Multiple Airlines,NYC,LUX,16h 00m ,2 stops ,"14,772 NIS ",22/05/2023
+Multiple Airlines,NYC,LUX,16h 15m ,2 stops ,"16,671 NIS ",22/05/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"16,671 NIS ",22/05/2023
+Multiple Airlines,NYC,LUX,18h 40m ,2 stops ,"16,671 NIS ",22/05/2023
+"United Airlines, Air France",NYC,LUX,15h 45m ,2 stops ,"16,964 NIS ",22/05/2023
+"United Airlines, Air France",NYC,LUX,16h 45m ,2 stops ,"16,964 NIS ",22/05/2023
+"Lufthansa, Air France",NYC,LUX,12h 35m ,1 stop ,"20,633 NIS ",22/05/2023
+"United Airlines, Air France",NYC,LUX,12h 35m ,1 stop ,"20,850 NIS ",22/05/2023
+"United Airlines, Air France",NYC,LUX,16h 05m ,1 stop ,"20,850 NIS ",22/05/2023
+Multiple Airlines,NYC,LUX,14h 25m ,2 stops ,"21,111 NIS ",22/05/2023
+"Lufthansa, KLM",NYC,LUX,15h 00m ,1 stop ,"29,672 NIS ",22/05/2023
+"Lufthansa, KLM",NYC,LUX,14h 25m ,2 stops ,"29,909 NIS ",22/05/2023
+"Lufthansa, KLM",NYC,LUX,14h 05m ,2 stops ,"29,922 NIS ",22/05/2023
+Brussels Airlines,NYC,LUX,15h 50m ,2 stops ,"1,795 NIS ",23/05/2023
+Brussels Airlines,NYC,LUX,13h 20m ,1 stop ,"1,519 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,23h 40m ,3 stops ,"1,479 NIS ",23/05/2023
+Air Serbia,NYC,LUX,18h 10m ,1 stop ,"1,843 NIS ",23/05/2023
+Delta,NYC,LUX,13h 35m ,1 stop ,"1,951 NIS ",23/05/2023
+Delta,NYC,LUX,14h 35m ,1 stop ,"1,951 NIS ",23/05/2023
+Delta,NYC,LUX,15h 35m ,1 stop ,"1,951 NIS ",23/05/2023
+Delta,NYC,LUX,16h 35m ,1 stop ,"1,951 NIS ",23/05/2023
+Delta,NYC,LUX,12h 45m ,1 stop ,"1,969 NIS ",23/05/2023
+Delta,NYC,LUX,13h 15m ,1 stop ,"1,969 NIS ",23/05/2023
+Delta,NYC,LUX,16h 15m ,1 stop ,"1,969 NIS ",23/05/2023
+Finnair,NYC,LUX,10h 45m ,1 stop ,"2,112 NIS ",23/05/2023
+Delta,NYC,LUX,13h 45m ,1 stop ,"2,137 NIS ",23/05/2023
+Delta,NYC,LUX,14h 15m ,1 stop ,"2,137 NIS ",23/05/2023
+Delta,NYC,LUX,14h 45m ,1 stop ,"2,137 NIS ",23/05/2023
+Delta,NYC,LUX,15h 15m ,1 stop ,"2,137 NIS ",23/05/2023
+Delta,NYC,LUX,17h 15m ,1 stop ,"2,137 NIS ",23/05/2023
+Delta,NYC,LUX,17h 15m ,1 stop ,"2,137 NIS ",23/05/2023
+Delta,NYC,LUX,18h 15m ,1 stop ,"2,137 NIS ",23/05/2023
+Delta,NYC,LUX,18h 35m ,1 stop ,"2,137 NIS ",23/05/2023
+LOT,NYC,LUX,14h 45m ,1 stop ,"2,262 NIS ",23/05/2023
+"United Airlines, Brussels Airlines",NYC,LUX,13h 20m ,1 stop ,"2,285 NIS ",23/05/2023
+LOT,NYC,LUX,11h 20m ,1 stop ,"2,485 NIS ",23/05/2023
+"American Airlines, Finnair",NYC,LUX,10h 45m ,1 stop ,"2,736 NIS ",23/05/2023
+"American Airlines, Finnair",NYC,LUX,17h 15m ,1 stop ,"2,736 NIS ",23/05/2023
+Finnair,NYC,LUX,17h 15m ,1 stop ,"2,785 NIS ",23/05/2023
+KLM,NYC,LUX,14h 35m ,1 stop ,"2,914 NIS ",23/05/2023
+KLM,NYC,LUX,15h 35m ,1 stop ,"2,914 NIS ",23/05/2023
+LOT,NYC,LUX,17h 20m ,1 stop ,"3,606 NIS ",23/05/2023
+Brussels Airlines,NYC,LUX,15h 50m ,2 stops ,"1,649 NIS ",23/05/2023
+Brussels Airlines,NYC,LUX,15h 50m ,2 stops ,"1,652 NIS ",23/05/2023
+Delta,NYC,LUX,15h 35m ,2 stops ,"1,968 NIS ",23/05/2023
+Delta,NYC,LUX,15h 55m ,2 stops ,"1,968 NIS ",23/05/2023
+Delta,NYC,LUX,17h 40m ,2 stops ,"1,968 NIS ",23/05/2023
+Delta,NYC,LUX,17h 55m ,2 stops ,"1,968 NIS ",23/05/2023
+Delta,NYC,LUX,17h 55m ,2 stops ,"1,968 NIS ",23/05/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,968 NIS ",23/05/2023
+Delta,NYC,LUX,18h 05m ,2 stops ,"1,968 NIS ",23/05/2023
+Delta,NYC,LUX,16h 05m ,2 stops ,"1,985 NIS ",23/05/2023
+Delta,NYC,LUX,16h 16m ,2 stops ,"1,985 NIS ",23/05/2023
+Delta,NYC,LUX,16h 45m ,2 stops ,"1,985 NIS ",23/05/2023
+Delta,NYC,LUX,16h 46m ,2 stops ,"1,985 NIS ",23/05/2023
+Delta,NYC,LUX,17h 15m ,2 stops ,"1,985 NIS ",23/05/2023
+Delta,NYC,LUX,17h 35m ,2 stops ,"1,985 NIS ",23/05/2023
+Delta,NYC,LUX,17h 45m ,2 stops ,"1,985 NIS ",23/05/2023
+Delta,NYC,LUX,17h 45m ,2 stops ,"1,985 NIS ",23/05/2023
+Delta,NYC,LUX,18h 06m ,2 stops ,"2,137 NIS ",23/05/2023
+"French Bee, Air France",NYC,LUX,18h 10m ,1 stop ,"2,742 NIS ",23/05/2023
+"American Airlines, Finnair",NYC,LUX,15h 15m ,2 stops ,"2,753 NIS ",23/05/2023
+"American Airlines, Finnair",NYC,LUX,15h 21m ,2 stops ,"2,753 NIS ",23/05/2023
+"American Airlines, Finnair",NYC,LUX,15h 39m ,2 stops ,"2,753 NIS ",23/05/2023
+"American Airlines, Finnair",NYC,LUX,16h 15m ,2 stops ,"2,753 NIS ",23/05/2023
+"American Airlines, Finnair",NYC,LUX,17h 15m ,2 stops ,"2,753 NIS ",23/05/2023
+"American Airlines, Finnair",NYC,LUX,18h 41m ,2 stops ,"2,753 NIS ",23/05/2023
+Finnair,NYC,LUX,17h 45m ,2 stops ,"3,218 NIS ",23/05/2023
+Finnair,NYC,LUX,17h 45m ,2 stops ,"3,218 NIS ",23/05/2023
+Finnair,NYC,LUX,16h 10m ,2 stops ,"3,230 NIS ",23/05/2023
+Finnair,NYC,LUX,16h 45m ,2 stops ,"3,230 NIS ",23/05/2023
+Finnair,NYC,LUX,16h 55m ,2 stops ,"3,230 NIS ",23/05/2023
+Finnair,NYC,LUX,17h 20m ,2 stops ,"3,230 NIS ",23/05/2023
+Finnair,NYC,LUX,17h 50m ,2 stops ,"3,230 NIS ",23/05/2023
+Finnair,NYC,LUX,18h 10m ,2 stops ,"3,230 NIS ",23/05/2023
+KLM,NYC,LUX,14h 35m ,2 stops ,"3,332 NIS ",23/05/2023
+KLM,NYC,LUX,14h 05m ,2 stops ,"3,345 NIS ",23/05/2023
+KLM,NYC,LUX,15h 05m ,2 stops ,"3,345 NIS ",23/05/2023
+KLM,NYC,LUX,18h 40m ,2 stops ,"3,597 NIS ",23/05/2023
+KLM,NYC,LUX,18h 40m ,2 stops ,"3,597 NIS ",23/05/2023
+KLM,NYC,LUX,18h 40m ,2 stops ,"3,597 NIS ",23/05/2023
+KLM,NYC,LUX,18h 40m ,2 stops ,"3,597 NIS ",23/05/2023
+Delta,NYC,LUX,16h 10m ,2 stops ,"3,671 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,17h 45m ,2 stops ,"1,681 NIS ",23/05/2023
+"Icelandair, Finnair",NYC,LUX,15h 50m ,2 stops ,"4,340 NIS ",23/05/2023
+Delta,NYC,LUX,15h 46m ,2 stops ,"4,749 NIS ",23/05/2023
+"American Airlines, Finnair",NYC,LUX,16h 45m ,2 stops ,"10,259 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,17h 05m ,2 stops ,"11,841 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,18h 40m ,2 stops ,"11,841 NIS ",23/05/2023
+"United Airlines, Finnair",NYC,LUX,18h 15m ,2 stops ,"12,280 NIS ",23/05/2023
+"United Airlines, Finnair",NYC,LUX,16h 20m ,2 stops ,"12,297 NIS ",23/05/2023
+"United Airlines, Finnair",NYC,LUX,17h 20m ,2 stops ,"12,297 NIS ",23/05/2023
+"United Airlines, Finnair",NYC,LUX,18h 20m ,2 stops ,"12,297 NIS ",23/05/2023
+"British Airways, Qatar Airways",NYC,LUX,31h 10m ,2 stops ,"12,594 NIS ",23/05/2023
+"Air France, airBaltic",NYC,LUX,18h 10m ,2 stops ,"14,064 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,15h 15m ,2 stops ,"14,772 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,15h 20m ,2 stops ,"14,772 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,16h 00m ,2 stops ,"14,772 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,16h 20m ,2 stops ,"14,772 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,17h 20m ,2 stops ,"14,772 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,17h 30m ,2 stops ,"14,772 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,17h 40m ,2 stops ,"14,772 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,17h 55m ,2 stops ,"14,772 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,18h 15m ,2 stops ,"14,772 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,18h 20m ,2 stops ,"14,772 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,16h 15m ,2 stops ,"16,671 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,17h 00m ,2 stops ,"16,671 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,18h 40m ,2 stops ,"16,671 NIS ",23/05/2023
+"United Airlines, Air France",NYC,LUX,15h 45m ,2 stops ,"16,964 NIS ",23/05/2023
+"United Airlines, Air France",NYC,LUX,16h 45m ,2 stops ,"16,964 NIS ",23/05/2023
+"Lufthansa, Air France",NYC,LUX,12h 35m ,1 stop ,"20,633 NIS ",23/05/2023
+"Lufthansa, Air France",NYC,LUX,16h 05m ,1 stop ,"20,633 NIS ",23/05/2023
+"United Airlines, Air France",NYC,LUX,12h 35m ,1 stop ,"20,850 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,14h 25m ,2 stops ,"21,111 NIS ",23/05/2023
+Multiple Airlines,NYC,LUX,15h 45m ,2 stops ,"22,083 NIS ",23/05/2023
+"Lufthansa, KLM",NYC,LUX,15h 00m ,1 stop ,"30,699 NIS ",23/05/2023
+Brussels Airlines,NYC,LUX,13h 20m ,1 stop ,"1,519 NIS ",24/05/2023
+"American Airlines, Finnair",NYC,LUX,10h 45m ,1 stop ,"2,736 NIS ",24/05/2023
+Air France,NYC,LUX,12h 25m ,1 stop ,"2,969 NIS ",24/05/2023
+Air France,NYC,LUX,13h 45m ,1 stop ,"3,205 NIS ",24/05/2023

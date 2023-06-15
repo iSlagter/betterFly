@@ -1,0 +1,2236 @@
+Airline,Source,Destination,Duration,Total stops,Price,Date
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",01/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,531 NIS ",01/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,415 NIS ",01/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,439 NIS ",01/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,601 NIS ",01/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,658 NIS ",01/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,814 NIS ",01/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,545 NIS ",01/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,899 NIS ",01/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,956 NIS ",01/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,172 NIS ",01/03/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",01/03/2023
+"Aeroflot, flydubai",TLV,GRU,11h 35m ,1 stop ,"2,541 NIS ",01/03/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,642 NIS ",01/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 00m ,2 stops ,"1,826 NIS ",01/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 30m ,2 stops ,"1,828 NIS ",01/03/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,862 NIS ",01/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 30m ,2 stops ,"1,887 NIS ",01/03/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,309 NIS ",01/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",01/03/2023
+Multiple Airlines,TLV,GRU,19h 00m ,2 stops ,"1,964 NIS ",01/03/2023
+Multiple Airlines,TLV,GRU,18h 25m ,2 stops ,"2,009 NIS ",01/03/2023
+Multiple Airlines,TLV,GRU,19h 15m ,3 stops ,"1,631 NIS ",01/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,18h 30m ,3 stops ,"1,732 NIS ",01/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,769 NIS ",01/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 00m ,3 stops ,"1,794 NIS ",01/03/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,840 NIS ",01/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,18h 30m ,3 stops ,"1,944 NIS ",01/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,051 NIS ",01/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,2 stops ,"3,244 NIS ",01/03/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"9,286 NIS ",01/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,063 NIS ",01/03/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,063 NIS ",01/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"18,752 NIS ",01/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"18,971 NIS ",01/03/2023
+Multiple Airlines,TLV,GRU,18h 00m ,2 stops ,"22,184 NIS ",01/03/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"22,351 NIS ",01/03/2023
+Multiple Airlines,TLV,GRU,15h 10m ,2 stops ,"22,382 NIS ",01/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"26,139 NIS ",01/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",02/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,531 NIS ",02/03/2023
+"Finnair, flynas",TLV,GRU,15h 25m ,2 stops ,"1,198 NIS ",02/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,832 NIS ",02/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,456 NIS ",02/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,546 NIS ",02/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",02/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,893 NIS ",02/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,897 NIS ",02/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,545 NIS ",02/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"1,961 NIS ",02/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,168 NIS ",02/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,425 NIS ",02/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 45m ,1 stop ,"2,566 NIS ",02/03/2023
+"Aeroflot, flydubai",TLV,GRU,11h 35m ,1 stop ,"2,539 NIS ",02/03/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,637 NIS ",02/03/2023
+Multiple Airlines,TLV,GRU,14h 50m ,2 stops ,"1,550 NIS ",02/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,12h 45m ,2 stops ,"1,755 NIS ",02/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,432 NIS ",02/03/2023
+Multiple Airlines,TLV,GRU,19h 00m ,2 stops ,"1,577 NIS ",02/03/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,800 NIS ",02/03/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,862 NIS ",02/03/2023
+"airBaltic, flynas",TLV,GRU,14h 40m ,2 stops ,"1,862 NIS ",02/03/2023
+"Aeroflot, Royal Jordanian",TLV,GRU,16h 20m ,2 stops ,"1,963 NIS ",02/03/2023
+"Qatar Airways, flynas",TLV,GRU,13h 50m ,2 stops ,"2,320 NIS ",02/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",02/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,20h 00m ,3 stops ,"1,616 NIS ",02/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,20h 00m ,3 stops ,"1,616 NIS ",02/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,15h 00m ,3 stops ,"1,656 NIS ",02/03/2023
+Multiple Airlines,TLV,GRU,19h 25m ,3 stops ,"1,674 NIS ",02/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,769 NIS ",02/03/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,772 NIS ",02/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,18h 15m ,3 stops ,"1,812 NIS ",02/03/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,838 NIS ",02/03/2023
+Multiple Airlines,TLV,GRU,18h 25m ,3 stops ,"1,844 NIS ",02/03/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"9,287 NIS ",02/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"12,821 NIS ",02/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,050 NIS ",02/03/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,050 NIS ",02/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"17,548 NIS ",02/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,829 NIS ",02/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,618 NIS ",03/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,531 NIS ",03/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,439 NIS ",03/03/2023
+"Aeroflot, Air Arabia",TLV,GRU,12h 00m ,1 stop ,"1,495 NIS ",03/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,675 NIS ",03/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"2,002 NIS ",03/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,545 NIS ",03/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,879 NIS ",03/03/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",03/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,127 NIS ",03/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"2,333 NIS ",03/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,415 NIS ",03/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,15h 15m ,1 stop ,"2,451 NIS ",03/03/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,637 NIS ",03/03/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,750 NIS ",03/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 30m ,2 stops ,"1,797 NIS ",03/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 00m ,2 stops ,"1,835 NIS ",03/03/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,862 NIS ",03/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 35m ,2 stops ,"1,899 NIS ",03/03/2023
+"Aeroflot, flydubai",TLV,GRU,19h 40m ,2 stops ,"2,125 NIS ",03/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",03/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,704 NIS ",03/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,704 NIS ",03/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 00m ,3 stops ,"1,866 NIS ",03/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,18h 30m ,3 stops ,"1,904 NIS ",03/03/2023
+Multiple Airlines,TLV,GRU,19h 05m ,3 stops ,"2,015 NIS ",03/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"2,072 NIS ",03/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,077 NIS ",03/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,2 stops ,"3,230 NIS ",03/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"3,682 NIS ",03/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"3,877 NIS ",03/03/2023
+Multiple Airlines,TLV,GRU,17h 50m ,3 stops ,"3,781 NIS ",03/03/2023
+"Aeroflot, MEA",TLV,GRU,20h 40m ,2 stops ,"14,326 NIS ",03/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,050 NIS ",03/03/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,050 NIS ",03/03/2023
+Multiple Airlines,TLV,GRU,16h 10m ,2 stops ,"19,475 NIS ",03/03/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"19,549 NIS ",03/03/2023
+Multiple Airlines,TLV,GRU,14h 25m ,2 stops ,"21,578 NIS ",03/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"25,113 NIS ",03/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,701 NIS ",04/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,619 NIS ",04/03/2023
+"Finnair, flynas",TLV,GRU,20h 10m ,2 stops ,"1,501 NIS ",04/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,711 NIS ",04/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,810 NIS ",04/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,633 NIS ",04/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,717 NIS ",04/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,870 NIS ",04/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,977 NIS ",04/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,11h 35m ,1 stop ,"2,010 NIS ",04/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,174 NIS ",04/03/2023
+"Aeroflot, Emirates",TLV,GRU,10h 10m ,1 stop ,"2,486 NIS ",04/03/2023
+"Aeroflot, MEA",TLV,GRU,15h 00m ,1 stop ,"2,506 NIS ",04/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,414 NIS ",04/03/2023
+"Aeroflot, flydubai",TLV,GRU,11h 35m ,1 stop ,"2,468 NIS ",04/03/2023
+"Finnair, flynas",TLV,GRU,15h 25m ,2 stops ,"1,620 NIS ",04/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,682 NIS ",04/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,12h 45m ,2 stops ,"1,807 NIS ",04/03/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,906 NIS ",04/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,429 NIS ",04/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 30m ,3 stops ,"1,632 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,14h 30m ,3 stops ,"1,785 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,16h 05m ,3 stops ,"1,785 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,17h 25m ,3 stops ,"1,785 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,3 stops ,"1,785 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,19h 00m ,3 stops ,"1,785 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,20h 20m ,3 stops ,"1,785 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,21h 00m ,3 stops ,"1,785 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,19h 30m ,3 stops ,"1,819 NIS ",04/03/2023
+"Nordwind Airlines, Air Arabia",TLV,GRU,18h 15m ,2 stops ,"1,830 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,18h 10m ,3 stops ,"1,837 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"2,072 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,077 NIS ",04/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,15h 10m ,2 stops ,"7,498 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,16h 30m ,2 stops ,"10,330 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"15,653 NIS ",04/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,063 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"16,476 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"17,343 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"17,548 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,829 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"19,549 NIS ",04/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"23,774 NIS ",04/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 15m ,2 stops ,"37,216 NIS ",04/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,711 NIS ",05/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,619 NIS ",05/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,633 NIS ",05/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,711 NIS ",05/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,717 NIS ",05/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,810 NIS ",05/03/2023
+"Nordwind Airlines, Air Arabia",TLV,GRU,17h 15m ,1 stop ,"1,862 NIS ",05/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,977 NIS ",05/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,159 NIS ",05/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"2,201 NIS ",05/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,209 NIS ",05/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"2,333 NIS ",05/03/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,637 NIS ",05/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,682 NIS ",05/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 35m ,2 stops ,"1,900 NIS ",05/03/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,907 NIS ",05/03/2023
+Multiple Airlines,TLV,GRU,18h 25m ,2 stops ,"2,039 NIS ",05/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,429 NIS ",05/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,704 NIS ",05/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,704 NIS ",05/03/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,980 NIS ",05/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,010 NIS ",05/03/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"2,057 NIS ",05/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"2,072 NIS ",05/03/2023
+Multiple Airlines,TLV,GRU,15h 25m ,3 stops ,"2,760 NIS ",05/03/2023
+Multiple Airlines,TLV,GRU,15h 20m ,3 stops ,"3,223 NIS ",05/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,19h 50m ,2 stops ,"7,498 NIS ",05/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"19,103 NIS ",05/03/2023
+"Aeroflot, SriLankan Airlines",TLV,GRU,20h 00m ,1 stop ,"20,773 NIS ",05/03/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"20,827 NIS ",05/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",06/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,531 NIS ",06/03/2023
+"Finnair, flyadeal",TLV,GRU,14h 25m ,2 stops ,"1,161 NIS ",06/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",06/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,832 NIS ",06/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,11h 35m ,1 stop ,"1,995 NIS ",06/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,545 NIS ",06/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,670 NIS ",06/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,735 NIS ",06/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"2,004 NIS ",06/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,159 NIS ",06/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,223 NIS ",06/03/2023
+"Finnair, flynas",TLV,GRU,15h 25m ,2 stops ,"1,198 NIS ",06/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,599 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,15h 00m ,2 stops ,"1,742 NIS ",06/03/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,860 NIS ",06/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,2 stops ,"1,861 NIS ",06/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,434 NIS ",06/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 00m ,3 stops ,"1,714 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,19h 25m ,3 stops ,"1,723 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,794 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,18h 25m ,3 stops ,"1,887 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,20h 55m ,3 stops ,"1,940 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,077 NIS ",06/03/2023
+"Aeroflot, flydubai",TLV,GRU,19h 40m ,2 stops ,"2,107 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,2 stops ,"3,172 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,21h 00m ,3 stops ,"2,249 NIS ",06/03/2023
+"Pobeda, MEA",TLV,GRU,18h 35m ,3 stops ,"2,458 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,18h 10m ,3 stops ,"2,574 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,18h 05m ,3 stops ,"2,673 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"15,653 NIS ",06/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,063 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"16,476 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,18h 25m ,2 stops ,"17,352 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"17,548 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,829 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"19,549 NIS ",06/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"23,774 NIS ",06/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 15m ,2 stops ,"37,216 NIS ",06/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",07/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,526 NIS ",07/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,432 NIS ",07/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,456 NIS ",07/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",07/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,828 NIS ",07/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,541 NIS ",07/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,870 NIS ",07/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,956 NIS ",07/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"2,001 NIS ",07/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,168 NIS ",07/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,415 NIS ",07/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,209 NIS ",07/03/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,637 NIS ",07/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 00m ,2 stops ,"1,790 NIS ",07/03/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,809 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,842 NIS ",07/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 30m ,2 stops ,"1,848 NIS ",07/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,21h 00m ,2 stops ,"2,024 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,17h 30m ,2 stops ,"2,131 NIS ",07/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,704 NIS ",07/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,704 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,794 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,20h 30m ,3 stops ,"1,812 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,818 NIS ",07/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 45m ,3 stops ,"1,847 NIS ",07/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,18h 15m ,3 stops ,"1,905 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,19h 45m ,3 stops ,"2,008 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,19h 05m ,3 stops ,"2,020 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,19h 50m ,3 stops ,"2,020 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,20h 15m ,3 stops ,"2,028 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,077 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,17h 05m ,3 stops ,"2,247 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,21h 10m ,3 stops ,"2,400 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,20h 55m ,3 stops ,"2,455 NIS ",07/03/2023
+"KLM, Qatar Airways",TLV,GRU,21h 10m ,3 stops ,"3,139 NIS ",07/03/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"9,287 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"12,820 NIS ",07/03/2023
+"Aeroflot, MEA",TLV,GRU,20h 40m ,2 stops ,"14,327 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"19,101 NIS ",07/03/2023
+Multiple Airlines,TLV,GRU,16h 10m ,2 stops ,"20,754 NIS ",07/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",08/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,526 NIS ",08/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,415 NIS ",08/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,439 NIS ",08/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,711 NIS ",08/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,810 NIS ",08/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,879 NIS ",08/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,541 NIS ",08/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,697 NIS ",08/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,168 NIS ",08/03/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",08/03/2023
+"Aeroflot, Emirates",TLV,GRU,10h 10m ,1 stop ,"2,711 NIS ",08/03/2023
+"Aeroflot, Air France",TLV,GRU,12h 25m ,1 stop ,"3,754 NIS ",08/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 30m ,2 stops ,"1,750 NIS ",08/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 00m ,2 stops ,"1,782 NIS ",08/03/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,842 NIS ",08/03/2023
+Multiple Airlines,TLV,GRU,16h 35m ,2 stops ,"1,855 NIS ",08/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",08/03/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,362 NIS ",08/03/2023
+Multiple Airlines,TLV,GRU,21h 00m ,2 stops ,"2,024 NIS ",08/03/2023
+"Aeroflot, Kuwait Airways",TLV,GRU,21h 15m ,2 stops ,"2,072 NIS ",08/03/2023
+"Aeroflot, flydubai",TLV,GRU,19h 40m ,2 stops ,"2,107 NIS ",08/03/2023
+"Qatar Airways, flynas",TLV,GRU,13h 50m ,2 stops ,"2,320 NIS ",08/03/2023
+Multiple Airlines,TLV,GRU,13h 50m ,2 stops ,"2,377 NIS ",08/03/2023
+Multiple Airlines,TLV,GRU,19h 15m ,3 stops ,"1,631 NIS ",08/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 00m ,3 stops ,"1,643 NIS ",08/03/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,794 NIS ",08/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,18h 30m ,3 stops ,"1,814 NIS ",08/03/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,818 NIS ",08/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,18h 30m ,3 stops ,"2,025 NIS ",08/03/2023
+Multiple Airlines,TLV,GRU,19h 10m ,3 stops ,"2,082 NIS ",08/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,3 stops ,"2,219 NIS ",08/03/2023
+"Aeroflot, MEA",TLV,GRU,20h 40m ,2 stops ,"14,327 NIS ",08/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,064 NIS ",08/03/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,064 NIS ",08/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"17,546 NIS ",08/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,827 NIS ",08/03/2023
+Multiple Airlines,TLV,GRU,18h 00m ,2 stops ,"19,517 NIS ",08/03/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"19,547 NIS ",08/03/2023
+Multiple Airlines,TLV,GRU,15h 10m ,2 stops ,"21,012 NIS ",08/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"23,772 NIS ",08/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,619 NIS ",09/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,526 NIS ",09/03/2023
+"Finnair, flynas",TLV,GRU,15h 25m ,2 stops ,"1,198 NIS ",09/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,809 NIS ",09/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,456 NIS ",09/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,541 NIS ",09/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,574 NIS ",09/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",09/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,900 NIS ",09/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"1,999 NIS ",09/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,154 NIS ",09/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,415 NIS ",09/03/2023
+"Aeroflot, Emirates",TLV,GRU,10h 10m ,1 stop ,"2,542 NIS ",09/03/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,635 NIS ",09/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,12h 45m ,2 stops ,"1,790 NIS ",09/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,517 NIS ",09/03/2023
+Multiple Airlines,TLV,GRU,19h 00m ,2 stops ,"1,627 NIS ",09/03/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,824 NIS ",09/03/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,862 NIS ",09/03/2023
+"Aeroflot, Royal Jordanian",TLV,GRU,16h 20m ,2 stops ,"1,958 NIS ",09/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 50m ,2 stops ,"2,000 NIS ",09/03/2023
+Multiple Airlines,TLV,GRU,14h 30m ,2 stops ,"2,210 NIS ",09/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",09/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,20h 00m ,3 stops ,"1,611 NIS ",09/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,20h 00m ,3 stops ,"1,611 NIS ",09/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,15h 00m ,3 stops ,"1,651 NIS ",09/03/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,767 NIS ",09/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,794 NIS ",09/03/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,838 NIS ",09/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,18h 15m ,3 stops ,"1,889 NIS ",09/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,077 NIS ",09/03/2023
+Multiple Airlines,TLV,GRU,14h 30m ,3 stops ,"2,102 NIS ",09/03/2023
+Multiple Airlines,TLV,GRU,15h 00m ,3 stops ,"2,102 NIS ",09/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"14,882 NIS ",09/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,051 NIS ",09/03/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,051 NIS ",09/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,618 NIS ",10/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,526 NIS ",10/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,456 NIS ",10/03/2023
+"Aeroflot, Air Arabia",TLV,GRU,12h 00m ,1 stop ,"1,513 NIS ",10/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,809 NIS ",10/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,541 NIS ",10/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,806 NIS ",10/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,817 NIS ",10/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,853 NIS ",10/03/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",10/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,168 NIS ",10/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,415 NIS ",10/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,15h 15m ,1 stop ,"2,460 NIS ",10/03/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,635 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,862 NIS ",10/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 30m ,2 stops ,"1,797 NIS ",10/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 00m ,2 stops ,"1,835 NIS ",10/03/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,851 NIS ",10/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 35m ,2 stops ,"1,897 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,21h 00m ,2 stops ,"2,024 NIS ",10/03/2023
+"Aeroflot, flydubai",TLV,GRU,19h 40m ,2 stops ,"2,107 NIS ",10/03/2023
+"Qatar Airways, flyadeal",TLV,GRU,15h 15m ,2 stops ,"2,233 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,15h 10m ,2 stops ,"2,431 NIS ",10/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,702 NIS ",10/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,702 NIS ",10/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"3,102 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,793 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,21h 05m ,3 stops ,"1,828 NIS ",10/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 00m ,3 stops ,"1,866 NIS ",10/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,18h 30m ,3 stops ,"1,904 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,20h 40m ,3 stops ,"2,000 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,009 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,19h 05m ,3 stops ,"2,015 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,14h 50m ,3 stops ,"2,312 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,20h 50m ,3 stops ,"2,490 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,20h 25m ,3 stops ,"2,511 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,19h 15m ,3 stops ,"2,784 NIS ",10/03/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"9,283 NIS ",10/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,051 NIS ",10/03/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,051 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"17,546 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,827 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,16h 10m ,2 stops ,"19,473 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"19,547 NIS ",10/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"23,772 NIS ",10/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,647 NIS ",11/03/2023
+KLM,TLV,GRU,29h 25m ,1 stop ,"2,661 NIS ",11/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,701 NIS ",12/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,615 NIS ",12/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,456 NIS ",12/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",12/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"2,013 NIS ",12/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,629 NIS ",12/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,967 NIS ",12/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,976 NIS ",12/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"2,004 NIS ",12/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,154 NIS ",12/03/2023
+"Nordwind Airlines, Air Arabia",TLV,GRU,17h 15m ,1 stop ,"1,862 NIS ",12/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,169 NIS ",12/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"2,201 NIS ",12/03/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,635 NIS ",12/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,517 NIS ",12/03/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,913 NIS ",12/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,429 NIS ",12/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,702 NIS ",12/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,702 NIS ",12/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,3 stops ,"1,764 NIS ",12/03/2023
+Multiple Airlines,TLV,GRU,19h 35m ,3 stops ,"1,764 NIS ",12/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,769 NIS ",12/03/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,889 NIS ",12/03/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,902 NIS ",12/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"1,999 NIS ",12/03/2023
+Multiple Airlines,TLV,GRU,15h 55m ,3 stops ,"2,872 NIS ",12/03/2023
+Multiple Airlines,TLV,GRU,15h 25m ,3 stops ,"2,876 NIS ",12/03/2023
+Multiple Airlines,TLV,GRU,15h 20m ,3 stops ,"3,190 NIS ",12/03/2023
+Multiple Airlines,TLV,GRU,16h 25m ,3 stops ,"3,700 NIS ",12/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,19h 50m ,2 stops ,"7,502 NIS ",12/03/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"9,283 NIS ",12/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,051 NIS ",12/03/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,051 NIS ",12/03/2023
+"Aeroflot, SriLankan Airlines",TLV,GRU,20h 00m ,1 stop ,"20,779 NIS ",12/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",13/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,526 NIS ",13/03/2023
+"Finnair, flyadeal",TLV,GRU,14h 25m ,2 stops ,"1,161 NIS ",13/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,832 NIS ",13/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,456 NIS ",13/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,676 NIS ",13/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,11h 35m ,1 stop ,"2,004 NIS ",13/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,541 NIS ",13/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,829 NIS ",13/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,853 NIS ",13/03/2023
+"Aeroflot, flyadeal",TLV,GRU,15h 00m ,1 stop ,"1,875 NIS ",13/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,168 NIS ",13/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,16h 20m ,1 stop ,"2,432 NIS ",13/03/2023
+"Aeroflot, MEA",TLV,GRU,15h 00m ,1 stop ,"2,506 NIS ",13/03/2023
+"Finnair, flynas",TLV,GRU,15h 25m ,2 stops ,"1,198 NIS ",13/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,432 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,15h 00m ,2 stops ,"1,671 NIS ",13/03/2023
+"airBaltic, flynas",TLV,GRU,14h 40m ,2 stops ,"1,862 NIS ",13/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,366 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,19h 25m ,3 stops ,"1,723 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,769 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,18h 25m ,3 stops ,"1,887 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,910 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,21h 00m ,2 stops ,"2,024 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,051 NIS ",13/03/2023
+"Aeroflot, flydubai",TLV,GRU,19h 40m ,2 stops ,"2,125 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,19h 50m ,3 stops ,"2,251 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,21h 00m ,3 stops ,"2,257 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,20h 25m ,3 stops ,"2,390 NIS ",13/03/2023
+"Pobeda, MEA",TLV,GRU,18h 35m ,3 stops ,"2,587 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"15,652 NIS ",13/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,051 NIS ",13/03/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,051 NIS ",13/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,064 NIS ",13/03/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,064 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"16,474 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,18h 25m ,2 stops ,"17,350 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"17,546 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,827 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"19,547 NIS ",13/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"23,772 NIS ",13/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 15m ,2 stops ,"37,218 NIS ",13/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",14/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,526 NIS ",14/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,432 NIS ",14/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",14/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,817 NIS ",14/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,819 NIS ",14/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,456 NIS ",14/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,541 NIS ",14/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,853 NIS ",14/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"2,039 NIS ",14/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,168 NIS ",14/03/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",14/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,415 NIS ",14/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,207 NIS ",14/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"2,332 NIS ",14/03/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,635 NIS ",14/03/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,862 NIS ",14/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 30m ,2 stops ,"1,883 NIS ",14/03/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,891 NIS ",14/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 00m ,2 stops ,"1,892 NIS ",14/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 35m ,2 stops ,"1,894 NIS ",14/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",14/03/2023
+Multiple Airlines,TLV,GRU,21h 00m ,2 stops ,"2,024 NIS ",14/03/2023
+Multiple Airlines,TLV,GRU,17h 30m ,2 stops ,"2,131 NIS ",14/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,702 NIS ",14/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,702 NIS ",14/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 45m ,3 stops ,"1,746 NIS ",14/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,794 NIS ",14/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,18h 15m ,3 stops ,"1,800 NIS ",14/03/2023
+Multiple Airlines,TLV,GRU,20h 30m ,3 stops ,"1,812 NIS ",14/03/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,838 NIS ",14/03/2023
+Multiple Airlines,TLV,GRU,19h 45m ,3 stops ,"1,981 NIS ",14/03/2023
+Multiple Airlines,TLV,GRU,19h 05m ,3 stops ,"2,000 NIS ",14/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,010 NIS ",14/03/2023
+Multiple Airlines,TLV,GRU,20h 15m ,3 stops ,"2,028 NIS ",14/03/2023
+"Pobeda, MEA",TLV,GRU,19h 00m ,3 stops ,"2,444 NIS ",14/03/2023
+Multiple Airlines,TLV,GRU,20h 55m ,3 stops ,"2,455 NIS ",14/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"12,820 NIS ",14/03/2023
+"Aeroflot, MEA",TLV,GRU,20h 40m ,2 stops ,"13,319 NIS ",14/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"19,101 NIS ",14/03/2023
+Multiple Airlines,TLV,GRU,16h 10m ,2 stops ,"20,752 NIS ",14/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",15/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,526 NIS ",15/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,432 NIS ",15/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",15/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,832 NIS ",15/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,873 NIS ",15/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,456 NIS ",15/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,541 NIS ",15/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,830 NIS ",15/03/2023
+"Aeroflot, flyadeal",TLV,GRU,15h 00m ,1 stop ,"1,852 NIS ",15/03/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",15/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"2,332 NIS ",15/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,418 NIS ",15/03/2023
+"Aeroflot, flydubai",TLV,GRU,11h 35m ,1 stop ,"2,472 NIS ",15/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 30m ,2 stops ,"1,755 NIS ",15/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 00m ,2 stops ,"1,787 NIS ",15/03/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,862 NIS ",15/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",15/03/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,468 NIS ",15/03/2023
+"Aeroflot, flydubai",TLV,GRU,19h 40m ,2 stops ,"2,125 NIS ",15/03/2023
+Multiple Airlines,TLV,GRU,13h 50m ,2 stops ,"2,303 NIS ",15/03/2023
+Multiple Airlines,TLV,GRU,19h 15m ,3 stops ,"1,631 NIS ",15/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,769 NIS ",15/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 00m ,3 stops ,"1,787 NIS ",15/03/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,794 NIS ",15/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,18h 30m ,3 stops ,"1,819 NIS ",15/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,18h 30m ,3 stops ,"2,029 NIS ",15/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,051 NIS ",15/03/2023
+"Nordwind Airlines, Gulf Air",TLV,GRU,19h 00m ,3 stops ,"2,075 NIS ",15/03/2023
+"Pobeda, MEA",TLV,GRU,18h 35m ,3 stops ,"2,458 NIS ",15/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,2 stops ,"3,172 NIS ",15/03/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"9,283 NIS ",15/03/2023
+"Aeroflot, MEA",TLV,GRU,20h 40m ,2 stops ,"14,327 NIS ",15/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,064 NIS ",15/03/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,064 NIS ",15/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"17,546 NIS ",15/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,827 NIS ",15/03/2023
+Multiple Airlines,TLV,GRU,18h 00m ,2 stops ,"19,517 NIS ",15/03/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"19,547 NIS ",15/03/2023
+Multiple Airlines,TLV,GRU,15h 10m ,2 stops ,"21,012 NIS ",15/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"23,772 NIS ",15/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",16/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,526 NIS ",16/03/2023
+"Finnair, flynas",TLV,GRU,15h 25m ,2 stops ,"1,188 NIS ",16/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,832 NIS ",16/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,456 NIS ",16/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",16/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,827 NIS ",16/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,956 NIS ",16/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,541 NIS ",16/03/2023
+"Aeroflot, flyadeal",TLV,GRU,15h 00m ,1 stop ,"1,849 NIS ",16/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"1,997 NIS ",16/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,165 NIS ",16/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,415 NIS ",16/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 45m ,1 stop ,"2,495 NIS ",16/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"2,332 NIS ",16/03/2023
+"Aeroflot, flydubai",TLV,GRU,11h 35m ,1 stop ,"2,468 NIS ",16/03/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,635 NIS ",16/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,12h 45m ,2 stops ,"1,792 NIS ",16/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,517 NIS ",16/03/2023
+Multiple Airlines,TLV,GRU,19h 00m ,2 stops ,"1,616 NIS ",16/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 35m ,2 stops ,"1,855 NIS ",16/03/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,862 NIS ",16/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"2,211 NIS ",16/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 30m ,2 stops ,"2,277 NIS ",16/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",16/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,20h 00m ,3 stops ,"1,657 NIS ",16/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,20h 00m ,3 stops ,"1,657 NIS ",16/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,15h 00m ,3 stops ,"1,777 NIS ",16/03/2023
+Multiple Airlines,TLV,GRU,14h 30m ,3 stops ,"1,786 NIS ",16/03/2023
+Multiple Airlines,TLV,GRU,15h 00m ,3 stops ,"1,786 NIS ",16/03/2023
+Multiple Airlines,TLV,GRU,17h 25m ,3 stops ,"1,786 NIS ",16/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,3 stops ,"1,786 NIS ",16/03/2023
+Multiple Airlines,TLV,GRU,19h 00m ,3 stops ,"1,786 NIS ",16/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,794 NIS ",16/03/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,893 NIS ",16/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,18h 15m ,3 stops ,"1,894 NIS ",16/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,025 NIS ",16/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"12,820 NIS ",16/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,051 NIS ",16/03/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,051 NIS ",16/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",17/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,526 NIS ",17/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,439 NIS ",17/03/2023
+"Aeroflot, Air Arabia",TLV,GRU,12h 00m ,1 stop ,"1,498 NIS ",17/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,658 NIS ",17/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,814 NIS ",17/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,541 NIS ",17/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,827 NIS ",17/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,837 NIS ",17/03/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",17/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,168 NIS ",17/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"2,332 NIS ",17/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,415 NIS ",17/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,15h 15m ,1 stop ,"2,451 NIS ",17/03/2023
+"Aeroflot, flydubai",TLV,GRU,11h 35m ,1 stop ,"2,468 NIS ",17/03/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,635 NIS ",17/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 30m ,2 stops ,"1,812 NIS ",17/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 00m ,2 stops ,"1,839 NIS ",17/03/2023
+Multiple Airlines,TLV,GRU,21h 00m ,2 stops ,"2,024 NIS ",17/03/2023
+"Qatar Airways, flyadeal",TLV,GRU,15h 15m ,2 stops ,"2,240 NIS ",17/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,702 NIS ",17/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,702 NIS ",17/03/2023
+Multiple Airlines,TLV,GRU,20h 55m ,3 stops ,"1,785 NIS ",17/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,793 NIS ",17/03/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,874 NIS ",17/03/2023
+Multiple Airlines,TLV,GRU,20h 25m ,3 stops ,"1,874 NIS ",17/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 00m ,3 stops ,"1,911 NIS ",17/03/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,18h 30m ,3 stops ,"1,938 NIS ",17/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,009 NIS ",17/03/2023
+Multiple Airlines,TLV,GRU,20h 40m ,3 stops ,"2,020 NIS ",17/03/2023
+Multiple Airlines,TLV,GRU,19h 05m ,3 stops ,"2,034 NIS ",17/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"4,019 NIS ",17/03/2023
+"Aeroflot, MEA",TLV,GRU,20h 40m ,2 stops ,"13,510 NIS ",17/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,051 NIS ",17/03/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,051 NIS ",17/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"17,546 NIS ",17/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,827 NIS ",17/03/2023
+Multiple Airlines,TLV,GRU,16h 10m ,2 stops ,"19,473 NIS ",17/03/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"19,547 NIS ",17/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"23,772 NIS ",17/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,707 NIS ",18/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,615 NIS ",18/03/2023
+"Aeroflot, Air Cairo",TLV,GRU,27h 00m ,1 stop ,"1,431 NIS ",18/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,456 NIS ",18/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,629 NIS ",18/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",18/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,744 NIS ",18/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,816 NIS ",18/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,910 NIS ",18/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,11h 35m ,1 stop ,"1,969 NIS ",18/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,967 NIS ",18/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,168 NIS ",18/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,172 NIS ",18/03/2023
+"Aeroflot, MEA",TLV,GRU,15h 00m ,1 stop ,"2,480 NIS ",18/03/2023
+"Aeroflot, flydubai",TLV,GRU,11h 35m ,1 stop ,"2,609 NIS ",18/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,12h 45m ,2 stops ,"1,760 NIS ",18/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,432 NIS ",18/03/2023
+Multiple Airlines,TLV,GRU,19h 00m ,2 stops ,"1,901 NIS ",18/03/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,913 NIS ",18/03/2023
+"Aeroflot, Royal Jordanian",TLV,GRU,16h 20m ,2 stops ,"1,963 NIS ",18/03/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,362 NIS ",18/03/2023
+"Nordwind Airlines, Air Arabia",TLV,GRU,18h 15m ,2 stops ,"1,779 NIS ",18/03/2023
+Multiple Airlines,TLV,GRU,14h 30m ,3 stops ,"1,810 NIS ",18/03/2023
+Multiple Airlines,TLV,GRU,17h 25m ,3 stops ,"1,810 NIS ",18/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,3 stops ,"1,810 NIS ",18/03/2023
+Multiple Airlines,TLV,GRU,19h 00m ,3 stops ,"1,810 NIS ",18/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,819 NIS ",18/03/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,889 NIS ",18/03/2023
+"Aeroflot, Air Arabia",TLV,GRU,17h 15m ,2 stops ,"1,982 NIS ",18/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,035 NIS ",18/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"4,113 NIS ",18/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,15h 10m ,2 stops ,"7,502 NIS ",18/03/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"10,175 NIS ",18/03/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"15,652 NIS ",18/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,064 NIS ",18/03/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,064 NIS ",18/03/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"16,474 NIS ",18/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"17,546 NIS ",18/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,827 NIS ",18/03/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"19,547 NIS ",18/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"23,772 NIS ",18/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 15m ,2 stops ,"37,218 NIS ",18/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,706 NIS ",19/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,615 NIS ",19/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,432 NIS ",19/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,456 NIS ",19/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",19/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,912 NIS ",19/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"2,013 NIS ",19/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,629 NIS ",19/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,840 NIS ",19/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"2,119 NIS ",19/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,131 NIS ",19/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,131 NIS ",19/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"2,165 NIS ",19/03/2023
+"Nordwind Airlines, Air Arabia",TLV,GRU,17h 15m ,1 stop ,"2,334 NIS ",19/03/2023
+"Aeroflot, flydubai",TLV,GRU,11h 35m ,1 stop ,"2,610 NIS ",19/03/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,635 NIS ",19/03/2023
+"Aeroflot, Emirates",TLV,GRU,10h 10m ,1 stop ,"2,705 NIS ",19/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 45m ,1 stop ,"2,863 NIS ",19/03/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"3,778 NIS ",19/03/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,876 NIS ",19/03/2023
+"Aeroflot, Royal Jordanian",TLV,GRU,16h 20m ,2 stops ,"1,922 NIS ",19/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,429 NIS ",19/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,702 NIS ",19/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,702 NIS ",19/03/2023
+Multiple Airlines,TLV,GRU,15h 55m ,2 stops ,"2,917 NIS ",19/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,769 NIS ",19/03/2023
+Multiple Airlines,TLV,GRU,19h 35m ,3 stops ,"1,823 NIS ",19/03/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"2,030 NIS ",19/03/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"2,039 NIS ",19/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,051 NIS ",19/03/2023
+Multiple Airlines,TLV,GRU,20h 50m ,3 stops ,"2,455 NIS ",19/03/2023
+"Pobeda, MEA",TLV,GRU,19h 00m ,3 stops ,"2,567 NIS ",19/03/2023
+Multiple Airlines,TLV,GRU,15h 55m ,3 stops ,"2,786 NIS ",19/03/2023
+Multiple Airlines,TLV,GRU,15h 25m ,3 stops ,"2,876 NIS ",19/03/2023
+Multiple Airlines,TLV,GRU,15h 20m ,3 stops ,"3,097 NIS ",19/03/2023
+Multiple Airlines,TLV,GRU,16h 25m ,3 stops ,"3,715 NIS ",19/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,19h 50m ,2 stops ,"7,502 NIS ",19/03/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"10,175 NIS ",19/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"19,101 NIS ",19/03/2023
+"Aeroflot, SriLankan Airlines",TLV,GRU,20h 00m ,1 stop ,"20,779 NIS ",19/03/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"20,826 NIS ",19/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",20/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,526 NIS ",20/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,432 NIS ",20/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",20/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,828 NIS ",20/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,456 NIS ",20/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,541 NIS ",20/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,892 NIS ",20/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,967 NIS ",20/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,11h 35m ,1 stop ,"2,004 NIS ",20/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,168 NIS ",20/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,173 NIS ",20/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,451 NIS ",20/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,16h 20m ,1 stop ,"2,432 NIS ",20/03/2023
+"Aeroflot, MEA",TLV,GRU,15h 00m ,1 stop ,"2,500 NIS ",20/03/2023
+"Nordwind Airlines, flynas",TLV,GRU,11h 40m ,2 stops ,"1,775 NIS ",20/03/2023
+Multiple Airlines,TLV,GRU,15h 00m ,2 stops ,"1,803 NIS ",20/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,12h 45m ,2 stops ,"1,825 NIS ",20/03/2023
+"airBaltic, flynas",TLV,GRU,14h 40m ,2 stops ,"1,862 NIS ",20/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",20/03/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,434 NIS ",20/03/2023
+"Aeroflot, flydubai",TLV,GRU,19h 40m ,2 stops ,"2,107 NIS ",20/03/2023
+Multiple Airlines,TLV,GRU,19h 25m ,3 stops ,"1,723 NIS ",20/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,794 NIS ",20/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"1,958 NIS ",20/03/2023
+Multiple Airlines,TLV,GRU,21h 00m ,3 stops ,"2,259 NIS ",20/03/2023
+Multiple Airlines,TLV,GRU,19h 15m ,3 stops ,"2,583 NIS ",20/03/2023
+"Pobeda, MEA",TLV,GRU,18h 35m ,3 stops ,"2,624 NIS ",20/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,2 stops ,"3,172 NIS ",20/03/2023
+Multiple Airlines,TLV,GRU,17h 50m ,3 stops ,"3,757 NIS ",20/03/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"10,175 NIS ",20/03/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"15,652 NIS ",20/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,064 NIS ",20/03/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,064 NIS ",20/03/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"16,474 NIS ",20/03/2023
+Multiple Airlines,TLV,GRU,18h 25m ,2 stops ,"17,350 NIS ",20/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"17,546 NIS ",20/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,827 NIS ",20/03/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"19,547 NIS ",20/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"23,772 NIS ",20/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 15m ,2 stops ,"37,218 NIS ",20/03/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,661 NIS ",21/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,730 NIS ",21/03/2023
+Air France,TLV,GRU,12h 25m ,1 stop ,"3,400 NIS ",22/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,561 NIS ",23/03/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,661 NIS ",23/03/2023
+Air France,TLV,GRU,26h 20m ,1 stop ,"3,442 NIS ",23/03/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,661 NIS ",24/03/2023
+Air France,TLV,GRU,12h 25m ,1 stop ,"3,400 NIS ",24/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,711 NIS ",25/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,615 NIS ",25/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,647 NIS ",25/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,696 NIS ",25/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,786 NIS ",25/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,876 NIS ",25/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,11h 35m ,1 stop ,"1,954 NIS ",25/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,568 NIS ",25/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,629 NIS ",25/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,969 NIS ",25/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,120 NIS ",25/03/2023
+"Aeroflot, MEA",TLV,GRU,15h 00m ,1 stop ,"2,436 NIS ",25/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,418 NIS ",25/03/2023
+"Aeroflot, flydubai",TLV,GRU,11h 35m ,1 stop ,"2,451 NIS ",25/03/2023
+"Finnair, flynas",TLV,GRU,20h 10m ,2 stops ,"1,475 NIS ",25/03/2023
+"Finnair, flynas",TLV,GRU,15h 25m ,2 stops ,"1,592 NIS ",25/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,603 NIS ",25/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,12h 45m ,2 stops ,"1,770 NIS ",25/03/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,250 NIS ",25/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,532 NIS ",25/03/2023
+"Aeroflot, Royal Jordanian",TLV,GRU,16h 20m ,2 stops ,"2,208 NIS ",25/03/2023
+"Nordwind Airlines, Air Arabia",TLV,GRU,18h 15m ,2 stops ,"1,793 NIS ",25/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,923 NIS ",25/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"1,998 NIS ",25/03/2023
+"Aeroflot, Air Arabia",TLV,GRU,17h 15m ,2 stops ,"2,228 NIS ",25/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,15h 10m ,2 stops ,"7,502 NIS ",25/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,17h 10m ,2 stops ,"7,502 NIS ",25/03/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"9,283 NIS ",25/03/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"15,652 NIS ",25/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,064 NIS ",25/03/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,064 NIS ",25/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"17,546 NIS ",25/03/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"17,546 NIS ",25/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,827 NIS ",25/03/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"19,547 NIS ",25/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"23,772 NIS ",25/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 15m ,2 stops ,"42,450 NIS ",25/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,711 NIS ",26/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,615 NIS ",26/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,700 NIS ",26/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,931 NIS ",26/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,977 NIS ",26/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,568 NIS ",26/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,629 NIS ",26/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"2,081 NIS ",26/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,130 NIS ",26/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"2,332 NIS ",26/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 45m ,1 stop ,"2,813 NIS ",26/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"2,239 NIS ",26/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,452 NIS ",26/03/2023
+"Aeroflot, flydubai",TLV,GRU,11h 35m ,1 stop ,"2,564 NIS ",26/03/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,635 NIS ",26/03/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,947 NIS ",26/03/2023
+"Aeroflot, KLM",TLV,GRU,17h 50m ,1 stop ,"3,015 NIS ",26/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,490 NIS ",26/03/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,926 NIS ",26/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 30m ,2 stops ,"2,002 NIS ",26/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,429 NIS ",26/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,702 NIS ",26/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,702 NIS ",26/03/2023
+Multiple Airlines,TLV,GRU,15h 55m ,2 stops ,"2,772 NIS ",26/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,873 NIS ",26/03/2023
+Multiple Airlines,TLV,GRU,19h 35m ,3 stops ,"1,962 NIS ",26/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,015 NIS ",26/03/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"2,038 NIS ",26/03/2023
+Multiple Airlines,TLV,GRU,20h 50m ,3 stops ,"2,388 NIS ",26/03/2023
+Multiple Airlines,TLV,GRU,21h 10m ,3 stops ,"2,418 NIS ",26/03/2023
+Multiple Airlines,TLV,GRU,19h 35m ,3 stops ,"2,485 NIS ",26/03/2023
+"Pobeda, MEA",TLV,GRU,19h 00m ,3 stops ,"2,511 NIS ",26/03/2023
+Multiple Airlines,TLV,GRU,15h 25m ,3 stops ,"2,713 NIS ",26/03/2023
+Multiple Airlines,TLV,GRU,15h 20m ,3 stops ,"3,356 NIS ",26/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,19h 50m ,2 stops ,"7,502 NIS ",26/03/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"9,283 NIS ",26/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,815 NIS ",26/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"18,957 NIS ",26/03/2023
+"Aeroflot, SriLankan Airlines",TLV,GRU,20h 00m ,1 stop ,"20,771 NIS ",26/03/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"22,337 NIS ",26/03/2023
+Multiple Airlines,TLV,GRU,20h 35m ,3 stops ,"24,780 NIS ",26/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",27/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,527 NIS ",27/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,700 NIS ",27/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,799 NIS ",27/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,541 NIS ",27/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,568 NIS ",27/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,828 NIS ",27/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,11h 35m ,1 stop ,"1,974 NIS ",27/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"2,040 NIS ",27/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,130 NIS ",27/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,16h 20m ,1 stop ,"2,432 NIS ",27/03/2023
+"Aeroflot, MEA",TLV,GRU,15h 00m ,1 stop ,"2,535 NIS ",27/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,490 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,15h 00m ,2 stops ,"1,713 NIS ",27/03/2023
+"airBaltic, flynas",TLV,GRU,14h 40m ,2 stops ,"1,830 NIS ",27/03/2023
+"Nordwind Airlines, flynas",TLV,GRU,11h 40m ,2 stops ,"1,878 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,13h 50m ,2 stops ,"1,890 NIS ",27/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,12h 45m ,2 stops ,"1,911 NIS ",27/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",27/03/2023
+"Aeroflot, flydubai",TLV,GRU,19h 40m ,2 stops ,"2,138 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,737 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,19h 25m ,3 stops ,"1,756 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,18h 25m ,3 stops ,"1,916 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"1,963 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"2,003 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,19h 50m ,3 stops ,"2,278 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,20h 55m ,3 stops ,"2,478 NIS ",27/03/2023
+"Pobeda, MEA",TLV,GRU,18h 35m ,3 stops ,"2,545 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,18h 10m ,3 stops ,"2,610 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,468 NIS ",27/03/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"9,275 NIS ",27/03/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,060 NIS ",27/03/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,060 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"16,466 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"17,754 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"18,738 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,18h 25m ,2 stops ,"18,903 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"18,957 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"22,337 NIS ",27/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"26,125 NIS ",27/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",28/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,527 NIS ",28/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,572 NIS ",28/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,676 NIS ",28/03/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,832 NIS ",28/03/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,456 NIS ",28/03/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,541 NIS ",28/03/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,830 NIS ",28/03/2023
+"Aeroflot, flyadeal",TLV,GRU,15h 00m ,1 stop ,"1,852 NIS ",28/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,956 NIS ",28/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"1,961 NIS ",28/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,168 NIS ",28/03/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,169 NIS ",28/03/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",28/03/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,421 NIS ",28/03/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,635 NIS ",28/03/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,432 NIS ",28/03/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,740 NIS ",28/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 30m ,2 stops ,"1,753 NIS ",28/03/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,862 NIS ",28/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,17h 05m ,2 stops ,"2,018 NIS ",28/03/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",28/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,700 NIS ",28/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,700 NIS ",28/03/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,700 NIS ",28/03/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,18h 15m ,3 stops ,"1,810 NIS ",28/03/2023
+Multiple Airlines,TLV,GRU,16h 40m ,3 stops ,"2,225 NIS ",28/03/2023
+Multiple Airlines,TLV,GRU,20h 55m ,3 stops ,"2,439 NIS ",28/03/2023
+"Pobeda, MEA",TLV,GRU,19h 00m ,3 stops ,"2,466 NIS ",28/03/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"2,602 NIS ",28/03/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,838 NIS ",28/03/2023
+"Aeroflot, Emirates",TLV,GRU,17h 35m ,2 stops ,"5,998 NIS ",28/03/2023
+Multiple Airlines,TLV,GRU,16h 25m ,3 stops ,"3,726 NIS ",28/03/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"12,812 NIS ",28/03/2023
+"Aeroflot, MEA",TLV,GRU,20h 40m ,2 stops ,"13,314 NIS ",28/03/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"19,089 NIS ",28/03/2023
+Multiple Airlines,TLV,GRU,16h 10m ,2 stops ,"20,740 NIS ",28/03/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",01/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,527 NIS ",01/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,439 NIS ",01/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,579 NIS ",01/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,711 NIS ",01/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,814 NIS ",01/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,541 NIS ",01/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,853 NIS ",01/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,935 NIS ",01/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,168 NIS ",01/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",01/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 50m ,1 stop ,"2,461 NIS ",01/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,415 NIS ",01/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 30m ,2 stops ,"1,844 NIS ",01/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 30m ,2 stops ,"1,852 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,16h 35m ,2 stops ,"1,855 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,862 NIS ",01/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,362 NIS ",01/04/2023
+"Aeroflot, Air Arabia",TLV,GRU,17h 15m ,2 stops ,"2,013 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,21h 00m ,2 stops ,"2,024 NIS ",01/04/2023
+"Aeroflot, flydubai",TLV,GRU,19h 40m ,2 stops ,"2,125 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,19h 15m ,3 stops ,"1,631 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,758 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,769 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,20h 30m ,3 stops ,"1,787 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,838 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,855 NIS ",01/04/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,18h 30m ,3 stops ,"1,889 NIS ",01/04/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 00m ,3 stops ,"1,964 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,20h 15m ,3 stops ,"2,003 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,16h 25m ,2 stops ,"7,810 NIS ",01/04/2023
+"Aeroflot, MEA",TLV,GRU,20h 40m ,2 stops ,"13,314 NIS ",01/04/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,060 NIS ",01/04/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,060 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"18,738 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"18,957 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,18h 00m ,2 stops ,"22,170 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"22,337 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,15h 10m ,2 stops ,"22,368 NIS ",01/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"26,125 NIS ",01/04/2023
+"Aeroflot, Emirates",TLV,GRU,21h 05m ,2 stops ,"35,001 NIS ",01/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",02/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,527 NIS ",02/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,832 NIS ",02/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,456 NIS ",02/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,541 NIS ",02/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",02/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,768 NIS ",02/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,853 NIS ",02/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,893 NIS ",02/04/2023
+"Aeroflot, flyadeal",TLV,GRU,15h 00m ,1 stop ,"1,875 NIS ",02/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"1,961 NIS ",02/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,168 NIS ",02/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",02/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,415 NIS ",02/04/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,635 NIS ",02/04/2023
+"Finnair, flynas",TLV,GRU,15h 25m ,2 stops ,"1,198 NIS ",02/04/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,12h 45m ,2 stops ,"1,813 NIS ",02/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,517 NIS ",02/04/2023
+Multiple Airlines,TLV,GRU,19h 00m ,2 stops ,"1,616 NIS ",02/04/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,862 NIS ",02/04/2023
+Multiple Airlines,TLV,GRU,14h 30m ,2 stops ,"2,224 NIS ",02/04/2023
+"Qatar Airways, flyadeal",TLV,GRU,15h 15m ,2 stops ,"2,229 NIS ",02/04/2023
+"Qatar Airways, flynas",TLV,GRU,13h 05m ,2 stops ,"2,244 NIS ",02/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",02/04/2023
+Multiple Airlines,TLV,GRU,18h 40m ,3 stops ,"1,751 NIS ",02/04/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,767 NIS ",02/04/2023
+Multiple Airlines,TLV,GRU,20h 45m ,3 stops ,"1,767 NIS ",02/04/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,15h 00m ,3 stops ,"1,799 NIS ",02/04/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,838 NIS ",02/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"12,812 NIS ",02/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"17,534 NIS ",02/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,815 NIS ",02/04/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,661 NIS ",03/04/2023
+Air France,TLV,GRU,12h 25m ,1 stop ,"3,400 NIS ",03/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,711 NIS ",04/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,615 NIS ",04/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,529 NIS ",04/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,680 NIS ",04/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,803 NIS ",04/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,825 NIS ",04/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,958 NIS ",04/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,629 NIS ",04/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,11h 35m ,1 stop ,"2,050 NIS ",04/04/2023
+"Aeroflot, flynas",TLV,GRU,9h 10m ,1 stop ,"2,236 NIS ",04/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,244 NIS ",04/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,244 NIS ",04/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"2,245 NIS ",04/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 45m ,1 stop ,"2,322 NIS ",04/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",04/04/2023
+"Aeroflot, MEA",TLV,GRU,15h 00m ,1 stop ,"2,500 NIS ",04/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,505 NIS ",04/04/2023
+"Finnair, flynas",TLV,GRU,15h 25m ,2 stops ,"1,607 NIS ",04/04/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,782 NIS ",04/04/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,12h 45m ,2 stops ,"1,892 NIS ",04/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 50m ,2 stops ,"2,068 NIS ",04/04/2023
+Multiple Airlines,TLV,GRU,15h 55m ,2 stops ,"2,249 NIS ",04/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 30m ,2 stops ,"2,094 NIS ",04/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,818 NIS ",04/04/2023
+"Nordwind Airlines, Air Arabia",TLV,GRU,18h 15m ,2 stops ,"1,900 NIS ",04/04/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,910 NIS ",04/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,102 NIS ",04/04/2023
+"Aeroflot, Royal Jordanian",TLV,GRU,16h 05m ,3 stops ,"2,386 NIS ",04/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"8,750 NIS ",04/04/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"9,275 NIS ",04/04/2023
+"Aeroflot, MEA",TLV,GRU,20h 40m ,2 stops ,"14,322 NIS ",04/04/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"16,466 NIS ",04/04/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"17,754 NIS ",04/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"18,738 NIS ",04/04/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"18,895 NIS ",04/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"18,957 NIS ",04/04/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"22,337 NIS ",04/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"26,125 NIS ",04/04/2023
+"Aeroflot, Emirates",TLV,GRU,21h 05m ,2 stops ,"35,001 NIS ",04/04/2023
+"Aeroflot, Emirates",TLV,GRU,21h 05m ,2 stops ,"35,001 NIS ",04/04/2023
+"Aeroflot, Emirates",TLV,GRU,21h 05m ,2 stops ,"35,001 NIS ",04/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,711 NIS ",05/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,612 NIS ",05/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,457 NIS ",05/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",05/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,985 NIS ",05/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"2,027 NIS ",05/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,626 NIS ",05/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"2,018 NIS ",05/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,305 NIS ",05/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 45m ,1 stop ,"2,317 NIS ",05/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,316 NIS ",05/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"2,325 NIS ",05/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"2,400 NIS ",05/04/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,635 NIS ",05/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,433 NIS ",05/04/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,905 NIS ",05/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,2 stops ,"2,284 NIS ",05/04/2023
+"Aeroflot, Royal Jordanian",TLV,GRU,16h 20m ,2 stops ,"2,203 NIS ",05/04/2023
+Multiple Airlines,TLV,GRU,21h 00m ,2 stops ,"2,289 NIS ",05/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,18h 45m ,2 stops ,"2,483 NIS ",05/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,19h 50m ,2 stops ,"2,483 NIS ",05/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,700 NIS ",05/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,700 NIS ",05/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,700 NIS ",05/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,767 NIS ",05/04/2023
+Multiple Airlines,TLV,GRU,19h 35m ,3 stops ,"1,881 NIS ",05/04/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"2,031 NIS ",05/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,050 NIS ",05/04/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"2,097 NIS ",05/04/2023
+Multiple Airlines,TLV,GRU,19h 05m ,3 stops ,"2,179 NIS ",05/04/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"2,428 NIS ",05/04/2023
+Multiple Airlines,TLV,GRU,19h 15m ,3 stops ,"2,504 NIS ",05/04/2023
+"Pobeda, MEA",TLV,GRU,19h 00m ,3 stops ,"2,613 NIS ",05/04/2023
+Multiple Airlines,TLV,GRU,15h 55m ,3 stops ,"2,878 NIS ",05/04/2023
+Multiple Airlines,TLV,GRU,15h 25m ,3 stops ,"2,881 NIS ",05/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"3,928 NIS ",05/04/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"9,275 NIS ",05/04/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,043 NIS ",05/04/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,043 NIS ",05/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,810 NIS ",05/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"18,952 NIS ",05/04/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"19,530 NIS ",05/04/2023
+"Aeroflot, SriLankan Airlines",TLV,GRU,20h 00m ,1 stop ,"20,767 NIS ",05/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",06/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,523 NIS ",06/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,832 NIS ",06/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,457 NIS ",06/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,537 NIS ",06/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",06/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,11h 35m ,1 stop ,"2,082 NIS ",06/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,305 NIS ",06/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 45m ,1 stop ,"2,310 NIS ",06/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"2,249 NIS ",06/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,316 NIS ",06/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"2,332 NIS ",06/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,398 NIS ",06/04/2023
+"Aeroflot, MEA",TLV,GRU,15h 00m ,1 stop ,"2,474 NIS ",06/04/2023
+"Finnair, flynas",TLV,GRU,15h 25m ,2 stops ,"1,402 NIS ",06/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,433 NIS ",06/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,19h 15m ,2 stops ,"1,844 NIS ",06/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,19h 15m ,2 stops ,"1,852 NIS ",06/04/2023
+"airBaltic, flynas",TLV,GRU,14h 40m ,2 stops ,"1,863 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,21h 10m ,2 stops ,"2,159 NIS ",06/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,637 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,17h 05m ,3 stops ,"1,767 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,19h 25m ,3 stops ,"1,800 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,849 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,20h 25m ,3 stops ,"1,895 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,911 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,013 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,18h 25m ,3 stops ,"2,024 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,19h 50m ,3 stops ,"2,245 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,14h 50m ,3 stops ,"2,313 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,21h 00m ,3 stops ,"2,329 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,18h 10m ,3 stops ,"2,358 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,17h 40m ,3 stops ,"2,586 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,2 stops ,"3,472 NIS ",06/04/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"9,272 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"15,649 NIS ",06/04/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,043 NIS ",06/04/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,043 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"16,483 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"17,351 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,18h 25m ,2 stops ,"17,359 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"17,556 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,836 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"19,557 NIS ",06/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"23,781 NIS ",06/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,616 NIS ",07/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,523 NIS ",07/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,431 NIS ",07/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,648 NIS ",07/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,800 NIS ",07/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,861 NIS ",07/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,537 NIS ",07/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,892 NIS ",07/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,130 NIS ",07/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",07/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,415 NIS ",07/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"2,332 NIS ",07/04/2023
+"Aeroflot, flydubai",TLV,GRU,11h 35m ,1 stop ,"2,523 NIS ",07/04/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,637 NIS ",07/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,408 NIS ",07/04/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,829 NIS ",07/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",07/04/2023
+Multiple Airlines,TLV,GRU,21h 00m ,2 stops ,"1,989 NIS ",07/04/2023
+Multiple Airlines,TLV,GRU,17h 30m ,2 stops ,"2,094 NIS ",07/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,698 NIS ",07/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,698 NIS ",07/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,698 NIS ",07/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,737 NIS ",07/04/2023
+Multiple Airlines,TLV,GRU,20h 30m ,3 stops ,"1,755 NIS ",07/04/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,806 NIS ",07/04/2023
+Multiple Airlines,TLV,GRU,19h 45m ,3 stops ,"1,965 NIS ",07/04/2023
+Multiple Airlines,TLV,GRU,20h 15m ,3 stops ,"1,967 NIS ",07/04/2023
+Multiple Airlines,TLV,GRU,19h 05m ,3 stops ,"1,999 NIS ",07/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,016 NIS ",07/04/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"9,289 NIS ",07/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"12,826 NIS ",07/04/2023
+"Aeroflot, MEA",TLV,GRU,20h 40m ,2 stops ,"14,352 NIS ",07/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"19,110 NIS ",07/04/2023
+Multiple Airlines,TLV,GRU,16h 10m ,2 stops ,"20,761 NIS ",07/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",08/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,523 NIS ",08/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,431 NIS ",08/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,574 NIS ",08/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,700 NIS ",08/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,800 NIS ",08/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,847 NIS ",08/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,537 NIS ",08/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,892 NIS ",08/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",08/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,21h 05m ,1 stop ,"1,979 NIS ",08/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,172 NIS ",08/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,19h 55m ,1 stop ,"2,172 NIS ",08/04/2023
+"Aeroflot, flydubai",TLV,GRU,11h 35m ,1 stop ,"2,523 NIS ",08/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,408 NIS ",08/04/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,811 NIS ",08/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",08/04/2023
+"Aeroflot, flydubai",TLV,GRU,19h 40m ,2 stops ,"2,088 NIS ",08/04/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,782 NIS ",08/04/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,826 NIS ",08/04/2023
+Multiple Airlines,TLV,GRU,19h 10m ,3 stops ,"2,047 NIS ",08/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,3 stops ,"2,179 NIS ",08/04/2023
+Multiple Airlines,TLV,GRU,20h 55m ,3 stops ,"2,295 NIS ",08/04/2023
+Multiple Airlines,TLV,GRU,19h 15m ,3 stops ,"2,455 NIS ",08/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,2 stops ,"3,174 NIS ",08/04/2023
+Multiple Airlines,TLV,GRU,16h 25m ,2 stops ,"7,810 NIS ",08/04/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,056 NIS ",08/04/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,056 NIS ",08/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"17,556 NIS ",08/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,836 NIS ",08/04/2023
+Multiple Airlines,TLV,GRU,18h 00m ,2 stops ,"19,526 NIS ",08/04/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"19,557 NIS ",08/04/2023
+Multiple Airlines,TLV,GRU,15h 10m ,2 stops ,"21,022 NIS ",08/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"23,781 NIS ",08/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,614 NIS ",09/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,523 NIS ",09/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,791 NIS ",09/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,431 NIS ",09/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,537 NIS ",09/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,700 NIS ",09/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,789 NIS ",09/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,870 NIS ",09/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,934 NIS ",09/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"1,949 NIS ",09/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,121 NIS ",09/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",09/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,415 NIS ",09/04/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,637 NIS ",09/04/2023
+"Finnair, flynas",TLV,GRU,15h 25m ,2 stops ,"1,178 NIS ",09/04/2023
+Multiple Airlines,TLV,GRU,14h 50m ,2 stops ,"1,573 NIS ",09/04/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,12h 45m ,2 stops ,"1,776 NIS ",09/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,408 NIS ",09/04/2023
+Multiple Airlines,TLV,GRU,19h 00m ,2 stops ,"1,593 NIS ",09/04/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,830 NIS ",09/04/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,830 NIS ",09/04/2023
+"airBaltic, flynas",TLV,GRU,14h 40m ,2 stops ,"1,892 NIS ",09/04/2023
+"Nordwind Airlines, Qatar Airways",TLV,GRU,13h 15m ,2 stops ,"1,898 NIS ",09/04/2023
+"Qatar Airways, flynas",TLV,GRU,12h 50m ,2 stops ,"2,169 NIS ",09/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",09/04/2023
+Multiple Airlines,TLV,GRU,19h 25m ,3 stops ,"1,641 NIS ",09/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,762 NIS ",09/04/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,806 NIS ",09/04/2023
+Multiple Airlines,TLV,GRU,18h 25m ,3 stops ,"1,812 NIS ",09/04/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,15h 00m ,3 stops ,"1,838 NIS ",09/04/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,18h 15m ,3 stops ,"1,917 NIS ",09/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,041 NIS ",09/04/2023
+Multiple Airlines,TLV,GRU,17h 05m ,3 stops ,"2,179 NIS ",09/04/2023
+Multiple Airlines,TLV,GRU,17h 40m ,3 stops ,"2,455 NIS ",09/04/2023
+Multiple Airlines,TLV,GRU,20h 00m ,3 stops ,"2,208 NIS ",09/04/2023
+"Pobeda, MEA",TLV,GRU,19h 00m ,3 stops ,"2,428 NIS ",09/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"14,888 NIS ",09/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,619 NIS ",10/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,523 NIS ",10/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,431 NIS ",10/04/2023
+"Aeroflot, Air Arabia",TLV,GRU,12h 00m ,1 stop ,"1,487 NIS ",10/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,784 NIS ",10/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,537 NIS ",10/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,592 NIS ",10/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,892 NIS ",10/04/2023
+"Nordwind Airlines, SAUDIA",TLV,GRU,11h 55m ,1 stop ,"1,908 NIS ",10/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,923 NIS ",10/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 45m ,1 stop ,"2,139 NIS ",10/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",10/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,414 NIS ",10/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,415 NIS ",10/04/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,637 NIS ",10/04/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,876 NIS ",10/04/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 30m ,2 stops ,"1,892 NIS ",10/04/2023
+"Aeroflot, flydubai",TLV,GRU,19h 40m ,2 stops ,"2,089 NIS ",10/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",10/04/2023
+Multiple Airlines,TLV,GRU,15h 10m ,2 stops ,"2,431 NIS ",10/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,698 NIS ",10/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,698 NIS ",10/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,698 NIS ",10/04/2023
+Multiple Airlines,TLV,GRU,20h 55m ,3 stops ,"1,755 NIS ",10/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,761 NIS ",10/04/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 00m ,3 stops ,"1,961 NIS ",10/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"1,988 NIS ",10/04/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,18h 30m ,3 stops ,"2,111 NIS ",10/04/2023
+Multiple Airlines,TLV,GRU,19h 05m ,3 stops ,"2,191 NIS ",10/04/2023
+"Pobeda, MEA",TLV,GRU,18h 35m ,3 stops ,"2,485 NIS ",10/04/2023
+Multiple Airlines,TLV,GRU,16h 25m ,3 stops ,"3,593 NIS ",10/04/2023
+Multiple Airlines,TLV,GRU,17h 50m ,3 stops ,"3,711 NIS ",10/04/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,043 NIS ",10/04/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,043 NIS ",10/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"18,759 NIS ",10/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"18,979 NIS ",10/04/2023
+Multiple Airlines,TLV,GRU,16h 10m ,2 stops ,"22,148 NIS ",10/04/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"22,358 NIS ",10/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"26,146 NIS ",10/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,711 NIS ",11/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,612 NIS ",11/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,648 NIS ",11/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,796 NIS ",11/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,431 NIS ",11/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,809 NIS ",11/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,932 NIS ",11/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,963 NIS ",11/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,11h 35m ,1 stop ,"1,969 NIS ",11/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,130 NIS ",11/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 45m ,1 stop ,"2,136 NIS ",11/04/2023
+"Aeroflot, flynas",TLV,GRU,9h 10m ,1 stop ,"2,164 NIS ",11/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,626 NIS ",11/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",11/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,414 NIS ",11/04/2023
+"Finnair, flynas",TLV,GRU,15h 25m ,2 stops ,"1,330 NIS ",11/04/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,12h 45m ,2 stops ,"1,793 NIS ",11/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,517 NIS ",11/04/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,848 NIS ",11/04/2023
+Multiple Airlines,TLV,GRU,19h 00m ,2 stops ,"1,868 NIS ",11/04/2023
+"Aeroflot, Royal Jordanian",TLV,GRU,15h 30m ,2 stops ,"1,890 NIS ",11/04/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,900 NIS ",11/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,429 NIS ",11/04/2023
+"Nordwind Airlines, Air Arabia",TLV,GRU,18h 15m ,2 stops ,"1,830 NIS ",11/04/2023
+"Aeroflot, Air Arabia",TLV,GRU,17h 15m ,2 stops ,"2,228 NIS ",11/04/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,338 NIS ",11/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"2,521 NIS ",11/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,701 NIS ",11/04/2023
+"Aeroflot, MEA",TLV,GRU,15h 00m ,1 stop ,"2,535 NIS ",11/04/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"16,483 NIS ",11/04/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"19,040 NIS ",11/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"20,033 NIS ",11/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"29,096 NIS ",11/04/2023
+"Aeroflot, Emirates",TLV,GRU,21h 05m ,2 stops ,"34,996 NIS ",11/04/2023
+"Aeroflot, Emirates",TLV,GRU,21h 05m ,2 stops ,"34,996 NIS ",11/04/2023
+"Aeroflot, Emirates",TLV,GRU,21h 05m ,2 stops ,"34,996 NIS ",11/04/2023
+Qatar Airways,TLV,GRU,9h 30m ,1 stop ,"1,707 NIS ",12/04/2023
+Qatar Airways,TLV,GRU,9h 30m ,1 stop ,"1,612 NIS ",12/04/2023
+"Aeroflot, flynas",TLV,GRU,16h 40m ,1 stop ,"1,414 NIS ",12/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,630 NIS ",12/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,932 NIS ",12/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,966 NIS ",12/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 45m ,1 stop ,"2,070 NIS ",12/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,626 NIS ",12/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"2,111 NIS ",12/04/2023
+"Nordwind Airlines, SAUDIA",TLV,GRU,11h 55m ,1 stop ,"2,116 NIS ",12/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,121 NIS ",12/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,209 NIS ",12/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"2,241 NIS ",12/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"2,335 NIS ",12/04/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,637 NIS ",12/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,390 NIS ",12/04/2023
+Multiple Airlines,TLV,GRU,19h 40m ,2 stops ,"1,652 NIS ",12/04/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,685 NIS ",12/04/2023
+Multiple Airlines,TLV,GRU,15h 55m ,2 stops ,"2,336 NIS ",12/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,18h 45m ,2 stops ,"2,484 NIS ",12/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,13h 00m ,2 stops ,"2,499 NIS ",12/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,698 NIS ",12/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,698 NIS ",12/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,698 NIS ",12/04/2023
+"Air France, KLM",TLV,GRU,16h 30m ,2 stops ,"2,777 NIS ",12/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,3 stops ,"2,202 NIS ",12/04/2023
+Multiple Airlines,TLV,GRU,20h 50m ,3 stops ,"2,413 NIS ",12/04/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"2,420 NIS ",12/04/2023
+"Pobeda, MEA",TLV,GRU,19h 00m ,3 stops ,"2,425 NIS ",12/04/2023
+Multiple Airlines,TLV,GRU,18h 20m ,3 stops ,"2,501 NIS ",12/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"2,618 NIS ",12/04/2023
+Multiple Airlines,TLV,GRU,15h 25m ,3 stops ,"2,826 NIS ",12/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,851 NIS ",12/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,2 stops ,"3,510 NIS ",12/04/2023
+Multiple Airlines,TLV,GRU,16h 50m ,3 stops ,"3,185 NIS ",12/04/2023
+Multiple Airlines,TLV,GRU,15h 20m ,3 stops ,"3,359 NIS ",12/04/2023
+"Finnair, Qatar Airways",TLV,GRU,14h 05m ,2 stops ,"8,750 NIS ",12/04/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"9,285 NIS ",12/04/2023
+"Aeroflot, Emirates",TLV,GRU,16h 05m ,2 stops ,"16,043 NIS ",12/04/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,043 NIS ",12/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"19,110 NIS ",12/04/2023
+"Aeroflot, SriLankan Airlines",TLV,GRU,20h 00m ,1 stop ,"20,785 NIS ",12/04/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"20,835 NIS ",12/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",13/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,524 NIS ",13/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,796 NIS ",13/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,431 NIS ",13/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,538 NIS ",13/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,700 NIS ",13/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,11h 35m ,1 stop ,"1,965 NIS ",13/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,130 NIS ",13/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 45m ,1 stop ,"2,136 NIS ",13/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,934 NIS ",13/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",13/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,460 NIS ",13/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"2,336 NIS ",13/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,414 NIS ",13/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,16h 20m ,1 stop ,"2,432 NIS ",13/04/2023
+"Aeroflot, MEA",TLV,GRU,15h 00m ,1 stop ,"2,456 NIS ",13/04/2023
+"Finnair, flynas",TLV,GRU,15h 25m ,2 stops ,"1,178 NIS ",13/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,408 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,15h 00m ,2 stops ,"1,714 NIS ",13/04/2023
+"airBaltic, flynas",TLV,GRU,14h 40m ,2 stops ,"1,830 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,900 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,320 NIS ",13/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,18h 10m ,2 stops ,"2,450 NIS ",13/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,18h 45m ,2 stops ,"2,484 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,19h 25m ,3 stops ,"1,651 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,762 NIS ",13/04/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 00m ,3 stops ,"1,814 NIS ",13/04/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,18h 30m ,3 stops ,"1,908 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"1,974 NIS ",13/04/2023
+"Aeroflot, flydubai",TLV,GRU,19h 40m ,2 stops ,"2,319 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,16h 10m ,3 stops ,"2,498 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,2 stops ,"3,174 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,21h 00m ,3 stops ,"2,296 NIS ",13/04/2023
+"Pobeda, MEA",TLV,GRU,18h 35m ,3 stops ,"2,470 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,17h 50m ,3 stops ,"3,690 NIS ",13/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"8,668 NIS ",13/04/2023
+"Aeroflot, Emirates",TLV,GRU,17h 00m ,2 stops ,"12,529 NIS ",13/04/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,043 NIS ",13/04/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,043 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"16,483 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"17,762 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"18,759 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,18h 25m ,2 stops ,"18,925 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"18,979 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"22,358 NIS ",13/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"26,146 NIS ",13/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",14/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,524 NIS ",14/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,457 NIS ",14/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",14/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,828 NIS ",14/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,900 NIS ",14/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,538 NIS ",14/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,925 NIS ",14/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"2,000 NIS ",14/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,155 NIS ",14/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,169 NIS ",14/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",14/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,415 NIS ",14/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"2,336 NIS ",14/04/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,637 NIS ",14/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,433 NIS ",14/04/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 00m ,2 stops ,"1,830 NIS ",14/04/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,863 NIS ",14/04/2023
+Multiple Airlines,TLV,GRU,16h 55m ,2 stops ,"2,199 NIS ",14/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,13h 00m ,2 stops ,"2,417 NIS ",14/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,17h 15m ,2 stops ,"2,469 NIS ",14/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,699 NIS ",14/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,699 NIS ",14/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,699 NIS ",14/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,972 NIS ",14/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,769 NIS ",14/04/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,20h 10m ,3 stops ,"1,796 NIS ",14/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,052 NIS ",14/04/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 45m ,3 stops ,"2,053 NIS ",14/04/2023
+Multiple Airlines,TLV,GRU,18h 00m ,3 stops ,"2,298 NIS ",14/04/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"2,298 NIS ",14/04/2023
+Multiple Airlines,TLV,GRU,20h 55m ,3 stops ,"2,419 NIS ",14/04/2023
+"Pobeda, MEA",TLV,GRU,19h 00m ,3 stops ,"2,441 NIS ",14/04/2023
+Multiple Airlines,TLV,GRU,16h 25m ,3 stops ,"3,644 NIS ",14/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"12,826 NIS ",14/04/2023
+"Aeroflot, MEA",TLV,GRU,20h 40m ,2 stops ,"14,352 NIS ",14/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"19,110 NIS ",14/04/2023
+Multiple Airlines,TLV,GRU,16h 10m ,2 stops ,"20,761 NIS ",14/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",15/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,524 NIS ",15/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,457 NIS ",15/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,671 NIS ",15/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",15/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,538 NIS ",15/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,575 NIS ",15/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,838 NIS ",15/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,925 NIS ",15/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",15/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,159 NIS ",15/04/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,740 NIS ",15/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",15/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,517 NIS ",15/04/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 30m ,2 stops ,"1,800 NIS ",15/04/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 00m ,2 stops ,"1,815 NIS ",15/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 30m ,2 stops ,"1,849 NIS ",15/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 30m ,2 stops ,"1,857 NIS ",15/04/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,863 NIS ",15/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 35m ,2 stops ,"1,892 NIS ",15/04/2023
+Multiple Airlines,TLV,GRU,19h 00m ,2 stops ,"1,901 NIS ",15/04/2023
+Multiple Airlines,TLV,GRU,15h 30m ,2 stops ,"2,024 NIS ",15/04/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,370 NIS ",15/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"1,794 NIS ",15/04/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,839 NIS ",15/04/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 00m ,3 stops ,"1,874 NIS ",15/04/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,18h 30m ,3 stops ,"1,889 NIS ",15/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,010 NIS ",15/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,2 stops ,"3,231 NIS ",15/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"3,877 NIS ",15/04/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,056 NIS ",15/04/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,056 NIS ",15/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,836 NIS ",15/04/2023
+Multiple Airlines,TLV,GRU,18h 00m ,2 stops ,"19,526 NIS ",15/04/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"19,557 NIS ",15/04/2023
+Multiple Airlines,TLV,GRU,15h 10m ,2 stops ,"21,022 NIS ",15/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"23,781 NIS ",15/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,611 NIS ",16/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,524 NIS ",16/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,832 NIS ",16/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,457 NIS ",16/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",16/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,838 NIS ",16/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,538 NIS ",16/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,722 NIS ",16/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,969 NIS ",16/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"2,000 NIS ",16/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,169 NIS ",16/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",16/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,422 NIS ",16/04/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,637 NIS ",16/04/2023
+"Finnair, flyadeal",TLV,GRU,14h 25m ,2 stops ,"1,293 NIS ",16/04/2023
+"Finnair, flynas",TLV,GRU,15h 25m ,2 stops ,"1,353 NIS ",16/04/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,12h 45m ,2 stops ,"1,803 NIS ",16/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,517 NIS ",16/04/2023
+Multiple Airlines,TLV,GRU,19h 00m ,2 stops ,"1,622 NIS ",16/04/2023
+Multiple Airlines,TLV,GRU,14h 40m ,2 stops ,"1,862 NIS ",16/04/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,881 NIS ",16/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 30m ,2 stops ,"1,960 NIS ",16/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",16/04/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,852 NIS ",16/04/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,18h 15m ,3 stops ,"1,908 NIS ",16/04/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,15h 00m ,3 stops ,"1,961 NIS ",16/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,799 NIS ",16/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"2,868 NIS ",16/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"14,888 NIS ",16/04/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,043 NIS ",16/04/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,043 NIS ",16/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"18,759 NIS ",16/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"18,979 NIS ",16/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",17/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,525 NIS ",17/04/2023
+"Aeroflot, Air Arabia",TLV,GRU,12h 00m ,1 stop ,"1,513 NIS ",17/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,832 NIS ",17/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,698 NIS ",17/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,838 NIS ",17/04/2023
+"Nordwind Airlines, SAUDIA",TLV,GRU,11h 55m ,1 stop ,"1,943 NIS ",17/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 45m ,1 stop ,"2,107 NIS ",17/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,539 NIS ",17/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,172 NIS ",17/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",17/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,415 NIS ",17/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,15h 15m ,1 stop ,"2,451 NIS ",17/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,19h 55m ,1 stop ,"2,172 NIS ",17/04/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,637 NIS ",17/04/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 30m ,2 stops ,"1,852 NIS ",17/04/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,876 NIS ",17/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",17/04/2023
+Multiple Airlines,TLV,GRU,15h 10m ,2 stops ,"2,431 NIS ",17/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,17h 15m ,2 stops ,"2,450 NIS ",17/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,699 NIS ",17/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,699 NIS ",17/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,699 NIS ",17/04/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 00m ,3 stops ,"1,880 NIS ",17/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,010 NIS ",17/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"2,072 NIS ",17/04/2023
+"Aeroflot, flydubai",TLV,GRU,20h 40m ,2 stops ,"2,113 NIS ",17/04/2023
+"Aeroflot, flydubai",TLV,GRU,19h 40m ,2 stops ,"2,378 NIS ",17/04/2023
+"Pobeda, MEA",TLV,GRU,18h 35m ,3 stops ,"2,567 NIS ",17/04/2023
+Multiple Airlines,TLV,GRU,16h 25m ,3 stops ,"3,648 NIS ",17/04/2023
+Multiple Airlines,TLV,GRU,17h 50m ,3 stops ,"3,776 NIS ",17/04/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"9,285 NIS ",17/04/2023
+"Aeroflot, MEA",TLV,GRU,20h 40m ,2 stops ,"13,339 NIS ",17/04/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,039 NIS ",17/04/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,039 NIS ",17/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"18,759 NIS ",17/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"18,972 NIS ",17/04/2023
+Multiple Airlines,TLV,GRU,16h 10m ,2 stops ,"22,148 NIS ",17/04/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"22,352 NIS ",17/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"26,140 NIS ",17/04/2023
+"Aeroflot, Emirates",TLV,GRU,21h 05m ,2 stops ,"34,989 NIS ",17/04/2023
+"Aeroflot, Emirates",TLV,GRU,21h 05m ,2 stops ,"34,989 NIS ",17/04/2023
+"Aeroflot, Emirates",TLV,GRU,21h 05m ,2 stops ,"34,989 NIS ",17/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,704 NIS ",18/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,613 NIS ",18/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,708 NIS ",18/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",18/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,828 NIS ",18/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,628 NIS ",18/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,735 NIS ",18/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,966 NIS ",18/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,11h 35m ,1 stop ,"2,015 NIS ",18/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,169 NIS ",18/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",18/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 45m ,1 stop ,"2,413 NIS ",18/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"2,400 NIS ",18/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,418 NIS ",18/04/2023
+"Aeroflot, MEA",TLV,GRU,15h 00m ,1 stop ,"2,506 NIS ",18/04/2023
+"Finnair, flynas",TLV,GRU,20h 10m ,2 stops ,"1,353 NIS ",18/04/2023
+"Finnair, flynas",TLV,GRU,15h 25m ,2 stops ,"1,472 NIS ",18/04/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,12h 45m ,2 stops ,"1,836 NIS ",18/04/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,929 NIS ",18/04/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,362 NIS ",18/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,701 NIS ",18/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,836 NIS ",18/04/2023
+Multiple Airlines,TLV,GRU,17h 05m ,3 stops ,"2,096 NIS ",18/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,116 NIS ",18/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"2,178 NIS ",18/04/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"16,476 NIS ",18/04/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"19,033 NIS ",18/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"20,027 NIS ",18/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"29,089 NIS ",18/04/2023
+"Aeroflot, Emirates",TLV,GRU,21h 05m ,2 stops ,"34,989 NIS ",18/04/2023
+"Aeroflot, Emirates",TLV,GRU,21h 05m ,2 stops ,"34,989 NIS ",18/04/2023
+"Aeroflot, Emirates",TLV,GRU,21h 05m ,2 stops ,"34,989 NIS ",18/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,704 NIS ",19/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,613 NIS ",19/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,628 NIS ",19/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",19/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,735 NIS ",19/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,967 NIS ",19/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"2,007 NIS ",19/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 45m ,1 stop ,"2,239 NIS ",19/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"2,286 NIS ",19/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,230 NIS ",19/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,240 NIS ",19/04/2023
+"Nordwind Airlines, SAUDIA",TLV,GRU,11h 55m ,1 stop ,"2,262 NIS ",19/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"2,302 NIS ",19/04/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,638 NIS ",19/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,600 NIS ",19/04/2023
+"Aeroflot, Gulf Air",TLV,GRU,17h 30m ,2 stops ,"1,929 NIS ",19/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 30m ,2 stops ,"1,960 NIS ",19/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,700 NIS ",19/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,700 NIS ",19/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,700 NIS ",19/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,18h 45m ,2 stops ,"2,729 NIS ",19/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,19h 50m ,2 stops ,"2,729 NIS ",19/04/2023
+"Air France, KLM",TLV,GRU,16h 30m ,2 stops ,"2,778 NIS ",19/04/2023
+Multiple Airlines,TLV,GRU,19h 20m ,3 stops ,"1,980 NIS ",19/04/2023
+Multiple Airlines,TLV,GRU,19h 35m ,3 stops ,"2,043 NIS ",19/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"2,071 NIS ",19/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,076 NIS ",19/04/2023
+Multiple Airlines,TLV,GRU,19h 05m ,3 stops ,"2,202 NIS ",19/04/2023
+"LOT, Air Arabia",TLV,GRU,18h 55m ,3 stops ,"2,466 NIS ",19/04/2023
+Multiple Airlines,TLV,GRU,15h 25m ,3 stops ,"2,851 NIS ",19/04/2023
+Multiple Airlines,TLV,GRU,15h 20m ,3 stops ,"3,421 NIS ",19/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"8,750 NIS ",19/04/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"9,280 NIS ",19/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"18,752 NIS ",19/04/2023
+"Aeroflot, SriLankan Airlines",TLV,GRU,20h 00m ,1 stop ,"20,781 NIS ",19/04/2023
+"Aeroflot, Emirates",TLV,GRU,17h 20m ,2 stops ,"21,984 NIS ",19/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",20/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,525 NIS ",20/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,832 NIS ",20/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,729 NIS ",20/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,539 NIS ",20/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,735 NIS ",20/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,11h 35m ,1 stop ,"2,041 NIS ",20/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,244 NIS ",20/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 45m ,1 stop ,"2,251 NIS ",20/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",20/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,451 NIS ",20/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,244 NIS ",20/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"2,331 NIS ",20/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"2,436 NIS ",20/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,16h 20m ,1 stop ,"2,432 NIS ",20/04/2023
+"Aeroflot, MEA",TLV,GRU,15h 00m ,1 stop ,"2,500 NIS ",20/04/2023
+"Aeroflot, flynas",TLV,GRU,19h 15m ,1 stop ,"2,219 NIS ",20/04/2023
+"Finnair, flyadeal",TLV,GRU,14h 25m ,2 stops ,"1,162 NIS ",20/04/2023
+"Finnair, flynas",TLV,GRU,15h 25m ,2 stops ,"1,198 NIS ",20/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,600 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,15h 00m ,2 stops ,"1,814 NIS ",20/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,19h 15m ,2 stops ,"1,848 NIS ",20/04/2023
+"airBaltic, flynas",TLV,GRU,14h 40m ,2 stops ,"1,863 NIS ",20/04/2023
+"Aeroflot, Gulf Air",TLV,GRU,13h 45m ,2 stops ,"2,327 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,357 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,19h 25m ,3 stops ,"1,793 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,2 stops ,"3,376 NIS ",20/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"5,022 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,21h 00m ,3 stops ,"2,259 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,17h 40m ,3 stops ,"2,515 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,18h 20m ,3 stops ,"2,515 NIS ",20/04/2023
+"Pobeda, MEA",TLV,GRU,18h 35m ,3 stops ,"2,570 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,984 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,16h 00m ,3 stops ,"3,052 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,16h 50m ,3 stops ,"3,323 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,14h 30m ,2 stops ,"9,356 NIS ",20/04/2023
+"KLM, SAUDIA",TLV,GRU,13h 45m ,2 stops ,"10,173 NIS ",20/04/2023
+"Aeroflot, Emirates",TLV,GRU,17h 00m ,2 stops ,"12,524 NIS ",20/04/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,038 NIS ",20/04/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,038 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"16,475 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,17h 50m ,2 stops ,"17,755 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"18,752 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,18h 25m ,2 stops ,"18,918 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"18,971 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"22,351 NIS ",20/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"26,139 NIS ",20/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",21/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,525 NIS ",21/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,796 NIS ",21/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,700 NIS ",21/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,808 NIS ",21/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,10h 35m ,1 stop ,"2,130 NIS ",21/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,536 NIS ",21/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,705 NIS ",21/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"2,206 NIS ",21/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",21/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 05m ,1 stop ,"2,423 NIS ",21/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,539 NIS ",21/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,GRU,16h 20m ,1 stop ,"2,022 NIS ",21/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 10m ,1 stop ,"2,184 NIS ",21/04/2023
+"Aeroflot, flydubai",TLV,GRU,11h 35m ,1 stop ,"2,836 NIS ",21/04/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,638 NIS ",21/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,572 NIS ",21/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 35m ,2 stops ,"1,855 NIS ",21/04/2023
+Multiple Airlines,TLV,GRU,19h 00m ,2 stops ,"1,901 NIS ",21/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,700 NIS ",21/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,700 NIS ",21/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,700 NIS ",21/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,17h 15m ,2 stops ,"2,716 NIS ",21/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"3,841 NIS ",21/04/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,20h 10m ,3 stops ,"1,882 NIS ",21/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,3 stops ,"2,186 NIS ",21/04/2023
+Multiple Airlines,TLV,GRU,18h 00m ,3 stops ,"2,402 NIS ",21/04/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"2,402 NIS ",21/04/2023
+"Pobeda, MEA",TLV,GRU,19h 00m ,3 stops ,"2,428 NIS ",21/04/2023
+Multiple Airlines,TLV,GRU,20h 55m ,3 stops ,"2,448 NIS ",21/04/2023
+Multiple Airlines,TLV,GRU,16h 25m ,3 stops ,"3,648 NIS ",21/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"12,821 NIS ",21/04/2023
+"Aeroflot, MEA",TLV,GRU,20h 40m ,2 stops ,"13,335 NIS ",21/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"19,103 NIS ",21/04/2023
+Multiple Airlines,TLV,GRU,16h 10m ,2 stops ,"20,754 NIS ",21/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,525 NIS ",22/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,10h 30m ,1 stop ,"1,660 NIS ",22/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,14h 05m ,1 stop ,"1,700 NIS ",22/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,17h 00m ,1 stop ,"1,545 NIS ",22/04/2023
+"Aeroflot, flynas",TLV,GRU,12h 00m ,1 stop ,"1,864 NIS ",22/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,13h 35m ,1 stop ,"1,923 NIS ",22/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 25m ,1 stop ,"2,402 NIS ",22/04/2023
+"Aeroflot, SAUDIA",TLV,GRU,10h 50m ,1 stop ,"2,522 NIS ",22/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,539 NIS ",22/04/2023
+"Aeroflot, flynas",TLV,GRU,15h 40m ,1 stop ,"1,705 NIS ",22/04/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,15h 20m ,1 stop ,"2,172 NIS ",22/04/2023
+"Aeroflot, flydubai",TLV,GRU,11h 35m ,1 stop ,"2,495 NIS ",22/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",22/04/2023
+"Aeroflot, Air France",TLV,GRU,12h 25m ,1 stop ,"4,914 NIS ",22/04/2023
+"Aeroflot, flynas",TLV,GRU,20h 20m ,2 stops ,"1,572 NIS ",22/04/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,19h 00m ,2 stops ,"1,836 NIS ",22/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 30m ,2 stops ,"1,854 NIS ",22/04/2023
+"Aeroflot, Egypt Air",TLV,GRU,18h 30m ,2 stops ,"1,863 NIS ",22/04/2023
+"Aeroflot, Air Arabia",TLV,GRU,17h 15m ,2 stops ,"2,054 NIS ",22/04/2023
+"Aeroflot, flydubai",TLV,GRU,19h 40m ,2 stops ,"2,088 NIS ",22/04/2023
+"Nordwind Airlines, Egypt Air",TLV,GRU,18h 30m ,3 stops ,"1,915 NIS ",22/04/2023
+Multiple Airlines,TLV,GRU,18h 45m ,3 stops ,"1,919 NIS ",22/04/2023
+"Nordwind Airlines, Royal Jordanian",TLV,GRU,17h 00m ,3 stops ,"1,979 NIS ",22/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,3 stops ,"2,259 NIS ",22/04/2023
+Multiple Airlines,TLV,GRU,17h 20m ,3 stops ,"2,263 NIS ",22/04/2023
+Multiple Airlines,TLV,GRU,14h 00m ,2 stops ,"2,396 NIS ",22/04/2023
+"Pobeda, MEA",TLV,GRU,18h 35m ,3 stops ,"2,612 NIS ",22/04/2023
+Multiple Airlines,TLV,GRU,16h 25m ,2 stops ,"7,810 NIS ",22/04/2023
+"Aeroflot, MEA",TLV,GRU,20h 40m ,2 stops ,"14,343 NIS ",22/04/2023
+"Aeroflot, Emirates",TLV,GRU,15h 05m ,2 stops ,"16,051 NIS ",22/04/2023
+"Aeroflot, Emirates",TLV,GRU,20h 40m ,2 stops ,"16,051 NIS ",22/04/2023
+Multiple Airlines,TLV,GRU,16h 40m ,2 stops ,"17,548 NIS ",22/04/2023
+Multiple Airlines,TLV,GRU,15h 40m ,2 stops ,"17,829 NIS ",22/04/2023
+Multiple Airlines,TLV,GRU,18h 00m ,2 stops ,"19,519 NIS ",22/04/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"19,550 NIS ",22/04/2023
+Multiple Airlines,TLV,GRU,15h 10m ,2 stops ,"21,015 NIS ",22/04/2023
+Multiple Airlines,TLV,GRU,18h 15m ,2 stops ,"23,774 NIS ",22/04/2023
+Multiple Airlines,TLV,GRU,19h 10m ,3 stops ,"2,042 NIS ",22/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,561 NIS ",24/04/2023
+Air France,TLV,GRU,12h 25m ,1 stop ,"3,400 NIS ",24/04/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,661 NIS ",24/04/2023
+KLM,TLV,GRU,29h 25m ,1 stop ,"2,661 NIS ",25/04/2023
+KLM,TLV,GRU,17h 50m ,1 stop ,"2,661 NIS ",26/04/2023
+Air France,TLV,GRU,16h 30m ,2 stops ,"2,730 NIS ",26/04/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,661 NIS ",27/04/2023
+Air France,TLV,GRU,27h 55m ,2 stops ,"2,730 NIS ",27/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,561 NIS ",28/04/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,661 NIS ",28/04/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,730 NIS ",28/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,619 NIS ",29/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,528 NIS ",29/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,543 NIS ",29/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",29/04/2023
+"LOT, Turkish Airlines",TLV,GRU,14h 35m ,2 stops ,"2,262 NIS ",29/04/2023
+"Qatar Airways, Oman Air",TLV,GRU,17h 25m ,2 stops ,"2,284 NIS ",29/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",29/04/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,346 NIS ",29/04/2023
+Multiple Airlines,TLV,GRU,27h 30m ,3 stops ,921 NIS ,29/04/2023
+Multiple Airlines,TLV,GRU,21h 15m ,3 stops ,980 NIS ,29/04/2023
+"Finnair, Pegasus Airlines",TLV,GRU,18h 10m ,3 stops ,"1,123 NIS ",29/04/2023
+"airBaltic, Pegasus Airlines",TLV,GRU,18h 25m ,3 stops ,"1,447 NIS ",29/04/2023
+Multiple Airlines,TLV,GRU,17h 35m ,3 stops ,"1,989 NIS ",29/04/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,205 NIS ",29/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,615 NIS ",30/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,528 NIS ",30/04/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,543 NIS ",30/04/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",30/04/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,640 NIS ",30/04/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",30/04/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,346 NIS ",30/04/2023
+Multiple Airlines,TLV,GRU,27h 30m ,3 stops ,920 NIS ,30/04/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,059 NIS ",30/04/2023
+"Finnair, Pegasus Airlines",TLV,GRU,18h 10m ,3 stops ,"1,131 NIS ",30/04/2023
+"airBaltic, Pegasus Airlines",TLV,GRU,18h 25m ,3 stops ,"1,497 NIS ",30/04/2023
+"airBaltic, Pegasus Airlines",TLV,GRU,18h 25m ,3 stops ,"1,574 NIS ",30/04/2023
+Multiple Airlines,TLV,GRU,20h 20m ,3 stops ,"1,714 NIS ",30/04/2023
+Multiple Airlines,TLV,GRU,17h 25m ,3 stops ,"2,349 NIS ",30/04/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,661 NIS ",31/04/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,730 NIS ",31/04/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,647 NIS ",01/05/2023
+Air France,TLV,GRU,27h 55m ,2 stops ,"2,730 NIS ",01/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,661 NIS ",02/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,730 NIS ",02/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,561 NIS ",03/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,661 NIS ",03/05/2023
+Air France,TLV,GRU,27h 55m ,2 stops ,"2,735 NIS ",03/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,561 NIS ",04/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,661 NIS ",04/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,730 NIS ",04/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,529 NIS ",05/05/2023
+Multiple Airlines,TLV,GRU,27h 30m ,3 stops ,918 NIS ,05/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,544 NIS ",05/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",05/05/2023
+"Qatar Airways, Oman Air",TLV,GRU,17h 25m ,2 stops ,"2,256 NIS ",05/05/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,17h 35m ,2 stops ,"2,340 NIS ",05/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",05/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,346 NIS ",05/05/2023
+"Finnair, Pegasus Airlines",TLV,GRU,18h 10m ,3 stops ,"1,128 NIS ",05/05/2023
+Multiple Airlines,TLV,GRU,17h 35m ,3 stops ,"1,964 NIS ",05/05/2023
+"airBaltic, Egypt Air",TLV,GRU,17h 20m ,3 stops ,"2,080 NIS ",05/05/2023
+"Finnair, SAUDIA",TLV,GRU,16h 45m ,2 stops ,"2,420 NIS ",05/05/2023
+"LOT, Turkish Airlines",TLV,GRU,14h 35m ,2 stops ,"2,549 NIS ",05/05/2023
+"KLM, SAUDIA",TLV,GRU,16h 05m ,2 stops ,"2,910 NIS ",05/05/2023
+"Finnair, Pegasus Airlines",TLV,GRU,18h 10m ,3 stops ,"1,119 NIS ",05/05/2023
+"Finnair, flydubai",TLV,GRU,19h 15m ,3 stops ,"2,252 NIS ",05/05/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,257 NIS ",05/05/2023
+Multiple Airlines,TLV,GRU,18h 20m ,3 stops ,"3,234 NIS ",05/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,529 NIS ",06/05/2023
+Multiple Airlines,TLV,GRU,27h 30m ,3 stops ,"1,047 NIS ",06/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,544 NIS ",06/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",06/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,643 NIS ",06/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",06/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,346 NIS ",06/05/2023
+"airBaltic, Pegasus Airlines",TLV,GRU,18h 25m ,3 stops ,"1,395 NIS ",06/05/2023
+"Finnair, Pegasus Airlines",TLV,GRU,18h 10m ,3 stops ,"1,466 NIS ",06/05/2023
+Multiple Airlines,TLV,GRU,20h 20m ,3 stops ,"1,940 NIS ",06/05/2023
+"Air France, Egypt Air",TLV,GRU,21h 10m ,3 stops ,"1,971 NIS ",06/05/2023
+Multiple Airlines,TLV,GRU,17h 35m ,3 stops ,"1,985 NIS ",06/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,529 NIS ",07/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,16h 35m ,2 stops ,"1,079 NIS ",07/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,544 NIS ",07/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",07/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,643 NIS ",07/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,17h 30m ,2 stops ,"1,130 NIS ",07/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,18h 30m ,2 stops ,"1,130 NIS ",07/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,19h 50m ,2 stops ,"1,130 NIS ",07/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,21h 15m ,2 stops ,"1,130 NIS ",07/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,22h 10m ,2 stops ,"1,130 NIS ",07/05/2023
+"Qatar Airways, Oman Air",TLV,GRU,17h 25m ,2 stops ,"2,284 NIS ",07/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,637 NIS ",07/05/2023
+"airBaltic, Pegasus Airlines",TLV,GRU,18h 25m ,3 stops ,"1,631 NIS ",07/05/2023
+Multiple Airlines,TLV,GRU,21h 05m ,3 stops ,"1,695 NIS ",07/05/2023
+"airBaltic, Aegean Airlines",TLV,GRU,21h 05m ,3 stops ,"1,724 NIS ",07/05/2023
+Multiple Airlines,TLV,GRU,20h 15m ,2 stops ,"2,261 NIS ",07/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,637 NIS ",07/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",07/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",07/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",07/05/2023
+"Air France, flydubai",TLV,GRU,19h 55m ,3 stops ,"2,389 NIS ",07/05/2023
+"KLM, SAUDIA",TLV,GRU,15h 15m ,2 stops ,"9,343 NIS ",07/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,711 NIS ",08/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,618 NIS ",08/05/2023
+Multiple Airlines,TLV,GRU,27h 30m ,3 stops ,986 NIS ,08/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,632 NIS ",08/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",08/05/2023
+"Air Serbia, Pegasus Airlines",TLV,GRU,17h 25m ,2 stops ,"1,349 NIS ",08/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,720 NIS ",08/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,720 NIS ",08/05/2023
+"airBaltic, Pegasus Airlines",TLV,GRU,18h 25m ,3 stops ,"1,332 NIS ",08/05/2023
+Multiple Airlines,TLV,GRU,17h 35m ,3 stops ,"1,985 NIS ",08/05/2023
+Multiple Airlines,TLV,GRU,17h 25m ,3 stops ,"2,092 NIS ",08/05/2023
+"airBaltic, flydubai",TLV,GRU,15h 35m ,3 stops ,"2,172 NIS ",08/05/2023
+"Aeroflot, flydubai",TLV,GRU,15h 20m ,2 stops ,"3,010 NIS ",08/05/2023
+Multiple Airlines,TLV,GRU,17h 00m ,2 stops ,"3,010 NIS ",08/05/2023
+"Air France, SAUDIA",TLV,GRU,15h 50m ,2 stops ,"3,184 NIS ",08/05/2023
+"KLM, Etihad Airways",TLV,GRU,16h 15m ,2 stops ,"3,294 NIS ",08/05/2023
+"Air France, Etihad Airways",TLV,GRU,16h 00m ,2 stops ,"3,462 NIS ",08/05/2023
+Multiple Airlines,TLV,GRU,21h 15m ,3 stops ,"2,679 NIS ",08/05/2023
+"Air Serbia, Emirates",TLV,GRU,15h 40m ,2 stops ,"5,565 NIS ",08/05/2023
+"Air Serbia, Emirates",TLV,GRU,21h 05m ,2 stops ,"5,565 NIS ",08/05/2023
+"Air France, SAUDIA",TLV,GRU,16h 10m ,2 stops ,"6,739 NIS ",08/05/2023
+"Air France, SAUDIA",TLV,GRU,17h 25m ,2 stops ,"6,739 NIS ",08/05/2023
+"KLM, SAUDIA",TLV,GRU,16h 05m ,2 stops ,"9,251 NIS ",08/05/2023
+"KLM, SAUDIA",TLV,GRU,17h 55m ,2 stops ,"9,343 NIS ",08/05/2023
+"Aeroflot, Emirates",TLV,GRU,19h 30m ,2 stops ,"13,632 NIS ",08/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,618 NIS ",09/05/2023
+Multiple Airlines,TLV,GRU,27h 30m ,3 stops ,988 NIS ,09/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,632 NIS ",09/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,643 NIS ",09/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,947 NIS ",09/05/2023
+"Qatar Airways, Oman Air",TLV,GRU,17h 25m ,2 stops ,"2,371 NIS ",09/05/2023
+"Air Malta, SAUDIA",TLV,GRU,17h 15m ,2 stops ,"2,417 NIS ",09/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",09/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",09/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",09/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,720 NIS ",09/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,720 NIS ",09/05/2023
+Multiple Airlines,TLV,GRU,21h 15m ,3 stops ,"1,847 NIS ",09/05/2023
+Multiple Airlines,TLV,GRU,16h 25m ,3 stops ,"2,264 NIS ",09/05/2023
+"airBaltic, Turkish Airlines",TLV,GRU,19h 30m ,3 stops ,"2,339 NIS ",09/05/2023
+"Finnair, SAUDIA",TLV,GRU,17h 20m ,2 stops ,"2,916 NIS ",09/05/2023
+"airBaltic, Pegasus Airlines",TLV,GRU,18h 25m ,3 stops ,"2,922 NIS ",09/05/2023
+Multiple Airlines,TLV,GRU,18h 20m ,3 stops ,"3,572 NIS ",09/05/2023
+"KLM, SAUDIA",TLV,GRU,17h 05m ,2 stops ,"9,276 NIS ",09/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",10/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,529 NIS ",10/05/2023
+Multiple Airlines,TLV,GRU,27h 30m ,3 stops ,"1,021 NIS ",10/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,544 NIS ",10/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",10/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,643 NIS ",10/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,16h 35m ,2 stops ,"1,079 NIS ",10/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,17h 30m ,2 stops ,"1,278 NIS ",10/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,18h 30m ,2 stops ,"1,278 NIS ",10/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,19h 50m ,2 stops ,"1,278 NIS ",10/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,21h 15m ,2 stops ,"1,278 NIS ",10/05/2023
+"Air Serbia, Pegasus Airlines",TLV,GRU,17h 25m ,2 stops ,"1,554 NIS ",10/05/2023
+"Air Serbia, Aegean Airlines",TLV,GRU,15h 10m ,2 stops ,"1,639 NIS ",10/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,637 NIS ",10/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,637 NIS ",10/05/2023
+"airBaltic, Pegasus Airlines",TLV,GRU,18h 25m ,3 stops ,"1,416 NIS ",10/05/2023
+Multiple Airlines,TLV,GRU,17h 35m ,3 stops ,"1,987 NIS ",10/05/2023
+"airBaltic, flydubai",TLV,GRU,15h 35m ,3 stops ,"2,172 NIS ",10/05/2023
+"KLM, SAUDIA",TLV,GRU,16h 05m ,2 stops ,"9,251 NIS ",10/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,529 NIS ",11/05/2023
+Multiple Airlines,TLV,GRU,27h 30m ,3 stops ,988 NIS ,11/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,544 NIS ",11/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",11/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,643 NIS ",11/05/2023
+"airBaltic, SAUDIA",TLV,GRU,17h 30m ,2 stops ,"2,177 NIS ",11/05/2023
+"Qatar Airways, Oman Air",TLV,GRU,17h 25m ,2 stops ,"2,284 NIS ",11/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",11/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,346 NIS ",11/05/2023
+"Finnair, SAUDIA",TLV,GRU,17h 20m ,2 stops ,"2,431 NIS ",11/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",11/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",11/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",11/05/2023
+"airBaltic, Pegasus Airlines",TLV,GRU,18h 25m ,3 stops ,"1,300 NIS ",11/05/2023
+"Finnair, Pegasus Airlines",TLV,GRU,18h 10m ,3 stops ,"1,795 NIS ",11/05/2023
+Multiple Airlines,TLV,GRU,17h 35m ,3 stops ,"2,079 NIS ",11/05/2023
+Multiple Airlines,TLV,GRU,17h 25m ,3 stops ,"2,131 NIS ",11/05/2023
+"airBaltic, Turkish Airlines",TLV,GRU,19h 25m ,3 stops ,"2,912 NIS ",11/05/2023
+"KLM, SAUDIA",TLV,GRU,16h 40m ,2 stops ,"9,294 NIS ",11/05/2023
+"Aeroflot, Emirates",TLV,GRU,19h 30m ,2 stops ,"13,632 NIS ",11/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,529 NIS ",12/05/2023
+Multiple Airlines,TLV,GRU,27h 30m ,3 stops ,996 NIS ,12/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,544 NIS ",12/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",12/05/2023
+"Qatar Airways, Oman Air",TLV,GRU,17h 25m ,2 stops ,"2,284 NIS ",12/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",12/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,346 NIS ",12/05/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,17h 35m ,2 stops ,"2,383 NIS ",12/05/2023
+"Air France, SAUDIA",TLV,GRU,15h 50m ,2 stops ,"2,614 NIS ",12/05/2023
+Multiple Airlines,TLV,GRU,21h 15m ,3 stops ,"1,549 NIS ",12/05/2023
+"Finnair, Pegasus Airlines",TLV,GRU,18h 10m ,3 stops ,"1,795 NIS ",12/05/2023
+Multiple Airlines,TLV,GRU,17h 35m ,3 stops ,"2,052 NIS ",12/05/2023
+"airBaltic, Egypt Air",TLV,GRU,17h 20m ,3 stops ,"2,128 NIS ",12/05/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,296 NIS ",12/05/2023
+"Finnair, flydubai",TLV,GRU,19h 15m ,3 stops ,"2,339 NIS ",12/05/2023
+"Finnair, SAUDIA",TLV,GRU,16h 45m ,2 stops ,"2,591 NIS ",12/05/2023
+Multiple Airlines,TLV,GRU,18h 20m ,3 stops ,"3,353 NIS ",12/05/2023
+"KLM, SAUDIA",TLV,GRU,15h 15m ,2 stops ,"9,343 NIS ",12/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,612 NIS ",13/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,529 NIS ",13/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,30h 25m ,2 stops ,"1,157 NIS ",13/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,544 NIS ",13/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",13/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,643 NIS ",13/05/2023
+"airBaltic, SAUDIA",TLV,GRU,17h 30m ,2 stops ,"2,100 NIS ",13/05/2023
+"Qatar Airways, Oman Air",TLV,GRU,17h 25m ,2 stops ,"2,284 NIS ",13/05/2023
+"Air France, SAUDIA",TLV,GRU,16h 25m ,2 stops ,"2,342 NIS ",13/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",13/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,346 NIS ",13/05/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,17h 35m ,2 stops ,"2,383 NIS ",13/05/2023
+"airBaltic, Pegasus Airlines",TLV,GRU,18h 25m ,3 stops ,"1,569 NIS ",13/05/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,623 NIS ",13/05/2023
+"Air France, Egypt Air",TLV,GRU,21h 10m ,3 stops ,"1,858 NIS ",13/05/2023
+Multiple Airlines,TLV,GRU,17h 35m ,3 stops ,"2,052 NIS ",13/05/2023
+"Finnair, Pegasus Airlines",TLV,GRU,18h 10m ,3 stops ,"2,146 NIS ",13/05/2023
+"airBaltic, flydubai",TLV,GRU,15h 35m ,3 stops ,"2,199 NIS ",13/05/2023
+Multiple Airlines,TLV,GRU,17h 25m ,3 stops ,"2,546 NIS ",13/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",14/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,529 NIS ",14/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,16h 35m ,2 stops ,"1,228 NIS ",14/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,544 NIS ",14/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",14/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,643 NIS ",14/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,17h 30m ,2 stops ,"1,496 NIS ",14/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,18h 30m ,2 stops ,"1,496 NIS ",14/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,19h 50m ,2 stops ,"1,496 NIS ",14/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,21h 15m ,2 stops ,"1,496 NIS ",14/05/2023
+"KLM, Aegean Airlines",TLV,GRU,20h 15m ,2 stops ,"2,046 NIS ",14/05/2023
+"Qatar Airways, Oman Air",TLV,GRU,17h 25m ,2 stops ,"2,284 NIS ",14/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,637 NIS ",14/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,637 NIS ",14/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",14/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",14/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",14/05/2023
+"airBaltic, Aegean Airlines",TLV,GRU,21h 05m ,3 stops ,"1,731 NIS ",14/05/2023
+"Air France, Aegean Airlines",TLV,GRU,20h 00m ,3 stops ,"1,891 NIS ",14/05/2023
+Multiple Airlines,TLV,GRU,20h 00m ,3 stops ,"1,899 NIS ",14/05/2023
+"airBaltic, Pegasus Airlines",TLV,GRU,18h 25m ,3 stops ,"2,029 NIS ",14/05/2023
+"airBaltic, flydubai",TLV,GRU,15h 35m ,3 stops ,"2,199 NIS ",14/05/2023
+Multiple Airlines,TLV,GRU,17h 35m ,3 stops ,"2,433 NIS ",14/05/2023
+"airBaltic, Turkish Airlines",TLV,GRU,19h 30m ,3 stops ,"2,385 NIS ",14/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,618 NIS ",15/05/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,432 NIS ",15/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,632 NIS ",15/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",15/05/2023
+"Air Serbia, Pegasus Airlines",TLV,GRU,17h 25m ,2 stops ,"1,562 NIS ",15/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,720 NIS ",15/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,720 NIS ",15/05/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"2,969 NIS ",15/05/2023
+"Aeroflot, flydubai",TLV,GRU,15h 20m ,2 stops ,"3,063 NIS ",15/05/2023
+"KLM, Etihad Airways",TLV,GRU,16h 15m ,2 stops ,"3,294 NIS ",15/05/2023
+Multiple Airlines,TLV,GRU,17h 25m ,3 stops ,"1,532 NIS ",15/05/2023
+Multiple Airlines,TLV,GRU,17h 25m ,3 stops ,"2,133 NIS ",15/05/2023
+"airBaltic, flydubai",TLV,GRU,15h 35m ,3 stops ,"2,199 NIS ",15/05/2023
+Multiple Airlines,TLV,GRU,21h 15m ,3 stops ,"2,735 NIS ",15/05/2023
+Multiple Airlines,TLV,GRU,17h 00m ,2 stops ,"3,063 NIS ",15/05/2023
+"Air France, Etihad Airways",TLV,GRU,16h 00m ,2 stops ,"3,462 NIS ",15/05/2023
+"Air Serbia, Emirates",TLV,GRU,15h 40m ,2 stops ,"4,854 NIS ",15/05/2023
+"Air Serbia, Emirates",TLV,GRU,21h 05m ,2 stops ,"4,854 NIS ",15/05/2023
+"Brussels Airlines, Egypt Air",TLV,GRU,35h 20m ,3 stops ,"2,212 NIS ",15/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,711 NIS ",16/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,618 NIS ",16/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,30h 25m ,2 stops ,"1,198 NIS ",16/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,632 NIS ",16/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,633 NIS ",16/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"3,079 NIS ",16/05/2023
+"Qatar Airways, Oman Air",TLV,GRU,17h 25m ,2 stops ,"2,371 NIS ",16/05/2023
+"Air Malta, SAUDIA",TLV,GRU,17h 15m ,2 stops ,"2,461 NIS ",16/05/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,17h 35m ,2 stops ,"2,660 NIS ",16/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,720 NIS ",16/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,720 NIS ",16/05/2023
+"KLM, SAUDIA",TLV,GRU,16h 40m ,2 stops ,"2,785 NIS ",16/05/2023
+"Finnair, SAUDIA",TLV,GRU,17h 20m ,2 stops ,"2,878 NIS ",16/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"3,124 NIS ",16/05/2023
+Multiple Airlines,TLV,GRU,21h 15m ,3 stops ,"1,585 NIS ",16/05/2023
+"airBaltic, Turkish Airlines",TLV,GRU,19h 30m ,3 stops ,"2,358 NIS ",16/05/2023
+"Finnair, Pegasus Airlines",TLV,GRU,18h 10m ,3 stops ,"2,411 NIS ",16/05/2023
+"LOT, Oman Air",TLV,GRU,21h 00m ,3 stops ,"2,427 NIS ",16/05/2023
+"Air France, Egypt Air",TLV,GRU,21h 10m ,3 stops ,"2,511 NIS ",16/05/2023
+Multiple Airlines,TLV,GRU,16h 25m ,3 stops ,"2,535 NIS ",16/05/2023
+"Air France, Qatar Airways",TLV,GRU,20h 45m ,3 stops ,"2,560 NIS ",16/05/2023
+"airBaltic, Gulf Air",TLV,GRU,16h 45m ,3 stops ,"2,562 NIS ",16/05/2023
+Multiple Airlines,TLV,GRU,16h 25m ,3 stops ,"2,637 NIS ",16/05/2023
+"Finnair, Turkish Airlines",TLV,GRU,19h 20m ,3 stops ,"2,657 NIS ",16/05/2023
+Multiple Airlines,TLV,GRU,16h 45m ,3 stops ,"2,671 NIS ",16/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"3,392 NIS ",16/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"3,392 NIS ",16/05/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"4,545 NIS ",16/05/2023
+Multiple Airlines,TLV,GRU,18h 20m ,3 stops ,"3,636 NIS ",16/05/2023
+"KLM, SAUDIA",TLV,GRU,17h 05m ,2 stops ,"10,169 NIS ",16/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",17/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,529 NIS ",17/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,16h 35m ,2 stops ,"1,228 NIS ",17/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,544 NIS ",17/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,643 NIS ",17/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"3,335 NIS ",17/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,17h 30m ,2 stops ,"1,454 NIS ",17/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,18h 30m ,2 stops ,"1,454 NIS ",17/05/2023
+"Air Serbia, Aegean Airlines",TLV,GRU,15h 10m ,2 stops ,"1,668 NIS ",17/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,19h 50m ,2 stops ,"1,454 NIS ",17/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,21h 15m ,2 stops ,"1,454 NIS ",17/05/2023
+"LOT, flydubai",TLV,GRU,18h 15m ,2 stops ,"2,327 NIS ",17/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,637 NIS ",17/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,637 NIS ",17/05/2023
+"airBaltic, Pegasus Airlines",TLV,GRU,18h 25m ,3 stops ,"1,820 NIS ",17/05/2023
+Multiple Airlines,TLV,GRU,17h 35m ,3 stops ,"2,079 NIS ",17/05/2023
+"airBaltic, flydubai",TLV,GRU,15h 35m ,3 stops ,"2,199 NIS ",17/05/2023
+"LOT, Turkish Airlines",TLV,GRU,14h 35m ,3 stops ,"2,683 NIS ",17/05/2023
+"Qatar Airways, SAUDIA",TLV,GRU,14h 20m ,2 stops ,"2,991 NIS ",17/05/2023
+"KLM, SAUDIA",TLV,GRU,17h 40m ,2 stops ,"3,049 NIS ",17/05/2023
+"KLM, SAUDIA",TLV,GRU,16h 05m ,2 stops ,"3,289 NIS ",17/05/2023
+"LOT, Oman Air",TLV,GRU,21h 00m ,3 stops ,"2,355 NIS ",17/05/2023
+Multiple Airlines,TLV,GRU,16h 55m ,3 stops ,"2,640 NIS ",17/05/2023
+"Finnair, Turkish Airlines",TLV,GRU,19h 20m ,3 stops ,"2,693 NIS ",17/05/2023
+"KLM, SAUDIA",TLV,GRU,17h 40m ,2 stops ,"9,269 NIS ",17/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",18/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,529 NIS ",18/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,30h 25m ,2 stops ,"1,160 NIS ",18/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,544 NIS ",18/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,643 NIS ",18/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"3,778 NIS ",18/05/2023
+"Qatar Airways, Oman Air",TLV,GRU,17h 25m ,2 stops ,"2,284 NIS ",18/05/2023
+"airBaltic, SAUDIA",TLV,GRU,17h 30m ,2 stops ,"2,284 NIS ",18/05/2023
+"Qatar Airways, Etihad Airways",TLV,GRU,21h 05m ,2 stops ,"2,631 NIS ",18/05/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,17h 35m ,2 stops ,"2,635 NIS ",18/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,637 NIS ",18/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,637 NIS ",18/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",18/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",18/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",18/05/2023
+"airBaltic, Pegasus Airlines",TLV,GRU,18h 25m ,3 stops ,"1,543 NIS ",18/05/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,590 NIS ",18/05/2023
+Multiple Airlines,TLV,GRU,17h 25m ,3 stops ,"2,108 NIS ",18/05/2023
+Multiple Airlines,TLV,GRU,17h 25m ,3 stops ,"2,131 NIS ",18/05/2023
+"Finnair, Pegasus Airlines",TLV,GRU,18h 10m ,3 stops ,"2,293 NIS ",18/05/2023
+Multiple Airlines,TLV,GRU,16h 25m ,3 stops ,"2,431 NIS ",18/05/2023
+"KLM, SAUDIA",TLV,GRU,17h 05m ,2 stops ,"9,276 NIS ",18/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,623 NIS ",19/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,529 NIS ",19/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,30h 25m ,2 stops ,"1,160 NIS ",19/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,544 NIS ",19/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",19/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",19/05/2023
+"Qatar Airways, Oman Air",TLV,GRU,17h 25m ,2 stops ,"2,284 NIS ",19/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,346 NIS ",19/05/2023
+"Finnair, SAUDIA",TLV,GRU,16h 45m ,2 stops ,"2,393 NIS ",19/05/2023
+"Air France, SAUDIA",TLV,GRU,17h 25m ,2 stops ,"2,631 NIS ",19/05/2023
+"Aeroflot, Turkish Airlines",TLV,GRU,17h 35m ,2 stops ,"2,635 NIS ",19/05/2023
+"Finnair, Pegasus Airlines",TLV,GRU,18h 10m ,3 stops ,"1,627 NIS ",19/05/2023
+"airBaltic, Egypt Air",TLV,GRU,17h 20m ,3 stops ,"2,104 NIS ",19/05/2023
+Multiple Airlines,TLV,GRU,15h 45m ,3 stops ,"2,274 NIS ",19/05/2023
+"Finnair, flydubai",TLV,GRU,19h 15m ,3 stops ,"2,301 NIS ",19/05/2023
+"KLM, Pegasus Airlines",TLV,GRU,20h 15m ,3 stops ,"2,317 NIS ",19/05/2023
+Multiple Airlines,TLV,GRU,18h 25m ,3 stops ,"2,393 NIS ",19/05/2023
+Multiple Airlines,TLV,GRU,17h 35m ,3 stops ,"2,427 NIS ",19/05/2023
+"Finnair, Turkish Airlines",TLV,GRU,19h 20m ,3 stops ,"2,437 NIS ",19/05/2023
+Multiple Airlines,TLV,GRU,16h 25m ,3 stops ,"2,497 NIS ",19/05/2023
+"LOT, flydubai",TLV,GRU,18h 15m ,3 stops ,"2,558 NIS ",19/05/2023
+Multiple Airlines,TLV,GRU,21h 15m ,3 stops ,"2,570 NIS ",19/05/2023
+Multiple Airlines,TLV,GRU,20h 30m ,2 stops ,"2,753 NIS ",19/05/2023
+Multiple Airlines,TLV,GRU,18h 20m ,3 stops ,"3,301 NIS ",19/05/2023
+"KLM, SAUDIA",TLV,GRU,15h 15m ,2 stops ,"9,343 NIS ",19/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,619 NIS ",20/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,529 NIS ",20/05/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,273 NIS ",20/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,544 NIS ",20/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",20/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,643 NIS ",20/05/2023
+"airBaltic, SAUDIA",TLV,GRU,17h 30m ,2 stops ,"2,212 NIS ",20/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",20/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,346 NIS ",20/05/2023
+"Finnair, Pegasus Airlines",TLV,GRU,18h 10m ,3 stops ,"1,543 NIS ",20/05/2023
+Multiple Airlines,TLV,GRU,20h 20m ,3 stops ,"1,982 NIS ",20/05/2023
+Multiple Airlines,TLV,GRU,17h 35m ,3 stops ,"2,052 NIS ",20/05/2023
+Multiple Airlines,TLV,GRU,17h 25m ,3 stops ,"2,445 NIS ",20/05/2023
+"airBaltic, Turkish Airlines",TLV,GRU,19h 25m ,3 stops ,"2,696 NIS ",20/05/2023
+"KLM, SAUDIA",TLV,GRU,17h 05m ,2 stops ,"9,276 NIS ",20/05/2023
+"KLM, SAUDIA",TLV,GRU,16h 40m ,2 stops ,"9,294 NIS ",20/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,615 NIS ",21/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,529 NIS ",21/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,16h 35m ,2 stops ,"1,231 NIS ",21/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,544 NIS ",21/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",21/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,643 NIS ",21/05/2023
+Multiple Airlines,TLV,GRU,20h 15m ,2 stops ,"2,250 NIS ",21/05/2023
+"Qatar Airways, Oman Air",TLV,GRU,17h 25m ,2 stops ,"2,284 NIS ",21/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,346 NIS ",21/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,346 NIS ",21/05/2023
+"Finnair, SAUDIA",TLV,GRU,16h 45m ,2 stops ,"2,393 NIS ",21/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",21/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",21/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",21/05/2023
+Multiple Airlines,TLV,GRU,21h 05m ,3 stops ,"1,727 NIS ",21/05/2023
+"Finnair, Aegean Airlines",TLV,GRU,20h 55m ,3 stops ,"1,779 NIS ",21/05/2023
+"airBaltic, flydubai",TLV,GRU,15h 35m ,3 stops ,"2,199 NIS ",21/05/2023
+Multiple Airlines,TLV,GRU,18h 25m ,3 stops ,"2,392 NIS ",21/05/2023
+"Finnair, Turkish Airlines",TLV,GRU,19h 20m ,3 stops ,"2,505 NIS ",21/05/2023
+"airBaltic, Gulf Air",TLV,GRU,16h 45m ,3 stops ,"2,556 NIS ",21/05/2023
+"KLM, Turkish Airlines",TLV,GRU,18h 40m ,2 stops ,"2,920 NIS ",21/05/2023
+"airBaltic, Turkish Airlines",TLV,GRU,19h 25m ,3 stops ,"2,696 NIS ",21/05/2023
+Multiple Airlines,TLV,GRU,21h 00m ,2 stops ,"2,905 NIS ",21/05/2023
+Multiple Airlines,TLV,GRU,18h 20m ,3 stops ,"3,353 NIS ",21/05/2023
+"KLM, SAUDIA",TLV,GRU,15h 15m ,2 stops ,"9,343 NIS ",21/05/2023
+Air France,TLV,GRU,27h 55m ,2 stops ,"2,730 NIS ",22/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,647 NIS ",23/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,661 NIS ",23/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,730 NIS ",23/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,661 NIS ",24/05/2023
+Air France,TLV,GRU,27h 55m ,2 stops ,"2,730 NIS ",24/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,561 NIS ",25/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,661 NIS ",25/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,730 NIS ",25/05/2023
+KLM,TLV,GRU,29h 40m ,1 stop ,"2,661 NIS ",26/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,661 NIS ",27/05/2023
+Air France,TLV,GRU,27h 55m ,2 stops ,"2,735 NIS ",27/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,964 NIS ",28/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"1,961 NIS ",28/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,16h 35m ,2 stops ,"1,556 NIS ",28/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"1,976 NIS ",28/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",28/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,643 NIS ",28/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,17h 30m ,2 stops ,"1,657 NIS ",28/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,18h 30m ,2 stops ,"1,657 NIS ",28/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,19h 50m ,2 stops ,"1,657 NIS ",28/05/2023
+"Aeroflot, Pegasus Airlines",TLV,GRU,21h 15m ,2 stops ,"1,657 NIS ",28/05/2023
+"KLM, Aegean Airlines",TLV,GRU,20h 15m ,2 stops ,"2,309 NIS ",28/05/2023
+"LOT, Turkish Airlines",TLV,GRU,14h 35m ,2 stops ,"2,641 NIS ",28/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",28/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",28/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",28/05/2023
+"Finnair, SAUDIA",TLV,GRU,16h 45m ,2 stops ,"2,709 NIS ",28/05/2023
+"Qatar Airways, Oman Air",TLV,GRU,17h 25m ,2 stops ,"2,719 NIS ",28/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,781 NIS ",28/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,781 NIS ",28/05/2023
+Multiple Airlines,TLV,GRU,21h 05m ,3 stops ,"1,663 NIS ",28/05/2023
+"airBaltic, Aegean Airlines",TLV,GRU,21h 05m ,3 stops ,"1,731 NIS ",28/05/2023
+Multiple Airlines,TLV,GRU,20h 55m ,3 stops ,"1,841 NIS ",28/05/2023
+"Finnair, Aegean Airlines",TLV,GRU,20h 55m ,3 stops ,"1,850 NIS ",28/05/2023
+"airBaltic, flydubai",TLV,GRU,15h 35m ,3 stops ,"2,185 NIS ",28/05/2023
+"Finnair, Turkish Airlines",TLV,GRU,19h 20m ,3 stops ,"2,487 NIS ",28/05/2023
+"KLM, SAUDIA",TLV,GRU,15h 15m ,2 stops ,"9,343 NIS ",28/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"2,058 NIS ",29/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"2,047 NIS ",29/05/2023
+Multiple Airlines,TLV,GRU,27h 30m ,3 stops ,"1,222 NIS ",29/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"2,061 NIS ",29/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,402 NIS ",29/05/2023
+"Air Serbia, Pegasus Airlines",TLV,GRU,17h 25m ,2 stops ,"2,264 NIS ",29/05/2023
+"Finnair, SAUDIA",TLV,GRU,16h 45m ,2 stops ,"2,759 NIS ",29/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,863 NIS ",29/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"2,863 NIS ",29/05/2023
+Multiple Airlines,TLV,GRU,17h 10m ,2 stops ,"2,950 NIS ",29/05/2023
+"KLM, Turkish Airlines",TLV,GRU,18h 40m ,2 stops ,"2,962 NIS ",29/05/2023
+"Aeroflot, flydubai",TLV,GRU,15h 20m ,2 stops ,"3,089 NIS ",29/05/2023
+Multiple Airlines,TLV,GRU,18h 30m ,3 stops ,"1,542 NIS ",29/05/2023
+"airBaltic, Pegasus Airlines",TLV,GRU,18h 25m ,3 stops ,"1,607 NIS ",29/05/2023
+"Finnair, Pegasus Airlines",TLV,GRU,18h 10m ,3 stops ,"1,934 NIS ",29/05/2023
+"Finnair, Pegasus Airlines",TLV,GRU,18h 10m ,3 stops ,"2,018 NIS ",29/05/2023
+Multiple Airlines,TLV,GRU,17h 25m ,3 stops ,"2,058 NIS ",29/05/2023
+Multiple Airlines,TLV,GRU,17h 35m ,3 stops ,"2,212 NIS ",29/05/2023
+Multiple Airlines,TLV,GRU,17h 25m ,3 stops ,"2,247 NIS ",29/05/2023
+Multiple Airlines,TLV,GRU,16h 25m ,3 stops ,"2,581 NIS ",29/05/2023
+Multiple Airlines,TLV,GRU,21h 15m ,3 stops ,"2,779 NIS ",29/05/2023
+Multiple Airlines,TLV,GRU,17h 00m ,2 stops ,"3,100 NIS ",29/05/2023
+Multiple Airlines,TLV,GRU,16h 05m ,2 stops ,"3,185 NIS ",29/05/2023
+"LOT, Turkish Airlines",TLV,GRU,14h 35m ,2 stops ,"3,460 NIS ",29/05/2023
+"KLM, Lufthansa",TLV,GRU,14h 15m ,2 stops ,"3,556 NIS ",29/05/2023
+"LOT, Turkish Airlines",TLV,GRU,14h 35m ,2 stops ,"4,172 NIS ",29/05/2023
+"Aeroflot, Emirates",TLV,GRU,19h 30m ,2 stops ,"13,632 NIS ",29/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"2,047 NIS ",30/05/2023
+Qatar Airways,TLV,GRU,8h 30m ,1 stop ,"2,047 NIS ",30/05/2023
+Multiple Airlines,TLV,GRU,27h 30m ,3 stops ,"1,343 NIS ",30/05/2023
+Qatar Airways,TLV,GRU,20h 30m ,1 stop ,"2,061 NIS ",30/05/2023
+KLM,TLV,GRU,17h 00m ,1 stop ,"2,643 NIS ",30/05/2023
+"Air France, SAUDIA",TLV,GRU,12h 40m ,1 stop ,"2,947 NIS ",30/05/2023
+"Air Malta, SAUDIA",TLV,GRU,17h 15m ,2 stops ,"2,395 NIS ",30/05/2023
+"KLM, Turkish Airlines",TLV,GRU,18h 40m ,2 stops ,"2,577 NIS ",30/05/2023
+"Finnair, SAUDIA",TLV,GRU,17h 20m ,2 stops ,"2,689 NIS ",30/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",30/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",30/05/2023
+Air France,TLV,GRU,16h 45m ,2 stops ,"2,704 NIS ",30/05/2023
+"Finnair, Qatar Airways",TLV,GRU,13h 05m ,2 stops ,"2,727 NIS ",30/05/2023
+"Qatar Airways, Oman Air",TLV,GRU,17h 25m ,2 stops ,"2,806 NIS ",30/05/2023
+"KLM, SAUDIA",TLV,GRU,16h 40m ,2 stops ,"2,838 NIS ",30/05/2023
+"Finnair, Qatar Airways",TLV,GRU,16h 40m ,2 stops ,"3,034 NIS ",30/05/2023
+Multiple Airlines,TLV,GRU,21h 15m ,3 stops ,"1,524 NIS ",30/05/2023
+"airBaltic, Pegasus Airlines",TLV,GRU,18h 25m ,3 stops ,"1,578 NIS ",30/05/2023
+"Air France, Egypt Air",TLV,GRU,21h 10m ,3 stops ,"1,920 NIS ",30/05/2023
+"Finnair, Pegasus Airlines",TLV,GRU,18h 10m ,3 stops ,"2,080 NIS ",30/05/2023
+Multiple Airlines,TLV,GRU,17h 35m ,3 stops ,"2,091 NIS ",30/05/2023
+Multiple Airlines,TLV,GRU,16h 25m ,3 stops ,"2,620 NIS ",30/05/2023
+Multiple Airlines,TLV,GRU,18h 20m ,3 stops ,"4,042 NIS ",30/05/2023

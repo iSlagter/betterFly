@@ -1,0 +1,2404 @@
+Airline,Source,Destination,Duration,Total stops,Price,Date
+Air Serbia,YYZ,BKK,6h 15m ,1 stop ,774 NIS ,01/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,155 NIS ",01/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,184 NIS ",01/03/2023
+Aeroflot,YYZ,BKK,3h 55m ,nonstop ,"1,207 NIS ",01/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,01/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,01/03/2023
+Air Serbia,YYZ,BKK,6h 15m ,1 stop ,696 NIS ,01/03/2023
+Finnair,YYZ,BKK,16h 05m ,1 stop ,547 NIS ,01/03/2023
+"airBaltic, Aeroflot",YYZ,BKK,7h 25m ,1 stop ,805 NIS ,01/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,809 NIS ,01/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,809 NIS ,01/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,872 NIS ,01/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,926 NIS ,01/03/2023
+"Air Moldova, Aeroflot",YYZ,BKK,12h 15m ,1 stop ,969 NIS ,01/03/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,8h 45m ,1 stop ,989 NIS ,01/03/2023
+"Air France, Nordwind Airlines",YYZ,BKK,10h 10m ,1 stop ,"1,028 NIS ",01/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,031 NIS ",01/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,078 NIS ",01/03/2023
+"Vueling, Aeroflot",YYZ,BKK,7h 20m ,1 stop ,"1,117 NIS ",01/03/2023
+"Air France, LOT",YYZ,BKK,8h 30m ,1 stop ,"1,141 NIS ",01/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,201 NIS ",01/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,201 NIS ",01/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,201 NIS ",01/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,201 NIS ",01/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,201 NIS ",01/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,201 NIS ",01/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,201 NIS ",01/03/2023
+"Vueling, Aeroflot",YYZ,BKK,11h 05m ,1 stop ,"1,002 NIS ",01/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 25m ,1 stop ,"1,109 NIS ",01/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,201 NIS ",01/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,201 NIS ",01/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,201 NIS ",01/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,201 NIS ",01/03/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,201 NIS ",01/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,717 NIS ,01/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,747 NIS ,01/03/2023
+"easyJet, Finnair",YYZ,BKK,9h 50m ,2 stops ,808 NIS ,01/03/2023
+"Vueling, KLM",YYZ,BKK,12h 35m ,2 stops ,839 NIS ,01/03/2023
+"easyJet, KLM",YYZ,BKK,11h 05m ,2 stops ,842 NIS ,01/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,877 NIS ,01/03/2023
+"Air France, KLM",YYZ,BKK,9h 25m ,2 stops ,921 NIS ,01/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,11h 55m ,1 stop ,945 NIS ,01/03/2023
+"Air France, KLM",YYZ,BKK,10h 45m ,2 stops ,972 NIS ,01/03/2023
+"Air France, KLM",YYZ,BKK,10h 40m ,2 stops ,"1,001 NIS ",01/03/2023
+"Air France, KLM",YYZ,BKK,10h 40m ,2 stops ,"1,002 NIS ",01/03/2023
+"Ryanair, KLM",YYZ,BKK,11h 00m ,2 stops ,"1,032 NIS ",01/03/2023
+"KLM, Nordwind Airlines",YYZ,BKK,10h 45m ,2 stops ,"1,079 NIS ",01/03/2023
+"KLM, Nordwind Airlines",YYZ,BKK,9h 55m ,2 stops ,"1,080 NIS ",01/03/2023
+"KLM, Aeroflot",YYZ,BKK,10h 00m ,2 stops ,"1,131 NIS ",01/03/2023
+"Vueling, KLM",YYZ,BKK,11h 40m ,2 stops ,843 NIS ,01/03/2023
+Multiple Airlines,YYZ,BKK,7h 15m ,2 stops ,"4,298 NIS ",01/03/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,953 NIS ",01/03/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,708 NIS ,02/03/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,184 NIS ",02/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,184 NIS ",02/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,184 NIS ",02/03/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,399 NIS ",02/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,02/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,02/03/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,612 NIS ,02/03/2023
+"Ryanair, airBaltic",YYZ,BKK,10h 30m ,1 stop ,659 NIS ,02/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,809 NIS ,02/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,809 NIS ,02/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,872 NIS ,02/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,8h 50m ,1 stop ,926 NIS ,02/03/2023
+Bulgaria Air,YYZ,BKK,6h 55m ,1 stop ,994 NIS ,02/03/2023
+"Wizz Air, LOT",YYZ,BKK,14h 40m ,1 stop ,874 NIS ,02/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,9h 50m ,1 stop ,"1,035 NIS ",02/03/2023
+"Turkish Airlines, Nordwind Airlines",YYZ,BKK,8h 50m ,1 stop ,"1,037 NIS ",02/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,086 NIS ",02/03/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 10m ,1 stop ,"1,103 NIS ",02/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 25m ,1 stop ,"1,103 NIS ",02/03/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,108 NIS ",02/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,129 NIS ",02/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 05m ,1 stop ,"1,134 NIS ",02/03/2023
+"Vueling, Aeroflot",YYZ,BKK,10h 25m ,1 stop ,"1,200 NIS ",02/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,201 NIS ",02/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,201 NIS ",02/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,201 NIS ",02/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,201 NIS ",02/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,201 NIS ",02/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,201 NIS ",02/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,201 NIS ",02/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,201 NIS ",02/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,201 NIS ",02/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,201 NIS ",02/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,201 NIS ",02/03/2023
+"Vueling, airBaltic",YYZ,BKK,12h 15m ,2 stops ,672 NIS ,02/03/2023
+"Vueling, airBaltic",YYZ,BKK,12h 00m ,2 stops ,685 NIS ,02/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,717 NIS ,02/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,747 NIS ,02/03/2023
+"Ryanair, KLM",YYZ,BKK,14h 20m ,2 stops ,790 NIS ,02/03/2023
+"Vueling, LOT",YYZ,BKK,11h 30m ,2 stops ,821 NIS ,02/03/2023
+"easyJet, KLM",YYZ,BKK,11h 05m ,2 stops ,842 NIS ,02/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,877 NIS ,02/03/2023
+airBaltic,YYZ,BKK,13h 15m ,2 stops ,"1,109 NIS ",02/03/2023
+Multiple Airlines,YYZ,BKK,15h 15m ,2 stops ,413 NIS ,02/03/2023
+"Vueling, KLM",YYZ,BKK,10h 40m ,2 stops ,843 NIS ,02/03/2023
+"Lufthansa, airBaltic",YYZ,BKK,9h 55m ,3 stops ,982 NIS ,02/03/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"5,979 NIS ",02/03/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,708 NIS ,03/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,184 NIS ",03/03/2023
+Air France,YYZ,BKK,3h 55m ,nonstop ,"1,753 NIS ",03/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,03/03/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,630 NIS ,03/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,03/03/2023
+"airBaltic, Aeroflot",YYZ,BKK,7h 25m ,1 stop ,805 NIS ,03/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,809 NIS ,03/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,809 NIS ,03/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,888 NIS ,03/03/2023
+"Air France, Aeroflot",YYZ,BKK,5h 40m ,1 stop ,"1,145 NIS ",03/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,201 NIS ",03/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,201 NIS ",03/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,201 NIS ",03/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,201 NIS ",03/03/2023
+Finnair,YYZ,BKK,5h 35m ,1 stop ,"1,208 NIS ",03/03/2023
+Finnair,YYZ,BKK,15h 45m ,1 stop ,589 NIS ,03/03/2023
+Air Serbia,YYZ,BKK,14h 10m ,1 stop ,630 NIS ,03/03/2023
+"HiSky, Aeroflot",YYZ,BKK,11h 50m ,1 stop ,754 NIS ,03/03/2023
+LOT,YYZ,BKK,15h 45m ,1 stop ,809 NIS ,03/03/2023
+"Austrian Airlines, Aeroflot",YYZ,BKK,8h 40m ,1 stop ,"1,002 NIS ",03/03/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,041 NIS ",03/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,077 NIS ",03/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,080 NIS ",03/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,088 NIS ",03/03/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 10m ,1 stop ,"1,112 NIS ",03/03/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 15m ,1 stop ,"1,124 NIS ",03/03/2023
+"Air France, Aeroflot",YYZ,BKK,7h 35m ,1 stop ,"1,160 NIS ",03/03/2023
+"Air France, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,160 NIS ",03/03/2023
+"Air France, Aeroflot",YYZ,BKK,9h 10m ,1 stop ,"1,160 NIS ",03/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,201 NIS ",03/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,201 NIS ",03/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,201 NIS ",03/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,201 NIS ",03/03/2023
+LOT,YYZ,BKK,8h 20m ,1 stop ,"1,477 NIS ",03/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,717 NIS ,03/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,747 NIS ,03/03/2023
+"Ryanair, KLM",YYZ,BKK,11h 25m ,2 stops ,794 NIS ,03/03/2023
+"easyJet, KLM",YYZ,BKK,12h 55m ,2 stops ,841 NIS ,03/03/2023
+"easyJet, KLM",YYZ,BKK,11h 05m ,2 stops ,862 NIS ,03/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,877 NIS ,03/03/2023
+"Wizz Air, LOT",YYZ,BKK,9h 20m ,2 stops ,901 NIS ,03/03/2023
+"Air France, KLM",YYZ,BKK,9h 25m ,2 stops ,921 NIS ,03/03/2023
+"LOT, Nordwind Airlines",YYZ,BKK,10h 55m ,2 stops ,966 NIS ,03/03/2023
+"Vueling, LOT",YYZ,BKK,11h 15m ,2 stops ,971 NIS ,03/03/2023
+"Air France, KLM",YYZ,BKK,10h 45m ,2 stops ,982 NIS ,03/03/2023
+"Air France, KLM",YYZ,BKK,10h 40m ,2 stops ,"1,002 NIS ",03/03/2023
+"Air France, KLM",YYZ,BKK,10h 40m ,2 stops ,"1,002 NIS ",03/03/2023
+"LOT, Aeroflot",YYZ,BKK,9h 50m ,2 stops ,"1,018 NIS ",03/03/2023
+"Air France, LOT",YYZ,BKK,10h 40m ,2 stops ,"1,058 NIS ",03/03/2023
+"Air France, KLM",YYZ,BKK,10h 25m ,2 stops ,"1,074 NIS ",03/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,201 NIS ",03/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,201 NIS ",03/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,201 NIS ",03/03/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,201 NIS ",03/03/2023
+Aeroflot,YYZ,BKK,10h 05m ,1 stop ,"1,623 NIS ",03/03/2023
+Aeroflot,YYZ,BKK,11h 10m ,1 stop ,"1,623 NIS ",03/03/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,623 NIS ",03/03/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,623 NIS ",03/03/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,623 NIS ",03/03/2023
+Aeroflot,YYZ,BKK,15h 30m ,1 stop ,"1,623 NIS ",03/03/2023
+Multiple Airlines,YYZ,BKK,15h 25m ,3 stops ,"5,902 NIS ",03/03/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,953 NIS ",03/03/2023
+Multiple Airlines,YYZ,BKK,15h 45m ,2 stops ,"7,188 NIS ",03/03/2023
+Air Serbia,YYZ,BKK,6h 00m ,1 stop ,708 NIS ,04/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,132 NIS ",04/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,184 NIS ",04/03/2023
+Aeroflot,YYZ,BKK,3h 55m ,nonstop ,"1,184 NIS ",04/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,184 NIS ",04/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,04/03/2023
+Air Serbia,YYZ,BKK,6h 00m ,1 stop ,630 NIS ,04/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,04/03/2023
+Air Serbia,YYZ,BKK,14h 10m ,1 stop ,630 NIS ,04/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,809 NIS ,04/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,809 NIS ,04/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,874 NIS ,04/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,926 NIS ,04/03/2023
+"Aeroflot, Nordwind Airlines",YYZ,BKK,7h 35m ,1 stop ,989 NIS ,04/03/2023
+Bulgaria Air,YYZ,BKK,7h 35m ,1 stop ,994 NIS ,04/03/2023
+Aeroflot,YYZ,BKK,5h 55m ,1 stop ,"1,009 NIS ",04/03/2023
+Aeroflot,YYZ,BKK,6h 50m ,1 stop ,"1,041 NIS ",04/03/2023
+Aeroflot,YYZ,BKK,7h 55m ,1 stop ,"1,041 NIS ",04/03/2023
+"Air France, Aeroflot",YYZ,BKK,6h 30m ,1 stop ,"1,082 NIS ",04/03/2023
+"Wizz Air, LOT",YYZ,BKK,14h 40m ,1 stop ,838 NIS ,04/03/2023
+"Wizz Air, Aeroflot",YYZ,BKK,13h 00m ,1 stop ,845 NIS ,04/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,9h 50m ,1 stop ,931 NIS ,04/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,019 NIS ",04/03/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,022 NIS ",04/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,027 NIS ",04/03/2023
+"Turkish Airlines, Nordwind Airlines",YYZ,BKK,8h 50m ,1 stop ,"1,041 NIS ",04/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,059 NIS ",04/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 40m ,1 stop ,"1,059 NIS ",04/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,"1,059 NIS ",04/03/2023
+"Air France, Aeroflot",YYZ,BKK,7h 35m ,1 stop ,"1,137 NIS ",04/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,201 NIS ",04/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,201 NIS ",04/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,201 NIS ",04/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,201 NIS ",04/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,201 NIS ",04/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,201 NIS ",04/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,201 NIS ",04/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,201 NIS ",04/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,201 NIS ",04/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,201 NIS ",04/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,201 NIS ",04/03/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,201 NIS ",04/03/2023
+LOT,YYZ,BKK,8h 05m ,1 stop ,"1,251 NIS ",04/03/2023
+LOT,YYZ,BKK,11h 45m ,1 stop ,"1,251 NIS ",04/03/2023
+"easyJet, LOT",YYZ,BKK,11h 15m ,2 stops ,679 NIS ,04/03/2023
+"Ryanair, KLM",YYZ,BKK,10h 15m ,2 stops ,680 NIS ,04/03/2023
+"Blue Air, Air Serbia",YYZ,BKK,12h 55m ,2 stops ,730 NIS ,04/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,747 NIS ,04/03/2023
+"Wizz Air, LOT",YYZ,BKK,9h 20m ,2 stops ,757 NIS ,04/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,784 NIS ,04/03/2023
+"Ryanair, Air Serbia",YYZ,BKK,10h 45m ,2 stops ,803 NIS ,04/03/2023
+"Wizz Air, Air Serbia",YYZ,BKK,13h 20m ,2 stops ,836 NIS ,04/03/2023
+Multiple Airlines,YYZ,BKK,8h 50m ,2 stops ,837 NIS ,04/03/2023
+"easyJet, KLM",YYZ,BKK,10h 30m ,2 stops ,843 NIS ,04/03/2023
+"Ryanair, LOT",YYZ,BKK,13h 45m ,1 stop ,865 NIS ,04/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,877 NIS ,04/03/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,9h 00m ,2 stops ,"1,001 NIS ",04/03/2023
+Aeroflot,YYZ,BKK,8h 55m ,1 stop ,"1,573 NIS ",04/03/2023
+Aeroflot,YYZ,BKK,9h 35m ,1 stop ,"1,573 NIS ",04/03/2023
+Aeroflot,YYZ,BKK,10h 55m ,1 stop ,"1,573 NIS ",04/03/2023
+Aeroflot,YYZ,BKK,12h 15m ,1 stop ,"1,573 NIS ",04/03/2023
+Aeroflot,YYZ,BKK,13h 45m ,1 stop ,"1,573 NIS ",04/03/2023
+Aeroflot,YYZ,BKK,15h 00m ,1 stop ,"1,573 NIS ",04/03/2023
+Multiple Airlines,YYZ,BKK,13h 10m ,2 stops ,467 NIS ,04/03/2023
+Multiple Airlines,YYZ,BKK,14h 30m ,2 stops ,467 NIS ,04/03/2023
+Air Algerie,YYZ,BKK,12h 50m ,1 stop ,"2,792 NIS ",04/03/2023
+Air Algerie,YYZ,BKK,9h 15m ,1 stop ,"2,804 NIS ",04/03/2023
+Air Algerie,YYZ,BKK,11h 15m ,1 stop ,"2,804 NIS ",04/03/2023
+Multiple Airlines,YYZ,BKK,7h 15m ,2 stops ,"4,298 NIS ",04/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,14h 40m ,2 stops ,"4,423 NIS ",04/03/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"6,067 NIS ",04/03/2023
+Multiple Airlines,YYZ,BKK,14h 40m ,2 stops ,"7,188 NIS ",04/03/2023
+Aeroflot,YYZ,BKK,3h 50m ,nonstop ,"1,132 NIS ",05/03/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,398 NIS ",05/03/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,590 NIS ",05/03/2023
+Finnair,YYZ,BKK,7h 00m ,1 stop ,547 NIS ,05/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,05/03/2023
+Finnair,YYZ,BKK,11h 15m ,1 stop ,547 NIS ,05/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,632 NIS ,05/03/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,7h 55m ,1 stop ,658 NIS ,05/03/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,9h 45m ,1 stop ,658 NIS ,05/03/2023
+Finnair,YYZ,BKK,16h 05m ,1 stop ,547 NIS ,05/03/2023
+Air Serbia,YYZ,BKK,12h 30m ,1 stop ,630 NIS ,05/03/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,12h 30m ,1 stop ,648 NIS ,05/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,809 NIS ,05/03/2023
+airBaltic,YYZ,BKK,9h 40m ,1 stop ,862 NIS ,05/03/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 00m ,1 stop ,932 NIS ,05/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,990 NIS ,05/03/2023
+Bulgaria Air,YYZ,BKK,7h 35m ,1 stop ,994 NIS ,05/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 05m ,1 stop ,"1,062 NIS ",05/03/2023
+"Air France, Nordwind Airlines",YYZ,BKK,6h 45m ,1 stop ,"1,080 NIS ",05/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,133 NIS ",05/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,"1,191 NIS ",05/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 25m ,1 stop ,"1,191 NIS ",05/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,201 NIS ",05/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,201 NIS ",05/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,201 NIS ",05/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,201 NIS ",05/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,201 NIS ",05/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,201 NIS ",05/03/2023
+LOT,YYZ,BKK,8h 05m ,1 stop ,"1,251 NIS ",05/03/2023
+Multiple Airlines,YYZ,BKK,12h 45m ,2 stops ,793 NIS ,05/03/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,12h 15m ,2 stops ,807 NIS ,05/03/2023
+Finnair,YYZ,BKK,14h 30m ,1 stop ,855 NIS ,05/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,875 NIS ,05/03/2023
+"easyJet, KLM",YYZ,BKK,11h 35m ,2 stops ,878 NIS ,05/03/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,9h 15m ,2 stops ,911 NIS ,05/03/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,8h 10m ,2 stops ,916 NIS ,05/03/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,10h 20m ,2 stops ,916 NIS ,05/03/2023
+"Air France, KLM",YYZ,BKK,10h 40m ,2 stops ,944 NIS ,05/03/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,11h 45m ,2 stops ,945 NIS ,05/03/2023
+"Air Moldova, Aeroflot",YYZ,BKK,12h 15m ,1 stop ,969 NIS ,05/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,991 NIS ,05/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,8h 15m ,2 stops ,"1,051 NIS ",05/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,9h 20m ,2 stops ,"1,051 NIS ",05/03/2023
+"Wizz Air, LOT",YYZ,BKK,9h 20m ,2 stops ,"1,114 NIS ",05/03/2023
+"Lufthansa, LOT",YYZ,BKK,9h 05m ,2 stops ,"1,151 NIS ",05/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,201 NIS ",05/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,201 NIS ",05/03/2023
+LOT,YYZ,BKK,11h 45m ,1 stop ,"1,251 NIS ",05/03/2023
+Aeroflot,YYZ,BKK,7h 35m ,1 stop ,"1,883 NIS ",05/03/2023
+Aeroflot,YYZ,BKK,8h 35m ,1 stop ,"1,883 NIS ",05/03/2023
+Aeroflot,YYZ,BKK,9h 10m ,1 stop ,"1,883 NIS ",05/03/2023
+Aeroflot,YYZ,BKK,10h 05m ,1 stop ,"1,883 NIS ",05/03/2023
+Aeroflot,YYZ,BKK,11h 10m ,1 stop ,"1,883 NIS ",05/03/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,883 NIS ",05/03/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,883 NIS ",05/03/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,883 NIS ",05/03/2023
+"Lufthansa, airBaltic",YYZ,BKK,9h 35m ,2 stops ,"1,701 NIS ",05/03/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"6,101 NIS ",05/03/2023
+"SWISS, KLM",YYZ,BKK,7h 55m ,2 stops ,"6,295 NIS ",05/03/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,708 NIS ,06/03/2023
+Aeroflot,YYZ,BKK,3h 50m ,nonstop ,"1,155 NIS ",06/03/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,393 NIS ",06/03/2023
+Air France,YYZ,BKK,3h 55m ,nonstop ,"1,459 NIS ",06/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,06/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,06/03/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,612 NIS ,06/03/2023
+"Ryanair, airBaltic",YYZ,BKK,10h 35m ,1 stop ,659 NIS ,06/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,6h 00m ,1 stop ,734 NIS ,06/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,809 NIS ,06/03/2023
+"HiSky, Aeroflot",YYZ,BKK,11h 50m ,1 stop ,765 NIS ,06/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,809 NIS ,06/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,11h 20m ,1 stop ,903 NIS ,06/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 40m ,1 stop ,920 NIS ,06/03/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 05m ,1 stop ,955 NIS ,06/03/2023
+Aeroflot,YYZ,BKK,6h 50m ,1 stop ,956 NIS ,06/03/2023
+Aeroflot,YYZ,BKK,7h 55m ,1 stop ,956 NIS ,06/03/2023
+Aeroflot,YYZ,BKK,9h 35m ,1 stop ,956 NIS ,06/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,968 NIS ,06/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 55m ,1 stop ,986 NIS ,06/03/2023
+"Aeroflot, Nordwind Airlines",YYZ,BKK,7h 35m ,1 stop ,988 NIS ,06/03/2023
+"Air France, Aeroflot",YYZ,BKK,7h 55m ,1 stop ,993 NIS ,06/03/2023
+Bulgaria Air,YYZ,BKK,6h 55m ,1 stop ,994 NIS ,06/03/2023
+Aeroflot,YYZ,BKK,5h 55m ,1 stop ,"1,004 NIS ",06/03/2023
+"Air France, Nordwind Airlines",YYZ,BKK,7h 35m ,1 stop ,"1,025 NIS ",06/03/2023
+"Air France, Aeroflot",YYZ,BKK,5h 40m ,1 stop ,"1,138 NIS ",06/03/2023
+"Wizz Air, LOT",YYZ,BKK,14h 40m ,1 stop ,870 NIS ,06/03/2023
+"Ryanair, Czech Airlines",YYZ,BKK,14h 50m ,1 stop ,915 NIS ,06/03/2023
+"easyJet, Aeroflot",YYZ,BKK,9h 10m ,1 stop ,974 NIS ,06/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,077 NIS ",06/03/2023
+"LOT, Aeroflot",YYZ,BKK,8h 20m ,1 stop ,"1,084 NIS ",06/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,201 NIS ",06/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,201 NIS ",06/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,201 NIS ",06/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,201 NIS ",06/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,201 NIS ",06/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,201 NIS ",06/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,201 NIS ",06/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,201 NIS ",06/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,201 NIS ",06/03/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,201 NIS ",06/03/2023
+"Ryanair, LOT",YYZ,BKK,13h 25m ,2 stops ,618 NIS ,06/03/2023
+"Pegasus Airlines, Nordwind Airlines",YYZ,BKK,12h 10m ,2 stops ,697 NIS ,06/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,710 NIS ,06/03/2023
+"SWISS, Aeroflot",YYZ,BKK,9h 35m ,2 stops ,780 NIS ,06/03/2023
+"SWISS, Aeroflot",YYZ,BKK,10h 35m ,2 stops ,780 NIS ,06/03/2023
+"SWISS, Aeroflot",YYZ,BKK,11h 10m ,2 stops ,780 NIS ,06/03/2023
+"SWISS, Aeroflot",YYZ,BKK,12h 05m ,2 stops ,780 NIS ,06/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,802 NIS ,06/03/2023
+"Ryanair, KLM",YYZ,BKK,11h 10m ,2 stops ,809 NIS ,06/03/2023
+"Transavia France, KLM",YYZ,BKK,11h 00m ,2 stops ,852 NIS ,06/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,8h 15m ,2 stops ,971 NIS ,06/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,9h 20m ,2 stops ,971 NIS ,06/03/2023
+Aeroflot,YYZ,BKK,8h 55m ,1 stop ,"1,573 NIS ",06/03/2023
+Aeroflot,YYZ,BKK,10h 55m ,1 stop ,"1,573 NIS ",06/03/2023
+Aeroflot,YYZ,BKK,12h 15m ,1 stop ,"1,573 NIS ",06/03/2023
+Aeroflot,YYZ,BKK,13h 45m ,1 stop ,"1,573 NIS ",06/03/2023
+Aeroflot,YYZ,BKK,15h 00m ,1 stop ,"1,573 NIS ",06/03/2023
+Multiple Airlines,YYZ,BKK,15h 15m ,2 stops ,451 NIS ,06/03/2023
+Multiple Airlines,YYZ,BKK,16h 35m ,2 stops ,451 NIS ,06/03/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"5,977 NIS ",06/03/2023
+"SWISS, KLM",YYZ,BKK,7h 55m ,2 stops ,"6,295 NIS ",06/03/2023
+"MEA, Aeroflot",YYZ,BKK,10h 35m ,1 stop ,"13,989 NIS ",06/03/2023
+"MEA, Aeroflot",YYZ,BKK,14h 05m ,1 stop ,"13,989 NIS ",06/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,136 NIS ",07/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,216 NIS ",07/03/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,692 NIS ",07/03/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,763 NIS ",07/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,07/03/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,803 NIS ,07/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,07/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,07/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,870 NIS ,07/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,6h 50m ,1 stop ,903 NIS ,07/03/2023
+Bulgaria Air,YYZ,BKK,6h 55m ,1 stop ,994 NIS ,07/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",07/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",07/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",07/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,07/03/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,022 NIS ",07/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,027 NIS ",07/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,039 NIS ",07/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 05m ,1 stop ,"1,045 NIS ",07/03/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 15m ,1 stop ,"1,090 NIS ",07/03/2023
+"Air France, Aeroflot",YYZ,BKK,7h 35m ,1 stop ,"1,137 NIS ",07/03/2023
+"Air France, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,137 NIS ",07/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",07/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",07/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",07/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",07/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",07/03/2023
+"Vueling, Finnair",YYZ,BKK,11h 15m ,2 stops ,733 NIS ,07/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,735 NIS ,07/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,750 NIS ,07/03/2023
+"Wizz Air, LOT",YYZ,BKK,9h 20m ,2 stops ,763 NIS ,07/03/2023
+"Wizz Air, LOT",YYZ,BKK,14h 40m ,1 stop ,810 NIS ,07/03/2023
+"Ryanair, KLM",YYZ,BKK,9h 25m ,2 stops ,821 NIS ,07/03/2023
+"Eurowings, Finnair",YYZ,BKK,9h 15m ,2 stops ,845 NIS ,07/03/2023
+"easyJet, KLM",YYZ,BKK,11h 05m ,2 stops ,845 NIS ,07/03/2023
+"easyJet, LOT",YYZ,BKK,11h 15m ,2 stops ,857 NIS ,07/03/2023
+"easyJet, KLM",YYZ,BKK,10h 30m ,2 stops ,861 NIS ,07/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,862 NIS ,07/03/2023
+"easyJet, LOT",YYZ,BKK,10h 55m ,2 stops ,869 NIS ,07/03/2023
+"Ryanair, KLM",YYZ,BKK,9h 05m ,2 stops ,880 NIS ,07/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",07/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",07/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",07/03/2023
+LOT,YYZ,BKK,8h 20m ,1 stop ,"1,476 NIS ",07/03/2023
+Aeroflot,YYZ,BKK,9h 10m ,1 stop ,"1,622 NIS ",07/03/2023
+Aeroflot,YYZ,BKK,10h 05m ,1 stop ,"1,622 NIS ",07/03/2023
+Aeroflot,YYZ,BKK,11h 10m ,1 stop ,"1,622 NIS ",07/03/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,622 NIS ",07/03/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,622 NIS ",07/03/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,622 NIS ",07/03/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,955 NIS ",07/03/2023
+Air Serbia,YYZ,BKK,6h 15m ,1 stop ,708 NIS ,08/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,114 NIS ",08/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,114 NIS ",08/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,08/03/2023
+Air Serbia,YYZ,BKK,6h 15m ,1 stop ,628 NIS ,08/03/2023
+Air France,YYZ,BKK,3h 55m ,nonstop ,"1,701 NIS ",08/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,08/03/2023
+"airBaltic, Aeroflot",YYZ,BKK,7h 25m ,1 stop ,791 NIS ,08/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,08/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,08/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,861 NIS ,08/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,966 NIS ,08/03/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,8h 45m ,1 stop ,989 NIS ,08/03/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,9h 40m ,1 stop ,989 NIS ,08/03/2023
+"Air Moldova, Aeroflot",YYZ,BKK,12h 15m ,1 stop ,990 NIS ,08/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 25m ,1 stop ,"1,083 NIS ",08/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,"1,086 NIS ",08/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",08/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",08/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",08/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",08/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",08/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",08/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",08/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",08/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",08/03/2023
+"Air France, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,"1,201 NIS ",08/03/2023
+"Wizz Air, Air Serbia",YYZ,BKK,14h 10m ,1 stop ,"1,099 NIS ",08/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",08/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",08/03/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,198 NIS ",08/03/2023
+"Vueling, Aeroflot",YYZ,BKK,7h 20m ,1 stop ,"1,208 NIS ",08/03/2023
+Multiple Airlines,YYZ,BKK,28h 55m ,2 stops ,526 NIS ,08/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,735 NIS ,08/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,750 NIS ,08/03/2023
+"easyJet, Finnair",YYZ,BKK,9h 50m ,2 stops ,795 NIS ,08/03/2023
+"Ryanair, KLM",YYZ,BKK,14h 20m ,2 stops ,803 NIS ,08/03/2023
+"Ryanair, KLM",YYZ,BKK,14h 20m ,2 stops ,803 NIS ,08/03/2023
+"Ryanair, KLM",YYZ,BKK,10h 15m ,2 stops ,821 NIS ,08/03/2023
+"easyJet, KLM",YYZ,BKK,11h 05m ,2 stops ,844 NIS ,08/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,862 NIS ,08/03/2023
+"Air France, KLM",YYZ,BKK,9h 25m ,2 stops ,905 NIS ,08/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,11h 55m ,1 stop ,964 NIS ,08/03/2023
+"Air France, KLM",YYZ,BKK,10h 25m ,2 stops ,969 NIS ,08/03/2023
+"Air France, KLM",YYZ,BKK,11h 25m ,2 stops ,969 NIS ,08/03/2023
+"Air France, KLM",YYZ,BKK,12h 25m ,2 stops ,969 NIS ,08/03/2023
+Multiple Airlines,YYZ,BKK,7h 15m ,2 stops ,"4,296 NIS ",08/03/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,953 NIS ",08/03/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,708 NIS ,09/03/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,165 NIS ",09/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,165 NIS ",09/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,165 NIS ",09/03/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,378 NIS ",09/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,09/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,09/03/2023
+Finnair,YYZ,BKK,18h 10m ,1 stop ,547 NIS ,09/03/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,610 NIS ,09/03/2023
+"Ryanair, airBaltic",YYZ,BKK,10h 30m ,1 stop ,633 NIS ,09/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,09/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,09/03/2023
+Bulgaria Air,YYZ,BKK,6h 55m ,1 stop ,994 NIS ,09/03/2023
+"Wizz Air, LOT",YYZ,BKK,14h 40m ,1 stop ,825 NIS ,09/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,865 NIS ,09/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,8h 50m ,1 stop ,926 NIS ,09/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,10h 00m ,1 stop ,981 NIS ,09/03/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 35m ,1 stop ,"1,030 NIS ",09/03/2023
+"Turkish Airlines, Nordwind Airlines",YYZ,BKK,8h 50m ,1 stop ,"1,037 NIS ",09/03/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,047 NIS ",09/03/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 10m ,1 stop ,"1,083 NIS ",09/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 25m ,1 stop ,"1,083 NIS ",09/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,086 NIS ",09/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 05m ,1 stop ,"1,115 NIS ",09/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",09/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",09/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",09/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",09/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",09/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",09/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",09/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",09/03/2023
+"Vueling, Aeroflot",YYZ,BKK,10h 15m ,1 stop ,"1,150 NIS ",09/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",09/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",09/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",09/03/2023
+Multiple Airlines,YYZ,BKK,13h 35m ,2 stops ,603 NIS ,09/03/2023
+"easyJet, airBaltic",YYZ,BKK,11h 30m ,2 stops ,684 NIS ,09/03/2023
+"Vueling, airBaltic",YYZ,BKK,12h 00m ,2 stops ,711 NIS ,09/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,735 NIS ,09/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,750 NIS ,09/03/2023
+"Ryanair, Finnair",YYZ,BKK,9h 40m ,2 stops ,766 NIS ,09/03/2023
+"Ryanair, LOT",YYZ,BKK,9h 45m ,2 stops ,848 NIS ,09/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,862 NIS ,09/03/2023
+"Air France, KLM",YYZ,BKK,9h 25m ,2 stops ,905 NIS ,09/03/2023
+airBaltic,YYZ,BKK,13h 15m ,2 stops ,"1,109 NIS ",09/03/2023
+"Vueling, KLM",YYZ,BKK,10h 40m ,2 stops ,829 NIS ,09/03/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"5,955 NIS ",09/03/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,708 NIS ,10/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,136 NIS ",10/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,10/03/2023
+Aeroflot,YYZ,BKK,3h 55m ,nonstop ,"1,216 NIS ",10/03/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,628 NIS ,10/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,10/03/2023
+Finnair,YYZ,BKK,15h 45m ,1 stop ,589 NIS ,10/03/2023
+Air Serbia,YYZ,BKK,14h 10m ,1 stop ,628 NIS ,10/03/2023
+"airBaltic, Aeroflot",YYZ,BKK,7h 25m ,1 stop ,791 NIS ,10/03/2023
+"HiSky, Aeroflot",YYZ,BKK,11h 50m ,1 stop ,791 NIS ,10/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,10/03/2023
+LOT,YYZ,BKK,15h 45m ,1 stop ,808 NIS ,10/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,897 NIS ,10/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 30m ,1 stop ,966 NIS ,10/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,045 NIS ",10/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,051 NIS ",10/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,060 NIS ",10/03/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 15m ,1 stop ,"1,083 NIS ",10/03/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 10m ,1 stop ,"1,086 NIS ",10/03/2023
+"Air France, Aeroflot",YYZ,BKK,5h 40m ,1 stop ,"1,120 NIS ",10/03/2023
+"Czech Airlines, Aeroflot",YYZ,BKK,6h 40m ,1 stop ,"1,152 NIS ",10/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,"1,159 NIS ",10/03/2023
+Finnair,YYZ,BKK,5h 35m ,1 stop ,"1,187 NIS ",10/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",10/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",10/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",10/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",10/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",10/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",10/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",10/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",10/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",10/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",10/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",10/03/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,198 NIS ",10/03/2023
+LOT,YYZ,BKK,8h 20m ,1 stop ,"1,476 NIS ",10/03/2023
+Aeroflot,YYZ,BKK,7h 35m ,1 stop ,"1,752 NIS ",10/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,735 NIS ,10/03/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,735 NIS ,10/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,750 NIS ,10/03/2023
+"Ryanair, KLM",YYZ,BKK,11h 25m ,2 stops ,798 NIS ,10/03/2023
+"easyJet, KLM",YYZ,BKK,11h 05m ,2 stops ,848 NIS ,10/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,862 NIS ,10/03/2023
+"easyJet, KLM",YYZ,BKK,12h 55m ,2 stops ,862 NIS ,10/03/2023
+"easyJet, KLM",YYZ,BKK,10h 30m ,2 stops ,869 NIS ,10/03/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,11h 55m ,2 stops ,936 NIS ,10/03/2023
+"Air France, KLM",YYZ,BKK,10h 40m ,2 stops ,938 NIS ,10/03/2023
+"Air France, KLM",YYZ,BKK,10h 40m ,2 stops ,939 NIS ,10/03/2023
+"Ryanair, LOT",YYZ,BKK,9h 30m ,2 stops ,957 NIS ,10/03/2023
+Aeroflot,YYZ,BKK,8h 35m ,1 stop ,"1,752 NIS ",10/03/2023
+Aeroflot,YYZ,BKK,9h 10m ,1 stop ,"1,752 NIS ",10/03/2023
+Aeroflot,YYZ,BKK,10h 05m ,1 stop ,"1,752 NIS ",10/03/2023
+Aeroflot,YYZ,BKK,11h 10m ,1 stop ,"1,752 NIS ",10/03/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,752 NIS ",10/03/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,752 NIS ",10/03/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,752 NIS ",10/03/2023
+Aeroflot,YYZ,BKK,15h 30m ,1 stop ,"1,752 NIS ",10/03/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,953 NIS ",10/03/2023
+Multiple Airlines,YYZ,BKK,15h 45m ,2 stops ,"7,186 NIS ",10/03/2023
+Air Serbia,YYZ,BKK,6h 00m ,1 stop ,708 NIS ,11/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,136 NIS ",11/03/2023
+Multiple Airlines,YYZ,BKK,13h 35m ,2 stops ,565 NIS ,11/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,136 NIS ",11/03/2023
+Aeroflot,YYZ,BKK,3h 55m ,nonstop ,"1,188 NIS ",11/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,391 NIS ",11/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,11/03/2023
+Air Serbia,YYZ,BKK,6h 00m ,1 stop ,628 NIS ,11/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,11/03/2023
+Air Serbia,YYZ,BKK,14h 10m ,1 stop ,628 NIS ,11/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,11/03/2023
+Aeroflot,YYZ,BKK,5h 55m ,1 stop ,987 NIS ,11/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,11/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,9h 35m ,1 stop ,836 NIS ,11/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,861 NIS ,11/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,871 NIS ,11/03/2023
+Bulgaria Air,YYZ,BKK,7h 35m ,1 stop ,994 NIS ,11/03/2023
+"Turkish Airlines, Nordwind Airlines",YYZ,BKK,8h 50m ,1 stop ,"1,006 NIS ",11/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,019 NIS ",11/03/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,021 NIS ",11/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,039 NIS ",11/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 40m ,1 stop ,"1,073 NIS ",11/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",11/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",11/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",11/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",11/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",11/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",11/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",11/03/2023
+Aeroflot,YYZ,BKK,6h 50m ,1 stop ,"1,229 NIS ",11/03/2023
+"Wizz Air, LOT",YYZ,BKK,14h 40m ,1 stop ,968 NIS ,11/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,"1,056 NIS ",11/03/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 05m ,1 stop ,"1,056 NIS ",11/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,082 NIS ",11/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,"1,161 NIS ",11/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 10m ,1 stop ,"1,169 NIS ",11/03/2023
+"Aeroflot, Nordwind Airlines",YYZ,BKK,7h 35m ,1 stop ,"1,177 NIS ",11/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",11/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",11/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",11/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",11/03/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,198 NIS ",11/03/2023
+LOT,YYZ,BKK,8h 05m ,1 stop ,"1,249 NIS ",11/03/2023
+LOT,YYZ,BKK,11h 45m ,1 stop ,"1,249 NIS ",11/03/2023
+Aeroflot,YYZ,BKK,7h 55m ,1 stop ,"1,572 NIS ",11/03/2023
+Aeroflot,YYZ,BKK,8h 55m ,1 stop ,"1,572 NIS ",11/03/2023
+Aeroflot,YYZ,BKK,9h 35m ,1 stop ,"1,572 NIS ",11/03/2023
+"easyJet, Finnair",YYZ,BKK,11h 10m ,2 stops ,654 NIS ,11/03/2023
+"easyJet, LOT",YYZ,BKK,11h 15m ,2 stops ,668 NIS ,11/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,735 NIS ,11/03/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,735 NIS ,11/03/2023
+"Blue Air, Air Serbia",YYZ,BKK,12h 55m ,2 stops ,754 NIS ,11/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,789 NIS ,11/03/2023
+"Transavia France, KLM",YYZ,BKK,9h 10m ,2 stops ,838 NIS ,11/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,860 NIS ,11/03/2023
+"Ryanair, Air Serbia",YYZ,BKK,10h 45m ,2 stops ,931 NIS ,11/03/2023
+"easyJet, KLM",YYZ,BKK,11h 05m ,2 stops ,945 NIS ,11/03/2023
+"Transavia France, Air Serbia",YYZ,BKK,11h 50m ,2 stops ,956 NIS ,11/03/2023
+"Ryanair, LOT",YYZ,BKK,13h 45m ,1 stop ,968 NIS ,11/03/2023
+Multiple Airlines,YYZ,BKK,8h 50m ,2 stops ,969 NIS ,11/03/2023
+"SWISS, Aeroflot",YYZ,BKK,8h 30m ,2 stops ,"1,001 NIS ",11/03/2023
+Aeroflot,YYZ,BKK,10h 55m ,1 stop ,"1,572 NIS ",11/03/2023
+Aeroflot,YYZ,BKK,12h 15m ,1 stop ,"1,572 NIS ",11/03/2023
+Aeroflot,YYZ,BKK,13h 45m ,1 stop ,"1,572 NIS ",11/03/2023
+Aeroflot,YYZ,BKK,15h 00m ,1 stop ,"1,572 NIS ",11/03/2023
+Air Algerie,YYZ,BKK,9h 15m ,1 stop ,"2,802 NIS ",11/03/2023
+Air Algerie,YYZ,BKK,12h 50m ,1 stop ,"2,791 NIS ",11/03/2023
+Air Algerie,YYZ,BKK,11h 15m ,1 stop ,"2,802 NIS ",11/03/2023
+Multiple Airlines,YYZ,BKK,7h 15m ,2 stops ,"4,296 NIS ",11/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,14h 40m ,2 stops ,"4,421 NIS ",11/03/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"6,044 NIS ",11/03/2023
+Multiple Airlines,YYZ,BKK,14h 40m ,2 stops ,"7,186 NIS ",11/03/2023
+Aeroflot,YYZ,BKK,3h 50m ,nonstop ,"1,136 NIS ",12/03/2023
+Finnair,YYZ,BKK,11h 15m ,1 stop ,547 NIS ,12/03/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,188 NIS ",12/03/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,397 NIS ",12/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,12/03/2023
+Finnair,YYZ,BKK,7h 00m ,1 stop ,590 NIS ,12/03/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,7h 55m ,1 stop ,640 NIS ,12/03/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,12h 30m ,1 stop ,618 NIS ,12/03/2023
+Air Serbia,YYZ,BKK,12h 30m ,1 stop ,628 NIS ,12/03/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,9h 45m ,1 stop ,630 NIS ,12/03/2023
+airBaltic,YYZ,BKK,9h 40m ,1 stop ,862 NIS ,12/03/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 00m ,1 stop ,883 NIS ,12/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,895 NIS ,12/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,897 NIS ,12/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,902 NIS ,12/03/2023
+"Transavia France, Czech Airlines",YYZ,BKK,6h 20m ,1 stop ,923 NIS ,12/03/2023
+"Air France, Nordwind Airlines",YYZ,BKK,6h 45m ,1 stop ,959 NIS ,12/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 25m ,1 stop ,977 NIS ,12/03/2023
+Bulgaria Air,YYZ,BKK,7h 35m ,1 stop ,994 NIS ,12/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",12/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",12/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",12/03/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 15m ,1 stop ,968 NIS ,12/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,9h 35m ,1 stop ,981 NIS ,12/03/2023
+"Air Moldova, Aeroflot",YYZ,BKK,12h 15m ,1 stop ,990 NIS ,12/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 50m ,1 stop ,"1,041 NIS ",12/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 50m ,1 stop ,"1,046 NIS ",12/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,060 NIS ",12/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 05m ,1 stop ,"1,062 NIS ",12/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",12/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",12/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",12/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",12/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,199 NIS ",12/03/2023
+LOT,YYZ,BKK,8h 05m ,1 stop ,"1,249 NIS ",12/03/2023
+LOT,YYZ,BKK,11h 45m ,1 stop ,"1,249 NIS ",12/03/2023
+Multiple Airlines,YYZ,BKK,12h 45m ,2 stops ,708 NIS ,12/03/2023
+Multiple Airlines,YYZ,BKK,13h 05m ,2 stops ,729 NIS ,12/03/2023
+Multiple Airlines,YYZ,BKK,12h 30m ,2 stops ,778 NIS ,12/03/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,12h 30m ,2 stops ,791 NIS ,12/03/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,12h 30m ,2 stops ,801 NIS ,12/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,11h 25m ,2 stops ,810 NIS ,12/03/2023
+"Wizz Air, LOT",YYZ,BKK,9h 20m ,2 stops ,829 NIS ,12/03/2023
+"Transavia France, LOT",YYZ,BKK,11h 40m ,2 stops ,832 NIS ,12/03/2023
+Multiple Airlines,YYZ,BKK,11h 10m ,2 stops ,862 NIS ,12/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,862 NIS ,12/03/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,9h 15m ,2 stops ,901 NIS ,12/03/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,8h 10m ,2 stops ,906 NIS ,12/03/2023
+Aeroflot,YYZ,BKK,7h 35m ,1 stop ,"1,622 NIS ",12/03/2023
+Aeroflot,YYZ,BKK,8h 35m ,1 stop ,"1,622 NIS ",12/03/2023
+Aeroflot,YYZ,BKK,9h 10m ,1 stop ,"1,622 NIS ",12/03/2023
+Aeroflot,YYZ,BKK,10h 05m ,1 stop ,"1,622 NIS ",12/03/2023
+Aeroflot,YYZ,BKK,11h 10m ,1 stop ,"1,622 NIS ",12/03/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,622 NIS ",12/03/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,622 NIS ",12/03/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,622 NIS ",12/03/2023
+Finnair,YYZ,BKK,14h 30m ,1 stop ,"2,207 NIS ",12/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,"2,249 NIS ",12/03/2023
+"SWISS, Aeroflot",YYZ,BKK,9h 45m ,1 stop ,"5,854 NIS ",12/03/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"6,101 NIS ",12/03/2023
+"SWISS, KLM",YYZ,BKK,7h 55m ,2 stops ,"6,292 NIS ",12/03/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,708 NIS ,13/03/2023
+Aeroflot,YYZ,BKK,3h 50m ,nonstop ,"1,136 NIS ",13/03/2023
+"Wizz Air, Aeroflot",YYZ,BKK,20h 25m ,2 stops ,432 NIS ,13/03/2023
+Aeroflot,YYZ,BKK,3h 55m ,nonstop ,"1,188 NIS ",13/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,373 NIS ",13/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,13/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,13/03/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,610 NIS ,13/03/2023
+"Ryanair, airBaltic",YYZ,BKK,10h 35m ,1 stop ,682 NIS ,13/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,6h 00m ,1 stop ,759 NIS ,13/03/2023
+"HiSky, Aeroflot",YYZ,BKK,11h 50m ,1 stop ,780 NIS ,13/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,13/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,13/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 10m ,1 stop ,851 NIS ,13/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 40m ,1 stop ,865 NIS ,13/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 55m ,1 stop ,939 NIS ,13/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,945 NIS ,13/03/2023
+"Aeroflot, Nordwind Airlines",YYZ,BKK,7h 35m ,1 stop ,988 NIS ,13/03/2023
+Bulgaria Air,YYZ,BKK,6h 55m ,1 stop ,994 NIS ,13/03/2023
+Aeroflot,YYZ,BKK,5h 55m ,1 stop ,"1,013 NIS ",13/03/2023
+Aeroflot,YYZ,BKK,6h 50m ,1 stop ,"1,037 NIS ",13/03/2023
+Aeroflot,YYZ,BKK,7h 55m ,1 stop ,"1,037 NIS ",13/03/2023
+Aeroflot,YYZ,BKK,9h 35m ,1 stop ,"1,037 NIS ",13/03/2023
+"Air France, Nordwind Airlines",YYZ,BKK,7h 35m ,1 stop ,"1,043 NIS ",13/03/2023
+"LOT, Aeroflot",YYZ,BKK,8h 20m ,1 stop ,"1,065 NIS ",13/03/2023
+"Wizz Air, LOT",YYZ,BKK,14h 40m ,1 stop ,964 NIS ,13/03/2023
+"TAP AIR PORTUGAL, Aeroflot",YYZ,BKK,10h 35m ,1 stop ,"1,044 NIS ",13/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 35m ,1 stop ,"1,068 NIS ",13/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",13/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",13/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",13/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",13/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",13/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",13/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",13/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",13/03/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,198 NIS ",13/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,199 NIS ",13/03/2023
+"Transavia France, airBaltic",YYZ,BKK,13h 00m ,2 stops ,637 NIS ,13/03/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,735 NIS ,13/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,789 NIS ,13/03/2023
+"Ryanair, LOT",YYZ,BKK,13h 25m ,2 stops ,809 NIS ,13/03/2023
+"Ryanair, KLM",YYZ,BKK,11h 10m ,2 stops ,822 NIS ,13/03/2023
+"Pegasus Airlines, Nordwind Airlines",YYZ,BKK,12h 10m ,2 stops ,850 NIS ,13/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,862 NIS ,13/03/2023
+"Air France, LOT",YYZ,BKK,10h 40m ,2 stops ,933 NIS ,13/03/2023
+"SWISS, Aeroflot",YYZ,BKK,9h 35m ,2 stops ,980 NIS ,13/03/2023
+"Transavia France, KLM",YYZ,BKK,10h 20m ,2 stops ,999 NIS ,13/03/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,9h 00m ,2 stops ,"1,145 NIS ",13/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,8h 15m ,2 stops ,"1,195 NIS ",13/03/2023
+Aeroflot,YYZ,BKK,8h 55m ,1 stop ,"1,572 NIS ",13/03/2023
+Aeroflot,YYZ,BKK,10h 55m ,1 stop ,"1,572 NIS ",13/03/2023
+Aeroflot,YYZ,BKK,12h 15m ,1 stop ,"1,572 NIS ",13/03/2023
+Aeroflot,YYZ,BKK,13h 45m ,1 stop ,"1,572 NIS ",13/03/2023
+Aeroflot,YYZ,BKK,15h 00m ,1 stop ,"1,572 NIS ",13/03/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"5,955 NIS ",13/03/2023
+"SWISS, KLM",YYZ,BKK,7h 55m ,2 stops ,"6,292 NIS ",13/03/2023
+"MEA, Aeroflot",YYZ,BKK,10h 35m ,1 stop ,"13,986 NIS ",13/03/2023
+"MEA, Aeroflot",YYZ,BKK,14h 05m ,1 stop ,"13,986 NIS ",13/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,173 NIS ",14/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,14/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,255 NIS ",14/03/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,437 NIS ",14/03/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,525 NIS ",14/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,14/03/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,803 NIS ,14/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,14/03/2023
+Bulgaria Air,YYZ,BKK,6h 55m ,1 stop ,994 NIS ,14/03/2023
+"FLYONE, Aeroflot",YYZ,BKK,12h 55m ,1 stop ,847 NIS ,14/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,897 NIS ,14/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,6h 50m ,1 stop ,903 NIS ,14/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,915 NIS ,14/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,8h 50m ,1 stop ,973 NIS ,14/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,034 NIS ",14/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 05m ,1 stop ,"1,062 NIS ",14/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 25m ,1 stop ,"1,066 NIS ",14/03/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,073 NIS ",14/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,082 NIS ",14/03/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 15m ,1 stop ,"1,090 NIS ",14/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",14/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",14/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",14/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",14/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",14/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",14/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",14/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",14/03/2023
+"Wizz Air, LOT",YYZ,BKK,14h 40m ,1 stop ,917 NIS ,14/03/2023
+"Turkish Airlines, Aeroflot",YYZ,BKK,9h 20m ,1 stop ,"1,178 NIS ",14/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",14/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",14/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",14/03/2023
+LOT,YYZ,BKK,8h 20m ,1 stop ,"1,476 NIS ",14/03/2023
+Aeroflot,YYZ,BKK,7h 35m ,1 stop ,"1,622 NIS ",14/03/2023
+Aeroflot,YYZ,BKK,8h 35m ,1 stop ,"1,622 NIS ",14/03/2023
+Aeroflot,YYZ,BKK,9h 10m ,1 stop ,"1,622 NIS ",14/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,760 NIS ,14/03/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,760 NIS ,14/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,816 NIS ,14/03/2023
+"Transavia France, KLM",YYZ,BKK,11h 00m ,2 stops ,827 NIS ,14/03/2023
+"easyJet, KLM",YYZ,BKK,10h 30m ,2 stops ,841 NIS ,14/03/2023
+"easyJet, KLM",YYZ,BKK,12h 55m ,2 stops ,841 NIS ,14/03/2023
+"easyJet, KLM",YYZ,BKK,11h 05m ,2 stops ,843 NIS ,14/03/2023
+"easyJet, LOT",YYZ,BKK,10h 45m ,2 stops ,962 NIS ,14/03/2023
+"easyJet, LOT",YYZ,BKK,10h 55m ,2 stops ,983 NIS ,14/03/2023
+"Wizz Air, LOT",YYZ,BKK,13h 00m ,2 stops ,"1,008 NIS ",14/03/2023
+"Air France, LOT",YYZ,BKK,10h 40m ,2 stops ,"1,062 NIS ",14/03/2023
+"KLM, Nordwind Airlines",YYZ,BKK,10h 45m ,2 stops ,"1,079 NIS ",14/03/2023
+"LOT, Nordwind Airlines",YYZ,BKK,9h 30m ,2 stops ,"1,111 NIS ",14/03/2023
+"Air France, KLM",YYZ,BKK,9h 25m ,2 stops ,"1,120 NIS ",14/03/2023
+"KLM, Aeroflot",YYZ,BKK,10h 00m ,2 stops ,"1,131 NIS ",14/03/2023
+Aeroflot,YYZ,BKK,10h 05m ,1 stop ,"1,622 NIS ",14/03/2023
+Aeroflot,YYZ,BKK,11h 10m ,1 stop ,"1,622 NIS ",14/03/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,622 NIS ",14/03/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,622 NIS ",14/03/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,622 NIS ",14/03/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,955 NIS ",14/03/2023
+Air Serbia,YYZ,BKK,6h 15m ,1 stop ,708 NIS ,15/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,173 NIS ",15/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,15/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,173 NIS ",15/03/2023
+Aeroflot,YYZ,BKK,3h 55m ,nonstop ,"1,437 NIS ",15/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,15/03/2023
+Air Serbia,YYZ,BKK,6h 15m ,1 stop ,628 NIS ,15/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,15/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,15/03/2023
+"airBaltic, Aeroflot",YYZ,BKK,7h 25m ,1 stop ,819 NIS ,15/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,915 NIS ,15/03/2023
+"Air Moldova, Aeroflot",YYZ,BKK,12h 15m ,1 stop ,958 NIS ,15/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,981 NIS ,15/03/2023
+"Air France, Aeroflot",YYZ,BKK,7h 05m ,1 stop ,"1,078 NIS ",15/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 25m ,1 stop ,"1,090 NIS ",15/03/2023
+"Austrian Airlines, Aeroflot",YYZ,BKK,8h 40m ,1 stop ,"1,169 NIS ",15/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",15/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",15/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",15/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",15/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",15/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",15/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",15/03/2023
+"Wizz Air, Air Serbia",YYZ,BKK,14h 10m ,1 stop ,"1,063 NIS ",15/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,"1,105 NIS ",15/03/2023
+"Vueling, Aeroflot",YYZ,BKK,7h 20m ,1 stop ,"1,126 NIS ",15/03/2023
+"Turkish Airlines, Aeroflot",YYZ,BKK,9h 20m ,1 stop ,"1,178 NIS ",15/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",15/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",15/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",15/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",15/03/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,198 NIS ",15/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,212 NIS ",15/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,760 NIS ,15/03/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,760 NIS ,15/03/2023
+"Finnair, Aeroflot",YYZ,BKK,13h 00m ,2 stops ,760 NIS ,15/03/2023
+"Finnair, Nordwind Airlines",YYZ,BKK,12h 40m ,2 stops ,779 NIS ,15/03/2023
+"Ryanair, KLM",YYZ,BKK,10h 15m ,2 stops ,794 NIS ,15/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,816 NIS ,15/03/2023
+"easyJet, KLM",YYZ,BKK,12h 55m ,2 stops ,867 NIS ,15/03/2023
+"Air France, KLM",YYZ,BKK,9h 25m ,2 stops ,905 NIS ,15/03/2023
+"easyJet, Air Serbia",YYZ,BKK,10h 45m ,2 stops ,953 NIS ,15/03/2023
+"easyJet, KLM",YYZ,BKK,11h 05m ,2 stops ,986 NIS ,15/03/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,9h 55m ,2 stops ,999 NIS ,15/03/2023
+"Air France, KLM",YYZ,BKK,10h 40m ,2 stops ,"1,001 NIS ",15/03/2023
+"Air France, KLM",YYZ,BKK,10h 40m ,2 stops ,"1,001 NIS ",15/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,11h 55m ,1 stop ,"1,003 NIS ",15/03/2023
+"easyJet, LOT",YYZ,BKK,11h 35m ,2 stops ,"1,047 NIS ",15/03/2023
+"Air France, KLM",YYZ,BKK,9h 55m ,2 stops ,"1,082 NIS ",15/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,9h 10m ,2 stops ,"1,119 NIS ",15/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,10h 15m ,2 stops ,"1,119 NIS ",15/03/2023
+Multiple Airlines,YYZ,BKK,7h 15m ,2 stops ,"4,296 NIS ",15/03/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,953 NIS ",15/03/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,708 NIS ,16/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,173 NIS ",16/03/2023
+Multiple Airlines,YYZ,BKK,15h 15m ,2 stops ,489 NIS ,16/03/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,226 NIS ",16/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,226 NIS ",16/03/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,389 NIS ",16/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,16/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,16/03/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,610 NIS ,16/03/2023
+"Ryanair, airBaltic",YYZ,BKK,10h 30m ,1 stop ,630 NIS ,16/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,16/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,16/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,915 NIS ,16/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,8h 50m ,1 stop ,926 NIS ,16/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,10h 00m ,1 stop ,930 NIS ,16/03/2023
+Bulgaria Air,YYZ,BKK,6h 55m ,1 stop ,994 NIS ,16/03/2023
+"Turkish Airlines, Nordwind Airlines",YYZ,BKK,8h 50m ,1 stop ,999 NIS ,16/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",16/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",16/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",16/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",16/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",16/03/2023
+"Wizz Air, LOT",YYZ,BKK,14h 40m ,1 stop ,960 NIS ,16/03/2023
+"Vueling, Aeroflot",YYZ,BKK,10h 15m ,1 stop ,"1,013 NIS ",16/03/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,022 NIS ",16/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,"1,056 NIS ",16/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,057 NIS ",16/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 05m ,1 stop ,"1,097 NIS ",16/03/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 10m ,1 stop ,"1,105 NIS ",16/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 25m ,1 stop ,"1,105 NIS ",16/03/2023
+"Vueling, Aeroflot",YYZ,BKK,10h 25m ,1 stop ,"1,184 NIS ",16/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",16/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",16/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",16/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",16/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",16/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",16/03/2023
+"easyJet, airBaltic",YYZ,BKK,11h 30m ,2 stops ,684 NIS ,16/03/2023
+"Vueling, airBaltic",YYZ,BKK,12h 00m ,2 stops ,685 NIS ,16/03/2023
+"Vueling, airBaltic",YYZ,BKK,12h 15m ,2 stops ,685 NIS ,16/03/2023
+"easyJet, airBaltic",YYZ,BKK,12h 00m ,2 stops ,745 NIS ,16/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,760 NIS ,16/03/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,760 NIS ,16/03/2023
+"Vueling, KLM",YYZ,BKK,12h 35m ,2 stops ,809 NIS ,16/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,816 NIS ,16/03/2023
+"Vueling, LOT",YYZ,BKK,11h 30m ,2 stops ,838 NIS ,16/03/2023
+"Ryanair, LOT",YYZ,BKK,9h 45m ,2 stops ,842 NIS ,16/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,862 NIS ,16/03/2023
+airBaltic,YYZ,BKK,13h 15m ,2 stops ,"1,109 NIS ",16/03/2023
+"Air France, KLM",YYZ,BKK,9h 25m ,2 stops ,"1,120 NIS ",16/03/2023
+"Vueling, KLM",YYZ,BKK,10h 40m ,2 stops ,829 NIS ,16/03/2023
+"SWISS, Aeroflot",YYZ,BKK,6h 45m ,1 stop ,"5,902 NIS ",16/03/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"5,955 NIS ",16/03/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,708 NIS ,17/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,150 NIS ",17/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,17/03/2023
+Air France,YYZ,BKK,3h 55m ,nonstop ,"1,739 NIS ",17/03/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,628 NIS ,17/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,17/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,17/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,902 NIS ,17/03/2023
+"Air France, Aeroflot",YYZ,BKK,5h 40m ,1 stop ,"1,159 NIS ",17/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",17/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",17/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",17/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",17/03/2023
+Finnair,YYZ,BKK,15h 45m ,1 stop ,589 NIS ,17/03/2023
+Air Serbia,YYZ,BKK,14h 10m ,1 stop ,628 NIS ,17/03/2023
+"HiSky, Aeroflot",YYZ,BKK,11h 50m ,1 stop ,765 NIS ,17/03/2023
+LOT,YYZ,BKK,15h 45m ,1 stop ,808 NIS ,17/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 30m ,1 stop ,966 NIS ,17/03/2023
+"Air France, LOT",YYZ,BKK,8h 30m ,1 stop ,"1,048 NIS ",17/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,062 NIS ",17/03/2023
+"LOT, Aeroflot",YYZ,BKK,8h 20m ,1 stop ,"1,072 NIS ",17/03/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,094 NIS ",17/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,095 NIS ",17/03/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 15m ,1 stop ,"1,096 NIS ",17/03/2023
+"Austrian Airlines, Aeroflot",YYZ,BKK,8h 40m ,1 stop ,"1,157 NIS ",17/03/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 10m ,1 stop ,"1,167 NIS ",17/03/2023
+"Czech Airlines, Aeroflot",YYZ,BKK,6h 40m ,1 stop ,"1,176 NIS ",17/03/2023
+"Turkish Airlines, Aeroflot",YYZ,BKK,9h 20m ,1 stop ,"1,180 NIS ",17/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",17/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",17/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",17/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",17/03/2023
+Finnair,YYZ,BKK,5h 35m ,1 stop ,"1,229 NIS ",17/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,760 NIS ,17/03/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,760 NIS ,17/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,776 NIS ,17/03/2023
+"Ryanair, KLM",YYZ,BKK,11h 25m ,2 stops ,798 NIS ,17/03/2023
+"easyJet, KLM",YYZ,BKK,11h 05m ,2 stops ,828 NIS ,17/03/2023
+"easyJet, KLM",YYZ,BKK,10h 30m ,2 stops ,858 NIS ,17/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,862 NIS ,17/03/2023
+"easyJet, KLM",YYZ,BKK,12h 55m ,2 stops ,863 NIS ,17/03/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,8h 50m ,2 stops ,883 NIS ,17/03/2023
+"Air France, LOT",YYZ,BKK,11h 00m ,2 stops ,957 NIS ,17/03/2023
+"Norwegian, KLM",YYZ,BKK,12h 20m ,2 stops ,959 NIS ,17/03/2023
+Multiple Airlines,YYZ,BKK,7h 45m ,2 stops ,979 NIS ,17/03/2023
+"Vueling, LOT",YYZ,BKK,11h 45m ,2 stops ,"1,010 NIS ",17/03/2023
+Multiple Airlines,YYZ,BKK,8h 25m ,2 stops ,"1,031 NIS ",17/03/2023
+"easyJet, KLM",YYZ,BKK,9h 55m ,2 stops ,"1,088 NIS ",17/03/2023
+"Vueling, airBaltic",YYZ,BKK,11h 05m ,2 stops ,"1,088 NIS ",17/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",17/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",17/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",17/03/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,198 NIS ",17/03/2023
+airBaltic,YYZ,BKK,7h 25m ,1 stop ,"1,656 NIS ",17/03/2023
+Aeroflot,YYZ,BKK,7h 35m ,1 stop ,"1,752 NIS ",17/03/2023
+Aeroflot,YYZ,BKK,8h 35m ,1 stop ,"1,752 NIS ",17/03/2023
+Aeroflot,YYZ,BKK,9h 10m ,1 stop ,"1,752 NIS ",17/03/2023
+Aeroflot,YYZ,BKK,10h 05m ,1 stop ,"1,752 NIS ",17/03/2023
+Aeroflot,YYZ,BKK,11h 10m ,1 stop ,"1,752 NIS ",17/03/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,752 NIS ",17/03/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,752 NIS ",17/03/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,752 NIS ",17/03/2023
+Aeroflot,YYZ,BKK,15h 30m ,1 stop ,"1,752 NIS ",17/03/2023
+"Vueling, KLM",YYZ,BKK,11h 45m ,2 stops ,829 NIS ,17/03/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,953 NIS ",17/03/2023
+Multiple Airlines,YYZ,BKK,15h 45m ,2 stops ,"7,186 NIS ",17/03/2023
+Brussels Airlines,YYZ,BKK,26h 00m ,2 stops ,"12,303 NIS ",17/03/2023
+Air Serbia,YYZ,BKK,6h 00m ,1 stop ,708 NIS ,18/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,173 NIS ",18/03/2023
+Multiple Airlines,YYZ,BKK,12h 15m ,2 stops ,484 NIS ,18/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,173 NIS ",18/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,255 NIS ",18/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,18/03/2023
+Air Serbia,YYZ,BKK,6h 00m ,1 stop ,628 NIS ,18/03/2023
+Air France,YYZ,BKK,3h 55m ,nonstop ,"1,755 NIS ",18/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,18/03/2023
+Air Serbia,YYZ,BKK,14h 10m ,1 stop ,628 NIS ,18/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,18/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,18/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,862 NIS ,18/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,9h 35m ,1 stop ,871 NIS ,18/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,896 NIS ,18/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,944 NIS ,18/03/2023
+Bulgaria Air,YYZ,BKK,7h 35m ,1 stop ,994 NIS ,18/03/2023
+Aeroflot,YYZ,BKK,5h 55m ,1 stop ,"1,027 NIS ",18/03/2023
+"LOT, Aeroflot",YYZ,BKK,8h 05m ,1 stop ,"1,071 NIS ",18/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",18/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",18/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",18/03/2023
+"Wizz Air, Aeroflot",YYZ,BKK,15h 05m ,1 stop ,994 NIS ,18/03/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,022 NIS ",18/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,059 NIS ",18/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 40m ,1 stop ,"1,059 NIS ",18/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,"1,059 NIS ",18/03/2023
+"Wizz Air, LOT",YYZ,BKK,14h 40m ,1 stop ,"1,103 NIS ",18/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,114 NIS ",18/03/2023
+"Aeroflot, Nordwind Airlines",YYZ,BKK,7h 35m ,1 stop ,"1,153 NIS ",18/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,166 NIS ",18/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",18/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",18/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",18/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",18/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",18/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",18/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",18/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",18/03/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,198 NIS ",18/03/2023
+Aeroflot,YYZ,BKK,6h 50m ,1 stop ,"1,205 NIS ",18/03/2023
+Aeroflot,YYZ,BKK,7h 55m ,1 stop ,"1,205 NIS ",18/03/2023
+LOT,YYZ,BKK,11h 45m ,1 stop ,"1,249 NIS ",18/03/2023
+Multiple Airlines,YYZ,BKK,13h 35m ,2 stops ,484 NIS ,18/03/2023
+Multiple Airlines,YYZ,BKK,11h 25m ,2 stops ,502 NIS ,18/03/2023
+Multiple Airlines,YYZ,BKK,12h 45m ,2 stops ,502 NIS ,18/03/2023
+"easyJet, LOT",YYZ,BKK,11h 15m ,2 stops ,701 NIS ,18/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,760 NIS ,18/03/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,760 NIS ,18/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,776 NIS ,18/03/2023
+"Ryanair, Air Serbia",YYZ,BKK,10h 45m ,2 stops ,818 NIS ,18/03/2023
+"Vueling, LOT",YYZ,BKK,11h 20m ,2 stops ,821 NIS ,18/03/2023
+"easyJet, KLM",YYZ,BKK,11h 05m ,2 stops ,828 NIS ,18/03/2023
+"Transavia France, KLM",YYZ,BKK,11h 45m ,2 stops ,839 NIS ,18/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,862 NIS ,18/03/2023
+"Ryanair, LOT",YYZ,BKK,13h 45m ,1 stop ,896 NIS ,18/03/2023
+"Wizz Air, LOT",YYZ,BKK,13h 00m ,2 stops ,"1,008 NIS ",18/03/2023
+Aeroflot,YYZ,BKK,8h 55m ,1 stop ,"1,572 NIS ",18/03/2023
+Aeroflot,YYZ,BKK,9h 35m ,1 stop ,"1,572 NIS ",18/03/2023
+Aeroflot,YYZ,BKK,10h 55m ,1 stop ,"1,572 NIS ",18/03/2023
+Aeroflot,YYZ,BKK,12h 15m ,1 stop ,"1,572 NIS ",18/03/2023
+Aeroflot,YYZ,BKK,13h 45m ,1 stop ,"1,572 NIS ",18/03/2023
+Aeroflot,YYZ,BKK,15h 00m ,1 stop ,"1,572 NIS ",18/03/2023
+Aeroflot,YYZ,BKK,7h 35m ,1 stop ,"1,622 NIS ",18/03/2023
+Aeroflot,YYZ,BKK,8h 35m ,1 stop ,"1,622 NIS ",18/03/2023
+Multiple Airlines,YYZ,BKK,13h 10m ,2 stops ,502 NIS ,18/03/2023
+Multiple Airlines,YYZ,BKK,14h 30m ,2 stops ,502 NIS ,18/03/2023
+Air Algerie,YYZ,BKK,12h 50m ,1 stop ,"2,791 NIS ",18/03/2023
+Air Algerie,YYZ,BKK,9h 15m ,1 stop ,"2,802 NIS ",18/03/2023
+Air Algerie,YYZ,BKK,11h 15m ,1 stop ,"2,802 NIS ",18/03/2023
+Multiple Airlines,YYZ,BKK,7h 15m ,2 stops ,"4,296 NIS ",18/03/2023
+Multiple Airlines,YYZ,BKK,7h 40m ,2 stops ,"6,010 NIS ",18/03/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"6,044 NIS ",18/03/2023
+Multiple Airlines,YYZ,BKK,14h 40m ,2 stops ,"7,186 NIS ",18/03/2023
+Aeroflot,YYZ,BKK,3h 50m ,nonstop ,"1,173 NIS ",19/03/2023
+Finnair,YYZ,BKK,11h 15m ,1 stop ,547 NIS ,19/03/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,397 NIS ",19/03/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,624 NIS ",19/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,19/03/2023
+Finnair,YYZ,BKK,7h 00m ,1 stop ,590 NIS ,19/03/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,7h 55m ,1 stop ,615 NIS ,19/03/2023
+Air Serbia,YYZ,BKK,12h 30m ,1 stop ,628 NIS ,19/03/2023
+Finnair,YYZ,BKK,16h 05m ,1 stop ,547 NIS ,19/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,19/03/2023
+"airBaltic, Aeroflot",YYZ,BKK,9h 40m ,1 stop ,840 NIS ,19/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,902 NIS ,19/03/2023
+"Air France, Nordwind Airlines",YYZ,BKK,6h 45m ,1 stop ,985 NIS ,19/03/2023
+Bulgaria Air,YYZ,BKK,7h 35m ,1 stop ,994 NIS ,19/03/2023
+"Transavia France, Czech Airlines",YYZ,BKK,6h 20m ,1 stop ,997 NIS ,19/03/2023
+"Air France, Aeroflot",YYZ,BKK,7h 35m ,1 stop ,"1,056 NIS ",19/03/2023
+"Air France, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,056 NIS ",19/03/2023
+"Air France, Aeroflot",YYZ,BKK,9h 10m ,1 stop ,"1,056 NIS ",19/03/2023
+"Air France, Aeroflot",YYZ,BKK,10h 05m ,1 stop ,"1,056 NIS ",19/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",19/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",19/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",19/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",19/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,199 NIS ",19/03/2023
+"Air Moldova, Aeroflot",YYZ,BKK,12h 15m ,1 stop ,958 NIS ,19/03/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 35m ,1 stop ,"1,036 NIS ",19/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,9h 35m ,1 stop ,"1,050 NIS ",19/03/2023
+"Air France, Aeroflot",YYZ,BKK,11h 10m ,1 stop ,"1,056 NIS ",19/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,126 NIS ",19/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,"1,128 NIS ",19/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 25m ,1 stop ,"1,170 NIS ",19/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",19/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",19/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",19/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",19/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",19/03/2023
+LOT,YYZ,BKK,8h 05m ,1 stop ,"1,249 NIS ",19/03/2023
+LOT,YYZ,BKK,11h 45m ,1 stop ,"1,249 NIS ",19/03/2023
+Multiple Airlines,YYZ,BKK,13h 05m ,2 stops ,747 NIS ,19/03/2023
+Multiple Airlines,YYZ,BKK,12h 50m ,2 stops ,843 NIS ,19/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,862 NIS ,19/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,8h 15m ,2 stops ,971 NIS ,19/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,9h 20m ,2 stops ,971 NIS ,19/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,10h 20m ,2 stops ,971 NIS ,19/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,11h 00m ,2 stops ,971 NIS ,19/03/2023
+"KLM, Aeroflot",YYZ,BKK,9h 10m ,2 stops ,"1,051 NIS ",19/03/2023
+"KLM, Aeroflot",YYZ,BKK,10h 15m ,2 stops ,"1,051 NIS ",19/03/2023
+Finnair,YYZ,BKK,14h 30m ,1 stop ,"1,455 NIS ",19/03/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,622 NIS ",19/03/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,622 NIS ",19/03/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,622 NIS ",19/03/2023
+"Lufthansa, airBaltic",YYZ,BKK,9h 35m ,2 stops ,"1,722 NIS ",19/03/2023
+"Lufthansa, airBaltic",YYZ,BKK,8h 30m ,2 stops ,"1,727 NIS ",19/03/2023
+"Lufthansa, airBaltic",YYZ,BKK,10h 40m ,2 stops ,"1,727 NIS ",19/03/2023
+"Lufthansa, airBaltic",YYZ,BKK,11h 05m ,2 stops ,"4,281 NIS ",19/03/2023
+"SWISS, Aeroflot",YYZ,BKK,6h 45m ,1 stop ,"5,902 NIS ",19/03/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"6,101 NIS ",19/03/2023
+"SWISS, Aeroflot",YYZ,BKK,10h 35m ,2 stops ,"6,516 NIS ",19/03/2023
+Brussels Airlines,YYZ,BKK,26h 00m ,2 stops ,"12,303 NIS ",19/03/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,708 NIS ,20/03/2023
+Aeroflot,YYZ,BKK,3h 50m ,nonstop ,"1,173 NIS ",20/03/2023
+Multiple Airlines,YYZ,BKK,15h 15m ,2 stops ,525 NIS ,20/03/2023
+Air France,YYZ,BKK,3h 55m ,nonstop ,"1,397 NIS ",20/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,437 NIS ",20/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,20/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,20/03/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,610 NIS ,20/03/2023
+"Ryanair, airBaltic",YYZ,BKK,10h 35m ,1 stop ,639 NIS ,20/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,6h 00m ,1 stop ,734 NIS ,20/03/2023
+"HiSky, Aeroflot",YYZ,BKK,11h 50m ,1 stop ,765 NIS ,20/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,20/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,20/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,11h 20m ,1 stop ,856 NIS ,20/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 40m ,1 stop ,884 NIS ,20/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 10m ,1 stop ,900 NIS ,20/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,926 NIS ,20/03/2023
+"Aeroflot, Nordwind Airlines",YYZ,BKK,7h 35m ,1 stop ,987 NIS ,20/03/2023
+Bulgaria Air,YYZ,BKK,6h 55m ,1 stop ,994 NIS ,20/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,013 NIS ",20/03/2023
+Aeroflot,YYZ,BKK,5h 55m ,1 stop ,"1,022 NIS ",20/03/2023
+Aeroflot,YYZ,BKK,6h 50m ,1 stop ,"1,037 NIS ",20/03/2023
+Aeroflot,YYZ,BKK,7h 55m ,1 stop ,"1,037 NIS ",20/03/2023
+Aeroflot,YYZ,BKK,9h 35m ,1 stop ,"1,037 NIS ",20/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 35m ,1 stop ,"1,068 NIS ",20/03/2023
+"Air France, Nordwind Airlines",YYZ,BKK,7h 35m ,1 stop ,"1,081 NIS ",20/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,082 NIS ",20/03/2023
+"LOT, Aeroflot",YYZ,BKK,8h 20m ,1 stop ,"1,107 NIS ",20/03/2023
+"Air France, Aeroflot",YYZ,BKK,7h 55m ,1 stop ,"1,136 NIS ",20/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",20/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",20/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",20/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",20/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",20/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",20/03/2023
+"Ryanair, Czech Airlines",YYZ,BKK,14h 50m ,1 stop ,874 NIS ,20/03/2023
+"Wizz Air, LOT",YYZ,BKK,14h 40m ,1 stop ,"1,107 NIS ",20/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 55m ,1 stop ,"1,122 NIS ",20/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",20/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",20/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",20/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",20/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",20/03/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,198 NIS ",20/03/2023
+"Ryanair, LOT",YYZ,BKK,13h 25m ,2 stops ,602 NIS ,20/03/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,760 NIS ,20/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,797 NIS ,20/03/2023
+"Transavia France, KLM",YYZ,BKK,10h 20m ,2 stops ,839 NIS ,20/03/2023
+"easyJet, KLM",YYZ,BKK,9h 50m ,2 stops ,850 NIS ,20/03/2023
+"Ryanair, LOT",YYZ,BKK,9h 50m ,2 stops ,858 NIS ,20/03/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,862 NIS ,20/03/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,9h 00m ,2 stops ,"1,001 NIS ",20/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,8h 15m ,2 stops ,"1,051 NIS ",20/03/2023
+"KLM, Nordwind Airlines",YYZ,BKK,9h 55m ,2 stops ,"1,081 NIS ",20/03/2023
+Aeroflot,YYZ,BKK,8h 55m ,1 stop ,"1,572 NIS ",20/03/2023
+Aeroflot,YYZ,BKK,10h 55m ,1 stop ,"1,572 NIS ",20/03/2023
+Aeroflot,YYZ,BKK,12h 15m ,1 stop ,"1,572 NIS ",20/03/2023
+Aeroflot,YYZ,BKK,13h 45m ,1 stop ,"1,572 NIS ",20/03/2023
+Aeroflot,YYZ,BKK,15h 00m ,1 stop ,"1,572 NIS ",20/03/2023
+"SWISS, Aeroflot",YYZ,BKK,6h 45m ,1 stop ,"5,902 NIS ",20/03/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"5,955 NIS ",20/03/2023
+"MEA, Aeroflot",YYZ,BKK,10h 35m ,1 stop ,"13,986 NIS ",20/03/2023
+"MEA, Aeroflot",YYZ,BKK,14h 05m ,1 stop ,"13,986 NIS ",20/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,169 NIS ",21/03/2023
+Multiple Airlines,YYZ,BKK,14h 55m ,2 stops ,465 NIS ,21/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,222 NIS ",21/03/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,392 NIS ",21/03/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,451 NIS ",21/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,21/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,21/03/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,803 NIS ,21/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,21/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,21/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,6h 50m ,1 stop ,910 NIS ,21/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,918 NIS ,21/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",21/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",21/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",21/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",21/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 05m ,1 stop ,"1,062 NIS ",21/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,119 NIS ",21/03/2023
+"Air France, Aeroflot",YYZ,BKK,7h 35m ,1 stop ,"1,136 NIS ",21/03/2023
+"LOT, Aeroflot",YYZ,BKK,8h 20m ,1 stop ,"1,136 NIS ",21/03/2023
+"Air France, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,136 NIS ",21/03/2023
+"Air France, Aeroflot",YYZ,BKK,9h 10m ,1 stop ,"1,136 NIS ",21/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,148 NIS ",21/03/2023
+Bulgaria Air,YYZ,BKK,6h 55m ,1 stop ,"1,188 NIS ",21/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",21/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",21/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",21/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",21/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",21/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",21/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",21/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,771 NIS ,21/03/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,771 NIS ,21/03/2023
+"Ryanair, KLM",YYZ,BKK,9h 25m ,2 stops ,781 NIS ,21/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,830 NIS ,21/03/2023
+Aeroflot,YYZ,BKK,10h 05m ,1 stop ,"1,622 NIS ",21/03/2023
+Aeroflot,YYZ,BKK,11h 10m ,1 stop ,"1,622 NIS ",21/03/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,622 NIS ",21/03/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,622 NIS ",21/03/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,622 NIS ",21/03/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,955 NIS ",21/03/2023
+Air Serbia,YYZ,BKK,6h 15m ,1 stop ,774 NIS ,22/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,191 NIS ",22/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,22/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,191 NIS ",22/03/2023
+Aeroflot,YYZ,BKK,3h 55m ,nonstop ,"1,275 NIS ",22/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,22/03/2023
+Air Serbia,YYZ,BKK,6h 15m ,1 stop ,628 NIS ,22/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,22/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,22/03/2023
+"airBaltic, Aeroflot",YYZ,BKK,7h 25m ,1 stop ,822 NIS ,22/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,926 NIS ,22/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,947 NIS ,22/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,"1,080 NIS ",22/03/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 05m ,1 stop ,"1,080 NIS ",22/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,094 NIS ",22/03/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 10m ,1 stop ,"1,143 NIS ",22/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 25m ,1 stop ,"1,143 NIS ",22/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,167 NIS ",22/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",22/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",22/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",22/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",22/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",22/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",22/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",22/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",22/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",22/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",22/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",22/03/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,198 NIS ",22/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,771 NIS ,22/03/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,771 NIS ,22/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,789 NIS ,22/03/2023
+"KLM, Aeroflot",YYZ,BKK,9h 10m ,2 stops ,"1,051 NIS ",22/03/2023
+"KLM, Aeroflot",YYZ,BKK,10h 00m ,2 stops ,"1,051 NIS ",22/03/2023
+Multiple Airlines,YYZ,BKK,7h 15m ,2 stops ,"4,296 NIS ",22/03/2023
+"SWISS, Aeroflot",YYZ,BKK,9h 40m ,1 stop ,"5,854 NIS ",22/03/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,953 NIS ",22/03/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,708 NIS ,23/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,169 NIS ",23/03/2023
+Multiple Airlines,YYZ,BKK,15h 15m ,2 stops ,420 NIS ,23/03/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,222 NIS ",23/03/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,378 NIS ",23/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,451 NIS ",23/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,23/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,23/03/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,610 NIS ,23/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,23/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,23/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,8h 50m ,1 stop ,926 NIS ,23/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,935 NIS ,23/03/2023
+Bulgaria Air,YYZ,BKK,6h 55m ,1 stop ,994 NIS ,23/03/2023
+"Turkish Airlines, Nordwind Airlines",YYZ,BKK,8h 50m ,1 stop ,"1,012 NIS ",23/03/2023
+"Air France, Aeroflot",YYZ,BKK,7h 05m ,1 stop ,"1,113 NIS ",23/03/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 10m ,1 stop ,"1,122 NIS ",23/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 25m ,1 stop ,"1,122 NIS ",23/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,141 NIS ",23/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 05m ,1 stop ,"1,153 NIS ",23/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",23/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",23/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",23/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",23/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",23/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",23/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",23/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",23/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",23/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",23/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",23/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,773 NIS ,23/03/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,773 NIS ,23/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,868 NIS ,23/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,8h 15m ,2 stops ,"1,051 NIS ",23/03/2023
+airBaltic,YYZ,BKK,13h 15m ,2 stops ,"1,109 NIS ",23/03/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"5,955 NIS ",23/03/2023
+Multiple Airlines,YYZ,BKK,7h 40m ,2 stops ,"6,010 NIS ",23/03/2023
+Brussels Airlines,YYZ,BKK,28h 30m ,2 stops ,"12,303 NIS ",23/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,191 NIS ",24/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,24/03/2023
+Air France,YYZ,BKK,3h 55m ,nonstop ,"1,397 NIS ",24/03/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,803 NIS ,24/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,24/03/2023
+"airBaltic, Aeroflot",YYZ,BKK,7h 25m ,1 stop ,821 NIS ,24/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,888 NIS ,24/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,897 NIS ,24/03/2023
+"Air France, Aeroflot",YYZ,BKK,7h 05m ,1 stop ,"1,101 NIS ",24/03/2023
+"Air France, Aeroflot",YYZ,BKK,5h 40m ,1 stop ,"1,184 NIS ",24/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",24/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",24/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",24/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",24/03/2023
+Finnair,YYZ,BKK,15h 45m ,1 stop ,589 NIS ,24/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,24/03/2023
+LOT,YYZ,BKK,15h 45m ,1 stop ,808 NIS ,24/03/2023
+Air Serbia,YYZ,BKK,14h 10m ,1 stop ,958 NIS ,24/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 30m ,1 stop ,"1,068 NIS ",24/03/2023
+"Air France, LOT",YYZ,BKK,8h 30m ,1 stop ,"1,115 NIS ",24/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,122 NIS ",24/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,124 NIS ",24/03/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 15m ,1 stop ,"1,128 NIS ",24/03/2023
+"LOT, Aeroflot",YYZ,BKK,8h 20m ,1 stop ,"1,130 NIS ",24/03/2023
+"Air France, Aeroflot",YYZ,BKK,10h 00m ,1 stop ,"1,148 NIS ",24/03/2023
+"Turkish Airlines, Aeroflot",YYZ,BKK,9h 20m ,1 stop ,"1,188 NIS ",24/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",24/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",24/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",24/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",24/03/2023
+Finnair,YYZ,BKK,5h 35m ,1 stop ,"1,249 NIS ",24/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,773 NIS ,24/03/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,773 NIS ,24/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,789 NIS ,24/03/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,8h 50m ,2 stops ,872 NIS ,24/03/2023
+Multiple Airlines,YYZ,BKK,7h 45m ,2 stops ,981 NIS ,24/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,8h 50m ,2 stops ,"1,093 NIS ",24/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,9h 15m ,2 stops ,"1,167 NIS ",24/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",24/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",24/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",24/03/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,198 NIS ",24/03/2023
+Aeroflot,YYZ,BKK,7h 35m ,1 stop ,"1,752 NIS ",24/03/2023
+Aeroflot,YYZ,BKK,8h 35m ,1 stop ,"1,752 NIS ",24/03/2023
+Aeroflot,YYZ,BKK,9h 10m ,1 stop ,"1,752 NIS ",24/03/2023
+Aeroflot,YYZ,BKK,10h 05m ,1 stop ,"1,752 NIS ",24/03/2023
+Aeroflot,YYZ,BKK,11h 10m ,1 stop ,"1,752 NIS ",24/03/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,752 NIS ",24/03/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,752 NIS ",24/03/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,752 NIS ",24/03/2023
+Aeroflot,YYZ,BKK,15h 30m ,1 stop ,"1,752 NIS ",24/03/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,953 NIS ",24/03/2023
+Multiple Airlines,YYZ,BKK,15h 45m ,2 stops ,"7,186 NIS ",24/03/2023
+Brussels Airlines,YYZ,BKK,26h 00m ,2 stops ,"12,303 NIS ",24/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,169 NIS ",25/03/2023
+Multiple Airlines,YYZ,BKK,14h 55m ,2 stops ,462 NIS ,25/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,169 NIS ",25/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,222 NIS ",25/03/2023
+Aeroflot,YYZ,BKK,3h 55m ,nonstop ,"1,222 NIS ",25/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,25/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,25/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,25/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,25/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,880 NIS ,25/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,909 NIS ,25/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,925 NIS ,25/03/2023
+Air Serbia,YYZ,BKK,6h 00m ,1 stop ,958 NIS ,25/03/2023
+Bulgaria Air,YYZ,BKK,7h 35m ,1 stop ,994 NIS ,25/03/2023
+"Aeroflot, Nordwind Airlines",YYZ,BKK,7h 35m ,1 stop ,"1,026 NIS ",25/03/2023
+Aeroflot,YYZ,BKK,6h 50m ,1 stop ,"1,037 NIS ",25/03/2023
+Aeroflot,YYZ,BKK,7h 55m ,1 stop ,"1,037 NIS ",25/03/2023
+Aeroflot,YYZ,BKK,9h 35m ,1 stop ,"1,037 NIS ",25/03/2023
+Aeroflot,YYZ,BKK,5h 55m ,1 stop ,"1,044 NIS ",25/03/2023
+"Air France, Aeroflot",YYZ,BKK,6h 15m ,1 stop ,"1,098 NIS ",25/03/2023
+"Air France, Aeroflot",YYZ,BKK,6h 30m ,1 stop ,"1,119 NIS ",25/03/2023
+"Air France, Aeroflot",YYZ,BKK,7h 35m ,1 stop ,"1,136 NIS ",25/03/2023
+"Air France, Aeroflot",YYZ,BKK,7h 05m ,1 stop ,"1,153 NIS ",25/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",25/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",25/03/2023
+Air Serbia,YYZ,BKK,14h 10m ,1 stop ,958 NIS ,25/03/2023
+"Turkish Airlines, Nordwind Airlines",YYZ,BKK,8h 50m ,1 stop ,"1,062 NIS ",25/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 40m ,1 stop ,"1,077 NIS ",25/03/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 05m ,1 stop ,"1,077 NIS ",25/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,"1,082 NIS ",25/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,089 NIS ",25/03/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,115 NIS ",25/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,9h 50m ,1 stop ,"1,131 NIS ",25/03/2023
+"Air France, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,136 NIS ",25/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,153 NIS ",25/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",25/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",25/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",25/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",25/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",25/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",25/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",25/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",25/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",25/03/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,198 NIS ",25/03/2023
+LOT,YYZ,BKK,8h 05m ,1 stop ,"1,249 NIS ",25/03/2023
+LOT,YYZ,BKK,11h 45m ,1 stop ,"1,249 NIS ",25/03/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,773 NIS ,25/03/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,773 NIS ,25/03/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,868 NIS ,25/03/2023
+"Wizz Air, LOT",YYZ,BKK,9h 20m ,2 stops ,924 NIS ,25/03/2023
+Aeroflot,YYZ,BKK,8h 55m ,1 stop ,"1,572 NIS ",25/03/2023
+Aeroflot,YYZ,BKK,10h 55m ,1 stop ,"1,572 NIS ",25/03/2023
+Aeroflot,YYZ,BKK,12h 15m ,1 stop ,"1,572 NIS ",25/03/2023
+Aeroflot,YYZ,BKK,13h 45m ,1 stop ,"1,572 NIS ",25/03/2023
+Aeroflot,YYZ,BKK,15h 00m ,1 stop ,"1,572 NIS ",25/03/2023
+Air Algerie,YYZ,BKK,12h 50m ,1 stop ,"2,791 NIS ",25/03/2023
+Air Algerie,YYZ,BKK,9h 15m ,1 stop ,"2,802 NIS ",25/03/2023
+Air Algerie,YYZ,BKK,11h 15m ,1 stop ,"2,802 NIS ",25/03/2023
+Multiple Airlines,YYZ,BKK,7h 15m ,2 stops ,"4,296 NIS ",25/03/2023
+"SWISS, Aeroflot",YYZ,BKK,6h 45m ,1 stop ,"5,854 NIS ",25/03/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"6,044 NIS ",25/03/2023
+Multiple Airlines,YYZ,BKK,14h 40m ,2 stops ,"7,186 NIS ",25/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,902 NIS ,26/03/2023
+Aeroflot,YYZ,BKK,3h 50m ,nonstop ,"1,191 NIS ",26/03/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,7h 55m ,1 stop ,720 NIS ,26/03/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,246 NIS ",26/03/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,394 NIS ",26/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,797 NIS ,26/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,797 NIS ,26/03/2023
+Finnair,YYZ,BKK,7h 00m ,1 stop ,855 NIS ,26/03/2023
+Finnair,YYZ,BKK,11h 15m ,1 stop ,855 NIS ,26/03/2023
+Finnair,YYZ,BKK,14h 30m ,1 stop ,855 NIS ,26/03/2023
+airBaltic,YYZ,BKK,9h 40m ,1 stop ,862 NIS ,26/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,884 NIS ,26/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,902 NIS ,26/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,947 NIS ,26/03/2023
+Air Serbia,YYZ,BKK,12h 30m ,1 stop ,958 NIS ,26/03/2023
+"Transavia France, Czech Airlines",YYZ,BKK,6h 20m ,1 stop ,979 NIS ,26/03/2023
+"Air France, Nordwind Airlines",YYZ,BKK,6h 45m ,1 stop ,989 NIS ,26/03/2023
+Bulgaria Air,YYZ,BKK,7h 35m ,1 stop ,994 NIS ,26/03/2023
+"Air France, Aeroflot",YYZ,BKK,6h 30m ,1 stop ,"1,119 NIS ",26/03/2023
+"Air France, Aeroflot",YYZ,BKK,7h 35m ,1 stop ,"1,136 NIS ",26/03/2023
+"Air France, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,136 NIS ",26/03/2023
+"Air France, Aeroflot",YYZ,BKK,9h 10m ,1 stop ,"1,136 NIS ",26/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",26/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",26/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",26/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",26/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 50m ,1 stop ,"1,079 NIS ",26/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,109 NIS ",26/03/2023
+"Turkish Airlines, Aeroflot",YYZ,BKK,9h 20m ,1 stop ,"1,176 NIS ",26/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 50m ,1 stop ,"1,181 NIS ",26/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",26/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",26/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",26/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",26/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",26/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",26/03/2023
+LOT,YYZ,BKK,8h 05m ,1 stop ,"1,249 NIS ",26/03/2023
+LOT,YYZ,BKK,11h 45m ,1 stop ,"1,249 NIS ",26/03/2023
+Aeroflot,YYZ,BKK,10h 05m ,1 stop ,"1,622 NIS ",26/03/2023
+Aeroflot,YYZ,BKK,11h 10m ,1 stop ,"1,622 NIS ",26/03/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,622 NIS ",26/03/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,622 NIS ",26/03/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,622 NIS ",26/03/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,9h 15m ,2 stops ,"1,014 NIS ",26/03/2023
+"SWISS, Aeroflot",YYZ,BKK,6h 45m ,1 stop ,"5,850 NIS ",26/03/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"6,101 NIS ",26/03/2023
+"SWISS, Aeroflot",YYZ,BKK,10h 35m ,2 stops ,"6,511 NIS ",26/03/2023
+"SWISS, Aeroflot",YYZ,BKK,11h 55m ,2 stops ,"6,511 NIS ",26/03/2023
+"SWISS, Aeroflot",YYZ,BKK,13h 25m ,2 stops ,"6,511 NIS ",26/03/2023
+"SWISS, Aeroflot",YYZ,BKK,14h 40m ,2 stops ,"6,511 NIS ",26/03/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,708 NIS ,27/03/2023
+Aeroflot,YYZ,BKK,3h 50m ,nonstop ,"1,191 NIS ",27/03/2023
+Multiple Airlines,YYZ,BKK,14h 40m ,2 stops ,443 NIS ,27/03/2023
+Aeroflot,YYZ,BKK,3h 55m ,nonstop ,"1,275 NIS ",27/03/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,455 NIS ",27/03/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,610 NIS ,27/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,6h 00m ,1 stop ,722 NIS ,27/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,797 NIS ,27/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,797 NIS ,27/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,27/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,27/03/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 10m ,1 stop ,845 NIS ,27/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 40m ,1 stop ,872 NIS ,27/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,925 NIS ,27/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 55m ,1 stop ,977 NIS ,27/03/2023
+"easyJet, Aeroflot",YYZ,BKK,9h 10m ,1 stop ,977 NIS ,27/03/2023
+"Aeroflot, Nordwind Airlines",YYZ,BKK,7h 35m ,1 stop ,990 NIS ,27/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,992 NIS ,27/03/2023
+Bulgaria Air,YYZ,BKK,6h 55m ,1 stop ,994 NIS ,27/03/2023
+Aeroflot,YYZ,BKK,6h 50m ,1 stop ,"1,037 NIS ",27/03/2023
+Aeroflot,YYZ,BKK,7h 55m ,1 stop ,"1,037 NIS ",27/03/2023
+Aeroflot,YYZ,BKK,5h 55m ,1 stop ,"1,039 NIS ",27/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",27/03/2023
+Aeroflot,YYZ,BKK,9h 35m ,1 stop ,"1,037 NIS ",27/03/2023
+"Air France, Aeroflot",YYZ,BKK,10h 00m ,1 stop ,"1,043 NIS ",27/03/2023
+"LOT, Aeroflot",YYZ,BKK,8h 20m ,1 stop ,"1,124 NIS ",27/03/2023
+"Air France, Aeroflot",YYZ,BKK,7h 05m ,1 stop ,"1,153 NIS ",27/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",27/03/2023
+KLM,YYZ,BKK,5h 40m ,1 stop ,"1,198 NIS ",27/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",27/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",27/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",27/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",27/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",27/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",27/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",27/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",27/03/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,198 NIS ",27/03/2023
+"Vueling, LOT",YYZ,BKK,9h 15m ,2 stops ,693 NIS ,27/03/2023
+"Air France, LOT",YYZ,BKK,8h 50m ,2 stops ,798 NIS ,27/03/2023
+"easyJet, KLM",YYZ,BKK,9h 50m ,2 stops ,833 NIS ,27/03/2023
+"Ryanair, LOT",YYZ,BKK,9h 50m ,2 stops ,858 NIS ,27/03/2023
+"Air France, airBaltic",YYZ,BKK,9h 35m ,2 stops ,918 NIS ,27/03/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,9h 00m ,2 stops ,"1,004 NIS ",27/03/2023
+"Lufthansa, Aeroflot",YYZ,BKK,8h 15m ,2 stops ,"1,051 NIS ",27/03/2023
+Aeroflot,YYZ,BKK,8h 55m ,1 stop ,"1,572 NIS ",27/03/2023
+Aeroflot,YYZ,BKK,10h 55m ,1 stop ,"1,572 NIS ",27/03/2023
+Aeroflot,YYZ,BKK,12h 15m ,1 stop ,"1,572 NIS ",27/03/2023
+Aeroflot,YYZ,BKK,13h 45m ,1 stop ,"1,572 NIS ",27/03/2023
+Aeroflot,YYZ,BKK,15h 00m ,1 stop ,"1,572 NIS ",27/03/2023
+Qatar Airways,YYZ,BKK,31h 30m ,1 stop ,"4,112 NIS ",27/03/2023
+"SWISS, Aeroflot",YYZ,BKK,6h 45m ,1 stop ,"5,850 NIS ",27/03/2023
+"SWISS, Aeroflot",YYZ,BKK,9h 45m ,1 stop ,"5,897 NIS ",27/03/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"5,951 NIS ",27/03/2023
+Multiple Airlines,YYZ,BKK,7h 40m ,2 stops ,"6,005 NIS ",27/03/2023
+"MEA, Aeroflot",YYZ,BKK,10h 35m ,1 stop ,"13,981 NIS ",27/03/2023
+"MEA, Aeroflot",YYZ,BKK,14h 05m ,1 stop ,"13,981 NIS ",27/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,902 NIS ,28/03/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,150 NIS ",28/03/2023
+"Ryanair, KLM",YYZ,BKK,9h 25m ,2 stops ,795 NIS ,28/03/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,203 NIS ",28/03/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,203 NIS ",28/03/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,383 NIS ",28/03/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,797 NIS ,28/03/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,797 NIS ,28/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,28/03/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,28/03/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,958 NIS ,28/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,915 NIS ,28/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,6h 50m ,1 stop ,931 NIS ,28/03/2023
+"Ryanair, Aeroflot",YYZ,BKK,8h 50m ,1 stop ,951 NIS ,28/03/2023
+Bulgaria Air,YYZ,BKK,6h 55m ,1 stop ,994 NIS ,28/03/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,046 NIS ",28/03/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,083 NIS ",28/03/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,108 NIS ",28/03/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 05m ,1 stop ,"1,119 NIS ",28/03/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 15m ,1 stop ,"1,120 NIS ",28/03/2023
+"Air France, Aeroflot",YYZ,BKK,7h 35m ,1 stop ,"1,160 NIS ",28/03/2023
+"Air France, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,160 NIS ",28/03/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",28/03/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",28/03/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",28/03/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",28/03/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",28/03/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",28/03/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",28/03/2023
+KLM,YYZ,BKK,11h 15m ,1 stop ,"1,198 NIS ",28/03/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",28/03/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",28/03/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",28/03/2023
+LOT,YYZ,BKK,8h 20m ,1 stop ,"1,476 NIS ",28/03/2023
+Aeroflot,YYZ,BKK,9h 10m ,1 stop ,"1,622 NIS ",28/03/2023
+Aeroflot,YYZ,BKK,10h 05m ,1 stop ,"1,622 NIS ",28/03/2023
+Aeroflot,YYZ,BKK,11h 10m ,1 stop ,"1,622 NIS ",28/03/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,622 NIS ",28/03/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,622 NIS ",28/03/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,622 NIS ",28/03/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,951 NIS ",28/03/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,902 NIS ,01/04/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,173 NIS ",01/04/2023
+Air Serbia,YYZ,BKK,6h 15m ,1 stop ,754 NIS ,01/04/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,173 NIS ",01/04/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,226 NIS ",01/04/2023
+Aeroflot,YYZ,BKK,3h 55m ,nonstop ,"1,255 NIS ",01/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,797 NIS ,01/04/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,797 NIS ,01/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,01/04/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,01/04/2023
+"airBaltic, Aeroflot",YYZ,BKK,7h 25m ,1 stop ,819 NIS ,01/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,884 NIS ,01/04/2023
+"Ryanair, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,925 NIS ,01/04/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,"1,056 NIS ",01/04/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 05m ,1 stop ,"1,056 NIS ",01/04/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 25m ,1 stop ,"1,078 NIS ",01/04/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 10m ,1 stop ,"1,124 NIS ",01/04/2023
+"Turkish Airlines, Aeroflot",YYZ,BKK,9h 20m ,1 stop ,"1,176 NIS ",01/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",01/04/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",01/04/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",01/04/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",01/04/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",01/04/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",01/04/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",01/04/2023
+KLM,YYZ,BKK,11h 15m ,1 stop ,"1,198 NIS ",01/04/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",01/04/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",01/04/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",01/04/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,198 NIS ",01/04/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,"1,008 NIS ",01/04/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,"1,101 NIS ",01/04/2023
+"Air France, KLM",YYZ,BKK,9h 25m ,2 stops ,"1,139 NIS ",01/04/2023
+Multiple Airlines,YYZ,BKK,7h 15m ,2 stops ,"4,292 NIS ",01/04/2023
+"SWISS, Aeroflot",YYZ,BKK,8h 15m ,1 stop ,"5,897 NIS ",01/04/2023
+"SWISS, Aeroflot",YYZ,BKK,9h 40m ,1 stop ,"5,897 NIS ",01/04/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,951 NIS ",01/04/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,708 NIS ,02/04/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,173 NIS ",02/04/2023
+Multiple Airlines,YYZ,BKK,15h 15m ,2 stops ,443 NIS ,02/04/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,255 NIS ",02/04/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,255 NIS ",02/04/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,389 NIS ",02/04/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,610 NIS ,02/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,797 NIS ,02/04/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,797 NIS ,02/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,02/04/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,02/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,896 NIS ,02/04/2023
+"Ryanair, Aeroflot",YYZ,BKK,8h 50m ,1 stop ,925 NIS ,02/04/2023
+Bulgaria Air,YYZ,BKK,6h 55m ,1 stop ,994 NIS ,02/04/2023
+"Turkish Airlines, Nordwind Airlines",YYZ,BKK,8h 50m ,1 stop ,"1,041 NIS ",02/04/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,041 NIS ",02/04/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,056 NIS ",02/04/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,"1,077 NIS ",02/04/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 05m ,1 stop ,"1,102 NIS ",02/04/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 10m ,1 stop ,"1,103 NIS ",02/04/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 25m ,1 stop ,"1,103 NIS ",02/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",02/04/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",02/04/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",02/04/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",02/04/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",02/04/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",02/04/2023
+KLM,YYZ,BKK,11h 15m ,1 stop ,"1,198 NIS ",02/04/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",02/04/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",02/04/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",02/04/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,199 NIS ",02/04/2023
+"Ryanair, Finnair",YYZ,BKK,9h 40m ,2 stops ,728 NIS ,02/04/2023
+"Air France, LOT",YYZ,BKK,8h 50m ,2 stops ,783 NIS ,02/04/2023
+airBaltic,YYZ,BKK,13h 15m ,2 stops ,"1,109 NIS ",02/04/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"5,951 NIS ",02/04/2023
+Multiple Airlines,YYZ,BKK,7h 40m ,2 stops ,"6,005 NIS ",02/04/2023
+Air Serbia,YYZ,BKK,14h 10m ,1 stop ,708 NIS ,03/04/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,150 NIS ",03/04/2023
+Air Serbia,YYZ,BKK,14h 10m ,1 stop ,628 NIS ,03/04/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,203 NIS ",03/04/2023
+Aeroflot,YYZ,BKK,3h 55m ,nonstop ,"1,203 NIS ",03/04/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,694 NIS ,03/04/2023
+"HiSky, Aeroflot",YYZ,BKK,11h 50m ,1 stop ,752 NIS ,03/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,797 NIS ,03/04/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,797 NIS ,03/04/2023
+"airBaltic, Aeroflot",YYZ,BKK,7h 25m ,1 stop ,808 NIS ,03/04/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,03/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,897 NIS ,03/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,879 NIS ,03/04/2023
+"Air France, Aeroflot",YYZ,BKK,10h 00m ,1 stop ,981 NIS ,03/04/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 30m ,1 stop ,983 NIS ,03/04/2023
+"Lufthansa, Aeroflot",YYZ,BKK,10h 15m ,1 stop ,"1,037 NIS ",03/04/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,042 NIS ",03/04/2023
+"Air France, Aeroflot",YYZ,BKK,7h 05m ,1 stop ,"1,047 NIS ",03/04/2023
+"Air France, Pobeda",YYZ,BKK,6h 40m ,1 stop ,"1,075 NIS ",03/04/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,084 NIS ",03/04/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 10m ,1 stop ,"1,098 NIS ",03/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,099 NIS ",03/04/2023
+"Air France, Aeroflot",YYZ,BKK,6h 30m ,1 stop ,"1,100 NIS ",03/04/2023
+"LOT, Aeroflot",YYZ,BKK,8h 20m ,1 stop ,"1,106 NIS ",03/04/2023
+"Air France, Aeroflot",YYZ,BKK,6h 20m ,1 stop ,"1,108 NIS ",03/04/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 15m ,1 stop ,"1,127 NIS ",03/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",03/04/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",03/04/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",03/04/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",03/04/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",03/04/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",03/04/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,199 NIS ",03/04/2023
+"Turkish Airlines, Aeroflot",YYZ,BKK,9h 20m ,1 stop ,"1,176 NIS ",03/04/2023
+KLM,YYZ,BKK,11h 15m ,1 stop ,"1,198 NIS ",03/04/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",03/04/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",03/04/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",03/04/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,198 NIS ",03/04/2023
+Finnair,YYZ,BKK,5h 35m ,1 stop ,"1,476 NIS ",03/04/2023
+Aeroflot,YYZ,BKK,7h 35m ,1 stop ,"1,622 NIS ",03/04/2023
+Aeroflot,YYZ,BKK,8h 35m ,1 stop ,"1,622 NIS ",03/04/2023
+Aeroflot,YYZ,BKK,9h 10m ,1 stop ,"1,622 NIS ",03/04/2023
+Aeroflot,YYZ,BKK,10h 05m ,1 stop ,"1,622 NIS ",03/04/2023
+Aeroflot,YYZ,BKK,11h 10m ,1 stop ,"1,622 NIS ",03/04/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,622 NIS ",03/04/2023
+"easyJet, LOT",YYZ,BKK,11h 15m ,2 stops ,763 NIS ,03/04/2023
+"Ryanair, KLM",YYZ,BKK,11h 25m ,2 stops ,781 NIS ,03/04/2023
+"easyJet, Finnair",YYZ,BKK,11h 10m ,2 stops ,794 NIS ,03/04/2023
+"easyJet, KLM",YYZ,BKK,11h 05m ,2 stops ,845 NIS ,03/04/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,8h 50m ,2 stops ,860 NIS ,03/04/2023
+"easyJet, KLM",YYZ,BKK,10h 30m ,2 stops ,862 NIS ,03/04/2023
+"Lufthansa, Aeroflot",YYZ,BKK,11h 45m ,2 stops ,884 NIS ,03/04/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,11h 55m ,2 stops ,944 NIS ,03/04/2023
+Multiple Airlines,YYZ,BKK,7h 45m ,2 stops ,954 NIS ,03/04/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,972 NIS ,03/04/2023
+"Air France, LOT",YYZ,BKK,11h 15m ,2 stops ,991 NIS ,03/04/2023
+"Air France, KLM",YYZ,BKK,10h 40m ,2 stops ,"1,001 NIS ",03/04/2023
+"Air France, KLM",YYZ,BKK,10h 40m ,2 stops ,"1,001 NIS ",03/04/2023
+"Air France, KLM",YYZ,BKK,10h 40m ,2 stops ,"1,006 NIS ",03/04/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,"1,008 NIS ",03/04/2023
+Multiple Airlines,YYZ,BKK,8h 25m ,2 stops ,"1,011 NIS ",03/04/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,622 NIS ",03/04/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,622 NIS ",03/04/2023
+"Ryanair, KLM",YYZ,BKK,15h 15m ,2 stops ,716 NIS ,03/04/2023
+Multiple Airlines,YYZ,BKK,10h 10m ,3 stops ,760 NIS ,03/04/2023
+Multiple Airlines,YYZ,BKK,12h 05m ,3 stops ,760 NIS ,03/04/2023
+Multiple Airlines,YYZ,BKK,11h 25m ,3 stops ,841 NIS ,03/04/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,951 NIS ",03/04/2023
+Multiple Airlines,YYZ,BKK,7h 40m ,2 stops ,"6,005 NIS ",03/04/2023
+Air Serbia,YYZ,BKK,6h 00m ,1 stop ,708 NIS ,04/04/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,173 NIS ",04/04/2023
+Multiple Airlines,YYZ,BKK,12h 15m ,2 stops ,519 NIS ,04/04/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,173 NIS ",04/04/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,398 NIS ",04/04/2023
+Air France,YYZ,BKK,3h 55m ,nonstop ,"1,398 NIS ",04/04/2023
+Air Serbia,YYZ,BKK,6h 00m ,1 stop ,628 NIS ,04/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,797 NIS ,04/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,808 NIS ,04/04/2023
+Air Serbia,YYZ,BKK,14h 10m ,1 stop ,628 NIS ,04/04/2023
+"Ryanair, Finnair",YYZ,BKK,8h 30m ,1 stop ,763 NIS ,04/04/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,797 NIS ,04/04/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,808 NIS ,04/04/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,888 NIS ,04/04/2023
+"Transavia France, Aeroflot",YYZ,BKK,9h 35m ,1 stop ,891 NIS ,04/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,893 NIS ,04/04/2023
+"Air France, Aeroflot",YYZ,BKK,9h 00m ,1 stop ,986 NIS ,04/04/2023
+Bulgaria Air,YYZ,BKK,7h 35m ,1 stop ,994 NIS ,04/04/2023
+Aeroflot,YYZ,BKK,5h 55m ,1 stop ,"1,020 NIS ",04/04/2023
+Aeroflot,YYZ,BKK,6h 50m ,1 stop ,"1,020 NIS ",04/04/2023
+"Air France, Aeroflot",YYZ,BKK,6h 15m ,1 stop ,"1,040 NIS ",04/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,198 NIS ",04/04/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,198 NIS ",04/04/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,198 NIS ",04/04/2023
+"Wizz Air, LOT",YYZ,BKK,14h 40m ,1 stop ,878 NIS ,04/04/2023
+"easyJet, Aeroflot",YYZ,BKK,12h 00m ,1 stop ,893 NIS ,04/04/2023
+"Ryanair, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,951 NIS ,04/04/2023
+"Air France, Aeroflot",YYZ,BKK,10h 00m ,1 stop ,"1,016 NIS ",04/04/2023
+"Transavia France, Aeroflot",YYZ,BKK,9h 50m ,1 stop ,"1,024 NIS ",04/04/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,046 NIS ",04/04/2023
+"Turkish Airlines, Nordwind Airlines",YYZ,BKK,8h 50m ,1 stop ,"1,054 NIS ",04/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 40m ,1 stop ,"1,056 NIS ",04/04/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 05m ,1 stop ,"1,056 NIS ",04/04/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,075 NIS ",04/04/2023
+"Turkish Airlines, Aeroflot",YYZ,BKK,9h 20m ,1 stop ,"1,176 NIS ",04/04/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,198 NIS ",04/04/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,198 NIS ",04/04/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,198 NIS ",04/04/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,198 NIS ",04/04/2023
+KLM,YYZ,BKK,11h 15m ,1 stop ,"1,198 NIS ",04/04/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,198 NIS ",04/04/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,198 NIS ",04/04/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,198 NIS ",04/04/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,198 NIS ",04/04/2023
+LOT,YYZ,BKK,8h 05m ,1 stop ,"1,249 NIS ",04/04/2023
+LOT,YYZ,BKK,11h 45m ,1 stop ,"1,249 NIS ",04/04/2023
+Multiple Airlines,YYZ,BKK,13h 35m ,2 stops ,521 NIS ,04/04/2023
+"easyJet, LOT",YYZ,BKK,11h 15m ,2 stops ,712 NIS ,04/04/2023
+"easyJet, Finnair",YYZ,BKK,11h 10m ,2 stops ,713 NIS ,04/04/2023
+Multiple Airlines,YYZ,BKK,9h 50m ,2 stops ,759 NIS ,04/04/2023
+Multiple Airlines,YYZ,BKK,11h 55m ,2 stops ,759 NIS ,04/04/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,11h 25m ,2 stops ,762 NIS ,04/04/2023
+Multiple Airlines,YYZ,BKK,10h 35m ,2 stops ,779 NIS ,04/04/2023
+"easyJet, Finnair",YYZ,BKK,8h 25m ,2 stops ,786 NIS ,04/04/2023
+"Transavia France, Air Serbia",YYZ,BKK,11h 50m ,2 stops ,791 NIS ,04/04/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,805 NIS ,04/04/2023
+"Blue Air, Air Serbia",YYZ,BKK,12h 55m ,2 stops ,821 NIS ,04/04/2023
+"Ryanair, LOT",YYZ,BKK,13h 45m ,1 stop ,853 NIS ,04/04/2023
+Aeroflot,YYZ,BKK,7h 55m ,1 stop ,"1,572 NIS ",04/04/2023
+Aeroflot,YYZ,BKK,8h 55m ,1 stop ,"1,572 NIS ",04/04/2023
+Aeroflot,YYZ,BKK,9h 35m ,1 stop ,"1,572 NIS ",04/04/2023
+Aeroflot,YYZ,BKK,10h 55m ,1 stop ,"1,572 NIS ",04/04/2023
+Aeroflot,YYZ,BKK,12h 15m ,1 stop ,"1,572 NIS ",04/04/2023
+Aeroflot,YYZ,BKK,13h 45m ,1 stop ,"1,572 NIS ",04/04/2023
+Aeroflot,YYZ,BKK,15h 00m ,1 stop ,"1,572 NIS ",04/04/2023
+Multiple Airlines,YYZ,BKK,10h 55m ,3 stops ,899 NIS ,04/04/2023
+Air Algerie,YYZ,BKK,12h 50m ,1 stop ,"2,791 NIS ",04/04/2023
+Air Algerie,YYZ,BKK,9h 15m ,1 stop ,"2,802 NIS ",04/04/2023
+Air Algerie,YYZ,BKK,11h 15m ,1 stop ,"2,802 NIS ",04/04/2023
+Multiple Airlines,YYZ,BKK,7h 15m ,2 stops ,"4,292 NIS ",04/04/2023
+Multiple Airlines,YYZ,BKK,7h 40m ,2 stops ,"6,005 NIS ",04/04/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"6,039 NIS ",04/04/2023
+Aeroflot,YYZ,BKK,3h 50m ,nonstop ,"1,173 NIS ",05/04/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,7h 55m ,1 stop ,620 NIS ,05/04/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,380 NIS ",05/04/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,380 NIS ",05/04/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,412 NIS ",05/04/2023
+"Air France, Nordwind Airlines",YYZ,BKK,6h 45m ,1 stop ,757 NIS ,05/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,797 NIS ,05/04/2023
+Air Serbia,YYZ,BKK,12h 30m ,1 stop ,625 NIS ,05/04/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,9h 45m ,1 stop ,636 NIS ,05/04/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,797 NIS ,05/04/2023
+"Air France, Nordwind Airlines",YYZ,BKK,9h 35m ,1 stop ,821 NIS ,05/04/2023
+Finnair,YYZ,BKK,7h 00m ,1 stop ,855 NIS ,05/04/2023
+airBaltic,YYZ,BKK,9h 40m ,1 stop ,859 NIS ,05/04/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 25m ,1 stop ,877 NIS ,05/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,882 NIS ,05/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,902 NIS ,05/04/2023
+"Transavia France, Czech Airlines",YYZ,BKK,6h 20m ,1 stop ,941 NIS ,05/04/2023
+Bulgaria Air,YYZ,BKK,7h 35m ,1 stop ,991 NIS ,05/04/2023
+"Air France, Aeroflot",YYZ,BKK,7h 05m ,1 stop ,"1,040 NIS ",05/04/2023
+"Air France, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,"1,049 NIS ",05/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,199 NIS ",05/04/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,199 NIS ",05/04/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,199 NIS ",05/04/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,12h 30m ,1 stop ,654 NIS ,05/04/2023
+Finnair,YYZ,BKK,11h 15m ,1 stop ,855 NIS ,05/04/2023
+Finnair,YYZ,BKK,14h 30m ,1 stop ,855 NIS ,05/04/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 00m ,1 stop ,882 NIS ,05/04/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 15m ,1 stop ,882 NIS ,05/04/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,893 NIS ,05/04/2023
+"Air Moldova, Aeroflot",YYZ,BKK,12h 15m ,1 stop ,952 NIS ,05/04/2023
+"Transavia France, Aeroflot",YYZ,BKK,9h 35m ,1 stop ,954 NIS ,05/04/2023
+"Air France, Aeroflot",YYZ,BKK,10h 00m ,1 stop ,"1,044 NIS ",05/04/2023
+"Air France, Aeroflot",YYZ,BKK,10h 05m ,1 stop ,"1,049 NIS ",05/04/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 50m ,1 stop ,"1,061 NIS ",05/04/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 05m ,1 stop ,"1,115 NIS ",05/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,116 NIS ",05/04/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,199 NIS ",05/04/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,199 NIS ",05/04/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,199 NIS ",05/04/2023
+KLM,YYZ,BKK,11h 15m ,1 stop ,"1,199 NIS ",05/04/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,199 NIS ",05/04/2023
+LOT,YYZ,BKK,8h 05m ,1 stop ,"1,246 NIS ",05/04/2023
+LOT,YYZ,BKK,11h 45m ,1 stop ,"1,246 NIS ",05/04/2023
+"Transavia France, LOT",YYZ,BKK,11h 40m ,2 stops ,651 NIS ,05/04/2023
+Multiple Airlines,YYZ,BKK,14h 10m ,2 stops ,722 NIS ,05/04/2023
+"Transavia France, Finnair",YYZ,BKK,11h 35m ,2 stops ,758 NIS ,05/04/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,805 NIS ,05/04/2023
+"Transavia France, Aeroflot",YYZ,BKK,11h 25m ,2 stops ,815 NIS ,05/04/2023
+"easyJet, Finnair",YYZ,BKK,11h 10m ,2 stops ,830 NIS ,05/04/2023
+Multiple Airlines,YYZ,BKK,11h 10m ,2 stops ,882 NIS ,05/04/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,9h 15m ,2 stops ,905 NIS ,05/04/2023
+"KLM, Nordwind Airlines",YYZ,BKK,9h 10m ,2 stops ,986 NIS ,05/04/2023
+"KLM, Nordwind Airlines",YYZ,BKK,10h 25m ,2 stops ,986 NIS ,05/04/2023
+"Air France, KLM",YYZ,BKK,10h 40m ,2 stops ,"1,005 NIS ",05/04/2023
+"Air France, KLM",YYZ,BKK,10h 40m ,2 stops ,"1,005 NIS ",05/04/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,"1,008 NIS ",05/04/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,"1,008 NIS ",05/04/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 00m ,2 stops ,"1,060 NIS ",05/04/2023
+"Lufthansa, Aeroflot",YYZ,BKK,8h 15m ,2 stops ,"1,144 NIS ",05/04/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,199 NIS ",05/04/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,199 NIS ",05/04/2023
+Aeroflot,YYZ,BKK,7h 35m ,1 stop ,"1,742 NIS ",05/04/2023
+Aeroflot,YYZ,BKK,8h 35m ,1 stop ,"1,742 NIS ",05/04/2023
+Aeroflot,YYZ,BKK,9h 10m ,1 stop ,"1,742 NIS ",05/04/2023
+Aeroflot,YYZ,BKK,10h 05m ,1 stop ,"1,742 NIS ",05/04/2023
+Aeroflot,YYZ,BKK,11h 10m ,1 stop ,"1,742 NIS ",05/04/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,742 NIS ",05/04/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,742 NIS ",05/04/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,742 NIS ",05/04/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"6,101 NIS ",05/04/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,708 NIS ,06/04/2023
+Aeroflot,YYZ,BKK,3h 50m ,nonstop ,"1,173 NIS ",06/04/2023
+Multiple Airlines,YYZ,BKK,14h 40m ,2 stops ,582 NIS ,06/04/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,695 NIS ",06/04/2023
+Air France,YYZ,BKK,3h 55m ,nonstop ,"1,695 NIS ",06/04/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,607 NIS ,06/04/2023
+"Ryanair, airBaltic",YYZ,BKK,10h 35m ,1 stop ,648 NIS ,06/04/2023
+"Ryanair, Aeroflot",YYZ,BKK,6h 00m ,1 stop ,722 NIS ,06/04/2023
+"HiSky, Aeroflot",YYZ,BKK,11h 50m ,1 stop ,752 NIS ,06/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,797 NIS ,06/04/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,797 NIS ,06/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,802 NIS ,06/04/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,802 NIS ,06/04/2023
+Bulgaria Air,YYZ,BKK,6h 55m ,1 stop ,990 NIS ,06/04/2023
+Aeroflot,YYZ,BKK,5h 55m ,1 stop ,"1,022 NIS ",06/04/2023
+"Ryanair, Czech Airlines",YYZ,BKK,14h 50m ,1 stop ,822 NIS ,06/04/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 10m ,1 stop ,867 NIS ,06/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 40m ,1 stop ,880 NIS ,06/04/2023
+"Ryanair, Aeroflot",YYZ,BKK,11h 20m ,1 stop ,920 NIS ,06/04/2023
+"Ryanair, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,945 NIS ,06/04/2023
+Aeroflot,YYZ,BKK,6h 50m ,1 stop ,"1,037 NIS ",06/04/2023
+Aeroflot,YYZ,BKK,7h 55m ,1 stop ,"1,037 NIS ",06/04/2023
+Aeroflot,YYZ,BKK,9h 35m ,1 stop ,"1,037 NIS ",06/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,197 NIS ",06/04/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,197 NIS ",06/04/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,197 NIS ",06/04/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,197 NIS ",06/04/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,197 NIS ",06/04/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,197 NIS ",06/04/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,197 NIS ",06/04/2023
+"Wizz Air, LOT",YYZ,BKK,14h 40m ,1 stop ,870 NIS ,06/04/2023
+KLM,YYZ,BKK,11h 15m ,1 stop ,"1,197 NIS ",06/04/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,197 NIS ",06/04/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,197 NIS ",06/04/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,197 NIS ",06/04/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,197 NIS ",06/04/2023
+LOT,YYZ,BKK,8h 20m ,1 stop ,"1,470 NIS ",06/04/2023
+Aeroflot,YYZ,BKK,8h 55m ,1 stop ,"1,563 NIS ",06/04/2023
+Aeroflot,YYZ,BKK,10h 55m ,1 stop ,"1,563 NIS ",06/04/2023
+"Ryanair, LOT",YYZ,BKK,13h 25m ,2 stops ,602 NIS ,06/04/2023
+"Vueling, LOT",YYZ,BKK,9h 15m ,2 stops ,642 NIS ,06/04/2023
+"Pegasus Airlines, Nordwind Airlines",YYZ,BKK,12h 10m ,2 stops ,697 NIS ,06/04/2023
+"Air France, LOT",YYZ,BKK,8h 50m ,2 stops ,795 NIS ,06/04/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,805 NIS ,06/04/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,9h 00m ,2 stops ,"1,002 NIS ",06/04/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,"1,008 NIS ",06/04/2023
+"SWISS, Aeroflot",YYZ,BKK,9h 35m ,2 stops ,"1,028 NIS ",06/04/2023
+"SWISS, Aeroflot",YYZ,BKK,8h 30m ,2 stops ,"1,039 NIS ",06/04/2023
+"Lufthansa, Aeroflot",YYZ,BKK,8h 15m ,2 stops ,"1,051 NIS ",06/04/2023
+"Lufthansa, Aeroflot",YYZ,BKK,9h 20m ,2 stops ,"1,051 NIS ",06/04/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,"1,063 NIS ",06/04/2023
+Aeroflot,YYZ,BKK,12h 15m ,1 stop ,"1,563 NIS ",06/04/2023
+Aeroflot,YYZ,BKK,13h 45m ,1 stop ,"1,563 NIS ",06/04/2023
+Aeroflot,YYZ,BKK,15h 00m ,1 stop ,"1,563 NIS ",06/04/2023
+Multiple Airlines,YYZ,BKK,13h 15m ,2 stops ,593 NIS ,06/04/2023
+Multiple Airlines,YYZ,BKK,14h 35m ,2 stops ,593 NIS ,06/04/2023
+Multiple Airlines,YYZ,BKK,14h 05m ,3 stops ,787 NIS ,06/04/2023
+Multiple Airlines,YYZ,BKK,13h 35m ,3 stops ,800 NIS ,06/04/2023
+Multiple Airlines,YYZ,BKK,12h 20m ,3 stops ,870 NIS ,06/04/2023
+Multiple Airlines,YYZ,BKK,7h 15m ,2 stops ,"4,285 NIS ",06/04/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"5,953 NIS ",06/04/2023
+Brussels Airlines,YYZ,BKK,26h 00m ,2 stops ,"12,303 NIS ",06/04/2023
+"MEA, Aeroflot",YYZ,BKK,10h 35m ,1 stop ,"14,010 NIS ",06/04/2023
+"MEA, Aeroflot",YYZ,BKK,14h 05m ,1 stop ,"14,010 NIS ",06/04/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,309 NIS ",07/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,07/04/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,390 NIS ",07/04/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,390 NIS ",07/04/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,459 NIS ",07/04/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,801 NIS ,07/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,802 NIS ,07/04/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,07/04/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,802 NIS ,07/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,912 NIS ,07/04/2023
+"Ryanair, Aeroflot",YYZ,BKK,6h 50m ,1 stop ,948 NIS ,07/04/2023
+Bulgaria Air,YYZ,BKK,6h 55m ,1 stop ,990 NIS ,07/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,197 NIS ",07/04/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,197 NIS ",07/04/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,197 NIS ",07/04/2023
+"Ryanair, Aeroflot",YYZ,BKK,8h 50m ,1 stop ,"1,019 NIS ",07/04/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,038 NIS ",07/04/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,057 NIS ",07/04/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 05m ,1 stop ,"1,085 NIS ",07/04/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,095 NIS ",07/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,096 NIS ",07/04/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 35m ,1 stop ,"1,101 NIS ",07/04/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,197 NIS ",07/04/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,197 NIS ",07/04/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,197 NIS ",07/04/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,197 NIS ",07/04/2023
+KLM,YYZ,BKK,11h 15m ,1 stop ,"1,197 NIS ",07/04/2023
+LOT,YYZ,BKK,8h 20m ,1 stop ,"1,243 NIS ",07/04/2023
+"easyJet, LOT",YYZ,BKK,11h 15m ,2 stops ,655 NIS ,07/04/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,773 NIS ,07/04/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,773 NIS ,07/04/2023
+"Transavia France, KLM",YYZ,BKK,11h 00m ,2 stops ,778 NIS ,07/04/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,791 NIS ,07/04/2023
+"Ryanair, KLM",YYZ,BKK,9h 25m ,2 stops ,819 NIS ,07/04/2023
+"easyJet, LOT",YYZ,BKK,10h 55m ,2 stops ,828 NIS ,07/04/2023
+"easyJet, LOT",YYZ,BKK,11h 15m ,2 stops ,828 NIS ,07/04/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,830 NIS ,07/04/2023
+"easyJet, KLM",YYZ,BKK,11h 05m ,2 stops ,852 NIS ,07/04/2023
+"Wizz Air, LOT",YYZ,BKK,14h 40m ,1 stop ,879 NIS ,07/04/2023
+"Air France, KLM",YYZ,BKK,9h 25m ,2 stops ,905 NIS ,07/04/2023
+"Vueling, LOT",YYZ,BKK,11h 20m ,2 stops ,932 NIS ,07/04/2023
+"Wizz Air, Aeroflot",YYZ,BKK,13h 00m ,1 stop ,"1,055 NIS ",07/04/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,197 NIS ",07/04/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,197 NIS ",07/04/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,197 NIS ",07/04/2023
+Aeroflot,YYZ,BKK,8h 35m ,1 stop ,"1,613 NIS ",07/04/2023
+Aeroflot,YYZ,BKK,9h 10m ,1 stop ,"1,613 NIS ",07/04/2023
+Aeroflot,YYZ,BKK,10h 05m ,1 stop ,"1,613 NIS ",07/04/2023
+Aeroflot,YYZ,BKK,11h 10m ,1 stop ,"1,613 NIS ",07/04/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,613 NIS ",07/04/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,613 NIS ",07/04/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,613 NIS ",07/04/2023
+"Vueling, KLM",YYZ,BKK,11h 45m ,2 stops ,849 NIS ,07/04/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,953 NIS ",07/04/2023
+Air Serbia,YYZ,BKK,6h 15m ,1 stop ,708 NIS ,08/04/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,222 NIS ",08/04/2023
+Air Serbia,YYZ,BKK,6h 15m ,1 stop ,626 NIS ,08/04/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,283 NIS ",08/04/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,386 NIS ",08/04/2023
+Air France,YYZ,BKK,3h 55m ,nonstop ,"1,695 NIS ",08/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,797 NIS ,08/04/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,797 NIS ,08/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,802 NIS ,08/04/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,802 NIS ,08/04/2023
+"airBaltic, Aeroflot",YYZ,BKK,7h 25m ,1 stop ,833 NIS ,08/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,886 NIS ,08/04/2023
+"Air Moldova, Aeroflot",YYZ,BKK,12h 15m ,1 stop ,969 NIS ,08/04/2023
+"Ryanair, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,997 NIS ,08/04/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,"1,080 NIS ",08/04/2023
+"Vueling, Aeroflot",YYZ,BKK,7h 20m ,1 stop ,"1,098 NIS ",08/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,197 NIS ",08/04/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,197 NIS ",08/04/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,197 NIS ",08/04/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,197 NIS ",08/04/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,197 NIS ",08/04/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,197 NIS ",08/04/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,197 NIS ",08/04/2023
+"Wizz Air, Air Serbia",YYZ,BKK,14h 10m ,1 stop ,"1,063 NIS ",08/04/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 05m ,1 stop ,"1,085 NIS ",08/04/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,160 NIS ",08/04/2023
+KLM,YYZ,BKK,11h 15m ,1 stop ,"1,197 NIS ",08/04/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,197 NIS ",08/04/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,197 NIS ",08/04/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,197 NIS ",08/04/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,197 NIS ",08/04/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,791 NIS ,08/04/2023
+"easyJet, Air Serbia",YYZ,BKK,10h 45m ,2 stops ,860 NIS ,08/04/2023
+"easyJet, KLM",YYZ,BKK,12h 55m ,2 stops ,872 NIS ,08/04/2023
+"Air France, KLM",YYZ,BKK,9h 25m ,2 stops ,905 NIS ,08/04/2023
+"easyJet, KLM",YYZ,BKK,11h 05m ,2 stops ,920 NIS ,08/04/2023
+"easyJet, LOT",YYZ,BKK,11h 35m ,2 stops ,954 NIS ,08/04/2023
+"Air France, KLM",YYZ,BKK,10h 25m ,2 stops ,962 NIS ,08/04/2023
+"Air France, KLM",YYZ,BKK,11h 25m ,2 stops ,962 NIS ,08/04/2023
+"Ryanair, Aeroflot",YYZ,BKK,11h 55m ,1 stop ,964 NIS ,08/04/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,"1,024 NIS ",08/04/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,"1,024 NIS ",08/04/2023
+"Air France, KLM",YYZ,BKK,11h 30m ,2 stops ,"1,058 NIS ",08/04/2023
+"Air France, KLM",YYZ,BKK,10h 45m ,2 stops ,"1,064 NIS ",08/04/2023
+"Ryanair, KLM",YYZ,BKK,15h 15m ,2 stops ,719 NIS ,08/04/2023
+"Ryanair, KLM",YYZ,BKK,14h 30m ,2 stops ,776 NIS ,08/04/2023
+"Vueling, KLM",YYZ,BKK,11h 40m ,2 stops ,849 NIS ,08/04/2023
+Multiple Airlines,YYZ,BKK,7h 15m ,2 stops ,"4,285 NIS ",08/04/2023
+"SWISS, Aeroflot",YYZ,BKK,9h 40m ,1 stop ,"5,857 NIS ",08/04/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,953 NIS ",08/04/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,708 NIS ,09/04/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,246 NIS ",09/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,09/04/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,309 NIS ",09/04/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,383 NIS ",09/04/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,735 NIS ",09/04/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,09/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,802 NIS ,09/04/2023
+airBaltic,YYZ,BKK,13h 25m ,1 stop ,607 NIS ,09/04/2023
+"Ryanair, airBaltic",YYZ,BKK,10h 30m ,1 stop ,659 NIS ,09/04/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,802 NIS ,09/04/2023
+Bulgaria Air,YYZ,BKK,6h 55m ,1 stop ,990 NIS ,09/04/2023
+"Ryanair, Aeroflot",YYZ,BKK,8h 50m ,1 stop ,973 NIS ,09/04/2023
+"Turkish Airlines, Nordwind Airlines",YYZ,BKK,8h 50m ,1 stop ,"1,012 NIS ",09/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,"1,025 NIS ",09/04/2023
+"Vueling, Aeroflot",YYZ,BKK,10h 15m ,1 stop ,"1,032 NIS ",09/04/2023
+"Transavia France, Aeroflot",YYZ,BKK,9h 50m ,1 stop ,"1,035 NIS ",09/04/2023
+"Transavia France, Aeroflot",YYZ,BKK,10h 00m ,1 stop ,"1,041 NIS ",09/04/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,047 NIS ",09/04/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 05m ,1 stop ,"1,092 NIS ",09/04/2023
+"TAP AIR PORTUGAL, Aeroflot",YYZ,BKK,10h 35m ,1 stop ,"1,111 NIS ",09/04/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,"1,125 NIS ",09/04/2023
+"Turkish Airlines, Aeroflot",YYZ,BKK,9h 20m ,1 stop ,"1,176 NIS ",09/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,197 NIS ",09/04/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,197 NIS ",09/04/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,197 NIS ",09/04/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,197 NIS ",09/04/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,197 NIS ",09/04/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,197 NIS ",09/04/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,197 NIS ",09/04/2023
+KLM,YYZ,BKK,11h 15m ,1 stop ,"1,197 NIS ",09/04/2023
+"Wizz Air, LOT",YYZ,BKK,14h 40m ,1 stop ,960 NIS ,09/04/2023
+"Turkish Airlines, Aeroflot",YYZ,BKK,10h 10m ,1 stop ,"1,176 NIS ",09/04/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,197 NIS ",09/04/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,197 NIS ",09/04/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,197 NIS ",09/04/2023
+Multiple Airlines,YYZ,BKK,12h 15m ,2 stops ,608 NIS ,09/04/2023
+Multiple Airlines,YYZ,BKK,13h 35m ,2 stops ,610 NIS ,09/04/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,698 NIS ,09/04/2023
+"Norwegian, LOT",YYZ,BKK,13h 45m ,2 stops ,722 NIS ,09/04/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,771 NIS ,09/04/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,771 NIS ,09/04/2023
+"easyJet, KLM",YYZ,BKK,10h 30m ,2 stops ,860 NIS ,09/04/2023
+"easyJet, KLM",YYZ,BKK,11h 05m ,2 stops ,864 NIS ,09/04/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,868 NIS ,09/04/2023
+"easyJet, airBaltic",YYZ,BKK,11h 30m ,2 stops ,953 NIS ,09/04/2023
+"Air France, KLM",YYZ,BKK,11h 10m ,2 stops ,"1,002 NIS ",09/04/2023
+"Vueling, LOT",YYZ,BKK,11h 45m ,2 stops ,"1,010 NIS ",09/04/2023
+"Air France, KLM",YYZ,BKK,9h 25m ,2 stops ,"1,085 NIS ",09/04/2023
+airBaltic,YYZ,BKK,13h 15m ,2 stops ,"1,109 NIS ",09/04/2023
+Multiple Airlines,YYZ,BKK,12h 45m ,3 stops ,836 NIS ,09/04/2023
+"Vueling, KLM",YYZ,BKK,10h 40m ,2 stops ,870 NIS ,09/04/2023
+"Air France, airBaltic",YYZ,BKK,10h 55m ,3 stops ,"1,109 NIS ",09/04/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"5,953 NIS ",09/04/2023
+Air Serbia,YYZ,BKK,14h 10m ,1 stop ,708 NIS ,10/04/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,191 NIS ",10/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,10/04/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,390 NIS ",10/04/2023
+Air France,YYZ,BKK,3h 55m ,nonstop ,"1,390 NIS ",10/04/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,626 NIS ,10/04/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,10/04/2023
+airBaltic,YYZ,BKK,7h 25m ,1 stop ,858 NIS ,10/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,876 NIS ,10/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,891 NIS ,10/04/2023
+"Air France, Aeroflot",YYZ,BKK,7h 05m ,1 stop ,"1,050 NIS ",10/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,197 NIS ",10/04/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,197 NIS ",10/04/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,197 NIS ",10/04/2023
+Air Serbia,YYZ,BKK,14h 10m ,1 stop ,626 NIS ,10/04/2023
+"HiSky, Aeroflot",YYZ,BKK,11h 50m ,1 stop ,765 NIS ,10/04/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,802 NIS ,10/04/2023
+"Transavia France, Aeroflot",YYZ,BKK,8h 30m ,1 stop ,981 NIS ,10/04/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,029 NIS ",10/04/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,041 NIS ",10/04/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,071 NIS ",10/04/2023
+"LOT, Aeroflot",YYZ,BKK,8h 20m ,1 stop ,"1,079 NIS ",10/04/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 10m ,1 stop ,"1,080 NIS ",10/04/2023
+"Air France, Aeroflot",YYZ,BKK,10h 00m ,1 stop ,"1,097 NIS ",10/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,109 NIS ",10/04/2023
+"easyJet, Aeroflot",YYZ,BKK,6h 15m ,1 stop ,"1,117 NIS ",10/04/2023
+"Turkish Airlines, Aeroflot",YYZ,BKK,9h 20m ,1 stop ,"1,176 NIS ",10/04/2023
+"Turkish Airlines, Aeroflot",YYZ,BKK,10h 10m ,1 stop ,"1,176 NIS ",10/04/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,197 NIS ",10/04/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,197 NIS ",10/04/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,197 NIS ",10/04/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,197 NIS ",10/04/2023
+KLM,YYZ,BKK,11h 15m ,1 stop ,"1,197 NIS ",10/04/2023
+"easyJet, LOT",YYZ,BKK,11h 15m ,2 stops ,678 NIS ,10/04/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,698 NIS ,10/04/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,773 NIS ,10/04/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,773 NIS ,10/04/2023
+"Finnair, Pobeda",YYZ,BKK,8h 30m ,2 stops ,789 NIS ,10/04/2023
+"easyJet, KLM",YYZ,BKK,12h 55m ,2 stops ,855 NIS ,10/04/2023
+"easyJet, KLM",YYZ,BKK,10h 30m ,2 stops ,865 NIS ,10/04/2023
+"easyJet, KLM",YYZ,BKK,11h 05m ,2 stops ,882 NIS ,10/04/2023
+"Norwegian, KLM",YYZ,BKK,12h 20m ,2 stops ,969 NIS ,10/04/2023
+Multiple Airlines,YYZ,BKK,7h 45m ,2 stops ,970 NIS ,10/04/2023
+"Wizz Air, LOT",YYZ,BKK,9h 20m ,2 stops ,989 NIS ,10/04/2023
+Multiple Airlines,YYZ,BKK,8h 25m ,2 stops ,"1,006 NIS ",10/04/2023
+"Vueling, LOT",YYZ,BKK,11h 15m ,2 stops ,"1,006 NIS ",10/04/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,197 NIS ",10/04/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,197 NIS ",10/04/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,197 NIS ",10/04/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,197 NIS ",10/04/2023
+Aeroflot,YYZ,BKK,7h 35m ,1 stop ,"1,616 NIS ",10/04/2023
+Aeroflot,YYZ,BKK,8h 35m ,1 stop ,"1,616 NIS ",10/04/2023
+Aeroflot,YYZ,BKK,9h 10m ,1 stop ,"1,616 NIS ",10/04/2023
+Aeroflot,YYZ,BKK,10h 05m ,1 stop ,"1,616 NIS ",10/04/2023
+Aeroflot,YYZ,BKK,11h 10m ,1 stop ,"1,616 NIS ",10/04/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,616 NIS ",10/04/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,616 NIS ",10/04/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,616 NIS ",10/04/2023
+"Vueling, KLM",YYZ,BKK,11h 45m ,2 stops ,829 NIS ,10/04/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,953 NIS ",10/04/2023
+Air Serbia,YYZ,BKK,6h 00m ,1 stop ,708 NIS ,11/04/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,191 NIS ",11/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,11/04/2023
+Aeroflot,YYZ,BKK,4h 10m ,nonstop ,"1,191 NIS ",11/04/2023
+Aeroflot,YYZ,BKK,3h 45m ,nonstop ,"1,275 NIS ",11/04/2023
+Aeroflot,YYZ,BKK,3h 55m ,nonstop ,"1,301 NIS ",11/04/2023
+Air Serbia,YYZ,BKK,6h 00m ,1 stop ,626 NIS ,11/04/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,632 NIS ,11/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,802 NIS ,11/04/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,802 NIS ,11/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,931 NIS ,11/04/2023
+Bulgaria Air,YYZ,BKK,7h 35m ,1 stop ,990 NIS ,11/04/2023
+Aeroflot,YYZ,BKK,5h 55m ,1 stop ,"1,037 NIS ",11/04/2023
+Aeroflot,YYZ,BKK,6h 50m ,1 stop ,"1,037 NIS ",11/04/2023
+Aeroflot,YYZ,BKK,7h 55m ,1 stop ,"1,037 NIS ",11/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,197 NIS ",11/04/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,197 NIS ",11/04/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,197 NIS ",11/04/2023
+Air Serbia,YYZ,BKK,14h 10m ,1 stop ,626 NIS ,11/04/2023
+"Transavia France, Aeroflot",YYZ,BKK,9h 35m ,1 stop ,851 NIS ,11/04/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 55m ,1 stop ,898 NIS ,11/04/2023
+Aeroflot,YYZ,BKK,10h 55m ,1 stop ,956 NIS ,11/04/2023
+"Ryanair, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,964 NIS ,11/04/2023
+"Transavia France, Aeroflot",YYZ,BKK,9h 50m ,1 stop ,"1,007 NIS ",11/04/2023
+"Vueling, Aeroflot",YYZ,BKK,9h 05m ,1 stop ,"1,022 NIS ",11/04/2023
+Aeroflot,YYZ,BKK,9h 35m ,1 stop ,"1,037 NIS ",11/04/2023
+"Turkish Airlines, Nordwind Airlines",YYZ,BKK,8h 50m ,1 stop ,"1,050 NIS ",11/04/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,057 NIS ",11/04/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 00m ,1 stop ,"1,062 NIS ",11/04/2023
+"easyJet, Aeroflot",YYZ,BKK,9h 15m ,1 stop ,"1,065 NIS ",11/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,096 NIS ",11/04/2023
+"Air France, Aeroflot",YYZ,BKK,7h 35m ,1 stop ,"1,136 NIS ",11/04/2023
+"Air France, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,136 NIS ",11/04/2023
+"Air France, Aeroflot",YYZ,BKK,9h 10m ,1 stop ,"1,136 NIS ",11/04/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,197 NIS ",11/04/2023
+KLM,YYZ,BKK,7h 00m ,1 stop ,"1,197 NIS ",11/04/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,197 NIS ",11/04/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,197 NIS ",11/04/2023
+KLM,YYZ,BKK,11h 15m ,1 stop ,"1,197 NIS ",11/04/2023
+LOT,YYZ,BKK,8h 05m ,1 stop ,"1,243 NIS ",11/04/2023
+Multiple Airlines,YYZ,BKK,12h 15m ,2 stops ,595 NIS ,11/04/2023
+Multiple Airlines,YYZ,BKK,13h 35m ,2 stops ,595 NIS ,11/04/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,698 NIS ,11/04/2023
+"Ryanair, KLM",YYZ,BKK,10h 15m ,2 stops ,705 NIS ,11/04/2023
+"Ryanair, LOT",YYZ,BKK,13h 45m ,1 stop ,862 NIS ,11/04/2023
+"Wizz Air, LOT",YYZ,BKK,13h 00m ,2 stops ,963 NIS ,11/04/2023
+"Wizz Air, LOT",YYZ,BKK,14h 40m ,1 stop ,968 NIS ,11/04/2023
+"Wizz Air, LOT",YYZ,BKK,9h 20m ,2 stops ,989 NIS ,11/04/2023
+"Ryanair, Air Serbia",YYZ,BKK,10h 45m ,2 stops ,"1,025 NIS ",11/04/2023
+"SWISS, Aeroflot",YYZ,BKK,9h 35m ,2 stops ,"1,028 NIS ",11/04/2023
+"SWISS, Aeroflot",YYZ,BKK,10h 35m ,2 stops ,"1,028 NIS ",11/04/2023
+"SWISS, Aeroflot",YYZ,BKK,8h 30m ,2 stops ,"1,032 NIS ",11/04/2023
+"Lufthansa, Aeroflot",YYZ,BKK,8h 15m ,2 stops ,"1,051 NIS ",11/04/2023
+"Lufthansa, Aeroflot",YYZ,BKK,9h 20m ,2 stops ,"1,051 NIS ",11/04/2023
+"SWISS, Pobeda",YYZ,BKK,8h 40m ,2 stops ,"1,072 NIS ",11/04/2023
+"Air France, KLM",YYZ,BKK,9h 25m ,2 stops ,"1,119 NIS ",11/04/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,197 NIS ",11/04/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,197 NIS ",11/04/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,197 NIS ",11/04/2023
+KLM,YYZ,BKK,14h 50m ,1 stop ,"1,197 NIS ",11/04/2023
+LOT,YYZ,BKK,11h 45m ,1 stop ,"1,243 NIS ",11/04/2023
+Aeroflot,YYZ,BKK,8h 55m ,1 stop ,"1,566 NIS ",11/04/2023
+Aeroflot,YYZ,BKK,12h 15m ,1 stop ,"1,566 NIS ",11/04/2023
+Aeroflot,YYZ,BKK,13h 45m ,1 stop ,"1,566 NIS ",11/04/2023
+Aeroflot,YYZ,BKK,15h 00m ,1 stop ,"1,566 NIS ",11/04/2023
+Air Algerie,YYZ,BKK,12h 50m ,1 stop ,"2,784 NIS ",11/04/2023
+Air Algerie,YYZ,BKK,9h 15m ,1 stop ,"2,795 NIS ",11/04/2023
+Air Algerie,YYZ,BKK,11h 15m ,1 stop ,"2,795 NIS ",11/04/2023
+"SWISS, LOT",YYZ,BKK,8h 55m ,2 stops ,"4,087 NIS ",11/04/2023
+Multiple Airlines,YYZ,BKK,7h 15m ,2 stops ,"4,287 NIS ",11/04/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"6,042 NIS ",11/04/2023
+Aeroflot,YYZ,BKK,3h 50m ,nonstop ,"1,191 NIS ",12/04/2023
+Finnair,YYZ,BKK,7h 00m ,1 stop ,547 NIS ,12/04/2023
+Aeroflot,YYZ,BKK,3h 35m ,nonstop ,"1,600 NIS ",12/04/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,695 NIS ",12/04/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,746 NIS ",12/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,12/04/2023
+Finnair,YYZ,BKK,11h 15m ,1 stop ,547 NIS ,12/04/2023
+Finnair,YYZ,BKK,10h 35m ,1 stop ,589 NIS ,12/04/2023
+Air Serbia,YYZ,BKK,12h 30m ,1 stop ,626 NIS ,12/04/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,7h 55m ,1 stop ,630 NIS ,12/04/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,9h 45m ,1 stop ,664 NIS ,12/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 15m ,1 stop ,896 NIS ,12/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,902 NIS ,12/04/2023
+"Transavia France, Czech Airlines",YYZ,BKK,6h 20m ,1 stop ,926 NIS ,12/04/2023
+"Air France, Nordwind Airlines",YYZ,BKK,6h 45m ,1 stop ,946 NIS ,12/04/2023
+Bulgaria Air,YYZ,BKK,7h 35m ,1 stop ,990 NIS ,12/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,197 NIS ",12/04/2023
+Finnair,YYZ,BKK,14h 30m ,1 stop ,547 NIS ,12/04/2023
+Finnair,YYZ,BKK,16h 05m ,1 stop ,547 NIS ,12/04/2023
+"easyJet, Nordwind Airlines",YYZ,BKK,12h 30m ,1 stop ,664 NIS ,12/04/2023
+airBaltic,YYZ,BKK,9h 40m ,1 stop ,858 NIS ,12/04/2023
+LOT,YYZ,BKK,11h 10m ,1 stop ,891 NIS ,12/04/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 25m ,1 stop ,896 NIS ,12/04/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 00m ,1 stop ,896 NIS ,12/04/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 15m ,1 stop ,896 NIS ,12/04/2023
+"Transavia France, Aeroflot",YYZ,BKK,9h 35m ,1 stop ,955 NIS ,12/04/2023
+"Air Moldova, Aeroflot",YYZ,BKK,12h 15m ,1 stop ,969 NIS ,12/04/2023
+"easyJet, Aeroflot",YYZ,BKK,10h 35m ,1 stop ,"1,024 NIS ",12/04/2023
+"Lufthansa, Aeroflot",YYZ,BKK,9h 00m ,1 stop ,"1,034 NIS ",12/04/2023
+"Vueling, Aeroflot",YYZ,BKK,8h 50m ,1 stop ,"1,048 NIS ",12/04/2023
+"easyJet, Aeroflot",YYZ,BKK,7h 00m ,1 stop ,"1,056 NIS ",12/04/2023
+"easyJet, Aeroflot",YYZ,BKK,8h 40m ,1 stop ,"1,056 NIS ",12/04/2023
+"Air France, Aeroflot",YYZ,BKK,7h 35m ,1 stop ,"1,142 NIS ",12/04/2023
+"Air France, Aeroflot",YYZ,BKK,8h 35m ,1 stop ,"1,142 NIS ",12/04/2023
+KLM,YYZ,BKK,5h 30m ,1 stop ,"1,197 NIS ",12/04/2023
+KLM,YYZ,BKK,5h 55m ,1 stop ,"1,197 NIS ",12/04/2023
+KLM,YYZ,BKK,6h 55m ,1 stop ,"1,197 NIS ",12/04/2023
+KLM,YYZ,BKK,7h 50m ,1 stop ,"1,197 NIS ",12/04/2023
+KLM,YYZ,BKK,9h 25m ,1 stop ,"1,197 NIS ",12/04/2023
+LOT,YYZ,BKK,8h 05m ,1 stop ,"1,243 NIS ",12/04/2023
+"Pegasus Airlines, Aeroflot",YYZ,BKK,12h 00m ,2 stops ,735 NIS ,12/04/2023
+"Finnair, Aeroflot",YYZ,BKK,8h 20m ,2 stops ,771 NIS ,12/04/2023
+"Finnair, Pobeda",YYZ,BKK,10h 10m ,2 stops ,789 NIS ,12/04/2023
+"Finnair, Aeroflot",YYZ,BKK,9h 25m ,2 stops ,857 NIS ,12/04/2023
+"Lufthansa, Nordwind Airlines",YYZ,BKK,9h 15m ,2 stops ,903 NIS ,12/04/2023
+"Air France, KLM",YYZ,BKK,10h 25m ,2 stops ,963 NIS ,12/04/2023
+"Wizz Air, LOT",YYZ,BKK,9h 20m ,2 stops ,978 NIS ,12/04/2023
+KLM,YYZ,BKK,11h 15m ,1 stop ,"1,197 NIS ",12/04/2023
+KLM,YYZ,BKK,12h 10m ,1 stop ,"1,197 NIS ",12/04/2023
+KLM,YYZ,BKK,13h 35m ,1 stop ,"1,197 NIS ",12/04/2023
+KLM,YYZ,BKK,14h 25m ,1 stop ,"1,197 NIS ",12/04/2023
+LOT,YYZ,BKK,11h 45m ,1 stop ,"1,243 NIS ",12/04/2023
+Aeroflot,YYZ,BKK,9h 10m ,1 stop ,"1,616 NIS ",12/04/2023
+Aeroflot,YYZ,BKK,10h 05m ,1 stop ,"1,616 NIS ",12/04/2023
+Aeroflot,YYZ,BKK,11h 10m ,1 stop ,"1,616 NIS ",12/04/2023
+Aeroflot,YYZ,BKK,12h 10m ,1 stop ,"1,616 NIS ",12/04/2023
+Aeroflot,YYZ,BKK,12h 50m ,1 stop ,"1,616 NIS ",12/04/2023
+Aeroflot,YYZ,BKK,14h 10m ,1 stop ,"1,616 NIS ",12/04/2023
+"Air France, airBaltic",YYZ,BKK,12h 40m ,2 stops ,"1,738 NIS ",12/04/2023
+"SWISS, LOT",YYZ,BKK,8h 55m ,2 stops ,"4,087 NIS ",12/04/2023
+"SWISS, LOT",YYZ,BKK,8h 20m ,2 stops ,"4,124 NIS ",12/04/2023
+"Lufthansa, airBaltic",YYZ,BKK,9h 35m ,2 stops ,"4,191 NIS ",12/04/2023
+"Lufthansa, airBaltic",YYZ,BKK,8h 30m ,2 stops ,"4,196 NIS ",12/04/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"6,101 NIS ",12/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,632 NIS ,13/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,893 NIS ,13/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,232 NIS ",13/04/2023
+Air Serbia,YYZ,BKK,20h 10m ,1 stop ,824 NIS ,13/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,14/04/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,824 NIS ,14/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,232 NIS ",14/04/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"6,075 NIS ",14/04/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,495 NIS ",15/04/2023
+Air France,YYZ,BKK,3h 55m ,nonstop ,"1,495 NIS ",15/04/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,517 NIS ",15/04/2023
+Air France,YYZ,BKK,4h 10m ,nonstop ,"1,517 NIS ",15/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,884 NIS ,15/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,232 NIS ",15/04/2023
+Air Serbia,YYZ,BKK,20h 10m ,1 stop ,651 NIS ,16/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,232 NIS ",16/04/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"6,075 NIS ",16/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,17/04/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,651 NIS ,17/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,232 NIS ",17/04/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"6,075 NIS ",17/04/2023
+Brussels Airlines,YYZ,BKK,26h 00m ,2 stops ,"12,303 NIS ",17/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,18/04/2023
+Air Serbia,YYZ,BKK,6h 00m ,1 stop ,651 NIS ,18/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,893 NIS ,18/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,232 NIS ",18/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,232 NIS ",19/04/2023
+Air Serbia,YYZ,BKK,23h 30m ,1 stop ,651 NIS ,19/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,232 NIS ",20/04/2023
+Air Serbia,YYZ,BKK,20h 10m ,1 stop ,824 NIS ,20/04/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"6,075 NIS ",20/04/2023
+Brussels Airlines,YYZ,BKK,26h 00m ,2 stops ,"12,303 NIS ",20/04/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,824 NIS ,21/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,893 NIS ,21/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,232 NIS ",21/04/2023
+Qatar Airways,YYZ,BKK,31h 30m ,1 stop ,"4,177 NIS ",21/04/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"6,075 NIS ",21/04/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,495 NIS ",22/04/2023
+Air France,YYZ,BKK,3h 55m ,nonstop ,"1,495 NIS ",22/04/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,517 NIS ",22/04/2023
+Air France,YYZ,BKK,4h 10m ,nonstop ,"1,517 NIS ",22/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,232 NIS ",22/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,23/04/2023
+Air Serbia,YYZ,BKK,20h 10m ,1 stop ,651 NIS ,23/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,893 NIS ,23/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,232 NIS ",23/04/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"6,075 NIS ",23/04/2023
+Finnair,YYZ,BKK,7h 20m ,1 stop ,589 NIS ,24/04/2023
+Air Serbia,YYZ,BKK,6h 35m ,1 stop ,651 NIS ,24/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,232 NIS ",24/04/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,517 NIS ",25/04/2023
+Air France,YYZ,BKK,4h 10m ,nonstop ,"1,517 NIS ",25/04/2023
+Aeroflot,YYZ,BKK,3h 55m ,nonstop ,"1,652 NIS ",25/04/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,663 NIS ",25/04/2023
+LOT,YYZ,BKK,7h 30m ,1 stop ,884 NIS ,25/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,232 NIS ",25/04/2023
+Qatar Airways,YYZ,BKK,12h 50m ,1 stop ,"6,162 NIS ",25/04/2023
+Air France,YYZ,BKK,3h 50m ,nonstop ,"1,517 NIS ",26/04/2023
+Air France,YYZ,BKK,3h 35m ,nonstop ,"1,824 NIS ",26/04/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,824 NIS ",26/04/2023
+KLM,YYZ,BKK,5h 15m ,1 stop ,"1,232 NIS ",26/04/2023
+Brussels Airlines,YYZ,BKK,25h 00m ,2 stops ,"12,303 NIS ",26/04/2023
+Air France,YYZ,BKK,3h 50m ,nonstop ,"1,495 NIS ",27/04/2023
+Brussels Airlines,YYZ,BKK,5h 25m ,1 stop ,492 NIS ,27/04/2023
+Air France,YYZ,BKK,3h 40m ,nonstop ,"1,824 NIS ",27/04/2023
+Air France,YYZ,BKK,4h 00m ,nonstop ,"1,824 NIS ",27/04/2023
+KLM,YYZ,BKK,5h 35m ,1 stop ,"1,232 NIS ",27/04/2023
+Air France,YYZ,BKK,3h 40m ,nonstop ,"1,459 NIS ",28/04/2023
+Air France,YYZ,BKK,3h 50m ,nonstop ,"1,459 NIS ",28/04/2023
+Air France,YYZ,BKK,4h 00m ,nonstop ,"1,459 NIS ",28/04/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,611 NIS ",28/04/2023
+Brussels Airlines,YYZ,BKK,5h 25m ,1 stop ,561 NIS ,28/04/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"6,075 NIS ",28/04/2023
+Korean Air,YYZ,BKK,42h 50m ,1 stop ,"13,228 NIS ",28/04/2023
+Air France,YYZ,BKK,3h 40m ,nonstop ,"1,459 NIS ",29/04/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,459 NIS ",29/04/2023
+Air France,YYZ,BKK,3h 50m ,nonstop ,"1,459 NIS ",29/04/2023
+Air France,YYZ,BKK,4h 00m ,nonstop ,"1,459 NIS ",29/04/2023
+Brussels Airlines,YYZ,BKK,5h 25m ,1 stop ,561 NIS ,29/04/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"5,953 NIS ",29/04/2023
+Brussels Airlines,YYZ,BKK,5h 25m ,1 stop ,561 NIS ,30/04/2023
+Air Serbia,YYZ,BKK,9h 55m ,1 stop ,651 NIS ,30/04/2023
+KLM,YYZ,BKK,5h 35m ,1 stop ,"1,232 NIS ",30/04/2023
+Korean Air,YYZ,BKK,42h 50m ,1 stop ,"13,228 NIS ",30/04/2023
+Brussels Airlines,YYZ,BKK,5h 25m ,1 stop ,561 NIS ,31/04/2023
+Finnair,YYZ,BKK,5h 35m ,1 stop ,589 NIS ,31/04/2023
+Air Serbia,YYZ,BKK,10h 00m ,1 stop ,651 NIS ,31/04/2023
+KLM,YYZ,BKK,5h 35m ,1 stop ,"1,232 NIS ",31/04/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"6,075 NIS ",31/04/2023
+Brussels Airlines,YYZ,BKK,5h 25m ,1 stop ,561 NIS ,01/05/2023
+Finnair,YYZ,BKK,5h 35m ,1 stop ,589 NIS ,01/05/2023
+Air Serbia,YYZ,BKK,10h 00m ,1 stop ,651 NIS ,01/05/2023
+KLM,YYZ,BKK,5h 35m ,1 stop ,"1,232 NIS ",01/05/2023
+Korean Air,YYZ,BKK,42h 50m ,1 stop ,"13,228 NIS ",01/05/2023
+Finnair,YYZ,BKK,5h 35m ,1 stop ,589 NIS ,02/05/2023
+Brussels Airlines,YYZ,BKK,5h 25m ,1 stop ,699 NIS ,02/05/2023
+KLM,YYZ,BKK,5h 35m ,1 stop ,"1,232 NIS ",02/05/2023
+Air Serbia,YYZ,BKK,22h 55m ,1 stop ,651 NIS ,02/05/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"6,227 NIS ",02/05/2023
+Air France,YYZ,BKK,3h 50m ,nonstop ,"1,459 NIS ",03/05/2023
+Air France,YYZ,BKK,3h 40m ,nonstop ,"1,763 NIS ",03/05/2023
+Air France,YYZ,BKK,4h 00m ,nonstop ,"1,763 NIS ",03/05/2023
+Brussels Airlines,YYZ,BKK,5h 25m ,1 stop ,561 NIS ,03/05/2023
+Brussels Airlines,YYZ,BKK,5h 25m ,1 stop ,561 NIS ,04/05/2023
+Air Serbia,YYZ,BKK,10h 20m ,1 stop ,716 NIS ,04/05/2023
+KLM,YYZ,BKK,5h 35m ,1 stop ,"1,232 NIS ",04/05/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"6,075 NIS ",04/05/2023
+Korean Air,YYZ,BKK,42h 50m ,1 stop ,"13,228 NIS ",04/05/2023
+Air France,YYZ,BKK,3h 45m ,nonstop ,"1,611 NIS ",05/05/2023
+Air France,YYZ,BKK,3h 40m ,nonstop ,"1,763 NIS ",05/05/2023
+Air France,YYZ,BKK,3h 50m ,nonstop ,"1,763 NIS ",05/05/2023
+Air France,YYZ,BKK,4h 00m ,nonstop ,"1,763 NIS ",05/05/2023
+Brussels Airlines,YYZ,BKK,5h 25m ,1 stop ,561 NIS ,05/05/2023
+Brussels Airlines,YYZ,BKK,5h 25m ,1 stop ,561 NIS ,06/05/2023
+Air Serbia,YYZ,BKK,9h 55m ,1 stop ,651 NIS ,06/05/2023
+KLM,YYZ,BKK,5h 35m ,1 stop ,"1,232 NIS ",06/05/2023
+Korean Air,YYZ,BKK,42h 50m ,1 stop ,"13,228 NIS ",06/05/2023
+Brussels Airlines,YYZ,BKK,5h 25m ,1 stop ,561 NIS ,07/05/2023
+Air Serbia,YYZ,BKK,10h 00m ,1 stop ,651 NIS ,07/05/2023
+KLM,YYZ,BKK,5h 35m ,1 stop ,"1,232 NIS ",07/05/2023
+Qatar Airways,YYZ,BKK,14h 45m ,1 stop ,"6,075 NIS ",07/05/2023
+Brussels Airlines,YYZ,BKK,5h 25m ,1 stop ,561 NIS ,08/05/2023
+Air Serbia,YYZ,BKK,10h 00m ,1 stop ,651 NIS ,08/05/2023
+KLM,YYZ,BKK,5h 35m ,1 stop ,"1,232 NIS ",08/05/2023
+Qatar Airways,YYZ,BKK,13h 45m ,1 stop ,"6,162 NIS ",08/05/2023
+Korean Air,YYZ,BKK,42h 50m ,1 stop ,"13,228 NIS ",08/05/2023
+Brussels Airlines,YYZ,BKK,5h 25m ,1 stop ,838 NIS ,09/05/2023
+Air Serbia,YYZ,BKK,22h 55m ,1 stop ,651 NIS ,09/05/2023
+KLM,YYZ,BKK,5h 35m ,1 stop ,"1,232 NIS ",09/05/2023
+Brussels Airlines,YYZ,BKK,5h 25m ,1 stop ,561 NIS ,10/05/2023
+Air Serbia,YYZ,BKK,10h 00m ,1 stop ,651 NIS ,10/05/2023
+KLM,YYZ,BKK,5h 35m ,1 stop ,"1,232 NIS ",10/05/2023
+Qatar Airways,YYZ,BKK,13h 45m ,1 stop ,"6,075 NIS ",10/05/2023
