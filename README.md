@@ -20,8 +20,6 @@ Random forest regression model is applied to forecast the flight prices based on
 
 #### The scraped dataset can be found [here](https://github.com/iSlagter/betterFly/blob/main/BetterFly.ipynb).
 
-![image](https://user-images.githubusercontent.com/68873733/137396148-c6b1ae8f-eb64-408a-8606-469eda33bd9a.png)
-
 #### In total, the data consists of 55,000 rows and 7 columns.
 
 
