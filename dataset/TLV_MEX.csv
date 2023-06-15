@@ -1,0 +1,3315 @@
+Airline,Source,Destination,Duration,Total stops,Price,Date
+Air Serbia,TLV,MEX,25h 20m ,1 stop ,504 NIS ,01/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,608 NIS ,01/03/2023
+Air Serbia,TLV,MEX,25h 20m ,1 stop ,433 NIS ,01/03/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,038 NIS ",01/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,038 NIS ",01/03/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,"1,079 NIS ",01/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,437 NIS ,01/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,437 NIS ,01/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,01/03/2023
+"Nordwind Airlines, Wizz Air",TLV,MEX,14h 10m ,1 stop ,462 NIS ,01/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,577 NIS ,01/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,577 NIS ,01/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,643 NIS ,01/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,643 NIS ,01/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,643 NIS ,01/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,643 NIS ,01/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,643 NIS ,01/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,577 NIS ,01/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,643 NIS ,01/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,643 NIS ,01/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,643 NIS ,01/03/2023
+"Aeroflot, easyJet",TLV,MEX,12h 40m ,1 stop ,783 NIS ,01/03/2023
+"Pobeda, Finnair",TLV,MEX,9h 55m ,2 stops ,599 NIS ,01/03/2023
+"Aeroflot, Finnair",TLV,MEX,7h 45m ,2 stops ,630 NIS ,01/03/2023
+"Aeroflot, Finnair",TLV,MEX,8h 20m ,2 stops ,630 NIS ,01/03/2023
+"Aeroflot, Finnair",TLV,MEX,9h 55m ,2 stops ,630 NIS ,01/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 00m ,2 stops ,630 NIS ,01/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 35m ,2 stops ,630 NIS ,01/03/2023
+"Aeroflot, Ryanair",TLV,MEX,11h 55m ,2 stops ,682 NIS ,01/03/2023
+"Finnair, Vueling",TLV,MEX,10h 55m ,2 stops ,699 NIS ,01/03/2023
+Multiple Airlines,TLV,MEX,15h 05m ,3 stops ,675 NIS ,01/03/2023
+Multiple Airlines,TLV,MEX,15h 40m ,3 stops ,675 NIS ,01/03/2023
+Multiple Airlines,TLV,MEX,15h 20m ,3 stops ,798 NIS ,01/03/2023
+"KLM, Ryanair",TLV,MEX,16h 05m ,3 stops ,816 NIS ,01/03/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,957 NIS ",01/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",01/03/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,591 NIS ",01/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 55m ,1 stop ,"12,499 NIS ",01/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",01/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",01/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",01/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,606 NIS ,02/03/2023
+Finnair,TLV,MEX,7h 50m ,1 stop ,395 NIS ,02/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,056 NIS ",02/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,435 NIS ,02/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,111 NIS ",02/03/2023
+Finnair,TLV,MEX,11h 40m ,1 stop ,395 NIS ,02/03/2023
+Finnair,TLV,MEX,15h 55m ,1 stop ,395 NIS ,02/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,435 NIS ,02/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,435 NIS ,02/03/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,518 NIS ,02/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,577 NIS ,02/03/2023
+airBaltic,TLV,MEX,13h 25m ,1 stop ,485 NIS ,02/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,577 NIS ,02/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,577 NIS ,02/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,643 NIS ,02/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,643 NIS ,02/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,643 NIS ,02/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,643 NIS ,02/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,643 NIS ,02/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,643 NIS ,02/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,643 NIS ,02/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,643 NIS ,02/03/2023
+KLM,TLV,MEX,16h 15m ,1 stop ,643 NIS ,02/03/2023
+"Aeroflot, Wizz Air",TLV,MEX,12h 15m ,1 stop ,657 NIS ,02/03/2023
+"KLM, Air France",TLV,MEX,17h 40m ,1 stop ,701 NIS ,02/03/2023
+"Finnair, Ryanair",TLV,MEX,10h 10m ,2 stops ,596 NIS ,02/03/2023
+"Pobeda, Finnair",TLV,MEX,9h 55m ,2 stops ,599 NIS ,02/03/2023
+"Aeroflot, Finnair",TLV,MEX,9h 55m ,2 stops ,630 NIS ,02/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 00m ,2 stops ,630 NIS ,02/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 35m ,2 stops ,630 NIS ,02/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,MEX,13h 35m ,2 stops ,722 NIS ,02/03/2023
+KLM,TLV,MEX,6h 55m ,1 stop ,"1,170 NIS ",02/03/2023
+Multiple Airlines,TLV,MEX,16h 05m ,2 stops ,499 NIS ,02/03/2023
+Multiple Airlines,TLV,MEX,14h 30m ,3 stops ,588 NIS ,02/03/2023
+"Finnair, Ryanair",TLV,MEX,14h 50m ,3 stops ,630 NIS ,02/03/2023
+Multiple Airlines,TLV,MEX,13h 00m ,3 stops ,675 NIS ,02/03/2023
+"Finnair, Ryanair",TLV,MEX,13h 25m ,3 stops ,715 NIS ,02/03/2023
+"Finnair, Lufthansa",TLV,MEX,13h 25m ,3 stops ,738 NIS ,02/03/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,957 NIS ",02/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",02/03/2023
+"Czech Airlines, Lufthansa",TLV,MEX,8h 10m ,2 stops ,"9,068 NIS ",02/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 55m ,1 stop ,"12,499 NIS ",02/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 00m ,1 stop ,"12,499 NIS ",02/03/2023
+"Aeroflot, KLM",TLV,MEX,9h 15m ,1 stop ,"12,499 NIS ",02/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",02/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",02/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",02/03/2023
+Air Serbia,TLV,MEX,14h 20m ,1 stop ,504 NIS ,03/03/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,606 NIS ,03/03/2023
+Finnair,TLV,MEX,9h 35m ,1 stop ,395 NIS ,03/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,608 NIS ,03/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,056 NIS ",03/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,435 NIS ,03/03/2023
+Finnair,TLV,MEX,13h 50m ,1 stop ,395 NIS ,03/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,435 NIS ,03/03/2023
+airBaltic,TLV,MEX,8h 55m ,1 stop ,485 NIS ,03/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,577 NIS ,03/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,643 NIS ,03/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,643 NIS ,03/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,643 NIS ,03/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,643 NIS ,03/03/2023
+Air Serbia,TLV,MEX,14h 20m ,1 stop ,433 NIS ,03/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,435 NIS ,03/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,577 NIS ,03/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,577 NIS ,03/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,643 NIS ,03/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,643 NIS ,03/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,643 NIS ,03/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,643 NIS ,03/03/2023
+"Pobeda, Finnair",TLV,MEX,9h 55m ,2 stops ,599 NIS ,03/03/2023
+Multiple Airlines,TLV,MEX,14h 15m ,2 stops ,618 NIS ,03/03/2023
+"Aeroflot, Finnair",TLV,MEX,7h 45m ,2 stops ,630 NIS ,03/03/2023
+"Aeroflot, Finnair",TLV,MEX,8h 20m ,2 stops ,630 NIS ,03/03/2023
+"Aeroflot, Finnair",TLV,MEX,9h 55m ,2 stops ,630 NIS ,03/03/2023
+KLM,TLV,MEX,16h 15m ,1 stop ,643 NIS ,03/03/2023
+"airBaltic, Vueling",TLV,MEX,13h 40m ,2 stops ,656 NIS ,03/03/2023
+"KLM, Air France",TLV,MEX,17h 40m ,1 stop ,701 NIS ,03/03/2023
+Aeroflot,TLV,MEX,13h 55m ,1 stop ,747 NIS ,03/03/2023
+Aeroflot,TLV,MEX,14h 30m ,1 stop ,747 NIS ,03/03/2023
+"Aeroflot, Transavia France",TLV,MEX,9h 55m ,1 stop ,885 NIS ,03/03/2023
+"Aeroflot, Vueling",TLV,MEX,9h 50m ,1 stop ,967 NIS ,03/03/2023
+LOT,TLV,MEX,9h 00m ,1 stop ,"1,015 NIS ",03/03/2023
+LOT,TLV,MEX,13h 10m ,1 stop ,"1,015 NIS ",03/03/2023
+Aeroflot,TLV,MEX,15h 00m ,1 stop ,"1,231 NIS ",03/03/2023
+Aeroflot,TLV,MEX,16h 05m ,1 stop ,"1,231 NIS ",03/03/2023
+Aeroflot,TLV,MEX,7h 20m ,1 stop ,"1,280 NIS ",03/03/2023
+Aeroflot,TLV,MEX,7h 30m ,1 stop ,"1,280 NIS ",03/03/2023
+Aeroflot,TLV,MEX,8h 15m ,1 stop ,"1,280 NIS ",03/03/2023
+Aeroflot,TLV,MEX,9h 15m ,1 stop ,"1,280 NIS ",03/03/2023
+Aeroflot,TLV,MEX,10h 25m ,1 stop ,"1,280 NIS ",03/03/2023
+Aeroflot,TLV,MEX,11h 05m ,1 stop ,"1,280 NIS ",03/03/2023
+Aeroflot,TLV,MEX,12h 20m ,1 stop ,"1,280 NIS ",03/03/2023
+"Finnair, Vueling",TLV,MEX,13h 55m ,2 stops ,659 NIS ,03/03/2023
+"Aeroflot, Ryanair",TLV,MEX,14h 30m ,2 stops ,671 NIS ,03/03/2023
+"Aeroflot, Ryanair",TLV,MEX,14h 00m ,2 stops ,712 NIS ,03/03/2023
+Multiple Airlines,TLV,MEX,13h 30m ,3 stops ,768 NIS ,03/03/2023
+Multiple Airlines,TLV,MEX,15h 15m ,3 stops ,786 NIS ,03/03/2023
+Multiple Airlines,TLV,MEX,15h 35m ,3 stops ,833 NIS ,03/03/2023
+Multiple Airlines,TLV,MEX,16h 10m ,3 stops ,833 NIS ,03/03/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,957 NIS ",03/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,735 NIS ",03/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",03/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",03/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",03/03/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,592 NIS ,04/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,608 NIS ,04/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,437 NIS ,04/03/2023
+Aeroflot,TLV,MEX,4h 05m ,nonstop ,"1,056 NIS ",04/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,056 NIS ",04/03/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,518 NIS ,04/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,577 NIS ,04/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,643 NIS ,04/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,643 NIS ,04/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,437 NIS ,04/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,04/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,577 NIS ,04/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,643 NIS ,04/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,643 NIS ,04/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,643 NIS ,04/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,643 NIS ,04/03/2023
+"Aeroflot, Ryanair",TLV,MEX,6h 35m ,1 stop ,645 NIS ,04/03/2023
+Aeroflot,TLV,MEX,6h 40m ,1 stop ,726 NIS ,04/03/2023
+Aeroflot,TLV,MEX,7h 10m ,1 stop ,726 NIS ,04/03/2023
+LOT,TLV,MEX,5h 35m ,1 stop ,"1,015 NIS ",04/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,577 NIS ,04/03/2023
+"Aeroflot, Finnair",TLV,MEX,7h 45m ,2 stops ,630 NIS ,04/03/2023
+"Aeroflot, Finnair",TLV,MEX,8h 20m ,2 stops ,630 NIS ,04/03/2023
+"Finnair, Ryanair",TLV,MEX,10h 25m ,2 stops ,630 NIS ,04/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,643 NIS ,04/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,643 NIS ,04/03/2023
+"Aeroflot, Finnair",TLV,MEX,9h 55m ,2 stops ,683 NIS ,04/03/2023
+"Aeroflot, Wizz Air",TLV,MEX,12h 15m ,1 stop ,696 NIS ,04/03/2023
+Bulgaria Air,TLV,MEX,14h 25m ,1 stop ,813 NIS ,04/03/2023
+LOT,TLV,MEX,9h 45m ,1 stop ,"1,015 NIS ",04/03/2023
+Aeroflot,TLV,MEX,11h 50m ,1 stop ,"1,231 NIS ",04/03/2023
+Aeroflot,TLV,MEX,12h 55m ,1 stop ,"1,231 NIS ",04/03/2023
+Aeroflot,TLV,MEX,7h 20m ,1 stop ,"1,280 NIS ",04/03/2023
+Aeroflot,TLV,MEX,7h 30m ,1 stop ,"1,280 NIS ",04/03/2023
+Aeroflot,TLV,MEX,8h 15m ,1 stop ,"1,280 NIS ",04/03/2023
+Aeroflot,TLV,MEX,9h 15m ,1 stop ,"1,280 NIS ",04/03/2023
+Aeroflot,TLV,MEX,10h 25m ,1 stop ,"1,280 NIS ",04/03/2023
+Aeroflot,TLV,MEX,11h 05m ,1 stop ,"1,280 NIS ",04/03/2023
+Aeroflot,TLV,MEX,12h 20m ,1 stop ,"1,280 NIS ",04/03/2023
+Aeroflot,TLV,MEX,12h 50m ,1 stop ,"1,280 NIS ",04/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 00m ,2 stops ,630 NIS ,04/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 35m ,2 stops ,630 NIS ,04/03/2023
+"Aeroflot, Finnair",TLV,MEX,11h 00m ,2 stops ,777 NIS ,04/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,798 NIS ",04/03/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,591 NIS ",04/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",04/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",04/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",04/03/2023
+Air Serbia,TLV,MEX,7h 00m ,1 stop ,504 NIS ,05/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,608 NIS ,05/03/2023
+Finnair,TLV,MEX,16h 20m ,1 stop ,395 NIS ,05/03/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,730 NIS ,05/03/2023
+Aeroflot,TLV,MEX,4h 00m ,nonstop ,"1,056 NIS ",05/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,111 NIS ",05/03/2023
+Air Serbia,TLV,MEX,7h 00m ,1 stop ,433 NIS ,05/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,435 NIS ,05/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,435 NIS ,05/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,435 NIS ,05/03/2023
+Air Serbia,TLV,MEX,9h 40m ,1 stop ,518 NIS ,05/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,577 NIS ,05/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,577 NIS ,05/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,577 NIS ,05/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,643 NIS ,05/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,643 NIS ,05/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,643 NIS ,05/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,643 NIS ,05/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,643 NIS ,05/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,643 NIS ,05/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,643 NIS ,05/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,643 NIS ,05/03/2023
+Aeroflot,TLV,MEX,13h 55m ,1 stop ,732 NIS ,05/03/2023
+Aeroflot,TLV,MEX,14h 30m ,1 stop ,732 NIS ,05/03/2023
+"Aeroflot, HiSky",TLV,MEX,13h 50m ,1 stop ,769 NIS ,05/03/2023
+"Aeroflot, Air France",TLV,MEX,7h 30m ,1 stop ,786 NIS ,05/03/2023
+Bulgaria Air,TLV,MEX,14h 25m ,1 stop ,813 NIS ,05/03/2023
+LOT,TLV,MEX,5h 35m ,1 stop ,"1,015 NIS ",05/03/2023
+LOT,TLV,MEX,9h 45m ,1 stop ,"1,015 NIS ",05/03/2023
+"Aeroflot, Pegasus Airlines",TLV,MEX,15h 20m ,2 stops ,580 NIS ,05/03/2023
+Multiple Airlines,TLV,MEX,15h 45m ,2 stops ,618 NIS ,05/03/2023
+"Aeroflot, Finnair",TLV,MEX,7h 45m ,2 stops ,630 NIS ,05/03/2023
+"Aeroflot, Finnair",TLV,MEX,8h 20m ,2 stops ,630 NIS ,05/03/2023
+"Aeroflot, Finnair",TLV,MEX,9h 55m ,2 stops ,630 NIS ,05/03/2023
+Multiple Airlines,TLV,MEX,12h 25m ,2 stops ,737 NIS ,05/03/2023
+"Finnair, Ryanair",TLV,MEX,10h 55m ,2 stops ,751 NIS ,05/03/2023
+"KLM, Ryanair",TLV,MEX,14h 40m ,2 stops ,753 NIS ,05/03/2023
+Multiple Airlines,TLV,MEX,7h 55m ,2 stops ,765 NIS ,05/03/2023
+"Aeroflot, Smartwings",TLV,MEX,9h 15m ,2 stops ,795 NIS ,05/03/2023
+Aeroflot,TLV,MEX,15h 00m ,1 stop ,"1,231 NIS ",05/03/2023
+Aeroflot,TLV,MEX,7h 20m ,1 stop ,"1,280 NIS ",05/03/2023
+Aeroflot,TLV,MEX,8h 15m ,1 stop ,"1,280 NIS ",05/03/2023
+Aeroflot,TLV,MEX,9h 15m ,1 stop ,"1,280 NIS ",05/03/2023
+Aeroflot,TLV,MEX,10h 25m ,1 stop ,"1,280 NIS ",05/03/2023
+Aeroflot,TLV,MEX,11h 05m ,1 stop ,"1,280 NIS ",05/03/2023
+Aeroflot,TLV,MEX,12h 20m ,1 stop ,"1,280 NIS ",05/03/2023
+"Aeroflot, Air France",TLV,MEX,6h 05m ,1 stop ,"1,387 NIS ",05/03/2023
+"KLM, Ryanair",TLV,MEX,15h 40m ,2 stops ,676 NIS ,05/03/2023
+Multiple Airlines,TLV,MEX,13h 00m ,3 stops ,717 NIS ,05/03/2023
+Multiple Airlines,TLV,MEX,14h 55m ,3 stops ,722 NIS ,05/03/2023
+Multiple Airlines,TLV,MEX,14h 55m ,2 stops ,756 NIS ,05/03/2023
+Air Algerie,TLV,MEX,10h 50m ,1 stop ,"2,753 NIS ",05/03/2023
+Air Algerie,TLV,MEX,11h 55m ,1 stop ,"2,753 NIS ",05/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,714 NIS ",05/03/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,591 NIS ",05/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",05/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",05/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",05/03/2023
+Aeroflot,TLV,MEX,4h 00m ,nonstop ,"1,056 NIS ",06/03/2023
+Finnair,TLV,MEX,11h 40m ,1 stop ,395 NIS ,06/03/2023
+Finnair,TLV,MEX,7h 50m ,1 stop ,470 NIS ,06/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,480 NIS ,06/03/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,518 NIS ,06/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,443 NIS ",06/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,480 NIS ,06/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,577 NIS ,06/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,643 NIS ,06/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,643 NIS ,06/03/2023
+Finnair,TLV,MEX,15h 55m ,1 stop ,395 NIS ,06/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,435 NIS ,06/03/2023
+airBaltic,TLV,MEX,13h 25m ,1 stop ,485 NIS ,06/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,577 NIS ,06/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,643 NIS ,06/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,643 NIS ,06/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,643 NIS ,06/03/2023
+"Aeroflot, airBaltic",TLV,MEX,8h 15m ,1 stop ,675 NIS ,06/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,577 NIS ,06/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,643 NIS ,06/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,643 NIS ,06/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,643 NIS ,06/03/2023
+"KLM, Air France",TLV,MEX,16h 15m ,1 stop ,658 NIS ,06/03/2023
+Aeroflot,TLV,MEX,6h 40m ,1 stop ,808 NIS ,06/03/2023
+Aeroflot,TLV,MEX,7h 10m ,1 stop ,808 NIS ,06/03/2023
+"KLM, Air France",TLV,MEX,17h 40m ,1 stop ,701 NIS ,06/03/2023
+Bulgaria Air,TLV,MEX,15h 05m ,1 stop ,813 NIS ,06/03/2023
+"Aeroflot, Ryanair",TLV,MEX,10h 45m ,1 stop ,815 NIS ,06/03/2023
+LOT,TLV,MEX,9h 00m ,1 stop ,"1,015 NIS ",06/03/2023
+LOT,TLV,MEX,13h 10m ,1 stop ,"1,015 NIS ",06/03/2023
+"Aeroflot, Pegasus Airlines",TLV,MEX,15h 20m ,2 stops ,580 NIS ,06/03/2023
+"Pobeda, Finnair",TLV,MEX,9h 55m ,2 stops ,599 NIS ,06/03/2023
+"Finnair, Ryanair",TLV,MEX,10h 05m ,2 stops ,601 NIS ,06/03/2023
+Multiple Airlines,TLV,MEX,15h 50m ,2 stops ,618 NIS ,06/03/2023
+Aeroflot,TLV,MEX,11h 50m ,1 stop ,"1,231 NIS ",06/03/2023
+Aeroflot,TLV,MEX,12h 55m ,1 stop ,"1,231 NIS ",06/03/2023
+Aeroflot,TLV,MEX,7h 50m ,1 stop ,"1,412 NIS ",06/03/2023
+Aeroflot,TLV,MEX,8h 45m ,1 stop ,"1,412 NIS ",06/03/2023
+Aeroflot,TLV,MEX,9h 25m ,1 stop ,"1,412 NIS ",06/03/2023
+Aeroflot,TLV,MEX,10h 45m ,1 stop ,"1,412 NIS ",06/03/2023
+Aeroflot,TLV,MEX,11h 30m ,1 stop ,"1,412 NIS ",06/03/2023
+Aeroflot,TLV,MEX,13h 40m ,1 stop ,"1,412 NIS ",06/03/2023
+Aeroflot,TLV,MEX,14h 20m ,1 stop ,"1,412 NIS ",06/03/2023
+Multiple Airlines,TLV,MEX,22h 00m ,2 stops ,399 NIS ,06/03/2023
+"Aeroflot, Lufthansa",TLV,MEX,10h 40m ,2 stops ,"4,858 NIS ",06/03/2023
+"Aeroflot, Lufthansa",TLV,MEX,11h 45m ,2 stops ,"4,858 NIS ",06/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",06/03/2023
+"Aeroflot, Kenya Airways",TLV,MEX,12h 50m ,2 stops ,"6,650 NIS ",06/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 55m ,1 stop ,"12,499 NIS ",06/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 00m ,1 stop ,"12,499 NIS ",06/03/2023
+"Aeroflot, KLM",TLV,MEX,9h 15m ,1 stop ,"12,499 NIS ",06/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",06/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",06/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",06/03/2023
+Air Serbia,TLV,MEX,15h 20m ,1 stop ,504 NIS ,07/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,618 NIS ,07/03/2023
+Air Serbia,TLV,MEX,15h 20m ,1 stop ,430 NIS ,07/03/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,646 NIS ,07/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,055 NIS ",07/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,110 NIS ",07/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,437 NIS ,07/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,437 NIS ,07/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,07/03/2023
+airBaltic,TLV,MEX,8h 55m ,1 stop ,483 NIS ,07/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,07/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,07/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,07/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,07/03/2023
+KLM,TLV,MEX,16h 15m ,1 stop ,641 NIS ,07/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,643 NIS ,07/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,643 NIS ,07/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,643 NIS ,07/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,643 NIS ,07/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,643 NIS ,07/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,643 NIS ,07/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,726 NIS ,07/03/2023
+LOT,TLV,MEX,9h 00m ,1 stop ,"1,014 NIS ",07/03/2023
+LOT,TLV,MEX,13h 10m ,1 stop ,"1,014 NIS ",07/03/2023
+"Pobeda, Finnair",TLV,MEX,9h 55m ,2 stops ,609 NIS ,07/03/2023
+"Aeroflot, Air Serbia",TLV,MEX,10h 55m ,2 stops ,704 NIS ,07/03/2023
+Aeroflot,TLV,MEX,7h 20m ,1 stop ,"1,279 NIS ",07/03/2023
+Aeroflot,TLV,MEX,7h 30m ,1 stop ,"1,279 NIS ",07/03/2023
+Aeroflot,TLV,MEX,8h 15m ,1 stop ,"1,279 NIS ",07/03/2023
+Aeroflot,TLV,MEX,9h 15m ,1 stop ,"1,280 NIS ",07/03/2023
+Aeroflot,TLV,MEX,10h 25m ,1 stop ,"1,280 NIS ",07/03/2023
+Aeroflot,TLV,MEX,11h 05m ,1 stop ,"1,280 NIS ",07/03/2023
+Aeroflot,TLV,MEX,12h 20m ,1 stop ,"1,280 NIS ",07/03/2023
+Aeroflot,TLV,MEX,12h 50m ,1 stop ,"1,280 NIS ",07/03/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,954 NIS ",07/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",07/03/2023
+"LOT, KLM",TLV,MEX,15h 40m ,2 stops ,"6,439 NIS ",07/03/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,588 NIS ",07/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",07/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",07/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",07/03/2023
+Air Serbia,TLV,MEX,25h 20m ,1 stop ,504 NIS ,08/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,618 NIS ,08/03/2023
+Air Serbia,TLV,MEX,25h 20m ,1 stop ,430 NIS ,08/03/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,618 NIS ,08/03/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,054 NIS ",08/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,054 NIS ",08/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,437 NIS ,08/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,437 NIS ,08/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,08/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,08/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,08/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,08/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,08/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,08/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,08/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,08/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,08/03/2023
+"Nordwind Airlines, Wizz Air",TLV,MEX,14h 10m ,1 stop ,513 NIS ,08/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,641 NIS ,08/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,641 NIS ,08/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,641 NIS ,08/03/2023
+"KLM, Air France",TLV,MEX,16h 15m ,1 stop ,699 NIS ,08/03/2023
+"KLM, Air France",TLV,MEX,17h 40m ,1 stop ,699 NIS ,08/03/2023
+"Pobeda, Finnair",TLV,MEX,9h 55m ,2 stops ,609 NIS ,08/03/2023
+"Aeroflot, Finnair",TLV,MEX,7h 45m ,2 stops ,641 NIS ,08/03/2023
+"Aeroflot, Finnair",TLV,MEX,8h 20m ,2 stops ,641 NIS ,08/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 00m ,2 stops ,641 NIS ,08/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 35m ,2 stops ,641 NIS ,08/03/2023
+Multiple Airlines,TLV,MEX,12h 00m ,2 stops ,660 NIS ,08/03/2023
+Multiple Airlines,TLV,MEX,13h 20m ,2 stops ,660 NIS ,08/03/2023
+"Aeroflot, Ryanair",TLV,MEX,11h 55m ,2 stops ,671 NIS ,08/03/2023
+"Aeroflot, Finnair",TLV,MEX,9h 55m ,2 stops ,694 NIS ,08/03/2023
+"Aeroflot, Finnair",TLV,MEX,14h 30m ,2 stops ,694 NIS ,08/03/2023
+"Finnair, Vueling",TLV,MEX,10h 55m ,2 stops ,711 NIS ,08/03/2023
+Multiple Airlines,TLV,MEX,10h 00m ,2 stops ,716 NIS ,08/03/2023
+Multiple Airlines,TLV,MEX,15h 05m ,3 stops ,665 NIS ,08/03/2023
+Multiple Airlines,TLV,MEX,15h 40m ,3 stops ,665 NIS ,08/03/2023
+"Finnair, Vueling",TLV,MEX,11h 00m ,2 stops ,700 NIS ,08/03/2023
+Multiple Airlines,TLV,MEX,15h 20m ,3 stops ,798 NIS ,08/03/2023
+"KLM, Ryanair",TLV,MEX,16h 05m ,3 stops ,837 NIS ,08/03/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,954 NIS ",08/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",08/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 55m ,1 stop ,"12,499 NIS ",08/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",08/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",08/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",08/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,618 NIS ,09/03/2023
+Multiple Airlines,TLV,MEX,28h 15m ,2 stops ,370 NIS ,09/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,054 NIS ",09/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,110 NIS ",09/03/2023
+Finnair,TLV,MEX,7h 50m ,1 stop ,395 NIS ,09/03/2023
+Finnair,TLV,MEX,11h 40m ,1 stop ,395 NIS ,09/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,435 NIS ,09/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,435 NIS ,09/03/2023
+Finnair,TLV,MEX,15h 55m ,1 stop ,395 NIS ,09/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,435 NIS ,09/03/2023
+airBaltic,TLV,MEX,13h 25m ,1 stop ,483 NIS ,09/03/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,516 NIS ,09/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,09/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,09/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,09/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,09/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,09/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,09/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,09/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,09/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,641 NIS ,09/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,641 NIS ,09/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,641 NIS ,09/03/2023
+KLM,TLV,MEX,16h 15m ,1 stop ,641 NIS ,09/03/2023
+"Finnair, Ryanair",TLV,MEX,10h 10m ,2 stops ,567 NIS ,09/03/2023
+"Pobeda, Finnair",TLV,MEX,9h 55m ,2 stops ,609 NIS ,09/03/2023
+"Aeroflot, Finnair",TLV,MEX,9h 55m ,2 stops ,641 NIS ,09/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 00m ,2 stops ,641 NIS ,09/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 35m ,2 stops ,641 NIS ,09/03/2023
+"Aeroflot, Ryanair",TLV,MEX,9h 30m ,2 stops ,817 NIS ,09/03/2023
+"Aeroflot, Vueling",TLV,MEX,10h 50m ,2 stops ,927 NIS ,09/03/2023
+Multiple Airlines,TLV,MEX,16h 05m ,2 stops ,533 NIS ,09/03/2023
+Multiple Airlines,TLV,MEX,14h 30m ,3 stops ,645 NIS ,09/03/2023
+Multiple Airlines,TLV,MEX,13h 00m ,3 stops ,665 NIS ,09/03/2023
+"Finnair, Ryanair",TLV,MEX,14h 50m ,3 stops ,676 NIS ,09/03/2023
+"Finnair, Ryanair",TLV,MEX,13h 25m ,3 stops ,715 NIS ,09/03/2023
+Multiple Airlines,TLV,MEX,15h 35m ,3 stops ,780 NIS ,09/03/2023
+Multiple Airlines,TLV,MEX,16h 10m ,3 stops ,780 NIS ,09/03/2023
+Multiple Airlines,TLV,MEX,13h 05m ,2 stops ,"1,010 NIS ",09/03/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,954 NIS ",09/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",09/03/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,588 NIS ",09/03/2023
+"Czech Airlines, Lufthansa",TLV,MEX,8h 10m ,2 stops ,"9,068 NIS ",09/03/2023
+"LOT, Air France",TLV,MEX,13h 55m ,1 stop ,"11,827 NIS ",09/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",09/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",09/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",09/03/2023
+Air Serbia,TLV,MEX,14h 20m ,1 stop ,504 NIS ,10/03/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,591 NIS ,10/03/2023
+Finnair,TLV,MEX,9h 35m ,1 stop ,395 NIS ,10/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,743 NIS ,10/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,054 NIS ",10/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,437 NIS ,10/03/2023
+Finnair,TLV,MEX,13h 50m ,1 stop ,395 NIS ,10/03/2023
+Air Serbia,TLV,MEX,14h 20m ,1 stop ,430 NIS ,10/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,437 NIS ,10/03/2023
+airBaltic,TLV,MEX,8h 55m ,1 stop ,483 NIS ,10/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,10/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,10/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,10/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,10/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,10/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,730 NIS ,10/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,618 NIS ,11/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,437 NIS ,11/03/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,054 NIS ",11/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,054 NIS ",11/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,437 NIS ,11/03/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,516 NIS ,11/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,11/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,11/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,11/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,11/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,11/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,11/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,11/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,11/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,641 NIS ,11/03/2023
+"Aeroflot, Ryanair",TLV,MEX,6h 35m ,1 stop ,645 NIS ,11/03/2023
+"Aeroflot, Transavia France",TLV,MEX,6h 40m ,1 stop ,691 NIS ,11/03/2023
+Aeroflot,TLV,MEX,6h 40m ,1 stop ,745 NIS ,11/03/2023
+Aeroflot,TLV,MEX,7h 10m ,1 stop ,869 NIS ,11/03/2023
+LOT,TLV,MEX,5h 35m ,1 stop ,"1,014 NIS ",11/03/2023
+Multiple Airlines,TLV,MEX,9h 55m ,2 stops ,491 NIS ,11/03/2023
+Multiple Airlines,TLV,MEX,10h 50m ,2 stops ,491 NIS ,11/03/2023
+Multiple Airlines,TLV,MEX,12h 50m ,2 stops ,491 NIS ,11/03/2023
+Multiple Airlines,TLV,MEX,10h 10m ,2 stops ,546 NIS ,11/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,11/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 00m ,2 stops ,629 NIS ,11/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 35m ,2 stops ,629 NIS ,11/03/2023
+Multiple Airlines,TLV,MEX,12h 45m ,2 stops ,630 NIS ,11/03/2023
+"Aeroflot, Finnair",TLV,MEX,7h 45m ,2 stops ,641 NIS ,11/03/2023
+"Aeroflot, Finnair",TLV,MEX,8h 20m ,2 stops ,641 NIS ,11/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,641 NIS ,11/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,641 NIS ,11/03/2023
+"Nordwind Airlines, Lufthansa",TLV,MEX,11h 20m ,2 stops ,658 NIS ,11/03/2023
+Bulgaria Air,TLV,MEX,14h 25m ,1 stop ,"1,007 NIS ",11/03/2023
+LOT,TLV,MEX,9h 45m ,1 stop ,"1,014 NIS ",11/03/2023
+Aeroflot,TLV,MEX,11h 50m ,1 stop ,"1,229 NIS ",11/03/2023
+Aeroflot,TLV,MEX,12h 55m ,1 stop ,"1,229 NIS ",11/03/2023
+KLM,TLV,MEX,6h 20m ,1 stop ,"1,261 NIS ",11/03/2023
+KLM,TLV,MEX,7h 55m ,1 stop ,"1,261 NIS ",11/03/2023
+Aeroflot,TLV,MEX,7h 20m ,1 stop ,"1,279 NIS ",11/03/2023
+Aeroflot,TLV,MEX,7h 30m ,1 stop ,"1,279 NIS ",11/03/2023
+Aeroflot,TLV,MEX,8h 15m ,1 stop ,"1,279 NIS ",11/03/2023
+Aeroflot,TLV,MEX,9h 15m ,1 stop ,"1,279 NIS ",11/03/2023
+Aeroflot,TLV,MEX,10h 25m ,1 stop ,"1,279 NIS ",11/03/2023
+Aeroflot,TLV,MEX,11h 05m ,1 stop ,"1,279 NIS ",11/03/2023
+Aeroflot,TLV,MEX,12h 20m ,1 stop ,"1,279 NIS ",11/03/2023
+Aeroflot,TLV,MEX,12h 50m ,1 stop ,"1,279 NIS ",11/03/2023
+"Nordwind Airlines, Lufthansa",TLV,MEX,12h 20m ,2 stops ,658 NIS ,11/03/2023
+Multiple Airlines,TLV,MEX,15h 05m ,3 stops ,717 NIS ,11/03/2023
+Multiple Airlines,TLV,MEX,15h 40m ,3 stops ,717 NIS ,11/03/2023
+Multiple Airlines,TLV,MEX,10h 50m ,3 stops ,743 NIS ,11/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,798 NIS ",11/03/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,588 NIS ",11/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",11/03/2023
+Air Serbia,TLV,MEX,7h 00m ,1 stop ,504 NIS ,12/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,618 NIS ,12/03/2023
+Finnair,TLV,MEX,16h 20m ,1 stop ,395 NIS ,12/03/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,743 NIS ,12/03/2023
+Aeroflot,TLV,MEX,4h 00m ,nonstop ,"1,055 NIS ",12/03/2023
+Air Serbia,TLV,MEX,7h 00m ,1 stop ,430 NIS ,12/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,437 NIS ,12/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,245 NIS ",12/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,437 NIS ,12/03/2023
+Air Serbia,TLV,MEX,9h 40m ,1 stop ,516 NIS ,12/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,12/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,12/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,12/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,12/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,12/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,12/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,12/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,12/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,641 NIS ,12/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,641 NIS ,12/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,730 NIS ,12/03/2023
+"Aeroflot, Air France",TLV,MEX,7h 30m ,1 stop ,797 NIS ,12/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,641 NIS ,12/03/2023
+"KLM, Air France",TLV,MEX,16h 15m ,1 stop ,654 NIS ,12/03/2023
+"KLM, Air France",TLV,MEX,17h 40m ,1 stop ,699 NIS ,12/03/2023
+"Aeroflot, HiSky",TLV,MEX,13h 50m ,1 stop ,759 NIS ,12/03/2023
+Aeroflot,TLV,MEX,13h 55m ,1 stop ,759 NIS ,12/03/2023
+Aeroflot,TLV,MEX,14h 30m ,1 stop ,759 NIS ,12/03/2023
+Bulgaria Air,TLV,MEX,14h 25m ,1 stop ,810 NIS ,12/03/2023
+"Aeroflot, Air France",TLV,MEX,8h 15m ,1 stop ,990 NIS ,12/03/2023
+LOT,TLV,MEX,5h 35m ,1 stop ,"1,014 NIS ",12/03/2023
+LOT,TLV,MEX,9h 45m ,1 stop ,"1,014 NIS ",12/03/2023
+"Aeroflot, Finnair",TLV,MEX,7h 45m ,2 stops ,629 NIS ,12/03/2023
+"Aeroflot, Finnair",TLV,MEX,8h 20m ,2 stops ,629 NIS ,12/03/2023
+"Aeroflot, Finnair",TLV,MEX,9h 55m ,2 stops ,629 NIS ,12/03/2023
+"Aeroflot, Pegasus Airlines",TLV,MEX,15h 20m ,2 stops ,750 NIS ,12/03/2023
+"Finnair, Ryanair",TLV,MEX,10h 55m ,2 stops ,751 NIS ,12/03/2023
+"Aeroflot, Air Serbia",TLV,MEX,12h 00m ,2 stops ,760 NIS ,12/03/2023
+"Aeroflot, Air France",TLV,MEX,15h 45m ,1 stop ,"1,141 NIS ",12/03/2023
+Aeroflot,TLV,MEX,15h 00m ,1 stop ,"1,230 NIS ",12/03/2023
+"Aeroflot, Ryanair",TLV,MEX,15h 00m ,3 stops ,683 NIS ,12/03/2023
+Multiple Airlines,TLV,MEX,13h 00m ,3 stops ,717 NIS ,12/03/2023
+Multiple Airlines,TLV,MEX,14h 55m ,3 stops ,736 NIS ,12/03/2023
+Multiple Airlines,TLV,MEX,15h 20m ,3 stops ,799 NIS ,12/03/2023
+Multiple Airlines,TLV,MEX,13h 30m ,3 stops ,883 NIS ,12/03/2023
+Air Algerie,TLV,MEX,10h 50m ,1 stop ,"2,752 NIS ",12/03/2023
+Air Algerie,TLV,MEX,11h 55m ,1 stop ,"2,752 NIS ",12/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,714 NIS ",12/03/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,588 NIS ",12/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",12/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",12/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",12/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,618 NIS ,13/03/2023
+Finnair,TLV,MEX,11h 40m ,1 stop ,395 NIS ,13/03/2023
+Aeroflot,TLV,MEX,4h 00m ,nonstop ,"1,055 NIS ",13/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,480 NIS ,13/03/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,516 NIS ,13/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,13/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,435 NIS ,13/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,480 NIS ,13/03/2023
+airBaltic,TLV,MEX,13h 25m ,1 stop ,483 NIS ,13/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,13/03/2023
+Finnair,TLV,MEX,7h 50m ,1 stop ,596 NIS ,13/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,13/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,13/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,13/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,13/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,13/03/2023
+"Aeroflot, Transavia France",TLV,MEX,8h 05m ,1 stop ,646 NIS ,13/03/2023
+Aeroflot,TLV,MEX,6h 40m ,1 stop ,724 NIS ,13/03/2023
+Aeroflot,TLV,MEX,7h 10m ,1 stop ,724 NIS ,13/03/2023
+Finnair,TLV,MEX,15h 55m ,1 stop ,470 NIS ,13/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,13/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,641 NIS ,13/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,641 NIS ,13/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,641 NIS ,13/03/2023
+"Aeroflot, easyJet",TLV,MEX,7h 35m ,1 stop ,688 NIS ,13/03/2023
+"Aeroflot, airBaltic",TLV,MEX,8h 15m ,1 stop ,696 NIS ,13/03/2023
+LOT,TLV,MEX,9h 00m ,1 stop ,"1,014 NIS ",13/03/2023
+"Finnair, Ryanair",TLV,MEX,10h 05m ,2 stops ,601 NIS ,13/03/2023
+"Pobeda, Finnair",TLV,MEX,9h 55m ,2 stops ,609 NIS ,13/03/2023
+"Aeroflot, Pegasus Airlines",TLV,MEX,15h 20m ,2 stops ,626 NIS ,13/03/2023
+"Finnair, Transavia France",TLV,MEX,14h 45m ,2 stops ,637 NIS ,13/03/2023
+"Aeroflot, Finnair",TLV,MEX,7h 45m ,2 stops ,641 NIS ,13/03/2023
+"Aeroflot, Finnair",TLV,MEX,8h 20m ,2 stops ,641 NIS ,13/03/2023
+"Finnair, Vueling",TLV,MEX,10h 50m ,2 stops ,641 NIS ,13/03/2023
+Multiple Airlines,TLV,MEX,12h 10m ,2 stops ,718 NIS ,13/03/2023
+Bulgaria Air,TLV,MEX,15h 05m ,1 stop ,810 NIS ,13/03/2023
+LOT,TLV,MEX,13h 10m ,1 stop ,"1,014 NIS ",13/03/2023
+Aeroflot,TLV,MEX,11h 50m ,1 stop ,"1,230 NIS ",13/03/2023
+Aeroflot,TLV,MEX,12h 55m ,1 stop ,"1,230 NIS ",13/03/2023
+Aeroflot,TLV,MEX,7h 50m ,1 stop ,"1,411 NIS ",13/03/2023
+Aeroflot,TLV,MEX,8h 45m ,1 stop ,"1,411 NIS ",13/03/2023
+Aeroflot,TLV,MEX,9h 25m ,1 stop ,"1,411 NIS ",13/03/2023
+Aeroflot,TLV,MEX,10h 35m ,1 stop ,"1,411 NIS ",13/03/2023
+Aeroflot,TLV,MEX,10h 45m ,1 stop ,"1,411 NIS ",13/03/2023
+Aeroflot,TLV,MEX,11h 30m ,1 stop ,"1,411 NIS ",13/03/2023
+Aeroflot,TLV,MEX,12h 30m ,1 stop ,"1,411 NIS ",13/03/2023
+Aeroflot,TLV,MEX,13h 40m ,1 stop ,"1,411 NIS ",13/03/2023
+Aeroflot,TLV,MEX,14h 20m ,1 stop ,"1,411 NIS ",13/03/2023
+Multiple Airlines,TLV,MEX,15h 15m ,3 stops ,702 NIS ,13/03/2023
+"Aeroflot, Kenya Airways",TLV,MEX,12h 50m ,2 stops ,"5,611 NIS ",13/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",13/03/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,588 NIS ",13/03/2023
+Multiple Airlines,TLV,MEX,14h 55m ,2 stops ,"8,240 NIS ",13/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",13/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",13/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",13/03/2023
+Air Serbia,TLV,MEX,15h 20m ,1 stop ,504 NIS ,14/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,599 NIS ,14/03/2023
+Air Serbia,TLV,MEX,15h 20m ,1 stop ,430 NIS ,14/03/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,599 NIS ,14/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,055 NIS ",14/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,110 NIS ",14/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,437 NIS ,14/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,437 NIS ,14/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,14/03/2023
+airBaltic,TLV,MEX,8h 55m ,1 stop ,483 NIS ,14/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,14/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,14/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,14/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,14/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,14/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,14/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,14/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,14/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,641 NIS ,14/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,641 NIS ,14/03/2023
+KLM,TLV,MEX,16h 15m ,1 stop ,641 NIS ,14/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,644 NIS ,14/03/2023
+"Aeroflot, Transavia France",TLV,MEX,7h 25m ,1 stop ,662 NIS ,14/03/2023
+LOT,TLV,MEX,9h 00m ,1 stop ,"1,014 NIS ",14/03/2023
+LOT,TLV,MEX,13h 10m ,1 stop ,"1,014 NIS ",14/03/2023
+"Pobeda, Finnair",TLV,MEX,9h 55m ,2 stops ,589 NIS ,14/03/2023
+"Aeroflot, Finnair",TLV,MEX,7h 45m ,2 stops ,619 NIS ,14/03/2023
+"Aeroflot, Finnair",TLV,MEX,8h 20m ,2 stops ,619 NIS ,14/03/2023
+"Aeroflot, Air Serbia",TLV,MEX,10h 55m ,2 stops ,716 NIS ,14/03/2023
+"Aeroflot, Ryanair",TLV,MEX,11h 40m ,2 stops ,758 NIS ,14/03/2023
+"Aeroflot, Finnair",TLV,MEX,9h 55m ,2 stops ,791 NIS ,14/03/2023
+Aeroflot,TLV,MEX,7h 20m ,1 stop ,"1,411 NIS ",14/03/2023
+Aeroflot,TLV,MEX,7h 30m ,1 stop ,"1,411 NIS ",14/03/2023
+Aeroflot,TLV,MEX,8h 15m ,1 stop ,"1,411 NIS ",14/03/2023
+Aeroflot,TLV,MEX,9h 15m ,1 stop ,"1,411 NIS ",14/03/2023
+Aeroflot,TLV,MEX,10h 25m ,1 stop ,"1,411 NIS ",14/03/2023
+Aeroflot,TLV,MEX,11h 05m ,1 stop ,"1,411 NIS ",14/03/2023
+Aeroflot,TLV,MEX,12h 20m ,1 stop ,"1,411 NIS ",14/03/2023
+Aeroflot,TLV,MEX,12h 50m ,1 stop ,"1,411 NIS ",14/03/2023
+Multiple Airlines,TLV,MEX,16h 05m ,2 stops ,561 NIS ,14/03/2023
+"Aeroflot, Lufthansa",TLV,MEX,8h 30m ,1 stop ,777 NIS ,14/03/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,954 NIS ",14/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",14/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 55m ,1 stop ,"12,499 NIS ",14/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",14/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",14/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",14/03/2023
+Air Serbia,TLV,MEX,25h 20m ,1 stop ,504 NIS ,15/03/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,573 NIS ,15/03/2023
+Air Serbia,TLV,MEX,25h 20m ,1 stop ,430 NIS ,15/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,599 NIS ,15/03/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,022 NIS ",15/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,022 NIS ",15/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,437 NIS ,15/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,437 NIS ,15/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,15/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,15/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,15/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,15/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,15/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,15/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,15/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,15/03/2023
+"Nordwind Airlines, Wizz Air",TLV,MEX,14h 10m ,1 stop ,614 NIS ,15/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,15/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,641 NIS ,15/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,641 NIS ,15/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,641 NIS ,15/03/2023
+"Aeroflot, easyJet",TLV,MEX,7h 10m ,1 stop ,690 NIS ,15/03/2023
+"Aeroflot, easyJet",TLV,MEX,10h 20m ,1 stop ,731 NIS ,15/03/2023
+"Aeroflot, easyJet",TLV,MEX,12h 40m ,1 stop ,782 NIS ,15/03/2023
+"Aeroflot, easyJet",TLV,MEX,9h 30m ,1 stop ,801 NIS ,15/03/2023
+"Aeroflot, Air France",TLV,MEX,11h 10m ,1 stop ,804 NIS ,15/03/2023
+"Aeroflot, easyJet",TLV,MEX,7h 30m ,1 stop ,828 NIS ,15/03/2023
+"Nordwind Airlines, Turkish Airlines",TLV,MEX,10h 35m ,1 stop ,865 NIS ,15/03/2023
+"Aeroflot, Lufthansa",TLV,MEX,11h 05m ,1 stop ,990 NIS ,15/03/2023
+"Pobeda, Finnair",TLV,MEX,9h 55m ,2 stops ,589 NIS ,15/03/2023
+"Aeroflot, Finnair",TLV,MEX,7h 45m ,2 stops ,619 NIS ,15/03/2023
+"Aeroflot, Finnair",TLV,MEX,8h 20m ,2 stops ,619 NIS ,15/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 00m ,2 stops ,619 NIS ,15/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 35m ,2 stops ,619 NIS ,15/03/2023
+"Aeroflot, Pegasus Airlines",TLV,MEX,15h 20m ,2 stops ,626 NIS ,15/03/2023
+"Aeroflot, Finnair",TLV,MEX,9h 55m ,2 stops ,671 NIS ,15/03/2023
+"Aeroflot, Finnair",TLV,MEX,14h 30m ,2 stops ,671 NIS ,15/03/2023
+"Finnair, Vueling",TLV,MEX,10h 55m ,2 stops ,682 NIS ,15/03/2023
+"Aeroflot, Ryanair",TLV,MEX,11h 55m ,2 stops ,682 NIS ,15/03/2023
+"LOT, Vueling",TLV,MEX,10h 10m ,2 stops ,717 NIS ,15/03/2023
+"LOT, easyJet",TLV,MEX,10h 35m ,2 stops ,752 NIS ,15/03/2023
+"LOT, easyJet",TLV,MEX,10h 15m ,2 stops ,883 NIS ,15/03/2023
+"Aeroflot, KLM",TLV,MEX,9h 00m ,2 stops ,949 NIS ,15/03/2023
+"Aeroflot, KLM",TLV,MEX,9h 55m ,2 stops ,949 NIS ,15/03/2023
+"Aeroflot, KLM",TLV,MEX,10h 35m ,2 stops ,949 NIS ,15/03/2023
+Multiple Airlines,TLV,MEX,15h 05m ,3 stops ,675 NIS ,15/03/2023
+Multiple Airlines,TLV,MEX,15h 40m ,3 stops ,675 NIS ,15/03/2023
+"Finnair, Vueling",TLV,MEX,11h 00m ,2 stops ,700 NIS ,15/03/2023
+"KLM, Ryanair",TLV,MEX,16h 05m ,3 stops ,837 NIS ,15/03/2023
+Multiple Airlines,TLV,MEX,15h 20m ,3 stops ,842 NIS ,15/03/2023
+"airBaltic, Lufthansa",TLV,MEX,9h 25m ,2 stops ,"1,314 NIS ",15/03/2023
+"Aeroflot, LOT",TLV,MEX,14h 40m ,1 stop ,"4,101 NIS ",15/03/2023
+"LOT, KLM",TLV,MEX,15h 40m ,2 stops ,"4,557 NIS ",15/03/2023
+"Aeroflot, Lufthansa",TLV,MEX,10h 40m ,2 stops ,"4,856 NIS ",15/03/2023
+"Aeroflot, Lufthansa",TLV,MEX,11h 45m ,2 stops ,"4,856 NIS ",15/03/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,954 NIS ",15/03/2023
+"Aeroflot, Lufthansa",TLV,MEX,13h 00m ,2 stops ,"5,586 NIS ",15/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",15/03/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,588 NIS ",15/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 55m ,1 stop ,"12,499 NIS ",15/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",15/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",15/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",15/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,597 NIS ,16/03/2023
+Finnair,TLV,MEX,7h 50m ,1 stop ,395 NIS ,16/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,024 NIS ",16/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,090 NIS ",16/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,437 NIS ,16/03/2023
+Finnair,TLV,MEX,11h 40m ,1 stop ,395 NIS ,16/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,437 NIS ,16/03/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,516 NIS ,16/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,16/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,16/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,16/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,16/03/2023
+Finnair,TLV,MEX,15h 55m ,1 stop ,395 NIS ,16/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,16/03/2023
+airBaltic,TLV,MEX,13h 25m ,1 stop ,483 NIS ,16/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,16/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,16/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,16/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,16/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,641 NIS ,16/03/2023
+"Aeroflot, easyJet",TLV,MEX,7h 10m ,1 stop ,668 NIS ,16/03/2023
+"Finnair, Ryanair",TLV,MEX,10h 10m ,2 stops ,577 NIS ,16/03/2023
+"Pobeda, Finnair",TLV,MEX,9h 55m ,2 stops ,589 NIS ,16/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 00m ,2 stops ,608 NIS ,16/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 35m ,2 stops ,608 NIS ,16/03/2023
+"Aeroflot, Finnair",TLV,MEX,7h 45m ,2 stops ,619 NIS ,16/03/2023
+"Aeroflot, Finnair",TLV,MEX,8h 20m ,2 stops ,619 NIS ,16/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,641 NIS ,16/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,641 NIS ,16/03/2023
+KLM,TLV,MEX,16h 15m ,1 stop ,641 NIS ,16/03/2023
+"Aeroflot, easyJet",TLV,MEX,10h 20m ,1 stop ,729 NIS ,16/03/2023
+"Aeroflot, Czech Airlines",TLV,MEX,9h 15m ,2 stops ,769 NIS ,16/03/2023
+Multiple Airlines,TLV,MEX,16h 05m ,2 stops ,592 NIS ,16/03/2023
+Multiple Airlines,TLV,MEX,14h 30m ,3 stops ,672 NIS ,16/03/2023
+Multiple Airlines,TLV,MEX,13h 00m ,3 stops ,675 NIS ,16/03/2023
+"Finnair, Ryanair",TLV,MEX,14h 50m ,3 stops ,701 NIS ,16/03/2023
+"Finnair, Ryanair",TLV,MEX,13h 25m ,3 stops ,715 NIS ,16/03/2023
+Multiple Airlines,TLV,MEX,14h 40m ,3 stops ,722 NIS ,16/03/2023
+Multiple Airlines,TLV,MEX,13h 05m ,2 stops ,998 NIS ,16/03/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,954 NIS ",16/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",16/03/2023
+"Czech Airlines, Lufthansa",TLV,MEX,8h 10m ,2 stops ,"9,068 NIS ",16/03/2023
+"KLM, SWISS",TLV,MEX,9h 50m ,2 stops ,"9,797 NIS ",16/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 00m ,1 stop ,"12,499 NIS ",16/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",16/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",16/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",16/03/2023
+Air Serbia,TLV,MEX,14h 20m ,1 stop ,504 NIS ,17/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,599 NIS ,17/03/2023
+Finnair,TLV,MEX,9h 35m ,1 stop ,395 NIS ,17/03/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,599 NIS ,17/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,024 NIS ",17/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,437 NIS ,17/03/2023
+Finnair,TLV,MEX,13h 50m ,1 stop ,395 NIS ,17/03/2023
+Air Serbia,TLV,MEX,14h 20m ,1 stop ,430 NIS ,17/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,437 NIS ,17/03/2023
+airBaltic,TLV,MEX,8h 55m ,1 stop ,483 NIS ,17/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,17/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,17/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,17/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,17/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,17/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,17/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,17/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,17/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,17/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,641 NIS ,17/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,641 NIS ,17/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,641 NIS ,17/03/2023
+KLM,TLV,MEX,16h 15m ,1 stop ,641 NIS ,17/03/2023
+"Aeroflot, easyJet",TLV,MEX,7h 10m ,1 stop ,701 NIS ,17/03/2023
+Aeroflot,TLV,MEX,13h 55m ,1 stop ,734 NIS ,17/03/2023
+Aeroflot,TLV,MEX,14h 30m ,1 stop ,734 NIS ,17/03/2023
+"Aeroflot, easyJet",TLV,MEX,9h 15m ,1 stop ,855 NIS ,17/03/2023
+"Pobeda, Finnair",TLV,MEX,9h 55m ,2 stops ,577 NIS ,17/03/2023
+"Aeroflot, Finnair",TLV,MEX,7h 45m ,2 stops ,608 NIS ,17/03/2023
+"Aeroflot, Finnair",TLV,MEX,8h 20m ,2 stops ,608 NIS ,17/03/2023
+"Aeroflot, Finnair",TLV,MEX,9h 55m ,2 stops ,608 NIS ,17/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 00m ,2 stops ,608 NIS ,17/03/2023
+"Aeroflot, Finnair",TLV,MEX,12h 35m ,2 stops ,608 NIS ,17/03/2023
+"Aeroflot, Vueling",TLV,MEX,9h 50m ,1 stop ,933 NIS ,17/03/2023
+LOT,TLV,MEX,9h 00m ,1 stop ,"1,014 NIS ",17/03/2023
+LOT,TLV,MEX,13h 10m ,1 stop ,"1,014 NIS ",17/03/2023
+Aeroflot,TLV,MEX,15h 00m ,1 stop ,"1,230 NIS ",17/03/2023
+Aeroflot,TLV,MEX,16h 05m ,1 stop ,"1,230 NIS ",17/03/2023
+Aeroflot,TLV,MEX,7h 20m ,1 stop ,"1,279 NIS ",17/03/2023
+Aeroflot,TLV,MEX,7h 30m ,1 stop ,"1,279 NIS ",17/03/2023
+Aeroflot,TLV,MEX,8h 15m ,1 stop ,"1,279 NIS ",17/03/2023
+Aeroflot,TLV,MEX,9h 15m ,1 stop ,"1,279 NIS ",17/03/2023
+Aeroflot,TLV,MEX,10h 25m ,1 stop ,"1,279 NIS ",17/03/2023
+Aeroflot,TLV,MEX,11h 05m ,1 stop ,"1,279 NIS ",17/03/2023
+"Aeroflot, Ryanair",TLV,MEX,14h 30m ,2 stops ,682 NIS ,17/03/2023
+"airBaltic, Vueling",TLV,MEX,13h 40m ,2 stops ,700 NIS ,17/03/2023
+"Aeroflot, Ryanair",TLV,MEX,14h 00m ,2 stops ,701 NIS ,17/03/2023
+"Finnair, easyJet",TLV,MEX,13h 50m ,2 stops ,713 NIS ,17/03/2023
+Multiple Airlines,TLV,MEX,15h 15m ,3 stops ,830 NIS ,17/03/2023
+Multiple Airlines,TLV,MEX,13h 30m ,3 stops ,950 NIS ,17/03/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,954 NIS ",17/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,735 NIS ",17/03/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,588 NIS ",17/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",17/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",17/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",17/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,599 NIS ,18/03/2023
+Multiple Airlines,TLV,MEX,16h 00m ,2 stops ,405 NIS ,18/03/2023
+Aeroflot,TLV,MEX,4h 05m ,nonstop ,"1,055 NIS ",18/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,055 NIS ",18/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,437 NIS ,18/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,437 NIS ,18/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,18/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,18/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,18/03/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,626 NIS ,18/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,18/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,645 NIS ,18/03/2023
+"Aeroflot, Transavia France",TLV,MEX,6h 40m ,1 stop ,673 NIS ,18/03/2023
+"Aeroflot, easyJet",TLV,MEX,7h 35m ,1 stop ,701 NIS ,18/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,730 NIS ,18/03/2023
+Aeroflot,TLV,MEX,6h 40m ,1 stop ,734 NIS ,18/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,825 NIS ,18/03/2023
+"KLM, Air France",TLV,MEX,16h 15m ,1 stop ,654 NIS ,18/03/2023
+"KLM, Air France",TLV,MEX,17h 40m ,1 stop ,699 NIS ,18/03/2023
+"Aeroflot, easyJet",TLV,MEX,7h 10m ,1 stop ,729 NIS ,18/03/2023
+"Aeroflot, easyJet",TLV,MEX,10h 20m ,1 stop ,729 NIS ,18/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,730 NIS ,18/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,730 NIS ,18/03/2023
+"Aeroflot, Wizz Air",TLV,MEX,12h 15m ,1 stop ,745 NIS ,18/03/2023
+"Aeroflot, Ryanair",TLV,MEX,10h 25m ,1 stop ,756 NIS ,18/03/2023
+"KLM, Air France",TLV,MEX,21h 45m ,1 stop ,787 NIS ,18/03/2023
+Bulgaria Air,TLV,MEX,14h 25m ,1 stop ,810 NIS ,18/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,825 NIS ,18/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,825 NIS ,18/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,825 NIS ,18/03/2023
+Aeroflot,TLV,MEX,7h 10m ,1 stop ,869 NIS ,18/03/2023
+LOT,TLV,MEX,5h 35m ,1 stop ,"1,014 NIS ",18/03/2023
+LOT,TLV,MEX,9h 45m ,1 stop ,"1,014 NIS ",18/03/2023
+Multiple Airlines,TLV,MEX,16h 45m ,2 stops ,405 NIS ,18/03/2023
+Multiple Airlines,TLV,MEX,9h 55m ,2 stops ,517 NIS ,18/03/2023
+Multiple Airlines,TLV,MEX,10h 50m ,2 stops ,517 NIS ,18/03/2023
+Multiple Airlines,TLV,MEX,12h 50m ,2 stops ,517 NIS ,18/03/2023
+"Aeroflot, Finnair",TLV,MEX,7h 45m ,2 stops ,608 NIS ,18/03/2023
+"Aeroflot, Finnair",TLV,MEX,8h 20m ,2 stops ,608 NIS ,18/03/2023
+"Aeroflot, Finnair",TLV,MEX,9h 55m ,2 stops ,608 NIS ,18/03/2023
+Multiple Airlines,TLV,MEX,10h 10m ,2 stops ,608 NIS ,18/03/2023
+"Aeroflot, Pegasus Airlines",TLV,MEX,15h 20m ,2 stops ,723 NIS ,18/03/2023
+Aeroflot,TLV,MEX,11h 50m ,1 stop ,"1,230 NIS ",18/03/2023
+Aeroflot,TLV,MEX,12h 55m ,1 stop ,"1,230 NIS ",18/03/2023
+Aeroflot,TLV,MEX,7h 20m ,1 stop ,"1,279 NIS ",18/03/2023
+Aeroflot,TLV,MEX,7h 30m ,1 stop ,"1,279 NIS ",18/03/2023
+Aeroflot,TLV,MEX,8h 15m ,1 stop ,"1,279 NIS ",18/03/2023
+Aeroflot,TLV,MEX,9h 15m ,1 stop ,"1,279 NIS ",18/03/2023
+Aeroflot,TLV,MEX,10h 25m ,1 stop ,"1,279 NIS ",18/03/2023
+Aeroflot,TLV,MEX,11h 05m ,1 stop ,"1,279 NIS ",18/03/2023
+Aeroflot,TLV,MEX,12h 20m ,1 stop ,"1,279 NIS ",18/03/2023
+Aeroflot,TLV,MEX,12h 50m ,1 stop ,"1,279 NIS ",18/03/2023
+Multiple Airlines,TLV,MEX,16h 05m ,2 stops ,516 NIS ,18/03/2023
+Multiple Airlines,TLV,MEX,10h 50m ,3 stops ,681 NIS ,18/03/2023
+Multiple Airlines,TLV,MEX,15h 35m ,3 stops ,762 NIS ,18/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,798 NIS ",18/03/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,588 NIS ",18/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 55m ,1 stop ,"12,499 NIS ",18/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",18/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",18/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",18/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,656 NIS ,19/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,599 NIS ,19/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,19/03/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,721 NIS ,19/03/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,045 NIS ",19/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,110 NIS ",19/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,19/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,645 NIS ,19/03/2023
+"Aeroflot, easyJet",TLV,MEX,5h 45m ,1 stop ,669 NIS ,19/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,730 NIS ,19/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,730 NIS ,19/03/2023
+Air Serbia,TLV,MEX,7h 00m ,1 stop ,781 NIS ,19/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,19/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,645 NIS ,19/03/2023
+"Aeroflot, easyJet",TLV,MEX,8h 20m ,1 stop ,701 NIS ,19/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,730 NIS ,19/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,730 NIS ,19/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,730 NIS ,19/03/2023
+"Nordwind Airlines, Air France",TLV,MEX,7h 25m ,1 stop ,737 NIS ,19/03/2023
+"Nordwind Airlines, Air France",TLV,MEX,8h 25m ,1 stop ,750 NIS ,19/03/2023
+Air Serbia,TLV,MEX,9h 40m ,1 stop ,781 NIS ,19/03/2023
+LOT,TLV,MEX,5h 35m ,1 stop ,"1,014 NIS ",19/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,19/03/2023
+"Finnair, easyJet",TLV,MEX,10h 25m ,2 stops ,641 NIS ,19/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,645 NIS ,19/03/2023
+"Finnair, LOT",TLV,MEX,11h 30m ,2 stops ,679 NIS ,19/03/2023
+"Aeroflot, Air Serbia",TLV,MEX,12h 00m ,2 stops ,692 NIS ,19/03/2023
+Aeroflot,TLV,MEX,13h 55m ,1 stop ,720 NIS ,19/03/2023
+Aeroflot,TLV,MEX,14h 30m ,1 stop ,720 NIS ,19/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,730 NIS ,19/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,730 NIS ,19/03/2023
+"Aeroflot, HiSky",TLV,MEX,13h 50m ,1 stop ,769 NIS ,19/03/2023
+"Aeroflot, Czech Airlines",TLV,MEX,9h 15m ,2 stops ,776 NIS ,19/03/2023
+Bulgaria Air,TLV,MEX,14h 25m ,1 stop ,810 NIS ,19/03/2023
+"Aeroflot, Finnair",TLV,MEX,9h 55m ,2 stops ,869 NIS ,19/03/2023
+LOT,TLV,MEX,9h 45m ,1 stop ,"1,014 NIS ",19/03/2023
+Aeroflot,TLV,MEX,15h 00m ,1 stop ,"1,230 NIS ",19/03/2023
+Aeroflot,TLV,MEX,12h 20m ,1 stop ,"1,608 NIS ",19/03/2023
+Multiple Airlines,TLV,MEX,15h 45m ,2 stops ,598 NIS ,19/03/2023
+"Aeroflot, Ryanair",TLV,MEX,15h 00m ,3 stops ,692 NIS ,19/03/2023
+Multiple Airlines,TLV,MEX,14h 55m ,3 stops ,745 NIS ,19/03/2023
+"Aeroflot, Pegasus Airlines",TLV,MEX,15h 20m ,2 stops ,750 NIS ,19/03/2023
+Multiple Airlines,TLV,MEX,13h 30m ,3 stops ,971 NIS ,19/03/2023
+Multiple Airlines,TLV,MEX,13h 05m ,3 stops ,"1,001 NIS ",19/03/2023
+Multiple Airlines,TLV,MEX,15h 15m ,3 stops ,"1,016 NIS ",19/03/2023
+Multiple Airlines,TLV,MEX,11h 55m ,2 stops ,"1,023 NIS ",19/03/2023
+"Aeroflot, Air France",TLV,MEX,11h 55m ,2 stops ,"1,117 NIS ",19/03/2023
+Air Algerie,TLV,MEX,10h 50m ,1 stop ,"2,752 NIS ",19/03/2023
+Air Algerie,TLV,MEX,11h 55m ,1 stop ,"2,752 NIS ",19/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,714 NIS ",19/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",19/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",19/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",19/03/2023
+airBaltic,TLV,MEX,13h 25m ,1 stop ,577 NIS ,20/03/2023
+Aeroflot,TLV,MEX,4h 00m ,nonstop ,"1,055 NIS ",20/03/2023
+Multiple Airlines,TLV,MEX,21h 30m ,2 stops ,454 NIS ,20/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,442 NIS ",20/03/2023
+airBaltic,TLV,MEX,13h 25m ,1 stop ,483 NIS ,20/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,20/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,20/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,20/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,20/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,20/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,20/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,20/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,645 NIS ,20/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,20/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,641 NIS ,20/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,641 NIS ,20/03/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,641 NIS ,20/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,645 NIS ,20/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,645 NIS ,20/03/2023
+"Aeroflot, Transavia France",TLV,MEX,8h 05m ,1 stop ,673 NIS ,20/03/2023
+"Aeroflot, airBaltic",TLV,MEX,8h 15m ,1 stop ,673 NIS ,20/03/2023
+Finnair,TLV,MEX,11h 40m ,1 stop ,703 NIS ,20/03/2023
+Finnair,TLV,MEX,15h 55m ,1 stop ,703 NIS ,20/03/2023
+Aeroflot,TLV,MEX,6h 40m ,1 stop ,720 NIS ,20/03/2023
+Aeroflot,TLV,MEX,7h 10m ,1 stop ,724 NIS ,20/03/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,781 NIS ,20/03/2023
+Finnair,TLV,MEX,7h 50m ,1 stop ,789 NIS ,20/03/2023
+"Aeroflot, Ryanair",TLV,MEX,14h 45m ,1 stop ,743 NIS ,20/03/2023
+Bulgaria Air,TLV,MEX,15h 05m ,1 stop ,810 NIS ,20/03/2023
+LOT,TLV,MEX,9h 00m ,1 stop ,"1,014 NIS ",20/03/2023
+LOT,TLV,MEX,13h 10m ,1 stop ,"1,014 NIS ",20/03/2023
+Aeroflot,TLV,MEX,11h 50m ,1 stop ,"1,229 NIS ",20/03/2023
+Aeroflot,TLV,MEX,12h 55m ,1 stop ,"1,229 NIS ",20/03/2023
+Multiple Airlines,TLV,MEX,12h 10m ,2 stops ,651 NIS ,20/03/2023
+"Finnair, Ryanair",TLV,MEX,10h 05m ,2 stops ,652 NIS ,20/03/2023
+"Aeroflot, Air Serbia",TLV,MEX,14h 05m ,2 stops ,663 NIS ,20/03/2023
+Aeroflot,TLV,MEX,7h 50m ,1 stop ,"1,608 NIS ",20/03/2023
+Aeroflot,TLV,MEX,8h 45m ,1 stop ,"1,608 NIS ",20/03/2023
+Aeroflot,TLV,MEX,9h 25m ,1 stop ,"1,608 NIS ",20/03/2023
+Aeroflot,TLV,MEX,10h 35m ,1 stop ,"1,608 NIS ",20/03/2023
+Aeroflot,TLV,MEX,10h 45m ,1 stop ,"1,608 NIS ",20/03/2023
+Aeroflot,TLV,MEX,11h 30m ,1 stop ,"1,608 NIS ",20/03/2023
+Aeroflot,TLV,MEX,13h 40m ,1 stop ,"1,608 NIS ",20/03/2023
+Aeroflot,TLV,MEX,14h 20m ,1 stop ,"1,608 NIS ",20/03/2023
+Multiple Airlines,TLV,MEX,15h 05m ,3 stops ,825 NIS ,20/03/2023
+Multiple Airlines,TLV,MEX,15h 40m ,3 stops ,825 NIS ,20/03/2023
+"Aeroflot, Lufthansa",TLV,MEX,10h 40m ,2 stops ,"1,189 NIS ",20/03/2023
+"Aeroflot, Lufthansa",TLV,MEX,11h 45m ,2 stops ,"4,856 NIS ",20/03/2023
+"Aeroflot, Kenya Airways",TLV,MEX,12h 50m ,2 stops ,"5,611 NIS ",20/03/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",20/03/2023
+Multiple Airlines,TLV,MEX,14h 55m ,2 stops ,"8,240 NIS ",20/03/2023
+Multiple Airlines,TLV,MEX,10h 40m ,2 stops ,"12,130 NIS ",20/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 55m ,1 stop ,"12,499 NIS ",20/03/2023
+"Aeroflot, KLM",TLV,MEX,5h 50m ,1 stop ,"12,541 NIS ",20/03/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",20/03/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",20/03/2023
+airBaltic,TLV,MEX,8h 55m ,1 stop ,577 NIS ,21/03/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,606 NIS ,21/03/2023
+airBaltic,TLV,MEX,8h 55m ,1 stop ,483 NIS ,21/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,608 NIS ,21/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,038 NIS ",21/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,110 NIS ",21/03/2023
+Air Serbia,TLV,MEX,15h 20m ,1 stop ,552 NIS ,21/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,21/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,21/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,21/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,21/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,21/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,21/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,21/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,21/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,644 NIS ,21/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,656 NIS ,22/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,608 NIS ,22/03/2023
+"Finnair, Vueling",TLV,MEX,17h 50m ,2 stops ,559 NIS ,22/03/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,732 NIS ,22/03/2023
+Aeroflot,TLV,MEX,4h 05m ,nonstop ,"1,055 NIS ",22/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,055 NIS ",22/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,22/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,22/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,22/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,22/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,22/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,22/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,22/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,641 NIS ,22/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,645 NIS ,22/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,645 NIS ,22/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,22/03/2023
+airBaltic,TLV,MEX,13h 25m ,1 stop ,577 NIS ,23/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,608 NIS ,23/03/2023
+airBaltic,TLV,MEX,13h 25m ,1 stop ,483 NIS ,23/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,038 NIS ",23/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,110 NIS ",23/03/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,516 NIS ,23/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,23/03/2023
+Finnair,TLV,MEX,7h 50m ,1 stop ,603 NIS ,23/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,23/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,23/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,23/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,645 NIS ,23/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,23/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,23/03/2023
+Finnair,TLV,MEX,11h 40m ,1 stop ,603 NIS ,23/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,23/03/2023
+airBaltic,TLV,MEX,8h 55m ,1 stop ,577 NIS ,24/03/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,606 NIS ,24/03/2023
+airBaltic,TLV,MEX,8h 55m ,1 stop ,483 NIS ,24/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,608 NIS ,24/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,037 NIS ",24/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,24/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,24/03/2023
+Finnair,TLV,MEX,9h 35m ,1 stop ,603 NIS ,24/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,24/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,24/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,24/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,24/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,24/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,645 NIS ,24/03/2023
+Air Serbia,TLV,MEX,14h 20m ,1 stop ,552 NIS ,24/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,24/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,656 NIS ,25/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,920 NIS ,25/03/2023
+Multiple Airlines,TLV,MEX,23h 35m ,2 stops ,431 NIS ,25/03/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,040 NIS ",25/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,055 NIS ",25/03/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,516 NIS ,25/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,25/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,25/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,25/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,25/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,645 NIS ,25/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,25/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,25/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,25/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,25/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,641 NIS ,25/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,641 NIS ,25/03/2023
+Air Serbia,TLV,MEX,7h 00m ,1 stop ,504 NIS ,26/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,608 NIS ,26/03/2023
+Finnair,TLV,MEX,16h 20m ,1 stop ,395 NIS ,26/03/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,608 NIS ,26/03/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,037 NIS ",26/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,110 NIS ",26/03/2023
+Air Serbia,TLV,MEX,7h 00m ,1 stop ,430 NIS ,26/03/2023
+Air Serbia,TLV,MEX,9h 40m ,1 stop ,516 NIS ,26/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,26/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,26/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,26/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,26/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,26/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,26/03/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,641 NIS ,26/03/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,641 NIS ,26/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,608 NIS ,27/03/2023
+Finnair,TLV,MEX,11h 40m ,1 stop ,395 NIS ,27/03/2023
+Aeroflot,TLV,MEX,4h 00m ,nonstop ,"1,055 NIS ",27/03/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,516 NIS ,27/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,559 NIS ,27/03/2023
+Finnair,TLV,MEX,15h 55m ,1 stop ,395 NIS ,27/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,27/03/2023
+airBaltic,TLV,MEX,13h 25m ,1 stop ,483 NIS ,27/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,559 NIS ,27/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,27/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,27/03/2023
+KLM,TLV,MEX,5h 50m ,1 stop ,641 NIS ,27/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,27/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,27/03/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,27/03/2023
+Air Serbia,TLV,MEX,15h 20m ,1 stop ,504 NIS ,28/03/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,606 NIS ,28/03/2023
+Air Serbia,TLV,MEX,15h 20m ,1 stop ,431 NIS ,28/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,608 NIS ,28/03/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,038 NIS ",28/03/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,110 NIS ",28/03/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,480 NIS ,28/03/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,480 NIS ,28/03/2023
+airBaltic,TLV,MEX,8h 55m ,1 stop ,483 NIS ,28/03/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,28/03/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,28/03/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,28/03/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,28/03/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,28/03/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,28/03/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,28/03/2023
+Air Serbia,TLV,MEX,14h 20m ,1 stop ,504 NIS ,03/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,055 NIS ",03/04/2023
+Finnair,TLV,MEX,9h 35m ,1 stop ,395 NIS ,03/04/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,437 NIS ,03/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,435 NIS ",03/04/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,"1,435 NIS ",03/04/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,437 NIS ,03/04/2023
+airBaltic,TLV,MEX,8h 55m ,1 stop ,483 NIS ,03/04/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,03/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,03/04/2023
+Finnair,TLV,MEX,13h 50m ,1 stop ,395 NIS ,03/04/2023
+Air Serbia,TLV,MEX,14h 20m ,1 stop ,431 NIS ,03/04/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,03/04/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,03/04/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,03/04/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,03/04/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,641 NIS ,03/04/2023
+KLM,TLV,MEX,12h 40m ,1 stop ,641 NIS ,03/04/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,641 NIS ,03/04/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,645 NIS ,03/04/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,730 NIS ,03/04/2023
+"Aeroflot, easyJet",TLV,MEX,7h 30m ,1 stop ,808 NIS ,03/04/2023
+"Aeroflot, Transavia France",TLV,MEX,7h 55m ,1 stop ,815 NIS ,03/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,730 NIS ,03/04/2023
+KLM,TLV,MEX,16h 15m ,1 stop ,730 NIS ,03/04/2023
+"Aeroflot, easyJet",TLV,MEX,9h 15m ,1 stop ,791 NIS ,03/04/2023
+"Aeroflot, Transavia France",TLV,MEX,9h 55m ,1 stop ,897 NIS ,03/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,MEX,10h 35m ,1 stop ,911 NIS ,03/04/2023
+LOT,TLV,MEX,9h 00m ,1 stop ,"1,014 NIS ",03/04/2023
+LOT,TLV,MEX,13h 10m ,1 stop ,"1,014 NIS ",03/04/2023
+"Aeroflot, easyJet",TLV,MEX,7h 10m ,1 stop ,"1,020 NIS ",03/04/2023
+"Aeroflot, Vueling",TLV,MEX,9h 50m ,1 stop ,"1,060 NIS ",03/04/2023
+"Aeroflot, Transavia France",TLV,MEX,6h 45m ,1 stop ,"1,149 NIS ",03/04/2023
+"LOT, Ryanair",TLV,MEX,9h 30m ,2 stops ,934 NIS ,03/04/2023
+"airBaltic, Lufthansa",TLV,MEX,13h 00m ,2 stops ,962 NIS ,03/04/2023
+"LOT, easyJet",TLV,MEX,10h 15m ,2 stops ,"1,031 NIS ",03/04/2023
+Aeroflot,TLV,MEX,13h 55m ,1 stop ,"1,230 NIS ",03/04/2023
+Aeroflot,TLV,MEX,14h 30m ,1 stop ,"1,230 NIS ",03/04/2023
+Aeroflot,TLV,MEX,15h 00m ,1 stop ,"1,230 NIS ",03/04/2023
+Aeroflot,TLV,MEX,16h 05m ,1 stop ,"1,230 NIS ",03/04/2023
+Aeroflot,TLV,MEX,7h 20m ,1 stop ,"1,279 NIS ",03/04/2023
+Aeroflot,TLV,MEX,7h 30m ,1 stop ,"1,279 NIS ",03/04/2023
+Aeroflot,TLV,MEX,8h 15m ,1 stop ,"1,279 NIS ",03/04/2023
+Aeroflot,TLV,MEX,9h 15m ,1 stop ,"1,279 NIS ",03/04/2023
+Aeroflot,TLV,MEX,10h 25m ,1 stop ,"1,279 NIS ",03/04/2023
+Aeroflot,TLV,MEX,11h 05m ,1 stop ,"1,279 NIS ",03/04/2023
+Aeroflot,TLV,MEX,12h 20m ,1 stop ,"1,279 NIS ",03/04/2023
+Aeroflot,TLV,MEX,12h 50m ,1 stop ,"1,279 NIS ",03/04/2023
+"airBaltic, Lufthansa",TLV,MEX,9h 25m ,2 stops ,"1,314 NIS ",03/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,10h 40m ,2 stops ,"4,851 NIS ",03/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,11h 45m ,2 stops ,"4,851 NIS ",03/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,12h 45m ,2 stops ,"4,851 NIS ",03/04/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,950 NIS ",03/04/2023
+"Aeroflot, Air France",TLV,MEX,12h 25m ,1 stop ,"5,320 NIS ",03/04/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,735 NIS ",03/04/2023
+Multiple Airlines,TLV,MEX,11h 45m ,2 stops ,"12,080 NIS ",03/04/2023
+Multiple Airlines,TLV,MEX,11h 55m ,2 stops ,"12,080 NIS ",03/04/2023
+Multiple Airlines,TLV,MEX,12h 40m ,2 stops ,"12,080 NIS ",03/04/2023
+Multiple Airlines,TLV,MEX,13h 40m ,2 stops ,"12,080 NIS ",03/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 55m ,1 stop ,"12,499 NIS ",03/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 50m ,1 stop ,"12,499 NIS ",03/04/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,656 NIS ,04/04/2023
+Aeroflot,TLV,MEX,4h 05m ,nonstop ,"1,055 NIS ",04/04/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,516 NIS ,04/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,055 NIS ",04/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,440 NIS ",04/04/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,"1,440 NIS ",04/04/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,574 NIS ,04/04/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,574 NIS ,04/04/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,730 NIS ,04/04/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,730 NIS ,04/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,937 NIS ,04/04/2023
+Aeroflot,TLV,MEX,7h 10m ,1 stop ,949 NIS ,04/04/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,976 NIS ,04/04/2023
+LOT,TLV,MEX,5h 35m ,1 stop ,"1,014 NIS ",04/04/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,574 NIS ,04/04/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,645 NIS ,04/04/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,730 NIS ,04/04/2023
+KLM,TLV,MEX,12h 40m ,1 stop ,730 NIS ,04/04/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,730 NIS ,04/04/2023
+Bulgaria Air,TLV,MEX,14h 25m ,1 stop ,810 NIS ,04/04/2023
+"Aeroflot, Transavia France",TLV,MEX,9h 45m ,1 stop ,862 NIS ,04/04/2023
+"Aeroflot, easyJet",TLV,MEX,10h 05m ,1 stop ,911 NIS ,04/04/2023
+"LOT, Wizz Air",TLV,MEX,7h 55m ,1 stop ,936 NIS ,04/04/2023
+Aeroflot,TLV,MEX,6h 40m ,1 stop ,949 NIS ,04/04/2023
+"Aeroflot, Transavia France",TLV,MEX,6h 40m ,1 stop ,951 NIS ,04/04/2023
+"Aeroflot, Air Serbia",TLV,MEX,10h 55m ,1 stop ,955 NIS ,04/04/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,976 NIS ,04/04/2023
+LOT,TLV,MEX,9h 45m ,1 stop ,"1,014 NIS ",04/04/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,"1,237 NIS ",04/04/2023
+Aeroflot,TLV,MEX,7h 20m ,1 stop ,"1,279 NIS ",04/04/2023
+Aeroflot,TLV,MEX,7h 30m ,1 stop ,"1,279 NIS ",04/04/2023
+Aeroflot,TLV,MEX,4h 00m ,nonstop ,"1,053 NIS ",13/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,094 NIS ",13/04/2023
+Aeroflot,TLV,MEX,4h 20m ,nonstop ,"1,442 NIS ",13/04/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,569 NIS ,13/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,098 NIS ",14/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,121 NIS ",14/04/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,"1,463 NIS ",14/04/2023
+Air Serbia,TLV,MEX,15h 20m ,1 stop ,453 NIS ,14/04/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,649 NIS ,14/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,658 NIS ,14/04/2023
+Brussels Airlines,TLV,MEX,16h 55m ,1 stop ,580 NIS ,14/04/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,763 NIS ",14/04/2023
+Air Serbia,TLV,MEX,25h 20m ,1 stop ,504 NIS ,15/04/2023
+Aeroflot,TLV,MEX,4h 05m ,nonstop ,"1,053 NIS ",15/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,053 NIS ",15/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,185 NIS ",15/04/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,437 NIS ,15/04/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,437 NIS ,15/04/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,15/04/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,569 NIS ,15/04/2023
+Aeroflot,TLV,MEX,4h 20m ,nonstop ,"1,443 NIS ",15/04/2023
+Air Serbia,TLV,MEX,25h 20m ,1 stop ,429 NIS ,15/04/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,569 NIS ,15/04/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,569 NIS ,15/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,15/04/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,15/04/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,15/04/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,15/04/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,641 NIS ,15/04/2023
+KLM,TLV,MEX,12h 40m ,1 stop ,641 NIS ,15/04/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,641 NIS ,15/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,641 NIS ,15/04/2023
+"Aeroflot, easyJet",TLV,MEX,7h 10m ,1 stop ,719 NIS ,15/04/2023
+"Aeroflot, easyJet",TLV,MEX,10h 20m ,1 stop ,731 NIS ,15/04/2023
+"Aeroflot, easyJet",TLV,MEX,10h 05m ,1 stop ,808 NIS ,15/04/2023
+"Aeroflot, Vueling",TLV,MEX,10h 05m ,1 stop ,838 NIS ,15/04/2023
+"Aeroflot, easyJet",TLV,MEX,7h 30m ,1 stop ,856 NIS ,15/04/2023
+"Aeroflot, Air France",TLV,MEX,8h 40m ,1 stop ,895 NIS ,15/04/2023
+"LOT, Vueling",TLV,MEX,10h 10m ,2 stops ,742 NIS ,15/04/2023
+"LOT, easyJet",TLV,MEX,10h 35m ,2 stops ,760 NIS ,15/04/2023
+"Aeroflot, LOT",TLV,MEX,14h 40m ,1 stop ,"4,088 NIS ",15/04/2023
+"LOT, KLM",TLV,MEX,15h 40m ,2 stops ,"4,550 NIS ",15/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,10h 40m ,2 stops ,"4,850 NIS ",15/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,11h 45m ,2 stops ,"4,850 NIS ",15/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,12h 45m ,2 stops ,"4,850 NIS ",15/04/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,945 NIS ",15/04/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",15/04/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,580 NIS ",15/04/2023
+Multiple Airlines,TLV,MEX,11h 45m ,2 stops ,"12,099 NIS ",15/04/2023
+Multiple Airlines,TLV,MEX,11h 55m ,2 stops ,"12,099 NIS ",15/04/2023
+Multiple Airlines,TLV,MEX,12h 40m ,2 stops ,"12,099 NIS ",15/04/2023
+Multiple Airlines,TLV,MEX,13h 40m ,2 stops ,"12,099 NIS ",15/04/2023
+Multiple Airlines,TLV,MEX,14h 50m ,2 stops ,"12,099 NIS ",15/04/2023
+Multiple Airlines,TLV,MEX,15h 30m ,2 stops ,"12,099 NIS ",15/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 55m ,1 stop ,"12,499 NIS ",15/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",15/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",15/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,053 NIS ",16/04/2023
+Finnair,TLV,MEX,7h 50m ,1 stop ,395 NIS ,16/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,094 NIS ",16/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,108 NIS ",16/04/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,435 NIS ,16/04/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,514 NIS ,16/04/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,569 NIS ,16/04/2023
+Aeroflot,TLV,MEX,4h 20m ,nonstop ,"1,443 NIS ",16/04/2023
+Finnair,TLV,MEX,11h 40m ,1 stop ,395 NIS ,16/04/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,435 NIS ,16/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,16/04/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,16/04/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,16/04/2023
+Finnair,TLV,MEX,15h 55m ,1 stop ,395 NIS ,16/04/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,435 NIS ,16/04/2023
+airBaltic,TLV,MEX,13h 25m ,1 stop ,480 NIS ,16/04/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,569 NIS ,16/04/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,16/04/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,641 NIS ,16/04/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,569 NIS ,16/04/2023
+KLM,TLV,MEX,12h 40m ,1 stop ,641 NIS ,16/04/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,641 NIS ,16/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,641 NIS ,16/04/2023
+KLM,TLV,MEX,16h 15m ,1 stop ,641 NIS ,16/04/2023
+"Aeroflot, easyJet",TLV,MEX,10h 05m ,1 stop ,806 NIS ,16/04/2023
+"Aeroflot, Air France",TLV,MEX,10h 00m ,1 stop ,930 NIS ,16/04/2023
+"Aeroflot, easyJet",TLV,MEX,7h 10m ,1 stop ,983 NIS ,16/04/2023
+"Aeroflot, Vueling",TLV,MEX,11h 55m ,1 stop ,877 NIS ,16/04/2023
+"LOT, easyJet",TLV,MEX,10h 35m ,2 stops ,898 NIS ,16/04/2023
+"Aeroflot, easyJet",TLV,MEX,11h 20m ,1 stop ,929 NIS ,16/04/2023
+"LOT, Ryanair",TLV,MEX,9h 00m ,2 stops ,967 NIS ,16/04/2023
+"Aeroflot, Vueling",TLV,MEX,10h 35m ,1 stop ,992 NIS ,16/04/2023
+"Aeroflot, easyJet",TLV,MEX,10h 20m ,1 stop ,995 NIS ,16/04/2023
+KLM,TLV,MEX,6h 20m ,1 stop ,"1,261 NIS ",16/04/2023
+KLM,TLV,MEX,7h 55m ,1 stop ,"1,261 NIS ",16/04/2023
+"KLM, easyJet",TLV,MEX,10h 55m ,2 stops ,"1,007 NIS ",16/04/2023
+"LOT, Vueling",TLV,MEX,10h 10m ,2 stops ,"1,014 NIS ",16/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,10h 40m ,2 stops ,"4,850 NIS ",16/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,11h 45m ,2 stops ,"4,850 NIS ",16/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,12h 45m ,2 stops ,"4,850 NIS ",16/04/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,945 NIS ",16/04/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",16/04/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,580 NIS ",16/04/2023
+Multiple Airlines,TLV,MEX,20h 05m ,2 stops ,"6,687 NIS ",16/04/2023
+Multiple Airlines,TLV,MEX,11h 45m ,2 stops ,"12,099 NIS ",16/04/2023
+Multiple Airlines,TLV,MEX,11h 55m ,2 stops ,"12,099 NIS ",16/04/2023
+Multiple Airlines,TLV,MEX,13h 40m ,2 stops ,"12,099 NIS ",16/04/2023
+Multiple Airlines,TLV,MEX,14h 50m ,2 stops ,"12,099 NIS ",16/04/2023
+Multiple Airlines,TLV,MEX,15h 30m ,2 stops ,"12,099 NIS ",16/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",16/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",16/04/2023
+Air Serbia,TLV,MEX,14h 20m ,1 stop ,504 NIS ,17/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,053 NIS ",17/04/2023
+Finnair,TLV,MEX,9h 35m ,1 stop ,395 NIS ,17/04/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,480 NIS ,17/04/2023
+Aeroflot,TLV,MEX,4h 20m ,nonstop ,"1,443 NIS ",17/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,444 NIS ",17/04/2023
+airBaltic,TLV,MEX,8h 55m ,1 stop ,481 NIS ,17/04/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,571 NIS ,17/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,641 NIS ,17/04/2023
+Finnair,TLV,MEX,13h 50m ,1 stop ,395 NIS ,17/04/2023
+Air Serbia,TLV,MEX,14h 20m ,1 stop ,427 NIS ,17/04/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,435 NIS ,17/04/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,480 NIS ,17/04/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,571 NIS ,17/04/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,641 NIS ,17/04/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,641 NIS ,17/04/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,641 NIS ,17/04/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,571 NIS ,17/04/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,641 NIS ,17/04/2023
+KLM,TLV,MEX,12h 40m ,1 stop ,641 NIS ,17/04/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,641 NIS ,17/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,7h 00m ,1 stop ,892 NIS ,17/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,641 NIS ,17/04/2023
+KLM,TLV,MEX,16h 15m ,1 stop ,642 NIS ,17/04/2023
+"KLM, Air France",TLV,MEX,17h 40m ,1 stop ,700 NIS ,17/04/2023
+"KLM, Air France",TLV,MEX,21h 45m ,1 stop ,703 NIS ,17/04/2023
+"Aeroflot, easyJet",TLV,MEX,9h 30m ,1 stop ,791 NIS ,17/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,MEX,10h 35m ,1 stop ,876 NIS ,17/04/2023
+"Aeroflot, easyJet",TLV,MEX,7h 10m ,1 stop ,983 NIS ,17/04/2023
+LOT,TLV,MEX,9h 00m ,1 stop ,"1,010 NIS ",17/04/2023
+LOT,TLV,MEX,13h 10m ,1 stop ,"1,010 NIS ",17/04/2023
+"Aeroflot, Transavia France",TLV,MEX,7h 55m ,1 stop ,"1,060 NIS ",17/04/2023
+"Aeroflot, Transavia France",TLV,MEX,6h 45m ,1 stop ,"1,104 NIS ",17/04/2023
+"KLM, Air France",TLV,MEX,28h 40m ,1 stop ,701 NIS ,17/04/2023
+"KLM, Air France",TLV,MEX,25h 55m ,1 stop ,703 NIS ,17/04/2023
+"LOT, easyJet",TLV,MEX,10h 35m ,2 stops ,905 NIS ,17/04/2023
+"LOT, Ryanair",TLV,MEX,9h 30m ,2 stops ,952 NIS ,17/04/2023
+"airBaltic, Lufthansa",TLV,MEX,13h 00m ,2 stops ,961 NIS ,17/04/2023
+"LOT, Vueling",TLV,MEX,10h 10m ,2 stops ,"1,014 NIS ",17/04/2023
+"Aeroflot, easyJet",TLV,MEX,9h 15m ,1 stop ,"1,134 NIS ",17/04/2023
+Aeroflot,TLV,MEX,13h 55m ,1 stop ,"1,231 NIS ",17/04/2023
+Aeroflot,TLV,MEX,14h 30m ,1 stop ,"1,231 NIS ",17/04/2023
+Aeroflot,TLV,MEX,15h 00m ,1 stop ,"1,231 NIS ",17/04/2023
+Aeroflot,TLV,MEX,16h 05m ,1 stop ,"1,231 NIS ",17/04/2023
+Aeroflot,TLV,MEX,9h 15m ,1 stop ,"1,280 NIS ",17/04/2023
+Aeroflot,TLV,MEX,10h 25m ,1 stop ,"1,280 NIS ",17/04/2023
+Aeroflot,TLV,MEX,11h 05m ,1 stop ,"1,280 NIS ",17/04/2023
+Aeroflot,TLV,MEX,12h 20m ,1 stop ,"1,280 NIS ",17/04/2023
+Aeroflot,TLV,MEX,12h 50m ,1 stop ,"1,280 NIS ",17/04/2023
+"LOT, easyJet",TLV,MEX,10h 15m ,2 stops ,"1,048 NIS ",17/04/2023
+"LOT, Lufthansa",TLV,MEX,10h 00m ,2 stops ,"4,570 NIS ",17/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,10h 40m ,2 stops ,"4,850 NIS ",17/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,11h 45m ,2 stops ,"4,850 NIS ",17/04/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,940 NIS ",17/04/2023
+"Aeroflot, Air France",TLV,MEX,12h 25m ,1 stop ,"5,320 NIS ",17/04/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,735 NIS ",17/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,10h 35m ,2 stops ,"6,867 NIS ",17/04/2023
+Multiple Airlines,TLV,MEX,11h 45m ,2 stops ,"12,093 NIS ",17/04/2023
+Multiple Airlines,TLV,MEX,11h 55m ,2 stops ,"12,093 NIS ",17/04/2023
+Multiple Airlines,TLV,MEX,12h 40m ,2 stops ,"12,093 NIS ",17/04/2023
+Multiple Airlines,TLV,MEX,13h 40m ,2 stops ,"12,099 NIS ",17/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 55m ,1 stop ,"12,499 NIS ",17/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 50m ,1 stop ,"12,499 NIS ",17/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",17/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",17/04/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,592 NIS ,18/04/2023
+Aeroflot,TLV,MEX,4h 05m ,nonstop ,"1,054 NIS ",18/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,054 NIS ",18/04/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,18/04/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,514 NIS ,18/04/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,571 NIS ,18/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,444 NIS ",18/04/2023
+Aeroflot,TLV,MEX,4h 20m ,nonstop ,"1,444 NIS ",18/04/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,571 NIS ,18/04/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,571 NIS ,18/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,642 NIS ,18/04/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,642 NIS ,18/04/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,642 NIS ,18/04/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,642 NIS ,18/04/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,642 NIS ,18/04/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,645 NIS ,18/04/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,645 NIS ,18/04/2023
+KLM,TLV,MEX,12h 40m ,1 stop ,642 NIS ,18/04/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,642 NIS ,18/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,642 NIS ,18/04/2023
+"Aeroflot, Ryanair",TLV,MEX,11h 40m ,1 stop ,773 NIS ,18/04/2023
+Bulgaria Air,TLV,MEX,14h 25m ,1 stop ,809 NIS ,18/04/2023
+"Aeroflot, easyJet",TLV,MEX,9h 15m ,1 stop ,821 NIS ,18/04/2023
+"Aeroflot, easyJet",TLV,MEX,9h 30m ,1 stop ,858 NIS ,18/04/2023
+Aeroflot,TLV,MEX,6h 40m ,1 stop ,873 NIS ,18/04/2023
+Aeroflot,TLV,MEX,7h 10m ,1 stop ,873 NIS ,18/04/2023
+"Aeroflot, Transavia France",TLV,MEX,10h 05m ,1 stop ,916 NIS ,18/04/2023
+"Aeroflot, Ryanair",TLV,MEX,6h 35m ,1 stop ,920 NIS ,18/04/2023
+"Aeroflot, Transavia France",TLV,MEX,6h 40m ,1 stop ,951 NIS ,18/04/2023
+LOT,TLV,MEX,5h 35m ,1 stop ,"1,010 NIS ",18/04/2023
+LOT,TLV,MEX,9h 45m ,1 stop ,"1,010 NIS ",18/04/2023
+Aeroflot,TLV,MEX,11h 50m ,1 stop ,"1,231 NIS ",18/04/2023
+Aeroflot,TLV,MEX,12h 55m ,1 stop ,"1,231 NIS ",18/04/2023
+Aeroflot,TLV,MEX,7h 20m ,1 stop ,"1,281 NIS ",18/04/2023
+Aeroflot,TLV,MEX,7h 30m ,1 stop ,"1,281 NIS ",18/04/2023
+Aeroflot,TLV,MEX,8h 15m ,1 stop ,"1,281 NIS ",18/04/2023
+Aeroflot,TLV,MEX,9h 15m ,1 stop ,"1,281 NIS ",18/04/2023
+Aeroflot,TLV,MEX,10h 25m ,1 stop ,"1,281 NIS ",18/04/2023
+Aeroflot,TLV,MEX,11h 05m ,1 stop ,"1,281 NIS ",18/04/2023
+Multiple Airlines,TLV,MEX,25h 20m ,2 stops ,384 NIS ,18/04/2023
+"Aeroflot, FLYONE",TLV,MEX,12h 05m ,2 stops ,686 NIS ,18/04/2023
+"KLM, easyJet",TLV,MEX,13h 40m ,2 stops ,762 NIS ,18/04/2023
+"Aeroflot, FLYONE",TLV,MEX,11h 05m ,2 stops ,834 NIS ,18/04/2023
+"LOT, Transavia France",TLV,MEX,10h 25m ,2 stops ,875 NIS ,18/04/2023
+"Aeroflot, LOT",TLV,MEX,10h 50m ,2 stops ,888 NIS ,18/04/2023
+"LOT, easyJet",TLV,MEX,10h 15m ,2 stops ,972 NIS ,18/04/2023
+"Aeroflot, LOT",TLV,MEX,9h 05m ,2 stops ,"1,036 NIS ",18/04/2023
+Aeroflot,TLV,MEX,12h 20m ,1 stop ,"1,281 NIS ",18/04/2023
+Aeroflot,TLV,MEX,12h 50m ,1 stop ,"1,281 NIS ",18/04/2023
+"LOT, Lufthansa",TLV,MEX,15h 15m ,2 stops ,"4,612 NIS ",18/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,10h 40m ,2 stops ,"4,846 NIS ",18/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,11h 45m ,2 stops ,"4,846 NIS ",18/04/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,798 NIS ",18/04/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,575 NIS ",18/04/2023
+Multiple Airlines,TLV,MEX,11h 45m ,2 stops ,"12,092 NIS ",18/04/2023
+Multiple Airlines,TLV,MEX,11h 55m ,2 stops ,"12,092 NIS ",18/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",18/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",18/04/2023
+Air Serbia,TLV,MEX,7h 00m ,1 stop ,504 NIS ,19/04/2023
+Aeroflot,TLV,MEX,4h 00m ,nonstop ,"1,054 NIS ",19/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,079 NIS ",19/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,109 NIS ",19/04/2023
+Air Serbia,TLV,MEX,7h 00m ,1 stop ,427 NIS ,19/04/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,"1,308 NIS ",19/04/2023
+Finnair,TLV,MEX,16h 20m ,1 stop ,395 NIS ,19/04/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,19/04/2023
+Air Serbia,TLV,MEX,9h 40m ,1 stop ,514 NIS ,19/04/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,571 NIS ,19/04/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,571 NIS ,19/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,642 NIS ,19/04/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,571 NIS ,19/04/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,642 NIS ,19/04/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,642 NIS ,19/04/2023
+KLM,TLV,MEX,12h 40m ,1 stop ,642 NIS ,19/04/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,642 NIS ,19/04/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,731 NIS ,19/04/2023
+"Nordwind Airlines, Air France",TLV,MEX,7h 25m ,1 stop ,752 NIS ,19/04/2023
+"Nordwind Airlines, Air France",TLV,MEX,8h 25m ,1 stop ,752 NIS ,19/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,642 NIS ,19/04/2023
+Bulgaria Air,TLV,MEX,14h 25m ,1 stop ,809 NIS ,19/04/2023
+"Aeroflot, easyJet",TLV,MEX,8h 45m ,1 stop ,817 NIS ,19/04/2023
+"Aeroflot, easyJet",TLV,MEX,11h 15m ,1 stop ,817 NIS ,19/04/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,827 NIS ,19/04/2023
+"Aeroflot, easyJet",TLV,MEX,7h 35m ,1 stop ,829 NIS ,19/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,9h 45m ,1 stop ,841 NIS ,19/04/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,854 NIS ,19/04/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,854 NIS ,19/04/2023
+LOT,TLV,MEX,5h 35m ,1 stop ,"1,010 NIS ",19/04/2023
+"Aeroflot, Ryanair",TLV,MEX,10h 15m ,1 stop ,892 NIS ,19/04/2023
+"Aeroflot, easyJet",TLV,MEX,8h 20m ,1 stop ,993 NIS ,19/04/2023
+LOT,TLV,MEX,9h 45m ,1 stop ,"1,010 NIS ",19/04/2023
+"Aeroflot, Air France",TLV,MEX,7h 20m ,1 stop ,"1,070 NIS ",19/04/2023
+"Aeroflot, Air France",TLV,MEX,7h 30m ,1 stop ,"1,070 NIS ",19/04/2023
+"Aeroflot, Air France",TLV,MEX,8h 15m ,1 stop ,"1,070 NIS ",19/04/2023
+Aeroflot,TLV,MEX,9h 15m ,1 stop ,"1,281 NIS ",19/04/2023
+"Aeroflot, Pegasus Airlines",TLV,MEX,15h 20m ,2 stops ,591 NIS ,19/04/2023
+"Aeroflot, Air Serbia",TLV,MEX,12h 00m ,2 stops ,760 NIS ,19/04/2023
+"LOT, easyJet",TLV,MEX,9h 40m ,2 stops ,912 NIS ,19/04/2023
+"LOT, Air Serbia",TLV,MEX,9h 05m ,2 stops ,"1,062 NIS ",19/04/2023
+Aeroflot,TLV,MEX,13h 55m ,1 stop ,"1,231 NIS ",19/04/2023
+Aeroflot,TLV,MEX,14h 30m ,1 stop ,"1,231 NIS ",19/04/2023
+Aeroflot,TLV,MEX,15h 00m ,1 stop ,"1,231 NIS ",19/04/2023
+Aeroflot,TLV,MEX,10h 25m ,1 stop ,"1,281 NIS ",19/04/2023
+Aeroflot,TLV,MEX,11h 05m ,1 stop ,"1,281 NIS ",19/04/2023
+Aeroflot,TLV,MEX,12h 20m ,1 stop ,"1,281 NIS ",19/04/2023
+Aeroflot,TLV,MEX,12h 50m ,1 stop ,"1,281 NIS ",19/04/2023
+Air Algerie,TLV,MEX,10h 50m ,1 stop ,"2,749 NIS ",19/04/2023
+Air Algerie,TLV,MEX,11h 55m ,1 stop ,"2,749 NIS ",19/04/2023
+"LOT, KLM",TLV,MEX,15h 40m ,2 stops ,"4,546 NIS ",19/04/2023
+"LOT, Lufthansa",TLV,MEX,9h 05m ,2 stops ,"4,569 NIS ",19/04/2023
+"LOT, Lufthansa",TLV,MEX,9h 05m ,2 stops ,"4,569 NIS ",19/04/2023
+"LOT, Lufthansa",TLV,MEX,8h 35m ,2 stops ,"4,596 NIS ",19/04/2023
+"LOT, Lufthansa",TLV,MEX,10h 05m ,2 stops ,"4,612 NIS ",19/04/2023
+"LOT, Lufthansa",TLV,MEX,10h 05m ,2 stops ,"4,612 NIS ",19/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,10h 40m ,2 stops ,"4,841 NIS ",19/04/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,714 NIS ",19/04/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,575 NIS ",19/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",19/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",19/04/2023
+Aeroflot,TLV,MEX,4h 00m ,nonstop ,"1,053 NIS ",20/04/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,514 NIS ,20/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,443 NIS ",20/04/2023
+Aeroflot,TLV,MEX,4h 20m ,nonstop ,"1,444 NIS ",20/04/2023
+Finnair,TLV,MEX,11h 40m ,1 stop ,395 NIS ,20/04/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,571 NIS ,20/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,642 NIS ,20/04/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,645 NIS ,20/04/2023
+Finnair,TLV,MEX,15h 55m ,1 stop ,395 NIS ,20/04/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,20/04/2023
+airBaltic,TLV,MEX,13h 25m ,1 stop ,481 NIS ,20/04/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,571 NIS ,20/04/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,642 NIS ,20/04/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,642 NIS ,20/04/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,645 NIS ,20/04/2023
+Finnair,TLV,MEX,7h 50m ,1 stop ,703 NIS ,20/04/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,571 NIS ,20/04/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,642 NIS ,20/04/2023
+KLM,TLV,MEX,12h 40m ,1 stop ,642 NIS ,20/04/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,642 NIS ,20/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,642 NIS ,20/04/2023
+airBaltic,TLV,MEX,8h 15m ,1 stop ,726 NIS ,20/04/2023
+Aeroflot,TLV,MEX,6h 40m ,1 stop ,805 NIS ,20/04/2023
+Aeroflot,TLV,MEX,7h 10m ,1 stop ,805 NIS ,20/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,8h 30m ,1 stop ,852 NIS ,20/04/2023
+Bulgaria Air,TLV,MEX,15h 05m ,1 stop ,809 NIS ,20/04/2023
+"Aeroflot, easyJet",TLV,MEX,10h 20m ,1 stop ,870 NIS ,20/04/2023
+"Aeroflot, easyJet",TLV,MEX,8h 10m ,1 stop ,887 NIS ,20/04/2023
+"Aeroflot, Transavia France",TLV,MEX,8h 45m ,1 stop ,943 NIS ,20/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 50m ,1 stop ,982 NIS ,20/04/2023
+"Aeroflot, easyJet",TLV,MEX,8h 15m ,1 stop ,993 NIS ,20/04/2023
+LOT,TLV,MEX,9h 00m ,1 stop ,"1,010 NIS ",20/04/2023
+LOT,TLV,MEX,13h 10m ,1 stop ,"1,010 NIS ",20/04/2023
+"Aeroflot, Transavia",TLV,MEX,8h 45m ,1 stop ,"1,072 NIS ",20/04/2023
+"Aeroflot, Transavia France",TLV,MEX,8h 50m ,1 stop ,"1,084 NIS ",20/04/2023
+"Aeroflot, easyJet",TLV,MEX,6h 50m ,1 stop ,"1,167 NIS ",20/04/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,"1,240 NIS ",20/04/2023
+"KLM, Air France",TLV,MEX,23h 20m ,1 stop ,703 NIS ,20/04/2023
+"KLM, Air France",TLV,MEX,24h 15m ,1 stop ,703 NIS ,20/04/2023
+"KLM, Air France",TLV,MEX,25h 55m ,1 stop ,703 NIS ,20/04/2023
+"KLM, Air France",TLV,MEX,28h 40m ,1 stop ,703 NIS ,20/04/2023
+"KLM, Air France",TLV,MEX,28h 35m ,1 stop ,788 NIS ,20/04/2023
+"Aeroflot, SWISS",TLV,MEX,9h 15m ,2 stops ,"1,024 NIS ",20/04/2023
+"Aeroflot, SWISS",TLV,MEX,9h 25m ,2 stops ,"1,024 NIS ",20/04/2023
+Aeroflot,TLV,MEX,11h 50m ,1 stop ,"1,231 NIS ",20/04/2023
+Aeroflot,TLV,MEX,12h 55m ,1 stop ,"1,231 NIS ",20/04/2023
+Aeroflot,TLV,MEX,7h 50m ,1 stop ,"1,610 NIS ",20/04/2023
+Aeroflot,TLV,MEX,8h 45m ,1 stop ,"1,610 NIS ",20/04/2023
+Aeroflot,TLV,MEX,9h 25m ,1 stop ,"1,610 NIS ",20/04/2023
+Aeroflot,TLV,MEX,10h 35m ,1 stop ,"1,610 NIS ",20/04/2023
+Aeroflot,TLV,MEX,10h 45m ,1 stop ,"1,610 NIS ",20/04/2023
+Aeroflot,TLV,MEX,11h 30m ,1 stop ,"1,610 NIS ",20/04/2023
+Aeroflot,TLV,MEX,12h 30m ,1 stop ,"1,610 NIS ",20/04/2023
+Aeroflot,TLV,MEX,13h 40m ,1 stop ,"1,610 NIS ",20/04/2023
+Aeroflot,TLV,MEX,14h 20m ,1 stop ,"1,610 NIS ",20/04/2023
+"airBaltic, Lufthansa",TLV,MEX,12h 20m ,2 stops ,"1,360 NIS ",20/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,10h 40m ,2 stops ,"4,841 NIS ",20/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,11h 45m ,2 stops ,"4,841 NIS ",20/04/2023
+"Aeroflot, Air France",TLV,MEX,12h 25m ,1 stop ,"5,320 NIS ",20/04/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",20/04/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,575 NIS ",20/04/2023
+Multiple Airlines,TLV,MEX,14h 55m ,2 stops ,"8,248 NIS ",20/04/2023
+Multiple Airlines,TLV,MEX,11h 55m ,2 stops ,"12,092 NIS ",20/04/2023
+Multiple Airlines,TLV,MEX,12h 40m ,2 stops ,"12,092 NIS ",20/04/2023
+Multiple Airlines,TLV,MEX,13h 40m ,2 stops ,"12,092 NIS ",20/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 00m ,1 stop ,"12,499 NIS ",20/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",20/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",20/04/2023
+"Aeroflot, MEA",TLV,MEX,11h 35m ,1 stop ,"12,616 NIS ",20/04/2023
+Air Serbia,TLV,MEX,15h 20m ,1 stop ,504 NIS ,21/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,053 NIS ",21/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,083 NIS ",21/04/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,"1,101 NIS ",21/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,108 NIS ",21/04/2023
+Air Serbia,TLV,MEX,15h 20m ,1 stop ,427 NIS ,21/04/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,21/04/2023
+airBaltic,TLV,MEX,8h 55m ,1 stop ,481 NIS ,21/04/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,571 NIS ,21/04/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,571 NIS ,21/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,642 NIS ,21/04/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,642 NIS ,21/04/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,642 NIS ,21/04/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,645 NIS ,21/04/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,571 NIS ,21/04/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,642 NIS ,21/04/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,642 NIS ,21/04/2023
+KLM,TLV,MEX,12h 40m ,1 stop ,642 NIS ,21/04/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,642 NIS ,21/04/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,645 NIS ,21/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,642 NIS ,21/04/2023
+KLM,TLV,MEX,16h 15m ,1 stop ,642 NIS ,21/04/2023
+"KLM, Air France",TLV,MEX,17h 40m ,1 stop ,700 NIS ,21/04/2023
+"Aeroflot, Air France",TLV,MEX,10h 05m ,1 stop ,848 NIS ,21/04/2023
+"Aeroflot, Air France",TLV,MEX,6h 50m ,1 stop ,861 NIS ,21/04/2023
+"Aeroflot, Transavia France",TLV,MEX,7h 25m ,1 stop ,933 NIS ,21/04/2023
+LOT,TLV,MEX,9h 00m ,1 stop ,"1,010 NIS ",21/04/2023
+"KLM, Air France",TLV,MEX,21h 45m ,1 stop ,703 NIS ,21/04/2023
+"KLM, Air France",TLV,MEX,25h 55m ,1 stop ,703 NIS ,21/04/2023
+LOT,TLV,MEX,13h 10m ,1 stop ,"1,010 NIS ",21/04/2023
+Aeroflot,TLV,MEX,7h 20m ,1 stop ,"1,281 NIS ",21/04/2023
+Aeroflot,TLV,MEX,7h 30m ,1 stop ,"1,281 NIS ",21/04/2023
+Aeroflot,TLV,MEX,8h 15m ,1 stop ,"1,281 NIS ",21/04/2023
+Aeroflot,TLV,MEX,9h 15m ,1 stop ,"1,281 NIS ",21/04/2023
+Aeroflot,TLV,MEX,10h 25m ,1 stop ,"1,281 NIS ",21/04/2023
+Aeroflot,TLV,MEX,11h 05m ,1 stop ,"1,281 NIS ",21/04/2023
+"airBaltic, Transavia France",TLV,MEX,10h 15m ,2 stops ,709 NIS ,21/04/2023
+"LOT, Vueling",TLV,MEX,10h 10m ,2 stops ,940 NIS ,21/04/2023
+"airBaltic, Lufthansa",TLV,MEX,13h 00m ,2 stops ,961 NIS ,21/04/2023
+"Aeroflot, LOT",TLV,MEX,9h 00m ,2 stops ,971 NIS ,21/04/2023
+"Aeroflot, LOT",TLV,MEX,10h 20m ,2 stops ,971 NIS ,21/04/2023
+"airBaltic, Air France",TLV,MEX,10h 40m ,2 stops ,981 NIS ,21/04/2023
+"Nordwind Airlines, LOT",TLV,MEX,10h 05m ,2 stops ,988 NIS ,21/04/2023
+Aeroflot,TLV,MEX,12h 20m ,1 stop ,"1,281 NIS ",21/04/2023
+Aeroflot,TLV,MEX,12h 50m ,1 stop ,"1,281 NIS ",21/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,10h 40m ,2 stops ,"4,840 NIS ",21/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,11h 45m ,2 stops ,"4,840 NIS ",21/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,12h 45m ,2 stops ,"4,840 NIS ",21/04/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,940 NIS ",21/04/2023
+"Aeroflot, Air France",TLV,MEX,12h 25m ,1 stop ,"5,320 NIS ",21/04/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",21/04/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,575 NIS ",21/04/2023
+Multiple Airlines,TLV,MEX,11h 45m ,2 stops ,"12,092 NIS ",21/04/2023
+Multiple Airlines,TLV,MEX,11h 55m ,2 stops ,"12,092 NIS ",21/04/2023
+Multiple Airlines,TLV,MEX,12h 40m ,2 stops ,"12,092 NIS ",21/04/2023
+Multiple Airlines,TLV,MEX,13h 40m ,2 stops ,"12,092 NIS ",21/04/2023
+Multiple Airlines,TLV,MEX,14h 50m ,2 stops ,"12,092 NIS ",21/04/2023
+Multiple Airlines,TLV,MEX,15h 30m ,2 stops ,"12,092 NIS ",21/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 55m ,1 stop ,"12,499 NIS ",21/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 50m ,1 stop ,"12,499 NIS ",21/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",21/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",21/04/2023
+Air Serbia,TLV,MEX,25h 20m ,1 stop ,504 NIS ,22/04/2023
+Aeroflot,TLV,MEX,4h 05m ,nonstop ,"1,053 NIS ",22/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,053 NIS ",22/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,096 NIS ",22/04/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,437 NIS ,22/04/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,437 NIS ,22/04/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,22/04/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,571 NIS ,22/04/2023
+Aeroflot,TLV,MEX,4h 20m ,nonstop ,"1,443 NIS ",22/04/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,571 NIS ,22/04/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,571 NIS ,22/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,642 NIS ,22/04/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,642 NIS ,22/04/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,642 NIS ,22/04/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,642 NIS ,22/04/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,642 NIS ,22/04/2023
+Air Serbia,TLV,MEX,25h 20m ,1 stop ,427 NIS ,22/04/2023
+KLM,TLV,MEX,12h 40m ,1 stop ,642 NIS ,22/04/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,642 NIS ,22/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,642 NIS ,22/04/2023
+"Aeroflot, easyJet",TLV,MEX,7h 10m ,1 stop ,717 NIS ,22/04/2023
+"Aeroflot, easyJet",TLV,MEX,10h 20m ,1 stop ,731 NIS ,22/04/2023
+"Aeroflot, easyJet",TLV,MEX,10h 05m ,1 stop ,808 NIS ,22/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,8h 30m ,1 stop ,842 NIS ,22/04/2023
+"Aeroflot, easyJet",TLV,MEX,7h 30m ,1 stop ,861 NIS ,22/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,MEX,10h 35m ,1 stop ,876 NIS ,22/04/2023
+"LOT, Vueling",TLV,MEX,10h 10m ,2 stops ,748 NIS ,22/04/2023
+"LOT, easyJet",TLV,MEX,10h 35m ,2 stops ,760 NIS ,22/04/2023
+"LOT, Transavia France",TLV,MEX,10h 30m ,2 stops ,871 NIS ,22/04/2023
+"Aeroflot, LOT",TLV,MEX,14h 40m ,1 stop ,"4,079 NIS ",22/04/2023
+"LOT, KLM",TLV,MEX,15h 40m ,2 stops ,"4,546 NIS ",22/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,10h 40m ,2 stops ,"4,840 NIS ",22/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,11h 45m ,2 stops ,"4,840 NIS ",22/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,12h 45m ,2 stops ,"4,840 NIS ",22/04/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,940 NIS ",22/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,11h 05m ,1 stop ,"5,103 NIS ",22/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,13h 00m ,2 stops ,"5,589 NIS ",22/04/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",22/04/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,575 NIS ",22/04/2023
+Multiple Airlines,TLV,MEX,11h 45m ,2 stops ,"12,092 NIS ",22/04/2023
+Multiple Airlines,TLV,MEX,11h 55m ,2 stops ,"12,092 NIS ",22/04/2023
+Multiple Airlines,TLV,MEX,12h 40m ,2 stops ,"12,092 NIS ",22/04/2023
+Multiple Airlines,TLV,MEX,13h 40m ,2 stops ,"12,092 NIS ",22/04/2023
+Multiple Airlines,TLV,MEX,14h 50m ,2 stops ,"12,092 NIS ",22/04/2023
+Multiple Airlines,TLV,MEX,15h 30m ,2 stops ,"12,092 NIS ",22/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 55m ,1 stop ,"12,499 NIS ",22/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 50m ,1 stop ,"12,499 NIS ",22/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",22/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",22/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,053 NIS ",23/04/2023
+Finnair,TLV,MEX,7h 50m ,1 stop ,395 NIS ,23/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,092 NIS ",23/04/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,"1,101 NIS ",23/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,108 NIS ",23/04/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,480 NIS ,23/04/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,514 NIS ,23/04/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,571 NIS ,23/04/2023
+Finnair,TLV,MEX,11h 40m ,1 stop ,395 NIS ,23/04/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,480 NIS ,23/04/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,571 NIS ,23/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,642 NIS ,23/04/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,642 NIS ,23/04/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,642 NIS ,23/04/2023
+Finnair,TLV,MEX,15h 55m ,1 stop ,395 NIS ,23/04/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,23/04/2023
+airBaltic,TLV,MEX,13h 25m ,1 stop ,481 NIS ,23/04/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,571 NIS ,23/04/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,642 NIS ,23/04/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,642 NIS ,23/04/2023
+KLM,TLV,MEX,12h 40m ,1 stop ,642 NIS ,23/04/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,642 NIS ,23/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,642 NIS ,23/04/2023
+KLM,TLV,MEX,16h 15m ,1 stop ,642 NIS ,23/04/2023
+"Aeroflot, Ryanair",TLV,MEX,11h 55m ,1 stop ,797 NIS ,23/04/2023
+"Aeroflot, Air France",TLV,MEX,11h 10m ,1 stop ,806 NIS ,23/04/2023
+"Aeroflot, easyJet",TLV,MEX,11h 00m ,1 stop ,855 NIS ,23/04/2023
+"Aeroflot, Transavia",TLV,MEX,7h 40m ,1 stop ,857 NIS ,23/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 50m ,1 stop ,985 NIS ,23/04/2023
+"LOT, Ryanair",TLV,MEX,9h 00m ,2 stops ,839 NIS ,23/04/2023
+"LOT, Vueling",TLV,MEX,10h 10m ,2 stops ,885 NIS ,23/04/2023
+"LOT, easyJet",TLV,MEX,10h 35m ,2 stops ,896 NIS ,23/04/2023
+"LOT, easyJet",TLV,MEX,9h 55m ,2 stops ,903 NIS ,23/04/2023
+"airBaltic, Air France",TLV,MEX,16h 00m ,2 stops ,971 NIS ,23/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 30m ,2 stops ,"4,730 NIS ",23/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,10h 40m ,2 stops ,"4,840 NIS ",23/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,11h 45m ,2 stops ,"4,840 NIS ",23/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,12h 45m ,2 stops ,"4,840 NIS ",23/04/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,940 NIS ",23/04/2023
+"Aeroflot, Air France",TLV,MEX,12h 25m ,1 stop ,"5,320 NIS ",23/04/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,651 NIS ",23/04/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,575 NIS ",23/04/2023
+Multiple Airlines,TLV,MEX,11h 45m ,2 stops ,"12,092 NIS ",23/04/2023
+Multiple Airlines,TLV,MEX,11h 55m ,2 stops ,"12,092 NIS ",23/04/2023
+Multiple Airlines,TLV,MEX,13h 40m ,2 stops ,"12,092 NIS ",23/04/2023
+Multiple Airlines,TLV,MEX,14h 50m ,2 stops ,"12,092 NIS ",23/04/2023
+Multiple Airlines,TLV,MEX,15h 30m ,2 stops ,"12,092 NIS ",23/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 55m ,1 stop ,"12,499 NIS ",23/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 00m ,1 stop ,"12,499 NIS ",23/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",23/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",23/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,053 NIS ",24/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,082 NIS ",24/04/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,437 NIS ,24/04/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,"1,441 NIS ",24/04/2023
+Finnair,TLV,MEX,9h 35m ,1 stop ,395 NIS ,24/04/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,437 NIS ,24/04/2023
+airBaltic,TLV,MEX,8h 55m ,1 stop ,481 NIS ,24/04/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,571 NIS ,24/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,642 NIS ,24/04/2023
+Finnair,TLV,MEX,13h 50m ,1 stop ,395 NIS ,24/04/2023
+Air Serbia,TLV,MEX,14h 20m ,1 stop ,427 NIS ,24/04/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,571 NIS ,24/04/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,642 NIS ,24/04/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,642 NIS ,24/04/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,24/04/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,571 NIS ,24/04/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,642 NIS ,24/04/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,642 NIS ,24/04/2023
+KLM,TLV,MEX,12h 40m ,1 stop ,642 NIS ,24/04/2023
+"Aeroflot, Transavia France",TLV,MEX,7h 55m ,1 stop ,815 NIS ,24/04/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,642 NIS ,24/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,642 NIS ,24/04/2023
+KLM,TLV,MEX,16h 15m ,1 stop ,642 NIS ,24/04/2023
+"Aeroflot, Transavia France",TLV,MEX,9h 55m ,1 stop ,826 NIS ,24/04/2023
+"Aeroflot, easyJet",TLV,MEX,9h 15m ,1 stop ,855 NIS ,24/04/2023
+"Nordwind Airlines, Turkish Airlines",TLV,MEX,10h 35m ,1 stop ,872 NIS ,24/04/2023
+"Aeroflot, Vueling",TLV,MEX,9h 50m ,1 stop ,924 NIS ,24/04/2023
+LOT,TLV,MEX,9h 00m ,1 stop ,"1,010 NIS ",24/04/2023
+"airBaltic, Vueling",TLV,MEX,13h 40m ,2 stops ,685 NIS ,24/04/2023
+"airBaltic, Ryanair",TLV,MEX,13h 35m ,2 stops ,708 NIS ,24/04/2023
+"LOT, Transavia France",TLV,MEX,10h 25m ,2 stops ,875 NIS ,24/04/2023
+"LOT, Vueling",TLV,MEX,10h 10m ,2 stops ,885 NIS ,24/04/2023
+"LOT, easyJet",TLV,MEX,10h 35m ,2 stops ,901 NIS ,24/04/2023
+LOT,TLV,MEX,13h 10m ,1 stop ,"1,010 NIS ",24/04/2023
+Aeroflot,TLV,MEX,13h 55m ,1 stop ,"1,231 NIS ",24/04/2023
+Aeroflot,TLV,MEX,14h 30m ,1 stop ,"1,231 NIS ",24/04/2023
+Aeroflot,TLV,MEX,15h 00m ,1 stop ,"1,231 NIS ",24/04/2023
+Aeroflot,TLV,MEX,16h 05m ,1 stop ,"1,231 NIS ",24/04/2023
+Aeroflot,TLV,MEX,7h 20m ,1 stop ,"1,281 NIS ",24/04/2023
+Aeroflot,TLV,MEX,7h 30m ,1 stop ,"1,281 NIS ",24/04/2023
+Aeroflot,TLV,MEX,8h 15m ,1 stop ,"1,281 NIS ",24/04/2023
+Aeroflot,TLV,MEX,9h 15m ,1 stop ,"1,281 NIS ",24/04/2023
+Aeroflot,TLV,MEX,10h 25m ,1 stop ,"1,281 NIS ",24/04/2023
+Aeroflot,TLV,MEX,11h 05m ,1 stop ,"1,281 NIS ",24/04/2023
+Aeroflot,TLV,MEX,12h 20m ,1 stop ,"1,281 NIS ",24/04/2023
+Aeroflot,TLV,MEX,12h 50m ,1 stop ,"1,281 NIS ",24/04/2023
+"airBaltic, Lufthansa",TLV,MEX,13h 00m ,2 stops ,961 NIS ,24/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,10h 40m ,2 stops ,"4,840 NIS ",24/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,11h 45m ,2 stops ,"4,840 NIS ",24/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,12h 45m ,2 stops ,"4,840 NIS ",24/04/2023
+KLM,TLV,MEX,16h 10m ,2 stops ,"4,940 NIS ",24/04/2023
+"Aeroflot, Air France",TLV,MEX,12h 25m ,1 stop ,"5,320 NIS ",24/04/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,735 NIS ",24/04/2023
+Multiple Airlines,TLV,MEX,11h 45m ,2 stops ,"12,092 NIS ",24/04/2023
+Multiple Airlines,TLV,MEX,11h 55m ,2 stops ,"12,092 NIS ",24/04/2023
+Multiple Airlines,TLV,MEX,12h 40m ,2 stops ,"12,092 NIS ",24/04/2023
+Multiple Airlines,TLV,MEX,13h 40m ,2 stops ,"12,092 NIS ",24/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 55m ,1 stop ,"12,499 NIS ",24/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 50m ,1 stop ,"12,499 NIS ",24/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",24/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",24/04/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,592 NIS ,25/04/2023
+Aeroflot,TLV,MEX,4h 05m ,nonstop ,"1,053 NIS ",25/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,053 NIS ",25/04/2023
+Air Serbia,TLV,MEX,6h 45m ,1 stop ,514 NIS ,25/04/2023
+Aeroflot,TLV,MEX,4h 10m ,nonstop ,"1,443 NIS ",25/04/2023
+Aeroflot,TLV,MEX,4h 20m ,nonstop ,"1,443 NIS ",25/04/2023
+LOT,TLV,MEX,6h 35m ,1 stop ,571 NIS ,25/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,642 NIS ,25/04/2023
+KLM,TLV,MEX,7h 25m ,1 stop ,642 NIS ,25/04/2023
+Finnair,TLV,MEX,6h 35m ,1 stop ,645 NIS ,25/04/2023
+Finnair,TLV,MEX,14h 45m ,1 stop ,437 NIS ,25/04/2023
+Finnair,TLV,MEX,19h 20m ,1 stop ,437 NIS ,25/04/2023
+LOT,TLV,MEX,10h 45m ,1 stop ,571 NIS ,25/04/2023
+LOT,TLV,MEX,14h 40m ,1 stop ,571 NIS ,25/04/2023
+KLM,TLV,MEX,8h 15m ,1 stop ,642 NIS ,25/04/2023
+KLM,TLV,MEX,10h 10m ,1 stop ,642 NIS ,25/04/2023
+KLM,TLV,MEX,11h 45m ,1 stop ,642 NIS ,25/04/2023
+KLM,TLV,MEX,12h 40m ,1 stop ,642 NIS ,25/04/2023
+Finnair,TLV,MEX,10h 50m ,1 stop ,645 NIS ,25/04/2023
+"Aeroflot, FLYONE",TLV,MEX,8h 20m ,1 stop ,751 NIS ,25/04/2023
+KLM,TLV,MEX,14h 20m ,1 stop ,642 NIS ,25/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,642 NIS ,25/04/2023
+"Aeroflot, Transavia France",TLV,MEX,9h 45m ,1 stop ,791 NIS ,25/04/2023
+"Aeroflot, easyJet",TLV,MEX,10h 05m ,1 stop ,806 NIS ,25/04/2023
+Bulgaria Air,TLV,MEX,14h 25m ,1 stop ,809 NIS ,25/04/2023
+"LOT, Wizz Air",TLV,MEX,7h 55m ,1 stop ,842 NIS ,25/04/2023
+"Aeroflot, Vueling",TLV,MEX,9h 55m ,1 stop ,843 NIS ,25/04/2023
+"Aeroflot, easyJet",TLV,MEX,7h 30m ,1 stop ,861 NIS ,25/04/2023
+"Aeroflot, Ryanair",TLV,MEX,6h 35m ,1 stop ,901 NIS ,25/04/2023
+Aeroflot,TLV,MEX,6h 40m ,1 stop ,949 NIS ,25/04/2023
+Aeroflot,TLV,MEX,7h 10m ,1 stop ,949 NIS ,25/04/2023
+LOT,TLV,MEX,5h 35m ,1 stop ,"1,010 NIS ",25/04/2023
+LOT,TLV,MEX,9h 45m ,1 stop ,"1,010 NIS ",25/04/2023
+Aeroflot,TLV,MEX,11h 50m ,1 stop ,"1,231 NIS ",25/04/2023
+Aeroflot,TLV,MEX,7h 20m ,1 stop ,"1,281 NIS ",25/04/2023
+Aeroflot,TLV,MEX,7h 30m ,1 stop ,"1,281 NIS ",25/04/2023
+Aeroflot,TLV,MEX,8h 15m ,1 stop ,"1,281 NIS ",25/04/2023
+Aeroflot,TLV,MEX,9h 15m ,1 stop ,"1,281 NIS ",25/04/2023
+Aeroflot,TLV,MEX,10h 25m ,1 stop ,"1,281 NIS ",25/04/2023
+Aeroflot,TLV,MEX,11h 05m ,1 stop ,"1,281 NIS ",25/04/2023
+"Brussels Airlines, Air France",TLV,MEX,27h 05m ,2 stops ,703 NIS ,25/04/2023
+"LOT, Vueling",TLV,MEX,10h 10m ,2 stops ,744 NIS ,25/04/2023
+"Aeroflot, FLYONE",TLV,MEX,11h 05m ,2 stops ,767 NIS ,25/04/2023
+"Aeroflot, FLYONE",TLV,MEX,15h 10m ,2 stops ,767 NIS ,25/04/2023
+Aeroflot,TLV,MEX,12h 55m ,1 stop ,"1,231 NIS ",25/04/2023
+Aeroflot,TLV,MEX,12h 20m ,1 stop ,"1,281 NIS ",25/04/2023
+Aeroflot,TLV,MEX,12h 50m ,1 stop ,"1,281 NIS ",25/04/2023
+Korean Air,TLV,MEX,25h 55m ,1 stop ,"3,520 NIS ",25/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,10h 40m ,2 stops ,"4,840 NIS ",25/04/2023
+"Aeroflot, Lufthansa",TLV,MEX,11h 45m ,2 stops ,"4,840 NIS ",25/04/2023
+Qatar Airways,TLV,MEX,14h 25m ,1 stop ,"5,798 NIS ",25/04/2023
+"KLM, Brussels Airlines",TLV,MEX,15h 45m ,2 stops ,"6,575 NIS ",25/04/2023
+Multiple Airlines,TLV,MEX,11h 45m ,2 stops ,"12,092 NIS ",25/04/2023
+Multiple Airlines,TLV,MEX,11h 55m ,2 stops ,"12,092 NIS ",25/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 55m ,1 stop ,"12,499 NIS ",25/04/2023
+"Aeroflot, KLM",TLV,MEX,7h 25m ,1 stop ,"12,541 NIS ",25/04/2023
+"Aeroflot, KLM",TLV,MEX,8h 15m ,1 stop ,"12,541 NIS ",25/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,098 NIS ",26/04/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,121 NIS ",26/04/2023
+Air France,TLV,MEX,4h 20m ,nonstop ,"1,185 NIS ",26/04/2023
+Air Serbia,TLV,MEX,7h 00m ,1 stop ,453 NIS ,26/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,658 NIS ,26/04/2023
+LOT,TLV,MEX,5h 35m ,1 stop ,"1,090 NIS ",26/04/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,828 NIS ",26/04/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,504 NIS ,27/04/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,091 NIS ",27/04/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,091 NIS ",27/04/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,101 NIS ",27/04/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,437 NIS ,27/04/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,437 NIS ,27/04/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,437 NIS ,27/04/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,437 NIS ,27/04/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,427 NIS ,27/04/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,437 NIS ,27/04/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,437 NIS ,27/04/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,481 NIS ,27/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,642 NIS ,27/04/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,649 NIS ,27/04/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,437 NIS ,27/04/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,437 NIS ,27/04/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,481 NIS ,27/04/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,481 NIS ,27/04/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,656 NIS ,27/04/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,731 NIS ,27/04/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,731 NIS ,27/04/2023
+"KLM, Air France",TLV,MEX,6h 10m ,1 stop ,755 NIS ,27/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,642 NIS ,27/04/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,656 NIS ,27/04/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,731 NIS ,27/04/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,731 NIS ,27/04/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,731 NIS ,27/04/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,731 NIS ,27/04/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,745 NIS ,27/04/2023
+Bulgaria Air,TLV,MEX,14h 15m ,1 stop ,809 NIS ,27/04/2023
+Multiple Airlines,TLV,MEX,13h 20m ,2 stops ,485 NIS ,27/04/2023
+Multiple Airlines,TLV,MEX,14h 40m ,2 stops ,485 NIS ,27/04/2023
+"airBaltic, Vueling",TLV,MEX,13h 05m ,2 stops ,594 NIS ,27/04/2023
+"airBaltic, easyJet",TLV,MEX,9h 05m ,2 stops ,604 NIS ,27/04/2023
+"airBaltic, easyJet",TLV,MEX,13h 20m ,2 stops ,614 NIS ,27/04/2023
+Multiple Airlines,TLV,MEX,12h 40m ,2 stops ,666 NIS ,27/04/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,673 NIS ,27/04/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,673 NIS ,27/04/2023
+"airBaltic, easyJet",TLV,MEX,11h 35m ,2 stops ,734 NIS ,27/04/2023
+Multiple Airlines,TLV,MEX,10h 40m ,2 stops ,757 NIS ,27/04/2023
+Multiple Airlines,TLV,MEX,12h 00m ,2 stops ,757 NIS ,27/04/2023
+"LOT, easyJet",TLV,MEX,8h 55m ,2 stops ,762 NIS ,27/04/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"4,594 NIS ",27/04/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,594 NIS ",27/04/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,594 NIS ",27/04/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,594 NIS ",27/04/2023
+"Aeroflot, airBaltic",TLV,MEX,15h 25m ,2 stops ,"4,594 NIS ",27/04/2023
+"Aeroflot, KLM",TLV,MEX,9h 35m ,2 stops ,"4,644 NIS ",27/04/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,644 NIS ",27/04/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,651 NIS ",27/04/2023
+Air Serbia,TLV,MEX,12h 05m ,1 stop ,504 NIS ,28/04/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,082 NIS ",28/04/2023
+Air Serbia,TLV,MEX,12h 05m ,1 stop ,436 NIS ,28/04/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,082 NIS ",28/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,082 NIS ",28/04/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,101 NIS ",28/04/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,437 NIS ,28/04/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,437 NIS ,28/04/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,437 NIS ,28/04/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,437 NIS ,28/04/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,437 NIS ,28/04/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,437 NIS ,28/04/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,437 NIS ,28/04/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,437 NIS ,28/04/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,437 NIS ,28/04/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,481 NIS ,28/04/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,481 NIS ,28/04/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,481 NIS ,28/04/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,28/04/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,576 NIS ,28/04/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,576 NIS ,28/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,636 NIS ,28/04/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,642 NIS ,28/04/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,576 NIS ,28/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,636 NIS ,28/04/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,642 NIS ,28/04/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,642 NIS ,28/04/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,642 NIS ,28/04/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,642 NIS ,28/04/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,642 NIS ,28/04/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,642 NIS ,28/04/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,642 NIS ,28/04/2023
+Bulgaria Air,TLV,MEX,14h 15m ,1 stop ,811 NIS ,28/04/2023
+"LOT, Wizz Air",TLV,MEX,6h 35m ,1 stop ,"1,031 NIS ",28/04/2023
+"airBaltic, Vueling",TLV,MEX,13h 05m ,2 stops ,594 NIS ,28/04/2023
+"airBaltic, easyJet",TLV,MEX,10h 30m ,2 stops ,614 NIS ,28/04/2023
+"airBaltic, easyJet",TLV,MEX,15h 05m ,2 stops ,614 NIS ,28/04/2023
+"airBaltic, easyJet",TLV,MEX,12h 35m ,2 stops ,655 NIS ,28/04/2023
+"airBaltic, Ryanair",TLV,MEX,10h 15m ,2 stops ,727 NIS ,28/04/2023
+"LOT, easyJet",TLV,MEX,9h 30m ,2 stops ,752 NIS ,28/04/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,754 NIS ,28/04/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,754 NIS ,28/04/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,754 NIS ,28/04/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,754 NIS ,28/04/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,754 NIS ,28/04/2023
+"airBaltic, Transavia",TLV,MEX,12h 20m ,2 stops ,838 NIS ,28/04/2023
+airBaltic,TLV,MEX,9h 10m ,2 stops ,868 NIS ,28/04/2023
+airBaltic,TLV,MEX,14h 05m ,2 stops ,868 NIS ,28/04/2023
+airBaltic,TLV,MEX,14h 05m ,2 stops ,868 NIS ,28/04/2023
+"airBaltic, easyJet",TLV,MEX,8h 00m ,2 stops ,889 NIS ,28/04/2023
+"airBaltic, Ryanair",TLV,MEX,11h 30m ,2 stops ,897 NIS ,28/04/2023
+"airBaltic, easyJet",TLV,MEX,13h 50m ,2 stops ,666 NIS ,28/04/2023
+"airBaltic, easyJet",TLV,MEX,13h 40m ,3 stops ,825 NIS ,28/04/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,"4,594 NIS ",28/04/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,596 NIS ",28/04/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,643 NIS ",28/04/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,651 NIS ",28/04/2023
+"airBaltic, SAS",TLV,MEX,10h 00m ,2 stops ,"6,081 NIS ",28/04/2023
+"airBaltic, Lufthansa",TLV,MEX,7h 35m ,2 stops ,"6,588 NIS ",28/04/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,577 NIS ,29/04/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,082 NIS ",29/04/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,437 NIS ,29/04/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,082 NIS ",29/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,082 NIS ",29/04/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,437 NIS ,29/04/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,437 NIS ,29/04/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,437 NIS ,29/04/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,437 NIS ,29/04/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,437 NIS ,29/04/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,437 NIS ,29/04/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,437 NIS ,29/04/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,437 NIS ,29/04/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,29/04/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,29/04/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,576 NIS ,29/04/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,576 NIS ,29/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,636 NIS ,29/04/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,636 NIS ,29/04/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,636 NIS ,29/04/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,576 NIS ,29/04/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,636 NIS ,29/04/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,636 NIS ,29/04/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,636 NIS ,29/04/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,636 NIS ,29/04/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,636 NIS ,29/04/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,636 NIS ,29/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,636 NIS ,29/04/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,441 NIS ",29/04/2023
+"airBaltic, Ryanair",TLV,MEX,12h 15m ,1 stop ,675 NIS ,29/04/2023
+"airBaltic, easyJet",TLV,MEX,14h 15m ,2 stops ,669 NIS ,29/04/2023
+"airBaltic, easyJet",TLV,MEX,8h 00m ,2 stops ,673 NIS ,29/04/2023
+"airBaltic, easyJet",TLV,MEX,13h 40m ,2 stops ,673 NIS ,29/04/2023
+"airBaltic, easyJet",TLV,MEX,11h 20m ,2 stops ,698 NIS ,29/04/2023
+"airBaltic, Transavia France",TLV,MEX,13h 55m ,2 stops ,718 NIS ,29/04/2023
+airBaltic,TLV,MEX,13h 00m ,2 stops ,744 NIS ,29/04/2023
+"LOT, easyJet",TLV,MEX,9h 20m ,2 stops ,752 NIS ,29/04/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,754 NIS ,29/04/2023
+"airBaltic, easyJet",TLV,MEX,12h 25m ,2 stops ,765 NIS ,29/04/2023
+"airBaltic, Air France",TLV,MEX,10h 30m ,2 stops ,780 NIS ,29/04/2023
+"airBaltic, Air France",TLV,MEX,9h 55m ,2 stops ,800 NIS ,29/04/2023
+"airBaltic, easyJet",TLV,MEX,13h 50m ,2 stops ,671 NIS ,29/04/2023
+Multiple Airlines,TLV,MEX,12h 55m ,3 stops ,749 NIS ,29/04/2023
+"airBaltic, easyJet",TLV,MEX,13h 50m ,3 stops ,787 NIS ,29/04/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"4,596 NIS ",29/04/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,596 NIS ",29/04/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,596 NIS ",29/04/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,596 NIS ",29/04/2023
+"Aeroflot, KLM",TLV,MEX,9h 30m ,2 stops ,"4,643 NIS ",29/04/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,643 NIS ",29/04/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,643 NIS ",29/04/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,651 NIS ",29/04/2023
+"airBaltic, SAS",TLV,MEX,10h 00m ,2 stops ,"6,080 NIS ",29/04/2023
+"airBaltic, SAS",TLV,MEX,15h 10m ,2 stops ,"6,080 NIS ",29/04/2023
+Air Serbia,TLV,MEX,12h 30m ,1 stop ,504 NIS ,30/04/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,081 NIS ",30/04/2023
+Air Serbia,TLV,MEX,12h 30m ,1 stop ,436 NIS ,30/04/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,081 NIS ",30/04/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,081 NIS ",30/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,081 NIS ",30/04/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,437 NIS ,30/04/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,437 NIS ,30/04/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,437 NIS ,30/04/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,437 NIS ,30/04/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,437 NIS ,30/04/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,437 NIS ,30/04/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,437 NIS ,30/04/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,437 NIS ,30/04/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,437 NIS ,30/04/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,30/04/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,484 NIS ,30/04/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,30/04/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,484 NIS ,30/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,636 NIS ,30/04/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,636 NIS ,30/04/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,636 NIS ,30/04/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,656 NIS ,30/04/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,576 NIS ,30/04/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,636 NIS ,30/04/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,636 NIS ,30/04/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,636 NIS ,30/04/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,636 NIS ,30/04/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,636 NIS ,30/04/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,636 NIS ,30/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,636 NIS ,30/04/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,655 NIS ,30/04/2023
+Air Malta,TLV,MEX,14h 55m ,1 stop ,768 NIS ,30/04/2023
+"airBaltic, easyJet",TLV,MEX,13h 50m ,2 stops ,721 NIS ,30/04/2023
+"airBaltic, Vueling",TLV,MEX,13h 05m ,2 stops ,809 NIS ,30/04/2023
+"airBaltic, easyJet",TLV,MEX,10h 30m ,2 stops ,829 NIS ,30/04/2023
+"airBaltic, Vueling",TLV,MEX,11h 30m ,2 stops ,855 NIS ,30/04/2023
+"airBaltic, Ryanair",TLV,MEX,9h 40m ,2 stops ,864 NIS ,30/04/2023
+"KLM, easyJet",TLV,MEX,10h 45m ,2 stops ,868 NIS ,30/04/2023
+airBaltic,TLV,MEX,9h 10m ,2 stops ,871 NIS ,30/04/2023
+airBaltic,TLV,MEX,14h 05m ,2 stops ,871 NIS ,30/04/2023
+airBaltic,TLV,MEX,14h 05m ,2 stops ,871 NIS ,30/04/2023
+"LOT, easyJet",TLV,MEX,9h 20m ,2 stops ,905 NIS ,30/04/2023
+"airBaltic, easyJet",TLV,MEX,13h 40m ,2 stops ,915 NIS ,30/04/2023
+"airBaltic, easyJet",TLV,MEX,8h 10m ,2 stops ,955 NIS ,30/04/2023
+"airBaltic, Air France",TLV,MEX,7h 45m ,2 stops ,981 NIS ,30/04/2023
+"airBaltic, Air France",TLV,MEX,7h 50m ,2 stops ,981 NIS ,30/04/2023
+"airBaltic, Lufthansa",TLV,MEX,7h 35m ,2 stops ,"1,032 NIS ",30/04/2023
+Multiple Airlines,TLV,MEX,14h 05m ,3 stops ,713 NIS ,30/04/2023
+Multiple Airlines,TLV,MEX,15h 25m ,3 stops ,713 NIS ,30/04/2023
+Multiple Airlines,TLV,MEX,14h 40m ,3 stops ,879 NIS ,30/04/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,"4,596 NIS ",30/04/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"4,596 NIS ",30/04/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,"4,596 NIS ",30/04/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,"4,596 NIS ",30/04/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,596 NIS ",30/04/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,596 NIS ",30/04/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,596 NIS ",30/04/2023
+"Aeroflot, KLM",TLV,MEX,9h 30m ,2 stops ,"4,643 NIS ",30/04/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,643 NIS ",30/04/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,643 NIS ",30/04/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,651 NIS ",30/04/2023
+"airBaltic, SAS",TLV,MEX,10h 00m ,2 stops ,"6,080 NIS ",30/04/2023
+"airBaltic, SAS",TLV,MEX,15h 10m ,2 stops ,"6,080 NIS ",30/04/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,504 NIS ,31/04/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,094 NIS ",31/04/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,094 NIS ",31/04/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,094 NIS ",31/04/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,437 NIS ,31/04/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,437 NIS ,31/04/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,437 NIS ,31/04/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,437 NIS ,31/04/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,31/04/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,576 NIS ,31/04/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,452 NIS ",31/04/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,436 NIS ,31/04/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,437 NIS ,31/04/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,437 NIS ,31/04/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,437 NIS ,31/04/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,484 NIS ,31/04/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,576 NIS ,31/04/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,636 NIS ,31/04/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,636 NIS ,31/04/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,636 NIS ,31/04/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,437 NIS ,31/04/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,437 NIS ,31/04/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,31/04/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,484 NIS ,31/04/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,636 NIS ,31/04/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,636 NIS ,31/04/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,636 NIS ,31/04/2023
+Air Serbia,TLV,MEX,22h 50m ,1 stop ,436 NIS ,31/04/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,636 NIS ,31/04/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,636 NIS ,31/04/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,636 NIS ,31/04/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,636 NIS ,31/04/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,655 NIS ,31/04/2023
+"KLM, Air France",TLV,MEX,17h 25m ,1 stop ,694 NIS ,31/04/2023
+"KLM, Air France",TLV,MEX,18h 50m ,1 stop ,694 NIS ,31/04/2023
+"airBaltic, easyJet",TLV,MEX,9h 45m ,2 stops ,685 NIS ,31/04/2023
+"airBaltic, easyJet",TLV,MEX,14h 40m ,2 stops ,685 NIS ,31/04/2023
+"KLM, Air France",TLV,MEX,27h 15m ,1 stop ,694 NIS ,31/04/2023
+"airBaltic, easyJet",TLV,MEX,11h 20m ,2 stops ,698 NIS ,31/04/2023
+"airBaltic, Vueling",TLV,MEX,13h 30m ,2 stops ,704 NIS ,31/04/2023
+"airBaltic, Transavia France",TLV,MEX,13h 50m ,2 stops ,718 NIS ,31/04/2023
+"airBaltic, Vueling",TLV,MEX,12h 20m ,2 stops ,732 NIS ,31/04/2023
+airBaltic,TLV,MEX,13h 00m ,2 stops ,744 NIS ,31/04/2023
+"airBaltic, Air France",TLV,MEX,13h 25m ,2 stops ,779 NIS ,31/04/2023
+"airBaltic, easyJet",TLV,MEX,8h 10m ,2 stops ,786 NIS ,31/04/2023
+"airBaltic, Transavia France",TLV,MEX,9h 55m ,2 stops ,803 NIS ,31/04/2023
+"airBaltic, easyJet",TLV,MEX,11h 35m ,2 stops ,834 NIS ,31/04/2023
+"airBaltic, easyJet",TLV,MEX,10h 30m ,2 stops ,841 NIS ,31/04/2023
+"airBaltic, Eurowings",TLV,MEX,11h 00m ,2 stops ,881 NIS ,31/04/2023
+"airBaltic, easyJet",TLV,MEX,8h 00m ,2 stops ,889 NIS ,31/04/2023
+"LOT, easyJet",TLV,MEX,9h 20m ,2 stops ,903 NIS ,31/04/2023
+"airBaltic, SAS",TLV,MEX,10h 00m ,2 stops ,932 NIS ,31/04/2023
+"airBaltic, Air France",TLV,MEX,7h 45m ,2 stops ,981 NIS ,31/04/2023
+"airBaltic, Lufthansa",TLV,MEX,7h 35m ,2 stops ,"1,032 NIS ",31/04/2023
+Multiple Airlines,TLV,MEX,12h 10m ,3 stops ,802 NIS ,31/04/2023
+Multiple Airlines,TLV,MEX,13h 05m ,3 stops ,802 NIS ,31/04/2023
+"airBaltic, SAS",TLV,MEX,9h 55m ,3 stops ,841 NIS ,31/04/2023
+"airBaltic, SAS",TLV,MEX,15h 10m ,2 stops ,"1,074 NIS ",31/04/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,"4,596 NIS ",31/04/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"4,596 NIS ",31/04/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,"4,596 NIS ",31/04/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,"4,596 NIS ",31/04/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,596 NIS ",31/04/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,596 NIS ",31/04/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,596 NIS ",31/04/2023
+"Aeroflot, KLM",TLV,MEX,9h 35m ,2 stops ,"4,643 NIS ",31/04/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,643 NIS ",31/04/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,643 NIS ",31/04/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,735 NIS ",31/04/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,504 NIS ,01/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,074 NIS ",01/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,074 NIS ",01/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,437 NIS ,01/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,437 NIS ,01/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,437 NIS ,01/05/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,436 NIS ,01/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,437 NIS ,01/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,437 NIS ,01/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,437 NIS ,01/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,437 NIS ,01/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,437 NIS ,01/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,01/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,437 NIS ,01/05/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,484 NIS ,01/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,01/05/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,484 NIS ,01/05/2023
+Air Serbia,TLV,MEX,9h 55m ,1 stop ,523 NIS ,01/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,636 NIS ,01/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,636 NIS ,01/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,656 NIS ,01/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,636 NIS ,01/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,636 NIS ,01/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,636 NIS ,01/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,636 NIS ,01/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,636 NIS ,01/05/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,636 NIS ,01/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,655 NIS ,01/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,452 NIS ",01/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,453 NIS ",01/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,636 NIS ,01/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,636 NIS ,01/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,655 NIS ,01/05/2023
+Bulgaria Air,TLV,MEX,14h 15m ,1 stop ,812 NIS ,01/05/2023
+Multiple Airlines,TLV,MEX,28h 00m ,2 stops ,360 NIS ,01/05/2023
+Multiple Airlines,TLV,MEX,15h 05m ,2 stops ,374 NIS ,01/05/2023
+"airBaltic, Vueling",TLV,MEX,13h 05m ,2 stops ,575 NIS ,01/05/2023
+"airBaltic, easyJet",TLV,MEX,10h 30m ,2 stops ,671 NIS ,01/05/2023
+"airBaltic, easyJet",TLV,MEX,15h 05m ,2 stops ,671 NIS ,01/05/2023
+"airBaltic, easyJet",TLV,MEX,14h 15m ,2 stops ,692 NIS ,01/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 00m ,2 stops ,697 NIS ,01/05/2023
+"airBaltic, easyJet",TLV,MEX,13h 40m ,2 stops ,697 NIS ,01/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 10m ,2 stops ,746 NIS ,01/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,754 NIS ,01/05/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,"4,596 NIS ",01/05/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,"4,596 NIS ",01/05/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,"4,596 NIS ",01/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,596 NIS ",01/05/2023
+"Aeroflot, KLM",TLV,MEX,9h 30m ,2 stops ,"4,646 NIS ",01/05/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,646 NIS ",01/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,798 NIS ",01/05/2023
+"airBaltic, Lufthansa",TLV,MEX,7h 35m ,2 stops ,"6,596 NIS ",01/05/2023
+Air Malta,TLV,MEX,13h 40m ,1 stop ,503 NIS ,02/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,095 NIS ",02/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,095 NIS ",02/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,437 NIS ,02/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,437 NIS ,02/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,437 NIS ,02/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,437 NIS ,02/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,437 NIS ,02/05/2023
+Air Malta,TLV,MEX,13h 40m ,1 stop ,394 NIS ,02/05/2023
+Air Malta,TLV,MEX,14h 55m ,1 stop ,394 NIS ,02/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,437 NIS ,02/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,437 NIS ,02/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,437 NIS ,02/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,437 NIS ,02/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,02/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,577 NIS ,02/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,577 NIS ,02/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,636 NIS ,02/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,636 NIS ,02/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,636 NIS ,02/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,453 NIS ",02/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,453 NIS ",02/05/2023
+"Ryanair, Transavia France",TLV,MEX,12h 10m ,1 stop ,577 NIS ,02/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,577 NIS ,02/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,636 NIS ,02/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,636 NIS ,02/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,636 NIS ,02/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,636 NIS ,02/05/2023
+Ryanair,TLV,MEX,8h 40m ,1 stop ,660 NIS ,02/05/2023
+Multiple Airlines,TLV,MEX,13h 40m ,2 stops ,374 NIS ,02/05/2023
+"airBaltic, Ryanair",TLV,MEX,12h 20m ,1 stop ,946 NIS ,02/05/2023
+airBaltic,TLV,MEX,13h 00m ,2 stops ,745 NIS ,02/05/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,754 NIS ,02/05/2023
+"Air Malta, easyJet",TLV,MEX,13h 30m ,2 stops ,835 NIS ,02/05/2023
+"airBaltic, Vueling",TLV,MEX,12h 20m ,2 stops ,871 NIS ,02/05/2023
+"airBaltic, Vueling",TLV,MEX,13h 20m ,2 stops ,871 NIS ,02/05/2023
+"Aeroflot, LOT",TLV,MEX,10h 15m ,2 stops ,969 NIS ,02/05/2023
+"Aeroflot, LOT",TLV,MEX,11h 20m ,2 stops ,969 NIS ,02/05/2023
+"airBaltic, Ryanair",TLV,MEX,13h 00m ,2 stops ,981 NIS ,02/05/2023
+Air Algerie,TLV,MEX,10h 50m ,1 stop ,"1,575 NIS ",02/05/2023
+Air Algerie,TLV,MEX,11h 55m ,1 stop ,"1,575 NIS ",02/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,714 NIS ",02/05/2023
+Air Serbia,TLV,MEX,9h 55m ,1 stop ,504 NIS ,03/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,095 NIS ",03/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,095 NIS ",03/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,437 NIS ,03/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,437 NIS ,03/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,437 NIS ,03/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,453 NIS ",03/05/2023
+Air Serbia,TLV,MEX,9h 55m ,1 stop ,436 NIS ,03/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,437 NIS ,03/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,437 NIS ,03/05/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,484 NIS ,03/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,655 NIS ,03/05/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,436 NIS ,03/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,437 NIS ,03/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,437 NIS ,03/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,437 NIS ,03/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,577 NIS ,03/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,642 NIS ,03/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,725 NIS ,03/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,820 NIS ,03/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,03/05/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,484 NIS ,03/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,636 NIS ,03/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,645 NIS ,03/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,655 NIS ,03/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,725 NIS ,03/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,725 NIS ,03/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,932 NIS ,03/05/2023
+Air Serbia,TLV,MEX,22h 50m ,1 stop ,436 NIS ,03/05/2023
+Bulgaria Air,TLV,MEX,14h 15m ,1 stop ,812 NIS ,03/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,820 NIS ,03/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,820 NIS ,03/05/2023
+"airBaltic, easyJet",TLV,MEX,12h 40m ,2 stops ,714 NIS ,03/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 30m ,2 stops ,733 NIS ,03/05/2023
+"airBaltic, easyJet",TLV,MEX,11h 35m ,2 stops ,739 NIS ,03/05/2023
+"Aeroflot, SAS",TLV,MEX,9h 30m ,2 stops ,744 NIS ,03/05/2023
+"Aeroflot, SAS",TLV,MEX,10h 20m ,2 stops ,744 NIS ,03/05/2023
+"Aeroflot, SAS",TLV,MEX,11h 15m ,2 stops ,744 NIS ,03/05/2023
+"Aeroflot, SAS",TLV,MEX,12h 15m ,2 stops ,744 NIS ,03/05/2023
+"Aeroflot, SAS",TLV,MEX,13h 35m ,2 stops ,744 NIS ,03/05/2023
+"airBaltic, Vueling",TLV,MEX,13h 05m ,2 stops ,790 NIS ,03/05/2023
+"Aeroflot, Air Serbia",TLV,MEX,11h 20m ,2 stops ,849 NIS ,03/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 00m ,2 stops ,933 NIS ,03/05/2023
+"LOT, easyJet",TLV,MEX,8h 55m ,2 stops ,"1,123 NIS ",03/05/2023
+"airBaltic, easyJet",TLV,MEX,13h 50m ,2 stops ,702 NIS ,03/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"4,596 NIS ",03/05/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,"4,596 NIS ",03/05/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,"4,596 NIS ",03/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,596 NIS ",03/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,596 NIS ",03/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,596 NIS ",03/05/2023
+"Aeroflot, airBaltic",TLV,MEX,15h 25m ,2 stops ,"4,596 NIS ",03/05/2023
+"Aeroflot, KLM",TLV,MEX,9h 35m ,2 stops ,"4,646 NIS ",03/05/2023
+"Aeroflot, KLM",TLV,MEX,11h 10m ,2 stops ,"4,646 NIS ",03/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,651 NIS ",03/05/2023
+"airBaltic, SAS",TLV,MEX,10h 20m ,2 stops ,"6,083 NIS ",03/05/2023
+"airBaltic, SAS",TLV,MEX,15h 30m ,2 stops ,"6,083 NIS ",03/05/2023
+Air Serbia,TLV,MEX,12h 05m ,1 stop ,504 NIS ,04/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,077 NIS ",04/05/2023
+Air Serbia,TLV,MEX,12h 05m ,1 stop ,436 NIS ,04/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,077 NIS ",04/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,077 NIS ",04/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,077 NIS ",04/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,437 NIS ,04/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,437 NIS ,04/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,437 NIS ,04/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,437 NIS ,04/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,437 NIS ,04/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,437 NIS ,04/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,437 NIS ,04/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,437 NIS ,04/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,437 NIS ,04/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,04/05/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,484 NIS ,04/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,04/05/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,484 NIS ,04/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,577 NIS ,04/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,577 NIS ,04/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,636 NIS ,04/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,577 NIS ,04/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,636 NIS ,04/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,636 NIS ,04/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,636 NIS ,04/05/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,636 NIS ,04/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,636 NIS ,04/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,636 NIS ,04/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,642 NIS ,04/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,725 NIS ,04/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,820 NIS ,04/05/2023
+Bulgaria Air,TLV,MEX,14h 15m ,1 stop ,812 NIS ,04/05/2023
+Multiple Airlines,TLV,MEX,10h 55m ,2 stops ,506 NIS ,04/05/2023
+Multiple Airlines,TLV,MEX,11h 50m ,2 stops ,506 NIS ,04/05/2023
+Multiple Airlines,TLV,MEX,12h 50m ,2 stops ,506 NIS ,04/05/2023
+Multiple Airlines,TLV,MEX,14h 10m ,2 stops ,506 NIS ,04/05/2023
+Multiple Airlines,TLV,MEX,15h 35m ,2 stops ,506 NIS ,04/05/2023
+"airBaltic, Ryanair",TLV,MEX,10h 15m ,2 stops ,635 NIS ,04/05/2023
+"airBaltic, easyJet",TLV,MEX,10h 30m ,2 stops ,682 NIS ,04/05/2023
+"airBaltic, easyJet",TLV,MEX,15h 05m ,2 stops ,682 NIS ,04/05/2023
+airBaltic,TLV,MEX,9h 10m ,2 stops ,871 NIS ,04/05/2023
+airBaltic,TLV,MEX,14h 05m ,2 stops ,871 NIS ,04/05/2023
+airBaltic,TLV,MEX,14h 05m ,2 stops ,871 NIS ,04/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 00m ,2 stops ,900 NIS ,04/05/2023
+Multiple Airlines,TLV,MEX,13h 45m ,3 stops ,812 NIS ,04/05/2023
+Multiple Airlines,TLV,MEX,14h 40m ,3 stops ,812 NIS ,04/05/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,"4,596 NIS ",04/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"4,596 NIS ",04/05/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,"4,596 NIS ",04/05/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,"4,596 NIS ",04/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,596 NIS ",04/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,596 NIS ",04/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,596 NIS ",04/05/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,646 NIS ",04/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,651 NIS ",04/05/2023
+"airBaltic, SAS",TLV,MEX,10h 00m ,2 stops ,"6,083 NIS ",04/05/2023
+"airBaltic, SAS",TLV,MEX,15h 10m ,2 stops ,"6,083 NIS ",04/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,578 NIS ,05/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,096 NIS ",05/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,437 NIS ,05/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,096 NIS ",05/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,096 NIS ",05/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,437 NIS ,05/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,453 NIS ",05/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,437 NIS ,05/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,05/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,575 NIS ,05/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,437 NIS ,05/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,437 NIS ,05/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,437 NIS ,05/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,636 NIS ,05/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,636 NIS ,05/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,726 NIS ,05/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,437 NIS ,05/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,575 NIS ,05/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,636 NIS ,05/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,437 NIS ,05/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,437 NIS ,05/05/2023
+Finnair,TLV,MEX,16h 25m ,1 stop ,437 NIS ,05/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,05/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,575 NIS ,05/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,636 NIS ,05/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,636 NIS ,05/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,636 NIS ,05/05/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,636 NIS ,05/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,636 NIS ,05/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,636 NIS ,05/05/2023
+"airBaltic, Vueling",TLV,MEX,13h 20m ,2 stops ,656 NIS ,05/05/2023
+"KLM, Air France",TLV,MEX,17h 25m ,1 stop ,694 NIS ,05/05/2023
+"KLM, Air France",TLV,MEX,18h 50m ,1 stop ,694 NIS ,05/05/2023
+"KLM, Air France",TLV,MEX,27h 15m ,1 stop ,694 NIS ,05/05/2023
+"KLM, Air France",TLV,MEX,21h 40m ,1 stop ,700 NIS ,05/05/2023
+"airBaltic, easyJet",TLV,MEX,11h 20m ,2 stops ,721 NIS ,05/05/2023
+"airBaltic, Vueling",TLV,MEX,13h 30m ,2 stops ,656 NIS ,05/05/2023
+"airBaltic, Vueling",TLV,MEX,14h 45m ,2 stops ,656 NIS ,05/05/2023
+"airBaltic, easyJet",TLV,MEX,14h 40m ,2 stops ,675 NIS ,05/05/2023
+"KLM, Air France",TLV,MEX,28h 45m ,1 stop ,694 NIS ,05/05/2023
+airBaltic,TLV,MEX,13h 00m ,2 stops ,745 NIS ,05/05/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,"4,596 NIS ",05/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"4,597 NIS ",05/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,597 NIS ",05/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,597 NIS ",05/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,597 NIS ",05/05/2023
+"Aeroflot, KLM",TLV,MEX,9h 30m ,2 stops ,"4,646 NIS ",05/05/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,646 NIS ",05/05/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,646 NIS ",05/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,651 NIS ",05/05/2023
+"airBaltic, SAS",TLV,MEX,10h 00m ,2 stops ,"6,083 NIS ",05/05/2023
+"airBaltic, SAS",TLV,MEX,15h 10m ,2 stops ,"6,083 NIS ",05/05/2023
+Air Malta,TLV,MEX,14h 55m ,1 stop ,503 NIS ,06/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,067 NIS ",06/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,067 NIS ",06/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,067 NIS ",06/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,067 NIS ",06/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,437 NIS ,06/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,437 NIS ,06/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,437 NIS ,06/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,437 NIS ,06/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,437 NIS ,06/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,437 NIS ,06/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,06/05/2023
+Air Malta,TLV,MEX,14h 55m ,1 stop ,395 NIS ,06/05/2023
+Air Serbia,TLV,MEX,12h 30m ,1 stop ,437 NIS ,06/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,437 NIS ,06/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,437 NIS ,06/05/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,484 NIS ,06/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,636 NIS ,06/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,636 NIS ,06/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,736 NIS ,06/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,06/05/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,484 NIS ,06/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,575 NIS ,06/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,636 NIS ,06/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,636 NIS ,06/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,636 NIS ,06/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,636 NIS ,06/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,654 NIS ,06/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,726 NIS ,06/05/2023
+"Ryanair, Air Malta",TLV,MEX,14h 55m ,1 stop ,619 NIS ,06/05/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,636 NIS ,06/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,636 NIS ,06/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,821 NIS ,06/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,976 NIS ,06/05/2023
+"airBaltic, easyJet",TLV,MEX,10h 30m ,2 stops ,671 NIS ,06/05/2023
+"airBaltic, easyJet",TLV,MEX,15h 05m ,2 stops ,671 NIS ,06/05/2023
+"airBaltic, Vueling",TLV,MEX,13h 05m ,2 stops ,675 NIS ,06/05/2023
+"Air Malta, Transavia France",TLV,MEX,12h 05m ,2 stops ,713 NIS ,06/05/2023
+"Ryanair, easyJet",TLV,MEX,14h 40m ,2 stops ,745 NIS ,06/05/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,754 NIS ,06/05/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,754 NIS ,06/05/2023
+airBaltic,TLV,MEX,9h 10m ,2 stops ,872 NIS ,06/05/2023
+airBaltic,TLV,MEX,14h 05m ,2 stops ,872 NIS ,06/05/2023
+airBaltic,TLV,MEX,14h 05m ,2 stops ,872 NIS ,06/05/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,"4,597 NIS ",06/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"4,597 NIS ",06/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,597 NIS ",06/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,597 NIS ",06/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,597 NIS ",06/05/2023
+"Aeroflot, KLM",TLV,MEX,9h 30m ,2 stops ,"4,646 NIS ",06/05/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,646 NIS ",06/05/2023
+"Aeroflot, KLM",TLV,MEX,11h 10m ,2 stops ,"4,646 NIS ",06/05/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,646 NIS ",06/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,651 NIS ",06/05/2023
+"airBaltic, SAS",TLV,MEX,10h 00m ,2 stops ,"6,083 NIS ",06/05/2023
+"airBaltic, SAS",TLV,MEX,15h 10m ,2 stops ,"6,083 NIS ",06/05/2023
+"airBaltic, Lufthansa",TLV,MEX,7h 35m ,2 stops ,"6,598 NIS ",06/05/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,504 NIS ,07/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,096 NIS ",07/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,096 NIS ",07/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,096 NIS ",07/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,07/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,453 NIS ",07/05/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,437 NIS ,07/05/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,484 NIS ,07/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,575 NIS ,07/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,656 NIS ,07/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,07/05/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,484 NIS ,07/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,726 NIS ,07/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,821 NIS ,07/05/2023
+Air Serbia,TLV,MEX,22h 50m ,1 stop ,437 NIS ,07/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,656 NIS ,07/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,726 NIS ,07/05/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,726 NIS ,07/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,726 NIS ,07/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,932 NIS ,07/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,976 NIS ,07/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,976 NIS ,07/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,976 NIS ,07/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,976 NIS ,07/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,"1,058 NIS ",07/05/2023
+"KLM, Air France",TLV,MEX,17h 25m ,1 stop ,880 NIS ,07/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,976 NIS ,07/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,976 NIS ,07/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,976 NIS ,07/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,976 NIS ,07/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,976 NIS ,07/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,"1,058 NIS ",07/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,"1,058 NIS ",07/05/2023
+"Aeroflot, Air France",TLV,MEX,7h 45m ,1 stop ,"1,083 NIS ",07/05/2023
+"airBaltic, Vueling",TLV,MEX,13h 05m ,2 stops ,613 NIS ,07/05/2023
+"airBaltic, easyJet",TLV,MEX,15h 05m ,2 stops ,671 NIS ,07/05/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,673 NIS ,07/05/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,673 NIS ,07/05/2023
+"airBaltic, easyJet",TLV,MEX,10h 30m ,2 stops ,676 NIS ,07/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,677 NIS ,07/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,677 NIS ,07/05/2023
+"airBaltic, Wizz Air",TLV,MEX,12h 25m ,2 stops ,693 NIS ,07/05/2023
+"airBaltic, easyJet",TLV,MEX,11h 20m ,2 stops ,734 NIS ,07/05/2023
+airBaltic,TLV,MEX,13h 00m ,2 stops ,745 NIS ,07/05/2023
+"KLM, Air France",TLV,MEX,27h 15m ,1 stop ,880 NIS ,07/05/2023
+"KLM, Air France",TLV,MEX,28h 45m ,1 stop ,880 NIS ,07/05/2023
+"LOT, Transavia France",TLV,MEX,8h 55m ,2 stops ,882 NIS ,07/05/2023
+"Aeroflot, LOT",TLV,MEX,8h 20m ,2 stops ,888 NIS ,07/05/2023
+"Aeroflot, LOT",TLV,MEX,9h 15m ,2 stops ,888 NIS ,07/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,"1,236 NIS ",07/05/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,"4,597 NIS ",07/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,597 NIS ",07/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,597 NIS ",07/05/2023
+"Aeroflot, KLM",TLV,MEX,9h 35m ,2 stops ,"4,646 NIS ",07/05/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,646 NIS ",07/05/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,646 NIS ",07/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,735 NIS ",07/05/2023
+"airBaltic, SAS",TLV,MEX,10h 00m ,2 stops ,"6,083 NIS ",07/05/2023
+"airBaltic, SAS",TLV,MEX,15h 10m ,2 stops ,"6,083 NIS ",07/05/2023
+"LOT, Air France",TLV,MEX,8h 30m ,1 stop ,"7,210 NIS ",07/05/2023
+"Aeroflot, Air France",TLV,MEX,6h 50m ,1 stop ,"8,489 NIS ",07/05/2023
+"Aeroflot, Air France",TLV,MEX,8h 55m ,1 stop ,"8,489 NIS ",07/05/2023
+"Aeroflot, Air France",TLV,MEX,8h 45m ,1 stop ,"8,495 NIS ",07/05/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,504 NIS ,08/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,096 NIS ",08/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,096 NIS ",08/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,08/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,453 NIS ",08/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,453 NIS ",08/05/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,437 NIS ,08/05/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,484 NIS ,08/05/2023
+Air Serbia,TLV,MEX,9h 55m ,1 stop ,524 NIS ,08/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,575 NIS ,08/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,656 NIS ,08/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,08/05/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,484 NIS ,08/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,726 NIS ,08/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,821 NIS ,08/05/2023
+Air Serbia,TLV,MEX,22h 50m ,1 stop ,437 NIS ,08/05/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,636 NIS ,08/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,654 NIS ,08/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,726 NIS ,08/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,726 NIS ,08/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,821 NIS ,08/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,932 NIS ,08/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,932 NIS ,08/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,976 NIS ,08/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,976 NIS ,08/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,976 NIS ,08/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,976 NIS ,08/05/2023
+Bulgaria Air,TLV,MEX,14h 15m ,1 stop ,812 NIS ,08/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,821 NIS ,08/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,976 NIS ,08/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,976 NIS ,08/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,976 NIS ,08/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,976 NIS ,08/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,976 NIS ,08/05/2023
+"LOT, Wizz Air",TLV,MEX,6h 35m ,1 stop ,979 NIS ,08/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,"1,058 NIS ",08/05/2023
+Multiple Airlines,TLV,MEX,11h 40m ,2 stops ,756 NIS ,08/05/2023
+"airBaltic, Ryanair",TLV,MEX,11h 55m ,2 stops ,777 NIS ,08/05/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,825 NIS ,08/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,825 NIS ,08/05/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,825 NIS ,08/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 00m ,2 stops ,"1,005 NIS ",08/05/2023
+airBaltic,TLV,MEX,9h 10m ,2 stops ,"1,094 NIS ",08/05/2023
+"airBaltic, Lufthansa",TLV,MEX,15h 45m ,2 stops ,"1,033 NIS ",08/05/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,"4,597 NIS ",08/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,597 NIS ",08/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,597 NIS ",08/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,597 NIS ",08/05/2023
+"Aeroflot, KLM",TLV,MEX,9h 30m ,2 stops ,"4,646 NIS ",08/05/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,646 NIS ",08/05/2023
+"Aeroflot, KLM",TLV,MEX,11h 10m ,2 stops ,"4,646 NIS ",08/05/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,646 NIS ",08/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,798 NIS ",08/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,098 NIS ",09/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,098 NIS ",09/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,098 NIS ",09/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,463 NIS ",09/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,649 NIS ,09/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,098 NIS ",10/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,098 NIS ",10/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,098 NIS ",10/05/2023
+Air Serbia,TLV,MEX,9h 55m ,1 stop ,453 NIS ,10/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,658 NIS ,10/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,728 NIS ,10/05/2023
+Brussels Airlines,TLV,MEX,16h 45m ,1 stop ,580 NIS ,10/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,763 NIS ",10/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,098 NIS ",11/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,098 NIS ",11/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,098 NIS ",11/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,463 NIS ",11/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,559 NIS ,11/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,649 NIS ,11/05/2023
+Air Serbia,TLV,MEX,12h 05m ,1 stop ,453 NIS ,11/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,658 NIS ,11/05/2023
+Brussels Airlines,TLV,MEX,16h 45m ,1 stop ,580 NIS ,11/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"6,023 NIS ",11/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,577 NIS ,12/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,069 NIS ",12/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,12/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,069 NIS ",12/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,069 NIS ",12/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,426 NIS ",12/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,559 NIS ,12/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,559 NIS ,12/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,575 NIS ,12/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,559 NIS ,12/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,636 NIS ,12/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,559 NIS ,12/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,559 NIS ,12/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,559 NIS ,12/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,575 NIS ,12/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,636 NIS ,12/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,636 NIS ,12/05/2023
+"KLM, Air France",TLV,MEX,6h 05m ,1 stop ,825 NIS ,12/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,12/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,559 NIS ,12/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,559 NIS ,12/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,575 NIS ,12/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,636 NIS ,12/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,636 NIS ,12/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,636 NIS ,12/05/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,636 NIS ,12/05/2023
+airBaltic,TLV,MEX,18h 45m ,1 stop ,484 NIS ,12/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,636 NIS ,12/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,636 NIS ,12/05/2023
+"airBaltic, easyJet",TLV,MEX,9h 45m ,2 stops ,675 NIS ,12/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 00m ,2 stops ,684 NIS ,12/05/2023
+"airBaltic, easyJet",TLV,MEX,11h 20m ,2 stops ,721 NIS ,12/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,745 NIS ,12/05/2023
+"airBaltic, easyJet",TLV,MEX,11h 05m ,2 stops ,747 NIS ,12/05/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,754 NIS ,12/05/2023
+"airBaltic, Eurowings",TLV,MEX,11h 00m ,2 stops ,776 NIS ,12/05/2023
+"LOT, easyJet",TLV,MEX,9h 20m ,2 stops ,821 NIS ,12/05/2023
+"airBaltic, Air France",TLV,MEX,10h 10m ,2 stops ,872 NIS ,12/05/2023
+"airBaltic, easyJet",TLV,MEX,14h 40m ,2 stops ,675 NIS ,12/05/2023
+"airBaltic, easyJet",TLV,MEX,14h 15m ,2 stops ,680 NIS ,12/05/2023
+"airBaltic, easyJet",TLV,MEX,13h 40m ,2 stops ,684 NIS ,12/05/2023
+airBaltic,TLV,MEX,13h 00m ,2 stops ,745 NIS ,12/05/2023
+"airBaltic, TAP AIR PORTUGAL",TLV,MEX,12h 55m ,2 stops ,750 NIS ,12/05/2023
+"airBaltic, easyJet",TLV,MEX,12h 25m ,2 stops ,785 NIS ,12/05/2023
+Multiple Airlines,TLV,MEX,12h 35m ,3 stops ,841 NIS ,12/05/2023
+"airBaltic, Austrian Airlines",TLV,MEX,11h 15m ,2 stops ,868 NIS ,12/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"4,598 NIS ",12/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,598 NIS ",12/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,598 NIS ",12/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,598 NIS ",12/05/2023
+"Aeroflot, KLM",TLV,MEX,9h 30m ,2 stops ,"4,646 NIS ",12/05/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,646 NIS ",12/05/2023
+"Aeroflot, KLM",TLV,MEX,11h 30m ,2 stops ,"4,646 NIS ",12/05/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,646 NIS ",12/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,651 NIS ",12/05/2023
+"airBaltic, SAS",TLV,MEX,10h 00m ,2 stops ,"6,083 NIS ",12/05/2023
+"airBaltic, SAS",TLV,MEX,15h 10m ,2 stops ,"6,083 NIS ",12/05/2023
+"airBaltic, Lufthansa",TLV,MEX,7h 35m ,2 stops ,"6,598 NIS ",12/05/2023
+Air Serbia,TLV,MEX,12h 30m ,1 stop ,504 NIS ,13/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,067 NIS ",13/05/2023
+Air Serbia,TLV,MEX,12h 30m ,1 stop ,437 NIS ,13/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,067 NIS ",13/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,067 NIS ",13/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,067 NIS ",13/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,13/05/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,484 NIS ,13/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,636 NIS ,13/05/2023
+Air Malta,TLV,MEX,14h 55m ,1 stop ,452 NIS ,13/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,13/05/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,484 NIS ,13/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,575 NIS ,13/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,636 NIS ,13/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,636 NIS ,13/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,636 NIS ,13/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,656 NIS ,13/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,736 NIS ,13/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,745 NIS ,13/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,745 NIS ,13/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,745 NIS ,13/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,745 NIS ,13/05/2023
+Air Serbia,TLV,MEX,22h 55m ,1 stop ,437 NIS ,13/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,636 NIS ,13/05/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,636 NIS ,13/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,636 NIS ,13/05/2023
+"Ryanair, Air Malta",TLV,MEX,14h 55m ,1 stop ,681 NIS ,13/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,726 NIS ,13/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,745 NIS ,13/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,745 NIS ,13/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,745 NIS ,13/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,745 NIS ,13/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,932 NIS ,13/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,976 NIS ,13/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,"1,058 NIS ",13/05/2023
+"LOT, Wizz Air",TLV,MEX,6h 25m ,1 stop ,"1,128 NIS ",13/05/2023
+"Air Malta, Transavia France",TLV,MEX,12h 05m ,2 stops ,752 NIS ,13/05/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,821 NIS ,13/05/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,821 NIS ,13/05/2023
+airBaltic,TLV,MEX,9h 10m ,2 stops ,872 NIS ,13/05/2023
+airBaltic,TLV,MEX,14h 05m ,2 stops ,872 NIS ,13/05/2023
+airBaltic,TLV,MEX,14h 05m ,2 stops ,872 NIS ,13/05/2023
+"Air Malta, Vueling",TLV,MEX,12h 20m ,2 stops ,883 NIS ,13/05/2023
+"KLM, easyJet",TLV,MEX,10h 10m ,2 stops ,892 NIS ,13/05/2023
+"airBaltic, easyJet",TLV,MEX,10h 30m ,2 stops ,907 NIS ,13/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 00m ,2 stops ,916 NIS ,13/05/2023
+"airBaltic, Vueling",TLV,MEX,11h 30m ,2 stops ,926 NIS ,13/05/2023
+"KLM, easyJet",TLV,MEX,11h 50m ,2 stops ,930 NIS ,13/05/2023
+"airBaltic, Air France",TLV,MEX,7h 45m ,2 stops ,982 NIS ,13/05/2023
+"airBaltic, Air France",TLV,MEX,7h 50m ,2 stops ,982 NIS ,13/05/2023
+"airBaltic, Lufthansa",TLV,MEX,7h 35m ,2 stops ,"1,033 NIS ",13/05/2023
+"Aeroflot, LOT",TLV,MEX,8h 20m ,2 stops ,"1,036 NIS ",13/05/2023
+"Aeroflot, LOT",TLV,MEX,9h 15m ,2 stops ,"1,036 NIS ",13/05/2023
+"Aeroflot, LOT",TLV,MEX,10h 15m ,2 stops ,"1,036 NIS ",13/05/2023
+"LOT, easyJet",TLV,MEX,9h 20m ,2 stops ,"1,056 NIS ",13/05/2023
+"airBaltic, SkyUp",TLV,MEX,9h 00m ,2 stops ,"1,099 NIS ",13/05/2023
+Korean Air,TLV,MEX,24h 35m ,1 stop ,"3,525 NIS ",13/05/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,"4,598 NIS ",13/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"4,598 NIS ",13/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,598 NIS ",13/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,598 NIS ",13/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,598 NIS ",13/05/2023
+"Aeroflot, KLM",TLV,MEX,9h 30m ,2 stops ,"4,646 NIS ",13/05/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,646 NIS ",13/05/2023
+"Aeroflot, KLM",TLV,MEX,11h 10m ,2 stops ,"4,646 NIS ",13/05/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,646 NIS ",13/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,651 NIS ",13/05/2023
+"airBaltic, SAS",TLV,MEX,10h 00m ,2 stops ,"6,083 NIS ",13/05/2023
+"airBaltic, SAS",TLV,MEX,15h 10m ,2 stops ,"6,083 NIS ",13/05/2023
+"LOT, Air France",TLV,MEX,8h 30m ,1 stop ,"7,210 NIS ",13/05/2023
+"Aeroflot, Air France",TLV,MEX,6h 50m ,1 stop ,"8,489 NIS ",13/05/2023
+"Aeroflot, Air France",TLV,MEX,8h 55m ,1 stop ,"8,489 NIS ",13/05/2023
+"Aeroflot, Air France",TLV,MEX,7h 45m ,1 stop ,"8,495 NIS ",13/05/2023
+"Aeroflot, Air France",TLV,MEX,8h 45m ,1 stop ,"8,495 NIS ",13/05/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,504 NIS ,14/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,096 NIS ",14/05/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,437 NIS ,14/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,096 NIS ",14/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,096 NIS ",14/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,096 NIS ",14/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,14/05/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,484 NIS ,14/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,636 NIS ,14/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,656 NIS ,14/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,14/05/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,484 NIS ,14/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,636 NIS ,14/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,636 NIS ,14/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,636 NIS ,14/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,736 NIS ,14/05/2023
+Air Serbia,TLV,MEX,22h 50m ,1 stop ,437 NIS ,14/05/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,636 NIS ,14/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,636 NIS ,14/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,656 NIS ,14/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,726 NIS ,14/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,726 NIS ,14/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,932 NIS ,14/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,932 NIS ,14/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,976 NIS ,14/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,976 NIS ,14/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,976 NIS ,14/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,976 NIS ,14/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,976 NIS ,14/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,976 NIS ,14/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,976 NIS ,14/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,976 NIS ,14/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,976 NIS ,14/05/2023
+"airBaltic, easyJet",TLV,MEX,15h 05m ,2 stops ,717 NIS ,14/05/2023
+airBaltic,TLV,MEX,13h 00m ,2 stops ,745 NIS ,14/05/2023
+"airBaltic, Vueling",TLV,MEX,10h 10m ,2 stops ,748 NIS ,14/05/2023
+"airBaltic, easyJet",TLV,MEX,10h 30m ,2 stops ,750 NIS ,14/05/2023
+"airBaltic, Transavia France",TLV,MEX,11h 00m ,2 stops ,761 NIS ,14/05/2023
+"airBaltic, Transavia France",TLV,MEX,14h 00m ,2 stops ,761 NIS ,14/05/2023
+"airBaltic, easyJet",TLV,MEX,14h 05m ,2 stops ,804 NIS ,14/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 10m ,2 stops ,823 NIS ,14/05/2023
+"airBaltic, easyJet",TLV,MEX,13h 50m ,2 stops ,823 NIS ,14/05/2023
+Multiple Airlines,TLV,MEX,13h 40m ,2 stops ,865 NIS ,14/05/2023
+"airBaltic, easyJet",TLV,MEX,11h 20m ,2 stops ,872 NIS ,14/05/2023
+"airBaltic, LOT",TLV,MEX,10h 10m ,2 stops ,886 NIS ,14/05/2023
+Multiple Airlines,TLV,MEX,13h 10m ,2 stops ,903 NIS ,14/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 00m ,2 stops ,967 NIS ,14/05/2023
+"airBaltic, Transavia France",TLV,MEX,9h 55m ,2 stops ,"1,023 NIS ",14/05/2023
+"airBaltic, easyJet",TLV,MEX,13h 50m ,2 stops ,730 NIS ,14/05/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,"4,598 NIS ",14/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"4,598 NIS ",14/05/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,"4,598 NIS ",14/05/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,"4,598 NIS ",14/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,598 NIS ",14/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,598 NIS ",14/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,598 NIS ",14/05/2023
+"Aeroflot, KLM",TLV,MEX,9h 35m ,2 stops ,"4,646 NIS ",14/05/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,646 NIS ",14/05/2023
+"Aeroflot, KLM",TLV,MEX,11h 10m ,2 stops ,"4,646 NIS ",14/05/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,646 NIS ",14/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,735 NIS ",14/05/2023
+"airBaltic, SAS",TLV,MEX,10h 00m ,2 stops ,"6,083 NIS ",14/05/2023
+"airBaltic, SAS",TLV,MEX,15h 10m ,2 stops ,"6,083 NIS ",14/05/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,504 NIS ,15/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,104 NIS ",15/05/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,437 NIS ,15/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,104 NIS ",15/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,104 NIS ",15/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,15/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,453 NIS ",15/05/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,484 NIS ,15/05/2023
+Air Serbia,TLV,MEX,9h 55m ,1 stop ,524 NIS ,15/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,636 NIS ,15/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,736 NIS ,15/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,15/05/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,484 NIS ,15/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,636 NIS ,15/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,654 NIS ,15/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,726 NIS ,15/05/2023
+Air Serbia,TLV,MEX,22h 50m ,1 stop ,437 NIS ,15/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,636 NIS ,15/05/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,636 NIS ,15/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,636 NIS ,15/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,654 NIS ,15/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,726 NIS ,15/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,726 NIS ,15/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,726 NIS ,15/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,976 NIS ,15/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,976 NIS ,15/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,976 NIS ,15/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,976 NIS ,15/05/2023
+Bulgaria Air,TLV,MEX,14h 15m ,1 stop ,812 NIS ,15/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,976 NIS ,15/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,976 NIS ,15/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,976 NIS ,15/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,976 NIS ,15/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,976 NIS ,15/05/2023
+"Air Serbia, Wizz Air",TLV,MEX,11h 05m ,1 stop ,"1,059 NIS ",15/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,"1,236 NIS ",15/05/2023
+Multiple Airlines,TLV,MEX,15h 05m ,2 stops ,518 NIS ,15/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 00m ,2 stops ,721 NIS ,15/05/2023
+"airBaltic, easyJet",TLV,MEX,14h 15m ,2 stops ,748 NIS ,15/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 10m ,2 stops ,755 NIS ,15/05/2023
+"airBaltic, easyJet",TLV,MEX,13h 50m ,2 stops ,755 NIS ,15/05/2023
+"airBaltic, easyJet",TLV,MEX,12h 20m ,2 stops ,804 NIS ,15/05/2023
+"airBaltic, Vueling",TLV,MEX,11h 30m ,2 stops ,855 NIS ,15/05/2023
+"airBaltic, Air France",TLV,MEX,7h 50m ,2 stops ,982 NIS ,15/05/2023
+"airBaltic, Air France",TLV,MEX,10h 30m ,2 stops ,993 NIS ,15/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"1,037 NIS ",15/05/2023
+"airBaltic, easyJet",TLV,MEX,12h 50m ,2 stops ,719 NIS ,15/05/2023
+"airBaltic, easyJet",TLV,MEX,13h 50m ,2 stops ,736 NIS ,15/05/2023
+"airBaltic, Air France",TLV,MEX,7h 45m ,2 stops ,"1,599 NIS ",15/05/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,"4,598 NIS ",15/05/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,"4,598 NIS ",15/05/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,"4,598 NIS ",15/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,598 NIS ",15/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,598 NIS ",15/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,598 NIS ",15/05/2023
+"Aeroflot, KLM",TLV,MEX,9h 30m ,2 stops ,"4,646 NIS ",15/05/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,646 NIS ",15/05/2023
+"Aeroflot, KLM",TLV,MEX,11h 10m ,2 stops ,"4,646 NIS ",15/05/2023
+"Aeroflot, KLM",TLV,MEX,11h 30m ,2 stops ,"4,646 NIS ",15/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,798 NIS ",15/05/2023
+Air Malta,TLV,MEX,13h 40m ,1 stop ,561 NIS ,16/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,079 NIS ",16/05/2023
+Multiple Airlines,TLV,MEX,13h 40m ,2 stops ,451 NIS ,16/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,079 NIS ",16/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,079 NIS ",16/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,079 NIS ",16/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,16/05/2023
+Air Malta,TLV,MEX,13h 40m ,1 stop ,452 NIS ,16/05/2023
+Air Malta,TLV,MEX,14h 55m ,1 stop ,452 NIS ,16/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,575 NIS ,16/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,575 NIS ,16/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,636 NIS ,16/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,636 NIS ,16/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,575 NIS ,16/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,636 NIS ,16/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,636 NIS ,16/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,636 NIS ,16/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,636 NIS ,16/05/2023
+"Ryanair, Transavia France",TLV,MEX,12h 10m ,1 stop ,641 NIS ,16/05/2023
+"Ryanair, Air Malta",TLV,MEX,13h 40m ,1 stop ,681 NIS ,16/05/2023
+"Ryanair, Air Malta",TLV,MEX,14h 55m ,1 stop ,681 NIS ,16/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,726 NIS ,16/05/2023
+Ryanair,TLV,MEX,8h 40m ,1 stop ,743 NIS ,16/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,976 NIS ,16/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,976 NIS ,16/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,976 NIS ,16/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,976 NIS ,16/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,976 NIS ,16/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,976 NIS ,16/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,976 NIS ,16/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,976 NIS ,16/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,976 NIS ,16/05/2023
+"airBaltic, easyJet",TLV,MEX,14h 10m ,2 stops ,675 NIS ,16/05/2023
+airBaltic,TLV,MEX,13h 00m ,2 stops ,745 NIS ,16/05/2023
+"airBaltic, easyJet",TLV,MEX,12h 30m ,2 stops ,783 NIS ,16/05/2023
+"airBaltic, Ryanair",TLV,MEX,13h 00m ,2 stops ,804 NIS ,16/05/2023
+"airBaltic, easyJet",TLV,MEX,13h 05m ,2 stops ,841 NIS ,16/05/2023
+"airBaltic, Air France",TLV,MEX,13h 25m ,2 stops ,846 NIS ,16/05/2023
+"airBaltic, Air France",TLV,MEX,10h 50m ,2 stops ,869 NIS ,16/05/2023
+"airBaltic, easyJet",TLV,MEX,12h 15m ,2 stops ,911 NIS ,16/05/2023
+Air Algerie,TLV,MEX,10h 50m ,1 stop ,"1,577 NIS ",16/05/2023
+Air Algerie,TLV,MEX,11h 55m ,1 stop ,"1,577 NIS ",16/05/2023
+"Aeroflot, KLM",TLV,MEX,9h 35m ,2 stops ,"4,646 NIS ",16/05/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,646 NIS ",16/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,714 NIS ",16/05/2023
+"airBaltic, Lufthansa",TLV,MEX,7h 35m ,2 stops ,"6,598 NIS ",16/05/2023
+"KLM, Air France",TLV,MEX,15h 15m ,2 stops ,"7,309 NIS ",16/05/2023
+"Aeroflot, Air France",TLV,MEX,6h 50m ,1 stop ,"8,489 NIS ",16/05/2023
+"Aeroflot, Air France",TLV,MEX,8h 55m ,1 stop ,"8,489 NIS ",16/05/2023
+"Aeroflot, Air France",TLV,MEX,7h 45m ,1 stop ,"8,495 NIS ",16/05/2023
+"Aeroflot, Air France",TLV,MEX,8h 45m ,1 stop ,"8,495 NIS ",16/05/2023
+Air Serbia,TLV,MEX,9h 55m ,1 stop ,504 NIS ,17/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,085 NIS ",17/05/2023
+Air Serbia,TLV,MEX,9h 55m ,1 stop ,437 NIS ,17/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,085 NIS ",17/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,085 NIS ",17/05/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,484 NIS ,17/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,636 NIS ,17/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,636 NIS ,17/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,654 NIS ,17/05/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,437 NIS ,17/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,17/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,636 NIS ,17/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,636 NIS ,17/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,654 NIS ,17/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,724 NIS ,17/05/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,484 NIS ,17/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,636 NIS ,17/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,636 NIS ,17/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,636 NIS ,17/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,654 NIS ,17/05/2023
+"LOT, Wizz Air",TLV,MEX,6h 25m ,1 stop ,747 NIS ,17/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,976 NIS ,17/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,976 NIS ,17/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,976 NIS ,17/05/2023
+Air Serbia,TLV,MEX,22h 50m ,1 stop ,437 NIS ,17/05/2023
+Bulgaria Air,TLV,MEX,14h 15m ,1 stop ,812 NIS ,17/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,821 NIS ,17/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,976 NIS ,17/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,976 NIS ,17/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,976 NIS ,17/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,976 NIS ,17/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,976 NIS ,17/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,976 NIS ,17/05/2023
+"LOT, Air France",TLV,MEX,8h 30m ,1 stop ,"1,129 NIS ",17/05/2023
+"airBaltic, easyJet",TLV,MEX,9h 05m ,2 stops ,680 NIS ,17/05/2023
+"airBaltic, easyJet",TLV,MEX,12h 40m ,2 stops ,700 NIS ,17/05/2023
+"airBaltic, Wizz Air",TLV,MEX,11h 15m ,2 stops ,701 NIS ,17/05/2023
+"Aeroflot, Air Serbia",TLV,MEX,12h 30m ,2 stops ,731 NIS ,17/05/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,754 NIS ,17/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 00m ,2 stops ,764 NIS ,17/05/2023
+"airBaltic, easyJet",TLV,MEX,11h 20m ,2 stops ,781 NIS ,17/05/2023
+"airBaltic, Vueling",TLV,MEX,10h 10m ,2 stops ,792 NIS ,17/05/2023
+"LOT, easyJet",TLV,MEX,8h 55m ,2 stops ,819 NIS ,17/05/2023
+Multiple Airlines,TLV,MEX,11h 30m ,2 stops ,847 NIS ,17/05/2023
+"airBaltic, LOT",TLV,MEX,10h 10m ,2 stops ,887 NIS ,17/05/2023
+"airBaltic, Air France",TLV,MEX,9h 55m ,2 stops ,910 NIS ,17/05/2023
+"airBaltic, Air France",TLV,MEX,10h 50m ,2 stops ,931 NIS ,17/05/2023
+"airBaltic, LOT",TLV,MEX,10h 10m ,2 stops ,954 NIS ,17/05/2023
+"LOT, easyJet",TLV,MEX,8h 55m ,2 stops ,965 NIS ,17/05/2023
+"Aeroflot, LOT",TLV,MEX,8h 20m ,2 stops ,969 NIS ,17/05/2023
+"Aeroflot, LOT",TLV,MEX,9h 15m ,2 stops ,969 NIS ,17/05/2023
+"Aeroflot, LOT",TLV,MEX,10h 15m ,2 stops ,969 NIS ,17/05/2023
+"airBaltic, Air France",TLV,MEX,7h 45m ,2 stops ,982 NIS ,17/05/2023
+"airBaltic, Air France",TLV,MEX,7h 50m ,2 stops ,982 NIS ,17/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"4,598 NIS ",17/05/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,"4,598 NIS ",17/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,598 NIS ",17/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,598 NIS ",17/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,598 NIS ",17/05/2023
+"Aeroflot, airBaltic",TLV,MEX,15h 25m ,2 stops ,"4,598 NIS ",17/05/2023
+"Aeroflot, KLM",TLV,MEX,9h 35m ,2 stops ,"4,646 NIS ",17/05/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,646 NIS ",17/05/2023
+"Aeroflot, KLM",TLV,MEX,11h 10m ,2 stops ,"4,646 NIS ",17/05/2023
+"Aeroflot, KLM",TLV,MEX,12h 15m ,2 stops ,"4,646 NIS ",17/05/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,646 NIS ",17/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,651 NIS ",17/05/2023
+"airBaltic, SAS",TLV,MEX,10h 20m ,2 stops ,"6,083 NIS ",17/05/2023
+"airBaltic, SAS",TLV,MEX,15h 30m ,2 stops ,"6,083 NIS ",17/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,577 NIS ,18/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,086 NIS ",18/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,18/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,086 NIS ",18/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,086 NIS ",18/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,176 NIS ",18/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,654 NIS ,18/05/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,484 NIS ,18/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,575 NIS ,18/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,821 NIS ,18/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,825 NIS ,18/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,976 NIS ,18/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,976 NIS ,18/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,18/05/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,484 NIS ,18/05/2023
+Air Serbia,TLV,MEX,12h 05m ,1 stop ,524 NIS ,18/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,731 NIS ,18/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,936 NIS ,18/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,976 NIS ,18/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,976 NIS ,18/05/2023
+"LOT, Wizz Air",TLV,MEX,6h 35m ,1 stop ,"1,095 NIS ",18/05/2023
+airBaltic,TLV,MEX,18h 45m ,1 stop ,484 NIS ,18/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,575 NIS ,18/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,726 NIS ,18/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,731 NIS ,18/05/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,731 NIS ,18/05/2023
+Bulgaria Air,TLV,MEX,14h 15m ,1 stop ,812 NIS ,18/05/2023
+airBaltic,TLV,MEX,9h 10m ,2 stops ,872 NIS ,18/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,976 NIS ,18/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,976 NIS ,18/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,976 NIS ,18/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,976 NIS ,18/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,976 NIS ,18/05/2023
+"airBaltic, Air France",TLV,MEX,7h 45m ,2 stops ,982 NIS ,18/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,"1,236 NIS ",18/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,"1,236 NIS ",18/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,"1,239 NIS ",18/05/2023
+Multiple Airlines,TLV,MEX,13h 45m ,3 stops ,695 NIS ,18/05/2023
+Multiple Airlines,TLV,MEX,14h 40m ,3 stops ,695 NIS ,18/05/2023
+"airBaltic, easyJet",TLV,MEX,12h 35m ,2 stops ,728 NIS ,18/05/2023
+"airBaltic, easyJet",TLV,MEX,13h 50m ,2 stops ,728 NIS ,18/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,754 NIS ,18/05/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,754 NIS ,18/05/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,754 NIS ,18/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,754 NIS ,18/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,754 NIS ,18/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,754 NIS ,18/05/2023
+"airBaltic, easyJet",TLV,MEX,10h 30m ,2 stops ,785 NIS ,18/05/2023
+"airBaltic, Ryanair",TLV,MEX,10h 15m ,2 stops ,804 NIS ,18/05/2023
+"airBaltic, Vueling",TLV,MEX,11h 30m ,2 stops ,811 NIS ,18/05/2023
+"airBaltic, Transavia",TLV,MEX,12h 20m ,2 stops ,860 NIS ,18/05/2023
+"LOT, easyJet",TLV,MEX,9h 30m ,2 stops ,864 NIS ,18/05/2023
+airBaltic,TLV,MEX,14h 05m ,2 stops ,872 NIS ,18/05/2023
+airBaltic,TLV,MEX,14h 05m ,2 stops ,872 NIS ,18/05/2023
+"airBaltic, Lufthansa",TLV,MEX,9h 50m ,2 stops ,980 NIS ,18/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 00m ,2 stops ,"1,005 NIS ",18/05/2023
+"airBaltic, SkyUp",TLV,MEX,9h 00m ,2 stops ,"1,099 NIS ",18/05/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,"4,598 NIS ",18/05/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,646 NIS ",18/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,651 NIS ",18/05/2023
+"airBaltic, SAS",TLV,MEX,10h 00m ,2 stops ,"6,083 NIS ",18/05/2023
+"airBaltic, SAS",TLV,MEX,15h 10m ,2 stops ,"6,083 NIS ",18/05/2023
+"airBaltic, Lufthansa",TLV,MEX,7h 35m ,2 stops ,"6,598 NIS ",18/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,577 NIS ,19/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,065 NIS ",19/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,437 NIS ,19/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,065 NIS ",19/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,154 NIS ",19/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,453 NIS ",19/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,437 NIS ,19/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,19/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,575 NIS ,19/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,437 NIS ,19/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,437 NIS ,19/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,437 NIS ,19/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,437 NIS ,19/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,575 NIS ,19/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,726 NIS ,19/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,821 NIS ,19/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,437 NIS ,19/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,437 NIS ,19/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,437 NIS ,19/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,19/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,726 NIS ,19/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,731 NIS ,19/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,731 NIS ,19/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,"1,058 NIS ",19/05/2023
+Finnair,TLV,MEX,16h 25m ,1 stop ,437 NIS ,19/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,636 NIS ,19/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,654 NIS ,19/05/2023
+"airBaltic, easyJet",TLV,MEX,9h 45m ,2 stops ,688 NIS ,19/05/2023
+"airBaltic, Ryanair",TLV,MEX,12h 15m ,1 stop ,714 NIS ,19/05/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,726 NIS ,19/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,726 NIS ,19/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,731 NIS ,19/05/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,754 NIS ,19/05/2023
+"airBaltic, Ryanair",TLV,MEX,8h 55m ,2 stops ,804 NIS ,19/05/2023
+"airBaltic, Air France",TLV,MEX,7h 50m ,2 stops ,982 NIS ,19/05/2023
+"airBaltic, easyJet",TLV,MEX,14h 40m ,2 stops ,688 NIS ,19/05/2023
+"airBaltic, easyJet",TLV,MEX,13h 50m ,2 stops ,694 NIS ,19/05/2023
+airBaltic,TLV,MEX,13h 00m ,2 stops ,745 NIS ,19/05/2023
+"Aeroflot, Air Serbia",TLV,MEX,13h 45m ,2 stops ,822 NIS ,19/05/2023
+"Aeroflot, Air Serbia",TLV,MEX,14h 40m ,2 stops ,822 NIS ,19/05/2023
+Multiple Airlines,TLV,MEX,14h 40m ,3 stops ,823 NIS ,19/05/2023
+"airBaltic, Vueling",TLV,MEX,11h 30m ,2 stops ,852 NIS ,19/05/2023
+"airBaltic, SAS",TLV,MEX,9h 55m ,3 stops ,860 NIS ,19/05/2023
+Multiple Airlines,TLV,MEX,12h 55m ,3 stops ,861 NIS ,19/05/2023
+"airBaltic, SAS",TLV,MEX,9h 30m ,2 stops ,880 NIS ,19/05/2023
+"airBaltic, TAP AIR PORTUGAL",TLV,MEX,14h 10m ,3 stops ,888 NIS ,19/05/2023
+"airBaltic, easyJet",TLV,MEX,11h 20m ,2 stops ,955 NIS ,19/05/2023
+"airBaltic, TAP AIR PORTUGAL",TLV,MEX,12h 55m ,2 stops ,974 NIS ,19/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"4,598 NIS ",19/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,598 NIS ",19/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,598 NIS ",19/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,598 NIS ",19/05/2023
+"Aeroflot, KLM",TLV,MEX,9h 30m ,2 stops ,"4,646 NIS ",19/05/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,646 NIS ",19/05/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,646 NIS ",19/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,651 NIS ",19/05/2023
+"airBaltic, SAS",TLV,MEX,10h 00m ,2 stops ,"6,083 NIS ",19/05/2023
+"airBaltic, SAS",TLV,MEX,15h 10m ,2 stops ,"6,083 NIS ",19/05/2023
+"airBaltic, Lufthansa",TLV,MEX,7h 35m ,2 stops ,"6,598 NIS ",19/05/2023
+Air Serbia,TLV,MEX,12h 30m ,1 stop ,504 NIS ,20/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,071 NIS ",20/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,437 NIS ,20/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,071 NIS ",20/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,071 NIS ",20/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,158 NIS ",20/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,437 NIS ,20/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,437 NIS ,20/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,437 NIS ,20/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,437 NIS ,20/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,437 NIS ,20/05/2023
+Air Serbia,TLV,MEX,12h 30m ,1 stop ,437 NIS ,20/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,437 NIS ,20/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,437 NIS ,20/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,437 NIS ,20/05/2023
+Air Malta,TLV,MEX,14h 55m ,1 stop ,452 NIS ,20/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,20/05/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,484 NIS ,20/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,20/05/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,484 NIS ,20/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,636 NIS ,20/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,636 NIS ,20/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,636 NIS ,20/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,636 NIS ,20/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,636 NIS ,20/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,636 NIS ,20/05/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,636 NIS ,20/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,636 NIS ,20/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,636 NIS ,20/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,654 NIS ,20/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,656 NIS ,20/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,736 NIS ,20/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,"1,236 NIS ",20/05/2023
+"Air Malta, Transavia France",TLV,MEX,12h 05m ,2 stops ,737 NIS ,20/05/2023
+"airBaltic, easyJet",TLV,MEX,13h 40m ,2 stops ,757 NIS ,20/05/2023
+"airBaltic, Lufthansa",TLV,MEX,9h 50m ,2 stops ,820 NIS ,20/05/2023
+"airBaltic, SAS",TLV,MEX,9h 30m ,2 stops ,852 NIS ,20/05/2023
+"airBaltic, Air France",TLV,MEX,10h 50m ,2 stops ,869 NIS ,20/05/2023
+airBaltic,TLV,MEX,9h 10m ,2 stops ,872 NIS ,20/05/2023
+airBaltic,TLV,MEX,14h 05m ,2 stops ,872 NIS ,20/05/2023
+airBaltic,TLV,MEX,14h 05m ,2 stops ,872 NIS ,20/05/2023
+"airBaltic, Lufthansa",TLV,MEX,9h 50m ,2 stops ,895 NIS ,20/05/2023
+"Air Malta, Vueling",TLV,MEX,12h 20m ,2 stops ,899 NIS ,20/05/2023
+"airBaltic, Air France",TLV,MEX,9h 45m ,2 stops ,904 NIS ,20/05/2023
+"airBaltic, Air France",TLV,MEX,12h 00m ,2 stops ,904 NIS ,20/05/2023
+"airBaltic, easyJet",TLV,MEX,10h 30m ,2 stops ,917 NIS ,20/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 00m ,2 stops ,933 NIS ,20/05/2023
+"airBaltic, Air France",TLV,MEX,10h 20m ,2 stops ,944 NIS ,20/05/2023
+"airBaltic, Ryanair",TLV,MEX,9h 40m ,2 stops ,955 NIS ,20/05/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,969 NIS ,20/05/2023
+Korean Air,TLV,MEX,24h 35m ,1 stop ,"3,525 NIS ",20/05/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,"4,598 NIS ",20/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"4,598 NIS ",20/05/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,"4,598 NIS ",20/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,598 NIS ",20/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,598 NIS ",20/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,598 NIS ",20/05/2023
+"Aeroflot, KLM",TLV,MEX,9h 30m ,2 stops ,"4,646 NIS ",20/05/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,646 NIS ",20/05/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,646 NIS ",20/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,749 NIS ",20/05/2023
+"airBaltic, SAS",TLV,MEX,10h 00m ,2 stops ,"6,083 NIS ",20/05/2023
+"airBaltic, SAS",TLV,MEX,15h 10m ,2 stops ,"6,083 NIS ",20/05/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,504 NIS ,21/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,080 NIS ",21/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,437 NIS ,21/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,080 NIS ",21/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,437 NIS ,21/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,436 NIS ",21/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,437 NIS ,21/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,437 NIS ,21/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,21/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,436 NIS ",21/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,437 NIS ,21/05/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,437 NIS ,21/05/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,484 NIS ,21/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,656 NIS ,21/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,437 NIS ,21/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,437 NIS ,21/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,437 NIS ,21/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,21/05/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,484 NIS ,21/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,559 NIS ,21/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,654 NIS ,21/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,726 NIS ,21/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,726 NIS ,21/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,821 NIS ,21/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,821 NIS ,21/05/2023
+Air Serbia,TLV,MEX,22h 50m ,1 stop ,437 NIS ,21/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,656 NIS ,21/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,726 NIS ,21/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,821 NIS ,21/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,821 NIS ,21/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,726 NIS ,21/05/2023
+"KLM, Air France",TLV,MEX,15h 55m ,1 stop ,783 NIS ,21/05/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,821 NIS ,21/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,932 NIS ,21/05/2023
+"airBaltic, easyJet",TLV,MEX,15h 05m ,2 stops ,692 NIS ,21/05/2023
+"airBaltic, Vueling",TLV,MEX,13h 30m ,2 stops ,704 NIS ,21/05/2023
+"airBaltic, easyJet",TLV,MEX,10h 30m ,2 stops ,712 NIS ,21/05/2023
+"airBaltic, easyJet",TLV,MEX,11h 20m ,2 stops ,721 NIS ,21/05/2023
+airBaltic,TLV,MEX,13h 00m ,2 stops ,745 NIS ,21/05/2023
+"airBaltic, Transavia France",TLV,MEX,11h 00m ,2 stops ,763 NIS ,21/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 10m ,2 stops ,768 NIS ,21/05/2023
+"KLM, Air France",TLV,MEX,27h 15m ,1 stop ,783 NIS ,21/05/2023
+"airBaltic, Transavia France",TLV,MEX,9h 55m ,2 stops ,791 NIS ,21/05/2023
+"airBaltic, easyJet",TLV,MEX,11h 35m ,2 stops ,823 NIS ,21/05/2023
+"airBaltic, Vueling",TLV,MEX,10h 10m ,2 stops ,847 NIS ,21/05/2023
+"airBaltic, Lufthansa",TLV,MEX,9h 50m ,2 stops ,895 NIS ,21/05/2023
+"airBaltic, easyJet",TLV,MEX,9h 45m ,2 stops ,898 NIS ,21/05/2023
+"airBaltic, Vueling",TLV,MEX,12h 20m ,2 stops ,902 NIS ,21/05/2023
+"airBaltic, Air France",TLV,MEX,9h 45m ,2 stops ,904 NIS ,21/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 00m ,2 stops ,995 NIS ,21/05/2023
+"Aeroflot, LOT",TLV,MEX,10h 15m ,2 stops ,"1,033 NIS ",21/05/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,"4,598 NIS ",21/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"4,598 NIS ",21/05/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,"4,598 NIS ",21/05/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,"4,598 NIS ",21/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,598 NIS ",21/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,598 NIS ",21/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,598 NIS ",21/05/2023
+"Aeroflot, KLM",TLV,MEX,9h 35m ,2 stops ,"4,646 NIS ",21/05/2023
+"Aeroflot, KLM",TLV,MEX,12h 35m ,2 stops ,"4,646 NIS ",21/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,735 NIS ",21/05/2023
+"airBaltic, SAS",TLV,MEX,10h 00m ,2 stops ,"6,083 NIS ",21/05/2023
+"airBaltic, SAS",TLV,MEX,15h 10m ,2 stops ,"6,083 NIS ",21/05/2023
+"airBaltic, Lufthansa",TLV,MEX,7h 35m ,2 stops ,"6,598 NIS ",21/05/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,504 NIS ,22/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,437 NIS ,22/05/2023
+Finnair,TLV,MEX,5h 40m ,1 stop ,437 NIS ,22/05/2023
+Finnair,TLV,MEX,7h 30m ,1 stop ,437 NIS ,22/05/2023
+airBaltic,TLV,MEX,5h 20m ,1 stop ,484 NIS ,22/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,440 NIS ",22/05/2023
+Finnair,TLV,MEX,9h 10m ,1 stop ,437 NIS ,22/05/2023
+Finnair,TLV,MEX,9h 45m ,1 stop ,437 NIS ,22/05/2023
+Finnair,TLV,MEX,10h 20m ,1 stop ,437 NIS ,22/05/2023
+Air Serbia,TLV,MEX,12h 25m ,1 stop ,437 NIS ,22/05/2023
+airBaltic,TLV,MEX,9h 00m ,1 stop ,484 NIS ,22/05/2023
+Air Serbia,TLV,MEX,9h 55m ,1 stop ,524 NIS ,22/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,736 NIS ,22/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,709 NIS ",22/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,709 NIS ",22/05/2023
+Finnair,TLV,MEX,13h 20m ,1 stop ,437 NIS ,22/05/2023
+Finnair,TLV,MEX,14h 10m ,1 stop ,437 NIS ,22/05/2023
+airBaltic,TLV,MEX,13h 30m ,1 stop ,484 NIS ,22/05/2023
+LOT,TLV,MEX,9h 10m ,1 stop ,656 NIS ,22/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,721 NIS ",22/05/2023
+airBaltic,TLV,MEX,13h 55m ,1 stop ,484 NIS ,22/05/2023
+Finnair,TLV,MEX,14h 35m ,1 stop ,559 NIS ,22/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,932 NIS ,22/05/2023
+Air Serbia,TLV,MEX,22h 50m ,1 stop ,437 NIS ,22/05/2023
+LOT,TLV,MEX,14h 15m ,1 stop ,654 NIS ,22/05/2023
+KLM,TLV,MEX,9h 00m ,1 stop ,932 NIS ,22/05/2023
+KLM,TLV,MEX,10h 40m ,1 stop ,932 NIS ,22/05/2023
+Bulgaria Air,TLV,MEX,14h 15m ,1 stop ,812 NIS ,22/05/2023
+KLM,TLV,MEX,11h 10m ,1 stop ,932 NIS ,22/05/2023
+KLM,TLV,MEX,13h 05m ,1 stop ,932 NIS ,22/05/2023
+KLM,TLV,MEX,14h 25m ,1 stop ,932 NIS ,22/05/2023
+KLM,TLV,MEX,15h 20m ,1 stop ,932 NIS ,22/05/2023
+KLM,TLV,MEX,15h 55m ,1 stop ,932 NIS ,22/05/2023
+KLM,TLV,MEX,6h 10m ,1 stop ,"1,236 NIS ",22/05/2023
+KLM,TLV,MEX,7h 15m ,1 stop ,"1,236 NIS ",22/05/2023
+Multiple Airlines,TLV,MEX,15h 05m ,2 stops ,634 NIS ,22/05/2023
+"airBaltic, easyJet",TLV,MEX,10h 30m ,2 stops ,702 NIS ,22/05/2023
+"airBaltic, Vueling",TLV,MEX,13h 05m ,2 stops ,771 NIS ,22/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 10m ,2 stops ,813 NIS ,22/05/2023
+"airBaltic, Air France",TLV,MEX,9h 45m ,2 stops ,843 NIS ,22/05/2023
+"airBaltic, Air France",TLV,MEX,11h 30m ,2 stops ,868 NIS ,22/05/2023
+"airBaltic, Air France",TLV,MEX,13h 20m ,2 stops ,868 NIS ,22/05/2023
+"airBaltic, Lufthansa",TLV,MEX,9h 50m ,2 stops ,899 NIS ,22/05/2023
+"airBaltic, easyJet",TLV,MEX,12h 20m ,2 stops ,926 NIS ,22/05/2023
+"airBaltic, easyJet",TLV,MEX,12h 35m ,2 stops ,926 NIS ,22/05/2023
+"airBaltic, Air France",TLV,MEX,12h 00m ,2 stops ,938 NIS ,22/05/2023
+"airBaltic, easyJet",TLV,MEX,8h 00m ,2 stops ,988 NIS ,22/05/2023
+"Aeroflot, airBaltic",TLV,MEX,10h 55m ,2 stops ,"1,037 NIS ",22/05/2023
+"airBaltic, Lufthansa",TLV,MEX,12h 40m ,3 stops ,883 NIS ,22/05/2023
+"airBaltic, easyJet",TLV,MEX,12h 50m ,2 stops ,926 NIS ,22/05/2023
+Korean Air,TLV,MEX,24h 35m ,1 stop ,"3,525 NIS ",22/05/2023
+"Aeroflot, airBaltic",TLV,MEX,9h 30m ,2 stops ,"4,598 NIS ",22/05/2023
+"Aeroflot, airBaltic",TLV,MEX,11h 50m ,2 stops ,"4,598 NIS ",22/05/2023
+"Aeroflot, airBaltic",TLV,MEX,12h 45m ,2 stops ,"4,598 NIS ",22/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 10m ,2 stops ,"4,598 NIS ",22/05/2023
+"Aeroflot, airBaltic",TLV,MEX,13h 40m ,2 stops ,"4,598 NIS ",22/05/2023
+"Aeroflot, airBaltic",TLV,MEX,14h 30m ,2 stops ,"4,598 NIS ",22/05/2023
+"Aeroflot, KLM",TLV,MEX,9h 30m ,2 stops ,"4,646 NIS ",22/05/2023
+"Aeroflot, KLM",TLV,MEX,10h 40m ,2 stops ,"4,646 NIS ",22/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,905 NIS ",22/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,098 NIS ",23/05/2023
+Air France,TLV,MEX,4h 00m ,nonstop ,"1,463 NIS ",23/05/2023
+Air France,TLV,MEX,4h 05m ,nonstop ,"1,463 NIS ",23/05/2023
+Air France,TLV,MEX,4h 10m ,nonstop ,"1,463 NIS ",23/05/2023
+Finnair,TLV,MEX,5h 35m ,1 stop ,559 NIS ,23/05/2023
+LOT,TLV,MEX,5h 20m ,1 stop ,728 NIS ,23/05/2023
+KLM,TLV,MEX,6h 05m ,1 stop ,841 NIS ,23/05/2023
+Brussels Airlines,TLV,MEX,16h 45m ,1 stop ,580 NIS ,23/05/2023
+Qatar Airways,TLV,MEX,14h 15m ,1 stop ,"5,828 NIS ",23/05/2023

@@ -1,0 +1,554 @@
+Airline,Source,Destination,Duration,Total stops,Price,Date
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",02/03/2023
+Turkish Airlines,TLV,BKK,13h 00m ,1 stop ,"1,551 NIS ",02/03/2023
+Etihad Airways,TLV,BKK,10h 30m ,1 stop ,"1,832 NIS ",02/03/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,920 NIS ",02/03/2023
+Emirates,TLV,BKK,11h 40m ,1 stop ,"2,028 NIS ",02/03/2023
+Lufthansa,TLV,BKK,10h 40m ,1 stop ,"3,399 NIS ",02/03/2023
+Gulf Air,TLV,BKK,11h 45m ,2 stops ,"1,697 NIS ",02/03/2023
+Emirates,TLV,BKK,24h 11m ,2 stops ,"10,406 NIS ",02/03/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,852 NIS ",12/03/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,880 NIS ,12/03/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",12/03/2023
+Turkish Airlines,TLV,BKK,9h 40m ,1 stop ,"1,448 NIS ",12/03/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,864 NIS ",12/03/2023
+Lufthansa,TLV,BKK,10h 40m ,1 stop ,"3,337 NIS ",12/03/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,852 NIS ",21/03/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",21/03/2023
+Turkish Airlines,TLV,BKK,9h 40m ,1 stop ,"1,448 NIS ",21/03/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,864 NIS ",21/03/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,337 NIS ",21/03/2023
+Emirates,TLV,BKK,24h 11m ,2 stops ,"10,406 NIS ",21/03/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,"1,007 NIS ",22/03/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,852 NIS ",22/03/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,880 NIS ,22/03/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",22/03/2023
+Turkish Airlines,TLV,BKK,10h 10m ,1 stop ,"1,448 NIS ",22/03/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,864 NIS ",22/03/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,337 NIS ",22/03/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,852 NIS ",23/03/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",23/03/2023
+Turkish Airlines,TLV,BKK,13h 00m ,1 stop ,"1,448 NIS ",23/03/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,864 NIS ",23/03/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,337 NIS ",23/03/2023
+AnadoluJet,TLV,BKK,11h 20m ,1 stop ,"3,474 NIS ",23/03/2023
+Emirates,TLV,BKK,24h 11m ,2 stops ,"10,406 NIS ",23/03/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,936 NIS ",24/03/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,880 NIS ,24/03/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",24/03/2023
+Turkish Airlines,TLV,BKK,10h 10m ,1 stop ,"1,522 NIS ",24/03/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,992 NIS ",24/03/2023
+Kuwait Airways,TLV,BKK,24h 30m ,1 stop ,"2,017 NIS ",24/03/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,337 NIS ",24/03/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,936 NIS ",25/03/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,880 NIS ,25/03/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",25/03/2023
+Turkish Airlines,TLV,BKK,10h 10m ,1 stop ,"1,522 NIS ",25/03/2023
+Etihad Airways,TLV,BKK,10h 30m ,1 stop ,"1,859 NIS ",25/03/2023
+Emirates,TLV,BKK,11h 40m ,1 stop ,"1,978 NIS ",25/03/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,992 NIS ",25/03/2023
+Gulf Air,TLV,BKK,11h 45m ,2 stops ,"1,540 NIS ",25/03/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,337 NIS ",25/03/2023
+SWISS,TLV,BKK,13h 30m ,2 stops ,"14,728 NIS ",25/03/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,852 NIS ",26/03/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",26/03/2023
+Turkish Airlines,TLV,BKK,9h 40m ,1 stop ,"1,448 NIS ",26/03/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,859 NIS ",26/03/2023
+Lufthansa,TLV,BKK,10h 40m ,1 stop ,"3,327 NIS ",26/03/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,852 NIS ",27/03/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,877 NIS ,27/03/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",27/03/2023
+Turkish Airlines,TLV,BKK,9h 40m ,1 stop ,"1,448 NIS ",27/03/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,859 NIS ",27/03/2023
+Lufthansa,TLV,BKK,10h 40m ,1 stop ,"3,327 NIS ",27/03/2023
+SWISS,TLV,BKK,14h 00m ,2 stops ,"3,557 NIS ",27/03/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,852 NIS ",28/03/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",28/03/2023
+Turkish Airlines,TLV,BKK,9h 40m ,1 stop ,"1,448 NIS ",28/03/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,327 NIS ",28/03/2023
+Emirates,TLV,BKK,24h 11m ,2 stops ,"10,406 NIS ",28/03/2023
+Air France,TLV,BKK,6h 55m ,nonstop ,"2,583 NIS ",01/04/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,877 NIS ,01/04/2023
+Etihad Airways,TLV,BKK,10h 30m ,1 stop ,"1,832 NIS ",01/04/2023
+Turkish Airlines,TLV,BKK,10h 10m ,1 stop ,"7,128 NIS ",01/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,838 NIS ",02/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",02/04/2023
+Turkish Airlines,TLV,BKK,13h 00m ,1 stop ,"1,448 NIS ",02/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,859 NIS ",02/04/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,327 NIS ",02/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,936 NIS ",04/04/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,877 NIS ,04/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",04/04/2023
+Turkish Airlines,TLV,BKK,10h 10m ,1 stop ,"1,522 NIS ",04/04/2023
+Emirates,TLV,BKK,11h 40m ,1 stop ,"1,973 NIS ",04/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,987 NIS ",04/04/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,327 NIS ",04/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,849 NIS ",05/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",05/04/2023
+Turkish Airlines,TLV,BKK,9h 40m ,1 stop ,"1,445 NIS ",05/04/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,"1,472 NIS ",05/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,856 NIS ",05/04/2023
+Lufthansa,TLV,BKK,10h 40m ,1 stop ,"3,321 NIS ",05/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"2,946 NIS ",06/04/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,"1,041 NIS ",06/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",06/04/2023
+Turkish Airlines,TLV,BKK,9h 40m ,1 stop ,"1,445 NIS ",06/04/2023
+Lufthansa,TLV,BKK,10h 40m ,1 stop ,"3,323 NIS ",06/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"2,375 NIS ",07/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",07/04/2023
+Turkish Airlines,TLV,BKK,9h 40m ,1 stop ,"1,445 NIS ",07/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,856 NIS ",07/04/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,323 NIS ",07/04/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,"1,007 NIS ",08/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,838 NIS ",08/04/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,858 NIS ,08/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",08/04/2023
+Turkish Airlines,TLV,BKK,10h 10m ,1 stop ,"1,445 NIS ",08/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,856 NIS ",08/04/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,323 NIS ",08/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"2,341 NIS ",09/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",09/04/2023
+Turkish Airlines,TLV,BKK,13h 00m ,1 stop ,"1,551 NIS ",09/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,920 NIS ",09/04/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,399 NIS ",09/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"2,280 NIS ",10/04/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,858 NIS ,10/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",10/04/2023
+Turkish Airlines,TLV,BKK,10h 10m ,1 stop ,"1,519 NIS ",10/04/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,320 NIS ",10/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"2,280 NIS ",11/04/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,858 NIS ,11/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",11/04/2023
+Etihad Airways,TLV,BKK,10h 30m ,1 stop ,"1,855 NIS ",11/04/2023
+Emirates,TLV,BKK,11h 40m ,1 stop ,"1,969 NIS ",11/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,984 NIS ",11/04/2023
+Gulf Air,TLV,BKK,11h 45m ,2 stops ,"1,537 NIS ",11/04/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,320 NIS ",11/04/2023
+SWISS,TLV,BKK,13h 30m ,2 stops ,"3,593 NIS ",11/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"2,209 NIS ",12/04/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,858 NIS ,12/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",12/04/2023
+Turkish Airlines,TLV,BKK,9h 40m ,1 stop ,"1,445 NIS ",12/04/2023
+Lufthansa,TLV,BKK,10h 40m ,1 stop ,"3,320 NIS ",12/04/2023
+SAUDIA,TLV,BKK,5h 55m ,nonstop ,"2,209 NIS ",13/04/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,859 NIS ,13/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",13/04/2023
+Turkish Airlines,TLV,BKK,8h 40m ,1 stop ,"1,445 NIS ",13/04/2023
+Etihad Airways,TLV,BKK,10h 30m ,1 stop ,"1,744 NIS ",13/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,856 NIS ",13/04/2023
+Emirates,TLV,BKK,11h 40m ,1 stop ,"2,175 NIS ",13/04/2023
+Gulf Air,TLV,BKK,11h 45m ,2 stops ,"1,538 NIS ",13/04/2023
+Lufthansa,TLV,BKK,10h 40m ,1 stop ,"3,321 NIS ",13/04/2023
+SWISS,TLV,BKK,13h 30m ,2 stops ,"3,593 NIS ",13/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"2,209 NIS ",14/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",14/04/2023
+Turkish Airlines,TLV,BKK,9h 40m ,1 stop ,"1,445 NIS ",14/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,856 NIS ",14/04/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,321 NIS ",14/04/2023
+Emirates,TLV,BKK,24h 11m ,2 stops ,"12,056 NIS ",14/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"2,209 NIS ",15/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",15/04/2023
+Turkish Airlines,TLV,BKK,10h 10m ,1 stop ,"1,445 NIS ",15/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,856 NIS ",15/04/2023
+Emirates,TLV,BKK,11h 40m ,1 stop ,"1,969 NIS ",15/04/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,321 NIS ",15/04/2023
+SWISS,TLV,BKK,13h 30m ,2 stops ,"5,274 NIS ",15/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"2,209 NIS ",16/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",16/04/2023
+Turkish Airlines,TLV,BKK,13h 00m ,1 stop ,"1,445 NIS ",16/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,856 NIS ",16/04/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,321 NIS ",16/04/2023
+AnadoluJet,TLV,BKK,11h 20m ,1 stop ,"3,468 NIS ",16/04/2023
+Emirates,TLV,BKK,24h 11m ,2 stops ,"12,056 NIS ",16/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"2,281 NIS ",17/04/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,860 NIS ,17/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",17/04/2023
+Turkish Airlines,TLV,BKK,10h 10m ,1 stop ,"1,512 NIS ",17/04/2023
+Emirates,TLV,BKK,11h 40m ,1 stop ,"1,970 NIS ",17/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,986 NIS ",17/04/2023
+Kuwait Airways,TLV,BKK,24h 30m ,1 stop ,"2,012 NIS ",17/04/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,317 NIS ",17/04/2023
+SWISS,TLV,BKK,13h 30m ,2 stops ,"8,155 NIS ",17/04/2023
+Air France,TLV,BKK,6h 55m ,nonstop ,"2,583 NIS ",18/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,420 NIS ",18/04/2023
+Turkish Airlines,TLV,BKK,10h 10m ,1 stop ,"1,626 NIS ",18/04/2023
+Etihad Airways,TLV,BKK,10h 30m ,1 stop ,"1,944 NIS ",18/04/2023
+Emirates,TLV,BKK,11h 40m ,1 stop ,"2,028 NIS ",18/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"2,050 NIS ",18/04/2023
+Emirates,TLV,BKK,12h 50m ,1 stop ,"2,028 NIS ",18/04/2023
+KLM,TLV,BKK,12h 25m ,2 stops ,"1,518 NIS ",18/04/2023
+Gulf Air,TLV,BKK,11h 45m ,2 stops ,"1,697 NIS ",18/04/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,399 NIS ",18/04/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,"1,011 NIS ",18/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,851 NIS ",19/04/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,860 NIS ,19/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,420 NIS ",19/04/2023
+Turkish Airlines,TLV,BKK,9h 40m ,1 stop ,"1,438 NIS ",19/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,857 NIS ",19/04/2023
+Lufthansa,TLV,BKK,10h 40m ,1 stop ,"3,317 NIS ",19/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,963 NIS ",20/04/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,"1,011 NIS ",20/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",20/04/2023
+Turkish Airlines,TLV,BKK,9h 40m ,1 stop ,"1,551 NIS ",20/04/2023
+Etihad Airways,TLV,BKK,10h 30m ,1 stop ,"1,832 NIS ",20/04/2023
+Emirates,TLV,BKK,11h 40m ,1 stop ,"2,028 NIS ",20/04/2023
+Gulf Air,TLV,BKK,11h 45m ,2 stops ,"1,693 NIS ",20/04/2023
+Lufthansa,TLV,BKK,10h 40m ,1 stop ,"3,399 NIS ",20/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",21/04/2023
+Turkish Airlines,TLV,BKK,9h 40m ,1 stop ,"1,551 NIS ",21/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,920 NIS ",21/04/2023
+Emirates,TLV,BKK,11h 40m ,1 stop ,"2,028 NIS ",21/04/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,399 NIS ",21/04/2023
+Etihad Airways,TLV,BKK,10h 30m ,1 stop ,"7,474 NIS ",21/04/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,"1,011 NIS ",21/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,963 NIS ",22/04/2023
+Egypt Air,TLV,BKK,10h 45m ,1 stop ,"1,011 NIS ",22/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",22/04/2023
+Turkish Airlines,TLV,BKK,10h 10m ,1 stop ,"1,551 NIS ",22/04/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,399 NIS ",22/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,963 NIS ",23/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",23/04/2023
+Turkish Airlines,TLV,BKK,13h 00m ,1 stop ,"1,551 NIS ",23/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,920 NIS ",23/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"2,045 NIS ",24/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",24/04/2023
+Turkish Airlines,TLV,BKK,10h 10m ,1 stop ,"1,626 NIS ",24/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"2,050 NIS ",24/04/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,399 NIS ",24/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"2,045 NIS ",25/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",25/04/2023
+Turkish Airlines,TLV,BKK,10h 10m ,1 stop ,"1,626 NIS ",25/04/2023
+Etihad Airways,TLV,BKK,10h 30m ,1 stop ,"1,944 NIS ",25/04/2023
+Emirates,TLV,BKK,11h 40m ,1 stop ,"2,028 NIS ",25/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"2,050 NIS ",25/04/2023
+Gulf Air,TLV,BKK,11h 45m ,2 stops ,"1,693 NIS ",25/04/2023
+Lufthansa,TLV,BKK,9h 45m ,1 stop ,"3,399 NIS ",25/04/2023
+SAUDIA,TLV,BKK,6h 55m ,nonstop ,"1,963 NIS ",26/04/2023
+British Airways,TLV,BKK,10h 30m ,1 stop ,"1,072 NIS ",26/04/2023
+Turkish Airlines,TLV,BKK,9h 40m ,1 stop ,"1,551 NIS ",26/04/2023
+Qatar Airways,TLV,BKK,10h 55m ,1 stop ,"1,920 NIS ",26/04/2023
+Lufthansa,TLV,BKK,10h 40m ,1 stop ,"3,399 NIS ",26/04/2023
+British Airways,TLV,BKK,9h 35m ,1 stop ,"1,072 NIS ",27/04/2023
+Turkish Airlines,TLV,BKK,10h 10m ,1 stop ,"1,551 NIS ",27/04/2023
+Gulf Air,TLV,BKK,9h 10m ,1 stop ,"1,603 NIS ",27/04/2023
+Etihad Airways,TLV,BKK,9h 55m ,1 stop ,"1,832 NIS ",27/04/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,920 NIS ",27/04/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",27/04/2023
+Pegasus Airlines,TLV,BKK,9h 05m ,1 stop ,"2,478 NIS ",27/04/2023
+Oman Air,TLV,BKK,23h 10m ,1 stop ,"1,627 NIS ",27/04/2023
+Lufthansa,TLV,BKK,8h 55m ,1 stop ,"3,399 NIS ",27/04/2023
+KLM,TLV,BKK,12h 05m ,2 stops ,"1,518 NIS ",27/04/2023
+Air France,TLV,BKK,12h 25m ,2 stops ,"1,896 NIS ",27/04/2023
+SWISS,TLV,BKK,13h 00m ,2 stops ,"3,669 NIS ",27/04/2023
+Egypt Air,TLV,BKK,9h 40m ,1 stop ,"1,009 NIS ",27/04/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,963 NIS ",28/04/2023
+Aegean Airlines,TLV,BKK,9h 05m ,1 stop ,694 NIS ,28/04/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",28/04/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",28/04/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",28/04/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,920 NIS ",28/04/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",28/04/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",28/04/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",28/04/2023
+Etihad Airways,TLV,BKK,9h 55m ,1 stop ,"7,474 NIS ",28/04/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,852 NIS ",29/04/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",29/04/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,387 NIS ",29/04/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,443 NIS ",29/04/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,861 NIS ",29/04/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,324 NIS ",29/04/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,852 NIS ",30/04/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",30/04/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,387 NIS ",30/04/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,443 NIS ",30/04/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,861 NIS ",30/04/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,324 NIS ",30/04/2023
+"Egypt Air, Lufthansa",TLV,BKK,10h 45m ,2 stops ,"5,197 NIS ",30/04/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"2,045 NIS ",31/04/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",31/04/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",31/04/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,626 NIS ",31/04/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",31/04/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"2,050 NIS ",31/04/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",31/04/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",31/04/2023
+"Egypt Air, Lufthansa",TLV,BKK,10h 45m ,2 stops ,"7,094 NIS ",31/04/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"2,045 NIS ",01/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",01/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",01/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,626 NIS ",01/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"1,738 NIS ",01/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",01/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",01/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",01/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,963 NIS ",02/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",02/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",02/05/2023
+Gulf Air,TLV,BKK,9h 10m ,1 stop ,"1,603 NIS ",02/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"1,738 NIS ",02/05/2023
+Etihad Airways,TLV,BKK,9h 55m ,1 stop ,"1,820 NIS ",02/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,920 NIS ",02/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",02/05/2023
+KLM,TLV,BKK,12h 05m ,2 stops ,"1,518 NIS ",02/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",02/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",02/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,963 NIS ",03/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",03/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",03/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,648 NIS ",03/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"1,738 NIS ",03/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",03/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",03/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,853 NIS ",04/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",04/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,387 NIS ",04/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,443 NIS ",04/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"1,582 NIS ",04/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,861 NIS ",04/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"1,971 NIS ",04/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,327 NIS ",04/05/2023
+"Egypt Air, Lufthansa",TLV,BKK,10h 45m ,2 stops ,"5,197 NIS ",04/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,853 NIS ",05/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",05/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,387 NIS ",05/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,444 NIS ",05/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"1,582 NIS ",05/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,328 NIS ",05/05/2023
+"Egypt Air, Lufthansa",TLV,BKK,10h 45m ,2 stops ,"5,197 NIS ",05/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",06/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",06/05/2023
+Gulf Air,TLV,BKK,9h 10m ,1 stop ,"1,603 NIS ",06/05/2023
+Etihad Airways,TLV,BKK,9h 55m ,1 stop ,"1,820 NIS ",06/05/2023
+Oman Air,TLV,BKK,16h 00m ,1 stop ,"1,627 NIS ",06/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,920 NIS ",06/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",06/05/2023
+Pegasus Airlines,TLV,BKK,9h 05m ,1 stop ,"2,478 NIS ",06/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",06/05/2023
+KLM,TLV,BKK,12h 05m ,2 stops ,"1,518 NIS ",06/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",06/05/2023
+"Egypt Air, Lufthansa",TLV,BKK,10h 45m ,2 stops ,"7,094 NIS ",06/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"2,045 NIS ",07/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",07/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",07/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,626 NIS ",07/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"2,053 NIS ",07/05/2023
+Air France,TLV,BKK,12h 05m ,2 stops ,"2,424 NIS ",07/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",07/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",07/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"2,045 NIS ",08/05/2023
+Aegean Airlines,TLV,BKK,9h 05m ,1 stop ,928 NIS ,08/05/2023
+Egypt Air,TLV,BKK,9h 40m ,1 stop ,"1,009 NIS ",08/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",08/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",08/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,626 NIS ",08/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"1,738 NIS ",08/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",08/05/2023
+Kuwait Airways,TLV,BKK,19h 05m ,1 stop ,"2,087 NIS ",08/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",08/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",08/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,963 NIS ",09/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",09/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",09/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"1,738 NIS ",09/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",09/05/2023
+Air France,TLV,BKK,12h 05m ,2 stops ,"1,896 NIS ",09/05/2023
+Kuwait Airways,TLV,BKK,19h 05m ,1 stop ,"2,087 NIS ",09/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",09/05/2023
+Egypt Air,TLV,BKK,9h 40m ,1 stop ,"1,009 NIS ",09/05/2023
+Egypt Air,TLV,BKK,9h 40m ,1 stop ,861 NIS ,10/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",11/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",11/05/2023
+Gulf Air,TLV,BKK,9h 10m ,1 stop ,"1,603 NIS ",11/05/2023
+Etihad Airways,TLV,BKK,9h 55m ,1 stop ,"1,820 NIS ",11/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",11/05/2023
+Oman Air,TLV,BKK,16h 00m ,1 stop ,"1,627 NIS ",11/05/2023
+Pegasus Airlines,TLV,BKK,9h 05m ,1 stop ,"2,478 NIS ",11/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",11/05/2023
+KLM,TLV,BKK,12h 05m ,2 stops ,"1,518 NIS ",11/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",11/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",12/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",12/05/2023
+Gulf Air,TLV,BKK,9h 10m ,1 stop ,"1,603 NIS ",12/05/2023
+Etihad Airways,TLV,BKK,9h 55m ,1 stop ,"1,820 NIS ",12/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,920 NIS ",12/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",12/05/2023
+Oman Air,TLV,BKK,16h 00m ,1 stop ,"1,627 NIS ",12/05/2023
+Pegasus Airlines,TLV,BKK,9h 05m ,1 stop ,"2,478 NIS ",12/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",12/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,963 NIS ",13/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",13/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",13/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",13/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,920 NIS ",13/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"2,053 NIS ",13/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",13/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",13/05/2023
+"Egypt Air, Lufthansa",TLV,BKK,10h 45m ,2 stops ,"7,094 NIS ",13/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"2,045 NIS ",14/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",14/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",14/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,626 NIS ",14/05/2023
+Etihad Airways,TLV,BKK,9h 55m ,1 stop ,"1,877 NIS ",14/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"2,053 NIS ",14/05/2023
+Oman Air,TLV,BKK,16h 00m ,1 stop ,"1,824 NIS ",14/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",14/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"2,050 NIS ",14/05/2023
+Pegasus Airlines,TLV,BKK,9h 05m ,1 stop ,"2,199 NIS ",14/05/2023
+Air France,TLV,BKK,12h 05m ,2 stops ,"2,424 NIS ",14/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",14/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"2,045 NIS ",15/05/2023
+Egypt Air,TLV,BKK,9h 40m ,1 stop ,"1,009 NIS ",15/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",15/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",15/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,626 NIS ",15/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"1,738 NIS ",15/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",15/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",15/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,963 NIS ",16/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",16/05/2023
+Egypt Air,TLV,BKK,9h 40m ,1 stop ,"1,009 NIS ",16/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",16/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"1,738 NIS ",16/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,920 NIS ",16/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",16/05/2023
+Kuwait Airways,TLV,BKK,19h 05m ,1 stop ,"2,087 NIS ",16/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",16/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",16/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,963 NIS ",17/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",17/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",17/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,660 NIS ",17/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"1,738 NIS ",17/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,920 NIS ",17/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",17/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",17/05/2023
+Aegean Airlines,TLV,BKK,9h 05m ,1 stop ,928 NIS ,18/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",18/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",18/05/2023
+Gulf Air,TLV,BKK,9h 10m ,1 stop ,"1,603 NIS ",18/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,920 NIS ",18/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",18/05/2023
+Oman Air,TLV,BKK,16h 00m ,1 stop ,"1,627 NIS ",18/05/2023
+Pegasus Airlines,TLV,BKK,9h 05m ,1 stop ,"2,478 NIS ",18/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",18/05/2023
+KLM,TLV,BKK,12h 05m ,2 stops ,"1,518 NIS ",18/05/2023
+Air France,TLV,BKK,12h 05m ,2 stops ,"1,896 NIS ",18/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",18/05/2023
+Etihad Airways,TLV,BKK,9h 55m ,1 stop ,"9,268 NIS ",18/05/2023
+"Egypt Air, Lufthansa",TLV,BKK,10h 45m ,2 stops ,"7,094 NIS ",18/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,963 NIS ",19/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",19/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",19/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",19/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"1,738 NIS ",19/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,920 NIS ",19/05/2023
+Oman Air,TLV,BKK,16h 00m ,1 stop ,"2,083 NIS ",19/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",19/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",19/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,963 NIS ",20/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",20/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",20/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",20/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,920 NIS ",20/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"2,053 NIS ",20/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",20/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",20/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",20/05/2023
+"Egypt Air, Lufthansa",TLV,BKK,10h 45m ,2 stops ,"7,094 NIS ",20/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"2,045 NIS ",21/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",21/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",21/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,626 NIS ",21/05/2023
+Etihad Airways,TLV,BKK,9h 55m ,1 stop ,"1,877 NIS ",21/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",21/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"2,053 NIS ",21/05/2023
+Pegasus Airlines,TLV,BKK,9h 05m ,1 stop ,"2,199 NIS ",21/05/2023
+Oman Air,TLV,BKK,23h 10m ,1 stop ,"1,627 NIS ",21/05/2023
+Kuwait Airways,TLV,BKK,19h 05m ,1 stop ,"2,087 NIS ",21/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",21/05/2023
+KLM,TLV,BKK,12h 05m ,2 stops ,"2,005 NIS ",21/05/2023
+Air France,TLV,BKK,12h 05m ,2 stops ,"2,424 NIS ",21/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",21/05/2023
+"Egypt Air, Lufthansa",TLV,BKK,10h 45m ,2 stops ,"7,094 NIS ",21/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"2,045 NIS ",22/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",22/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",22/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,626 NIS ",22/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"1,738 NIS ",22/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",22/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"2,050 NIS ",22/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",22/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",22/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,963 NIS ",23/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",23/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",23/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"1,738 NIS ",23/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,920 NIS ",23/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",23/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",23/05/2023
+KLM,TLV,BKK,12h 05m ,2 stops ,"1,745 NIS ",23/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",23/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,838 NIS ",24/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,072 NIS ",24/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",24/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"1,659 NIS ",24/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,866 NIS ",24/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,868 NIS ",24/05/2023
+Kuwait Airways,TLV,BKK,19h 05m ,1 stop ,"2,063 NIS ",24/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",24/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,963 NIS ",25/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",25/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",25/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,590 NIS ",25/05/2023
+"SAUDIA, Transavia France",TLV,BKK,8h 05m ,1 stop ,"1,693 NIS ",25/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"1,738 NIS ",25/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,920 NIS ",25/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",25/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,963 NIS ",26/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",26/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",26/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,590 NIS ",26/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"1,738 NIS ",26/05/2023
+Oman Air,TLV,BKK,16h 00m ,1 stop ,"2,083 NIS ",26/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",26/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",26/05/2023
+"Egypt Air, Lufthansa",TLV,BKK,10h 45m ,2 stops ,"7,094 NIS ",26/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"1,963 NIS ",27/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",27/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,551 NIS ",27/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,590 NIS ",27/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"1,920 NIS ",27/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"2,053 NIS ",27/05/2023
+KLM,TLV,BKK,12h 05m ,2 stops ,"2,005 NIS ",27/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",27/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",27/05/2023
+Emirates,TLV,BKK,23h 26m ,2 stops ,"12,056 NIS ",27/05/2023
+"Egypt Air, Lufthansa",TLV,BKK,10h 45m ,2 stops ,"7,094 NIS ",27/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"2,420 NIS ",28/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",28/05/2023
+Gulf Air,TLV,BKK,9h 10m ,1 stop ,"1,603 NIS ",28/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,836 NIS ",28/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,936 NIS ",28/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",28/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"2,050 NIS ",28/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"2,053 NIS ",28/05/2023
+Air France,TLV,BKK,12h 05m ,2 stops ,"2,424 NIS ",28/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",28/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",28/05/2023
+"Egypt Air, Lufthansa",TLV,BKK,10h 45m ,2 stops ,"7,094 NIS ",28/05/2023
+SAUDIA,TLV,BKK,6h 15m ,nonstop ,"2,420 NIS ",29/05/2023
+Aegean Airlines,TLV,BKK,9h 05m ,1 stop ,928 NIS ,29/05/2023
+Egypt Air,TLV,BKK,9h 40m ,1 stop ,"1,009 NIS ",29/05/2023
+Pegasus Airlines,TLV,BKK,9h 05m ,1 stop ,"1,053 NIS ",29/05/2023
+Royal Jordanian,TLV,BKK,8h 25m ,1 stop ,"1,465 NIS ",29/05/2023
+Turkish Airlines,TLV,BKK,9h 20m ,1 stop ,"1,626 NIS ",29/05/2023
+British Airways,TLV,BKK,10h 00m ,1 stop ,"1,936 NIS ",29/05/2023
+Emirates,TLV,BKK,10h 35m ,1 stop ,"2,028 NIS ",29/05/2023
+Qatar Airways,TLV,BKK,9h 55m ,1 stop ,"2,050 NIS ",29/05/2023
+MEA,TLV,BKK,8h 45m ,1 stop ,"2,053 NIS ",29/05/2023
+Lufthansa,TLV,BKK,8h 50m ,1 stop ,"3,399 NIS ",29/05/2023
+SWISS,TLV,BKK,12h 55m ,2 stops ,"3,669 NIS ",29/05/2023
+Emirates,TLV,BKK,23h 26m ,2 stops ,"12,056 NIS ",29/05/2023
+Egypt Air,TLV,BKK,9h 40m ,1 stop ,986 NIS ,30/05/2023
+Pegasus Airlines,TLV,BKK,9h 05m ,1 stop ,"1,023 NIS ",30/05/2023
+Oman Air,TLV,BKK,16h 00m ,1 stop ,"2,083 NIS ",30/05/2023
