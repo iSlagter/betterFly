@@ -36,8 +36,8 @@ Random forest regression model is applied to forecast the flight prices based on
 - Price (Target)
 
 #### Correlation of features:
+![map data](/assets/map.png?raw=true "mapheat")
 
-![image](https://user-images.githubusercontent.com/68873733/137396490-c72e4f89-441e-430a-b4a9-831081ff6375.png)
 
 #### Experimenting with different models:
 ![image](https://user-images.githubusercontent.com/68873733/137396989-02b3f69b-d336-4600-b436-420e68069fb6.png)
@@ -52,8 +52,7 @@ Random forest regression model is applied to forecast the flight prices based on
 #### Therefore, the final model is able to predict flight ticket prices within around  ≈ $61.87.
 
 #### The final model can be found [here](https://github.com/iSlagter/betterFly/tree/main/model).
-
-![image](https://user-images.githubusercontent.com/68873733/137399435-4e2da145-512b-4df6-80e3-809e603b1727.png)
+![image](/assets/result.png?raw=true "result")
 
 
 ## Author <a name="authors"/>
